@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="renderer" content="webkit">
+    <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+
+    <!-- 网站描述+基础SEO优化 -->
+    <meta name="description" content="对酒当歌分享 - 一个资源分享的文档网站，有游戏、电影、电视剧、动漫等等">
+    <meta name="keywords" content="一个非常专业的纯资源分享文档，无套路、海量资源免费分享">
+    <meta name="author" content="对酒当歌分享">
+    <title>对酒当歌分享</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+
+    <!-- 主题样式---->
+    <link rel="stylesheet" href="assets/css/theme-simple.css">
+    <!-- 封面样式 ---->
+    <link rel="stylesheet" href="assets/css/docsify-vite-coverpage.css">
+
+    <!-- Algolia验证 -->
+    <meta name="algolia-site-verification" content="709B5D5776F5B91C" />
+
+    <!-- DNS预连接优化 -->
+    <link rel="preconnect" href="https://cdn.bootcdn.net">
+    <link rel="preconnect" href="https://cdn.jsdelivr.net">
+
+    <!-- 自定义主题样式 -->
+    <style>
+        .floating-cat {
+            position: fixed;
+            top: 220PX;
+            right: calc(50% - 560px);
+            /* 动态计算右侧位置 */
+            width: 200px;
+            height: auto;
+            z-index: 1000;
+
+            -webkit-filter: drop-shadow(0px 5px 15px rgba(0, 0, 0, 0.6));
+            filter: drop-shadow(0px 5px 15px rgba(0, 0, 0, 0.6));
+
+            transform: translatey(0px);
+            animation: float 6s ease-in-out infinite;
+        }
+
+        @keyframes float {
+            0% {
+                -webkit-filter: drop-shadow(0px 5px 5px rgba(0, 0, 0, 0.8));
+                filter: drop-shadow(0px 5px 5px rgba(0, 0, 0, 0.6));
+                transform: translatey(0px);
+            }
+
+            50% {
+                box-shadow: drop-shadow(0px 25px 10px rgba(0, 0, 0, 0.4));
+                filter: drop-shadow(0px 25px 10px rgba(0, 0, 0, 0.2));
+                transform: translatey(-20px);
+            }
+
+            100% {
+                box-shadow: drop-shadow(0px 5px 5px rgba(0, 0, 0, 0.8));
+                filter: drop-shadow(0px 5px 5px rgba(0, 0, 0, 0.6));
+                transform: translatey(0px);
+            }
+        }
+
+        /* 在手机屏幕上调整字体大小 */
+        @media screen and (max-width: 768px) {
+            h1 {
+                font-size: 18px !important;
+            }
+
+            h2 {
+                font-size: 16px !important;
+            }
+
+            h3 {
+                font-size: 16px !important;
+            }
+
+            h4 {
+                font-size: 12px !important;
+            }
+
+            p {
+                font-size: 12px !important;
+            }
+
+            #main {
+                margin-top: 23px;
+                padding: 2.0rem;
+            }
+
+            .floating-cat {
+                display: none !important;
+            }
+        }
+
+        /* 加载动画 */
+        @keyframes dot-animation {
+            0% {
+                opacity: 0;
+            }
+
+            25% {
+                opacity: 1;
+            }
+
+            50% {
+                opacity: 0;
+            }
+
+            100% {
+                opacity: 1;
+            }
+        }
+
+        /*正在加载中..>*/
+        #app {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 50vw;
+            font-size: 38px !important;
+        }
+
+        .loading-text span {
+            animation: dot-animation 1s infinite;
+            animation-delay: 0.25s;
+            /* 每个点延迟0.25秒开始动画 */
+        }
+
+        .loading-text span:nth-child(2) {
+            animation-delay: 0.5s;
+            /* 第二个点延迟0.5秒开始动画 */
+        }
+
+        .loading-text span:nth-child(3) {
+            animation-delay: 0.75s;
+            /* 第三个点延迟0.75秒开始动画 */
+        }
+
+        .loading-text span:nth-child(4) {
+            animation-delay: 1s;
+            /* 第四个点延迟1秒开始动画 */
+        }
+
+        :root {
+            /*全局字体大小*/
+            --base-font-size: 15px;
+
+            /*内容栏边框宽度*/
+            --content-max-width: 56em;
+
+            /*侧边栏边框高度*/
+            --sidebar-width: 16rem;
+
+            /*侧边栏内容高度*/
+            --sidebar-nav-margin: 1rem 0.1rem 0.1rem;
+
+            /*设置tabs全局样式*/
+            --docsifytabs-border-color: #ededed;
+            --docsifytabs-tab-highlight-color: purple;
+
+            /*设置标题的颜色*/
+            --heading-color: #4155c4;
+
+            .sidebar-nav>ul>li>ul>li>ul>li>a:before {
+                content: ""
+            }
+
+            .sidebar-nav>ul>li>ul>li>ul>li.active>a:before {
+                content: ""
+            }
+
+            em.search-keyword {
+                background: #f7e3a7;
+                font-style: normal;
+                padding: 2px;
+                border-radius: 2px;
+            }
+
+            /*侧边栏自定义>*/
+            /*侧边栏边框效果*/
+            aside.sidebar {
+                box-shadow: 0 15px 35px rgb(50 50 93 / 10%), 0 5px 15px rgb(0 0 0 / 7%);
+                border: none;
+            }
+
+            /*侧边栏菜单按钮的效果和颜色*/
+            .sidebar-toggle .sidebar-toggle-button {
+                transition: all .10s ease;
+                border-radius: 0 8px 8px 0;
+                background: #6940db46;
+                color: #02027e;
+                box-shadow: 0 .155rem .25rem rgba(12, 14, 4, 0.075) !important;
+                width: 4.1rem;
+            }
+
+            /*标题目录栏*/
+            article>ul {
+                box-shadow: 0 20px 55px rgb(50 50 93 / 10%), 0px 0px 1px rgb(0 0 0 / 7%);
+                padding: 10px;
+                border: none;
+            }
+
+            /*侧边栏字体大小和效果*/
+            aside.sidebar ul li {
+                margin: 0;
+                position: relative;
+                max-width: 900px;
+            }
+
+            aside.sidebar ul li ul {
+                margin: 0px 16px;
+            }
+
+            aside.sidebar ul li p {
+                padding-left: 22px;
+                font-size: 22px;
+                font-weight: normal;
+            }
+
+            aside.sidebar ul li a {
+                line-height: 33px;
+                /* 导航栏字体间距 */
+                font-size: 15px;
+                /* 导航栏字体大小 */
+                padding: 3px 0 3px 22px;
+            }
+
+            aside.sidebar ul li.active>a {
+                font-size: 18px !important;
+            }
+
+            aside.sidebar ul li.active>a:before {
+                content: '' !important;
+                position: absolute !important;
+                margin: 0 !important;
+                width: 10px !important;
+                height: 10px !important;
+                top: 15px !important;
+                left: 0px !important;
+                border-radius: 50% !important;
+                background-color: #fed24a !important;
+                box-shadow: 0 0 0 3px rgba(254, 210, 74, 0.4) !important;
+            }
+
+            #main {
+                box-shadow: 0 15px 300px 20px rgb(50 50 93 / 10%), 0 10px 15px rgb(0 0 0 / 7%);
+                padding-top: 20px;
+            }
+
+            p.tip,
+            blockquote {
+                border-radius: 10px !important;
+            }
+
+            .markdown-section p a,
+            .markdown-section ul a,
+            #edit-history a {
+                color: var(--theme-color) !important;
+                text-decoration: none !important;
+                position: relative;
+            }
+
+            .markdown-section p a:before,
+            .markdown-section ul a:before,
+            #edit-history a:before {
+                content: " ";
+                position: absolute;
+                top: auto;
+                bottom: 0px;
+                left: 0;
+                width: 100%;
+                height: 1px;
+                background-color: #5e72e4;
+                transition: all 0.8s;
+                /* 将持续时间从 0.2 秒增加到 0.5 秒 */
+                transform: scaleX(0);
+                backface-visibility: hidden;
+            }
+
+            .markdown-section p a:hover:before,
+            .markdown-section ul a:hover:before,
+            #edit-history a:hover:before {
+                transform: scaleX(1);
+            }
+
+            .markdown-section h1,
+            .markdown-section h2,
+            .markdown-section h3 {
+                position: relative;
+                padding: 0;
+                border: none;
+                font-weight: 545;
+            }
+
+            .markdown-section h4 {
+                position: relative;
+                padding-top: 1.8rem;
+            }
+
+            .markdown-section h1 a,
+            .markdown-section h2 a,
+            .markdown-section h3 a,
+            .markdown-section h4 a {
+                text-decoration: none !important;
+            }
+
+            .markdown-section h1:after,
+            .markdown-section h2:after,
+            .markdown-section h3:after,
+            .markdown-section h4:after {
+                content: "";
+                display: block;
+                position: absolute;
+                background: #5e72e4;
+                opacity: 0.25;
+                pointer-events: none;
+                border-radius: 15px;
+                left: -3px;
+                bottom: 0px;
+            }
+
+            .markdown-section h1:after {
+                width: 45px;
+                height: 13px;
+            }
+
+            .markdown-section h2:after {
+                width: 40px;
+                height: 9px;
+            }
+
+            .markdown-section h3:after {
+                width: 30px;
+                height: 7px;
+            }
+
+            .markdown-section h4:after {
+                width: 70px;
+                height: 2px;
+                background: #fc0101;
+            }
+        }
+    </style>
+
+</head>
+
+<body>
+    <div class="docsify-example-panels">
+        <div class="docsify-example-panels floating-cat">
+            <img src="assets\img\floating-cat.png">
+        </div>
+    </div>
+    <div id="app">
+        <span class="loading-text">正在加载中<span>.</span><span>.</span><span>.</span><span>.</span>(按F5刷新)</span>
+    </div>
+    <script>
+        window.$docsify = {
+            //通用设置
+            // -----------------------------------------------------
+            // 加载自定义导航栏,需要目录下有_navbar.md文件
+            loadNavbar: true,
+            // 加载动画
+            repo: '',
+            el: '#app',
+            // 开启侧边栏，需要目录下有_sidebar.md文件
+            loadSidebar: true,
+            //自动为每个页面增加标题。
+            autoHeader: false,
+            alias: {
+                "/.*/_sidebar.md": "/_sidebar.md",
+            },
+            // 标题H1一下才会被渲染
+            subMaxLevel: 1,
+            // 最大支持渲染的标题层级
+            maxLevel: 3,
+            // 切换页面后自动到顶部
+            auto2top: true,
+            // 启用封面页 默认值: false 开启后是加载 _coverpage.md 文件
+            coverpage: true,
+            // 侧边栏左侧的logo
+            logo: '',
+            // 侧边栏顶部的标题
+            name: '对酒当歌分享',
+            // 点击标题后的跳转地址
+            nameLink: '/',
+            // 禁用emoji
+            noEmoji: true,
+            // 移动设备合并导航栏到侧边栏
+            mergeNavbar: true,
+            // 让你的内容页在滚动到指定的锚点时，距离页面顶部有一定空间。当你使用 固定页头 布局时这个选项很有用，可以让你的锚点对齐标题栏。
+            topMargin: 30,
+            // 只在访问主页时加载封面。
+            onlyCover: true,
+            // 外部链接的打开方式。默认为 _blank 和 _self（在新窗口或者标签页中打开）
+            externalLinkTarget: '_blank',
+            // 替换主题色。利用 CSS3 支持变量的特性，对于老的浏览器有 polyfill 处理。
+            themeColor: '#18256d',
+            //设置主页
+            homepage: 'home.md',
+            // 在找不到指定页面时加载_404.md:
+            notFoundPage: true,
+            // 谷歌分析 SEO
+            ga: 'G-291R66VCRB',
+            baseUrl: '/',
+
+            //插件设置
+            // docsify-valine留言板 (defaults)
+            Valine: {
+                el: '#vcomment',
+                appId: 'c07LQPl4kvoHe374MmKvqP9C-gzGzoHsz',
+                appKey: 'tNZelts8Qg0wzGjBBlUFHX7y',
+                placeholder: "🐇资源链接失效、想要新资源，留言吧！游戏安装问题可进群@群主为你解答...",
+                avatar: 'wavatar',//(''/mp/identicon/monsterid/wavatar/robohash/retro/hide)头像设置https://valine.js.org/avatar.html,
+                avatar_cdn: 'https://cravatar.cn/avatar/',// 自定义avatar cdn
+                pageSize: 7,
+                meta: ['nick', 'mail', 'link'],
+                visitor: true, // 阅读量统,
+                requiredFields: ['nick'],//必须填写昵称才能评论
+                docPath: 'hash', //default to `hash` ,or you can choose `full`
+            },
+
+            // 页面右侧toc插件设置
+            toc: {
+                tocMaxLevel: 2,
+                target: 'h2',
+                ignoreHeaders: ['<!-- {docsify-ignore} -->', '<!-- {docsify-ignore-all} -->']
+            },
+
+            // 搜索配置
+            search: {
+                paths: '/zh-cn',                                    // 指定搜索路径   默认值'auto',全文搜索
+                maxAge: 86400000,                                   // 过期时间86400000，单位毫秒，默认一天
+                placeholder: '🐻  搜 索  🐻',
+                noData: '没有搜到，换个搜索词试试？或联系站长上资源',
+                depth: 4,                                           // 搜索标题的最大层级, 1 - 6
+                hideOtherSidebarContent: false,                     // 是否隐藏其他侧边栏内容.，false，true
+                namespace: 'web',
+                pathNamespaces: ['/zh-cn', '/ru-ru', '/ru-ru/v1'],
+            },
+            // 页脚信息插件
+            loadFooter: true,
+            loadFooter: '_footer.html',
+
+            //选项卡插件设置
+            tabs: {
+                persist: true, // default
+                sync: true, // default
+                theme: 'classic', // default
+                tabComments: true, // default
+                tabHeadings: true,// default
+            },
+
+            // 文本高亮插件
+            'flexible-alerts': {
+                style: 'flat',
+                note: {
+                    label: "信息"
+                },
+                tip: {
+                    label: "提示"
+                },
+                warning: {
+                    label: "注意"
+                },
+                attention: {
+                    label: "切记"
+                }
+            },
+
+            themeable: {
+                readyTransition: true, // default 显示淡入淡出过渡
+                responsiveTables: true, // default 较小的屏幕上显示为响应式表
+            },
+        }
+    </script>
+
+    <!-- docsify的js依赖 -->
+    <script src="//cdn.bootcdn.net/ajax/libs/docsify/4.13.1/docsify.min.js"></script>
+    <!-- 全文搜索  -->
+    <script src="//cdn.bootcdn.net/ajax/libs/docsify/4.13.1/plugins/search.min.js"></script>
+    <!-- 外链脚本插件 可以在.md中引用 -->
+    <script src="//cdn.bootcdn.net/ajax/libs/docsify/4.13.1/plugins/external-script.min.js" defer></script>
+    <!-- 图片缩放 -->
+    <script src="//cdn.bootcdn.net/ajax/libs/docsify/4.13.1/plugins/zoom-image.min.js" defer></script>
+    <!-- 页脚信息 -->
+    <script src="assets/js/docsify-footer.min.js" defer></script>
+    <!-- 在点击页面的时候出现爱心 -->
+    <script src="//cdn.jsdelivr.net/npm/clickheart@latest/index.js" defer></script>
+    <!-- 选项卡插件 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-tabs@latest/dist/docsify-tabs.js"></script>
+    <!-- 侧边栏目录折叠 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse@latest/dist/docsify-sidebar-collapse.min.js"></script>
+    <!-- 页面右侧 TOC插件 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-plugin-toc@latest/dist/docsify-plugin-toc.min.js"></script>
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-plugin-toc@latest/dist/light.css">
+    <!-- 留言板功能 -->
+    <script src="//cdn.bootcdn.net/ajax/libs/valine/1.5.3/Valine.min.js" defer></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify-valine@latest/dist/docsify-valine.min.js" defer></script>
+    <!-- 谷歌分析 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js" defer></script>
+    <!-- 文本高亮 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-plugin-flexible-alerts" defer></script>
+    <!-- Docsify手风琴插件 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-accordion/src/index.js" defer></script>
+    <!-- Docsify手风琴样式 -->
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-accordion/src/style.css" defer>
+    <!--音乐插件-->
+    <link href="//cdn.bootcdn.net/ajax/libs/aplayer/1.10.1/APlayer.min.css" rel="stylesheet" defer>
+    <script src="//cdn.bootcdn.net/ajax/libs/aplayer/1.10.1/APlayer.min.js" defer></script>
+    <script src="../assets/Aplayer/Meting.min.js" th:src="@{/lib/Aplayer/Meting.min.js}" defer></script>
+    <!--音乐插件 配置-->
+    <meting-js id="8925762343" lrc-type="0" server="netease" order="random" // 播放模式，list列表播放, random随机播放 loop="none"
+        //播放循环模式，all全部循环 one单曲循环 none只播放一次 volume="0.6" //默认音量，请注意播放器会记忆用户设置，用户手动设置音量后默认音量即失效 type="playlist"
+        fixed="true" // 不开启吸底模式 list-olded="true" autoplay="false" // 是否自动播放 mutex="true" preload:"auto" // 自动预加载歌曲
+        </meting-js>
+
+        <!-- 运行时间统计 -->
+        <script type="text/javascript">
+            const siteTime = () => {
+                window.setTimeout(siteTime, 1000);
+                const second = 1000;
+                const minute = second * 60;
+                const hour = minute * 60;
+                const day = hour * 24;
+                const year = day * 365;
+                const today = new Date();
+                const todayYear = today.getFullYear();
+                const todayMonth = today.getMonth() + 1;
+                const todayDate = today.getDate();
+                const todayHour = today.getHours();
+                const todayMinute = today.getMinutes();
+                const todaySecond = today.getSeconds();
+                /* Date.UTC() -- 返回date对象距世界标准时间(UTC)1970年1月1日午夜之间的毫秒数(时间戳)
+                year - 作为date对象的年份，为4位年份值
+                month - 0-11之间的整数，做为date对象的月份
+                day - 1-31之间的整数，做为date对象的天数
+                hours - 0(午夜24点)-23之间的整数，做为date对象的小时数
+                minutes - 0-59之间的整数，做为date对象的分钟数
+                seconds - 0-59之间的整数，做为date对象的秒数
+                microseconds - 0-999之间的整数，做为date对象的毫秒数 */
+                const t1 = Date.UTC(2024, 4, 3, 21, 0, 0); // 北京时间2020-02-10 00:00:00
+                const t2 = Date.UTC(todayYear, todayMonth, todayDate, todayHour, todayMinute, todaySecond);
+                const diff = t2 - t1;
+                const diffYears = Math.floor(diff / year);
+                const diffDays = Math.floor((diff / day) - diffYears * 365);
+                const diffHours = Math.floor((diff - (diffYears * 365 + diffDays) * day) / hour);
+                const diffMinutes = Math.floor((diff - (diffYears * 365 + diffDays) * day - diffHours * hour) / minute);
+                const diffSeconds = Math.floor((diff - (diffYears * 365 + diffDays) * day - diffHours * hour - diffMinutes * minute) / second);
+                document.getElementById("sitetime").innerHTML = ` 本网站已运行 ${diffYears} 年 ${diffDays} 天 ${diffHours} 小时 ${diffMinutes} 分钟 ${diffSeconds} 秒 `;
+            };
+            siteTime();
+        </script>
+</body>
+
+</html>
