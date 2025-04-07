@@ -1,17 +1,23 @@
-image: node:16  # 使用稳定的 Node.js 16 LTS 版本
+image: node:16-alpine  # 稳定且轻量的镜像
 
 pages:
   stage: deploy
+  variables:
+    PUBLIC_DIR: "public"
   cache:
+    key: $CI_COMMIT_REF_SLUG
     paths:
-      - node_modules/  # 缓存依赖
+      - node_modules/
   before_script:
-    - npm install -g docsify-cli  # 全局安装 docsify
+    - npm install -g docsify-cli
   script:
-    - mkdir -p public
-    - cp -r docs/* public/  # 将文档复制到 GitLab Pages 的发布目录
+    - mkdir -p $PUBLIC_DIR && chmod 755 $PUBLIC_DIR
+    - cp -r docs/* $PUBLIC_DIR/
+    - [ -f docs/_coverpage.md ] && cp docs/_coverpage.md $PUBLIC_DIR/
+    - [ -f docs/_navbar.md ] && cp docs/_navbar.md $PUBLIC_DIR/
   artifacts:
     paths:
-      - public  # 指定发布目录
+      - $PUBLIC_DIR
   only:
-    - main     # 仅在 main 分支触发
+    - main
+  retry: 1  # 失败时自动重试1次
