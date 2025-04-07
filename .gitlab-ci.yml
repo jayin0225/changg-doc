@@ -1,19 +1,10 @@
-variables:
-
-stages:
-  - deploy
-
-.deploy_template: &deploy_template
-  stage: deploy
-  script:
-    - docker-compose build
-    - docker-compose up -d
-  after_script:
-    - docker images | grep none | awk '{print $3}' | xargs docker rmi -f
-  only:
-    - master
-
-docs-deploy-1:
-  <<: *deploy_template
-  tags:
-    - tag1
+# The Docker image that will be used to build your app
+image: lts
+create-pages:
+  pages:
+    # The folder that contains the files to be exposed at the Page URL
+    publish: public
+  rules:
+    # This ensures that only pushes to the default branch will trigger
+    # a pages deploy
+    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
