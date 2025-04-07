@@ -1,17 +1,11 @@
 pages:
   stage: deploy
-  image: node:latest
-  cache:
-    paths:
-      - node_modules/
-  before_script:
-    - npm install -g docsify-cli
   script:
-    - docsify serve docs
-    - mkdir -p public
-    - cp -r docs/* public/
+  - mkdir .public
+  - cp -r * .public
+  - mv .public public
   artifacts:
     paths:
-      - public
+    - public
   only:
-    - main
+  - master
