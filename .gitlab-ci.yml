@@ -1,17 +1,17 @@
+image: node:16  # 使用稳定的 Node.js 16 LTS 版本
+
 pages:
   stage: deploy
-  image: node:latest
   cache:
     paths:
-      - node_modules/
+      - node_modules/  # 缓存依赖
   before_script:
-    - npm install -g docsify-cli
+    - npm install -g docsify-cli  # 全局安装 docsify
   script:
-    - docsify serve docs
     - mkdir -p public
-    - cp -r docs/* public/
+    - cp -r docs/* public/  # 将文档复制到 GitLab Pages 的发布目录
   artifacts:
     paths:
-      - public
+      - public  # 指定发布目录
   only:
-    - main
+    - main     # 仅在 main 分支触发
