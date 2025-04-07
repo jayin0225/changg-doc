@@ -13,4 +13,4 @@
 [进  入](home)
 [留言板](zh-cn/bbs)
 [电脑游戏](zh-cn/Games/PC)
-[QQ群①](https://qm.qq.com/q/7XUsPNUXPq)
+[QQ群①](https://qm.qq.com/q/rsMnaU4DGo)

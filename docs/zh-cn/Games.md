@@ -12,8 +12,8 @@
   游戏下载好后，后缀可能是001-003或part1.rar-part5.rar这种需要全部下载，然后安装一个系统必备的解压缩软件，安装好后找到你下载的游戏压缩包，右键选中第1个，鼠标指向解压缩软件 解压→解压到当前...，在解压过程中他会把其他的分卷压缩包一起解压到一个文件夹中，这个文件夹就是游戏的整体，他是一堆文件组成的。最后打开解压获得的文件夹，找到游戏运行程序打开就能游玩了，不会的打开看文件夹中的“启动说明.txt”。（别用系统自带的压缩软件，兼容不好，解压可能会失败）  
 
   **几款解压软件，没有的下载安装**  
-  夸克：https://pan.quark.cn/s/cad094b958ef  
-  迅雷：<https://pan.xunlei.com/s/VNpUQ4hwI5ZAuglOSAaMw6n3A1?pwd=necc#>
+  夸克：https://pan.quark.cn/s/5a389b3ccd61 
+  迅雷：<https://pan.xunlei.com/s/VNvgRzBA3qQL0sLjzuITBv0-A1?pwd=7cwz#>
 
 + 2、打开游戏出现报错 +
 
@@ -21,8 +21,8 @@
   安装微软运行库即可解决,安装好后还是出现报错，使用DX修复工具（通常安装完毕都要重启电脑）。  
 
   **微软运行库+DX修复工具+.NET运行库**  
-  夸克：https://pan.quark.cn/s/05181b7ac791  
-  迅雷：<https://pan.xunlei.com/s/VNobUDzBi27vywiLpZN_NLGXA1?pwd=2skw#>
+  夸克：https://pan.quark.cn/s/ad994a3ea1b9
+  迅雷：https://pan.xunlei.com/s/VNvgX8ZQLQgFQbMicwr19qOLA1?pwd=7ngm#
 
 + 3、游戏闪退和崩溃 +
 
