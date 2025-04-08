@@ -20,7 +20,7 @@
     离线游戏表格：[点击跳转](http://jayin.ysepan.com/)
 #### **QQ群**
 
-**点击后直接添加**  
+**点击后直接添加** (https://qm.qq.com/q/rsMnaU4DGo) 
     QQ群：[70861873](https://qm.qq.com/q/rsMnaU4DGo)  
 
 <!-- tabs:end -->
