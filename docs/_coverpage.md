@@ -3,7 +3,7 @@
  ![logo](assets\img\1.gif ':size=WIDTHxHEIGHT')
 
 
-# 对酒当歌分享 <small>每日更新</small>
+# 唱歌分享 <small>每日更新</small>
 
 > **一个非常专业的纯资源分享文档**
 
