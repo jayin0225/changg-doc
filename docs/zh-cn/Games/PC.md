@@ -48,7 +48,7 @@
 #### 《壁纸引擎（Wallpaper Engine）》最新 中文版
 夸克:https://pan.quark.cn/s/11cf3d10d0ca
 
-#### 《黑神话：悟空》专题合集
+#### 《黑神话：悟空》周边合集（无游戏）
 夸克:https://pan.quark.cn/s/f17ec784d176
 
 #### 《战神5：诸神黄昏》v1.5 豪华中文版 全DLC 附单独升级补丁
