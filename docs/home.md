@@ -16,11 +16,11 @@
      [https://rux.netlify.app](https://rux.netlify.app)  
 
  **在线资源文档**（每日更新）  
-    在线游戏文档：[点击跳转](https://vika.cn/share/shrGn6qknzoDg0Tn6b0DN/dstfXWTGh0x1keKnZu/viwh4oUSGaYTW)  
+    在线游戏文档：[点击跳转](https://docs.qq.com/aio/DY2xldmd2TGNjYlZN)  
     离线游戏表格：[点击跳转](http://jayin.ysepan.com/)
 #### **QQ群**
 
-**点击后直接添加** (https://qm.qq.com/q/rsMnaU4DGo) 
+    [**点击后直接添加**] (https://qm.qq.com/q/rsMnaU4DGo) 
     QQ群：[70861873](https://qm.qq.com/q/rsMnaU4DGo)  
 
 <!-- tabs:end -->
