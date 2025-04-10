@@ -801,10 +801,10 @@
 #### 《胡闹厨房 全都好吃》
 夸克:https://pan.quark.cn/s/2dc16fcfdf22
 
-#### 《车祸模拟器BeamNG.dri》ve 》最新 中文联机版
+#### 《车祸模拟器BeamNG.drive 》最新 中文联机版
 夸克:https://pan.quark.cn/s/62a8cd75fb0c
 
-#### 《蝙蝠侠：阿卡姆骑士年度版》       简体中文+全DLC
+#### 《蝙蝠侠：阿卡姆骑士年度版》  简体中文+全DLC
 夸克:https://pan.quark.cn/s/a2b19a482215
 
 #### 《幽灵行动 荒野》
@@ -3749,7 +3749,11 @@
 #### 《乐高侏罗纪世界 LEGO.Jurassic.World》v1.0 全DLC 中文版
 夸克:https://pan.quark.cn/s/2a74fe8fb6d4
 
+#### 《最后生还者2：重制版（The Last of Us Part 2 Remastered）》v1.0.10407.714 中文版（美末2）
+夸克：https://pan.quark.cn/s/39b9feaad93b
 
+#### 《无线机兵AI LIMIT》Build 18026211 中文版
+夸克：https://pan.quark.cn/s/f12a0d4ad13a
 ----
 
 ## 打赏站长
