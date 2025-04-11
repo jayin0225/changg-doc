@@ -28,7 +28,34 @@
 > 更新的时候可能内容不会即时添加，可使用浏览器的搜索功能 **CTRL+F** 弹出搜索
 
 #### 《游戏合集 总目录》不能实现搜索，请在文档或者网站搜索
-夸克：https://pan.quark.cn/s/5e734d360ab0
+夸克：https://pan.quark.cn/s/7c396432c1ec
+
+#### 《最后生还者2：重制版（The Last of Us Part 2 Remastered）》v1.0.10407.714 中文版（美末2）
+夸克：https://pan.quark.cn/s/39b9feaad93b
+
+#### 《无线机兵AI LIMIT》Build 18026211 中文版
+夸克：https://pan.quark.cn/s/f12a0d4ad13a
+
+#### 《崩溃大陆2（Crashlands 2）》最新 中文版
+夸克：https://pan.quark.cn/s/9cafe41fe6e0
+
+#### 《不可撤离区（No Escape From Madness）》最新 中文版
+夸克：https://pan.quark.cn/s/b8f9aeb560f3
+
+#### 《蜂语镇（Apico）》最新 中文 联机版
+夸克：https://pan.quark.cn/s/0166cdf8f587
+
+#### 《乐客萌途（Locomoto）》最新 中文版
+夸克：https://pan.quark.cn/s/d6d78333b790
+
+#### 《逃离鸭科夫（Escape From Duckov）》最新 中文版。
+夸克：https://pan.quark.cn/s/e9c40d701e82
+
+#### 《午夜以南》 v1.1.0 豪华中文版
+夸克：https://pan.quark.cn/s/0066a0f1d597
+
+#### 《勇闯死人谷 暗黑之日（Into the Dead Our Darkest Days）》最新 中文版
+夸克：https://pan.quark.cn/s/e01163e69e8e
 
 #### 《解压缩软件》
 夸克:https://pan.quark.cn/s/5a389b3ccd61
@@ -3749,32 +3776,7 @@
 #### 《乐高侏罗纪世界 LEGO.Jurassic.World》v1.0 全DLC 中文版
 夸克:https://pan.quark.cn/s/2a74fe8fb6d4
 
-#### 《最后生还者2：重制版（The Last of Us Part 2 Remastered）》v1.0.10407.714 中文版（美末2）
-夸克：https://pan.quark.cn/s/39b9feaad93b
 
-#### 《无线机兵AI LIMIT》Build 18026211 中文版
-夸克：https://pan.quark.cn/s/f12a0d4ad13a
-
-#### 《崩溃大陆2（Crashlands 2）》最新 中文版
-夸克：https://pan.quark.cn/s/9cafe41fe6e0
-
-#### 《不可撤离区（No Escape From Madness）》最新 中文版
-夸克：https://pan.quark.cn/s/b8f9aeb560f3
-
-#### 《蜂语镇（Apico）》最新 中文 联机版
-夸克：https://pan.quark.cn/s/0166cdf8f587
-
-#### 《乐客萌途（Locomoto）》最新 中文版
-夸克：https://pan.quark.cn/s/d6d78333b790
-
-#### 《逃离鸭科夫（Escape From Duckov）》最新 中文版。
-夸克：https://pan.quark.cn/s/e9c40d701e82
-
-#### 《午夜以南》 v1.1.0 豪华中文版
-夸克：https://pan.quark.cn/s/0066a0f1d597
-
-#### 《勇闯死人谷 暗黑之日（Into the Dead Our Darkest Days）》最新 中文版
-夸克：https://pan.quark.cn/s/e01163e69e8e
 ----
 
 ## 打赏站长
