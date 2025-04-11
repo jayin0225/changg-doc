@@ -3754,6 +3754,27 @@
 
 #### 《无线机兵AI LIMIT》Build 18026211 中文版
 夸克：https://pan.quark.cn/s/f12a0d4ad13a
+
+#### 《崩溃大陆2（Crashlands 2）》最新 中文版
+夸克：https://pan.quark.cn/s/9cafe41fe6e0
+
+#### 《不可撤离区（No Escape From Madness）》最新 中文版
+夸克：https://pan.quark.cn/s/b8f9aeb560f3
+
+#### 《蜂语镇（Apico）》最新 中文 联机版
+夸克：https://pan.quark.cn/s/0166cdf8f587
+
+#### 《乐客萌途（Locomoto）》最新 中文版
+夸克：https://pan.quark.cn/s/d6d78333b790
+
+#### 《逃离鸭科夫（Escape From Duckov）》最新 中文版。
+夸克：https://pan.quark.cn/s/e9c40d701e82
+
+#### 《午夜以南》 v1.1.0 豪华中文版
+夸克：https://pan.quark.cn/s/0066a0f1d597
+
+#### 《勇闯死人谷 暗黑之日（Into the Dead Our Darkest Days）》最新 中文版
+夸克：https://pan.quark.cn/s/e01163e69e8e
 ----
 
 ## 打赏站长
