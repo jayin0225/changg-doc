@@ -33,6 +33,9 @@
 #### 《最后生还者2：重制版（The Last of Us Part 2 Remastered）》v1.0.10407.714 中文版（美末2）
 夸克：https://pan.quark.cn/s/39b9feaad93b
 
+#### 《乐高：幻影忍者（The LEGO NINJAGO）》
+夸克：https://pan.quark.cn/s/012bb7987664
+
 #### 《无线机兵AI LIMIT》Build 18026211 中文版
 夸克：https://pan.quark.cn/s/f12a0d4ad13a
 
