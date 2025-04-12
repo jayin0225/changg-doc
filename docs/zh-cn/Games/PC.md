@@ -33,7 +33,25 @@
 #### 《最后生还者2：重制版（The Last of Us Part 2 Remastered）》v1.0.10407.714 中文版（美末2）
 夸克：https://pan.quark.cn/s/39b9feaad93b
 
-#### 《乐高：幻影忍者（The LEGO NINJAGO）》 Build 78560 中文版
+#### 《达愿福神社（Promise Mascot Agency）》最新 中文版
+夸克：https://pan.quark.cn/s/9c50dbc38dd4
+
+#### 《打倒白雪公主！乌拉！（Union Of Gnomes）》最新 中文版（地精联盟）
+夸克：https://pan.quark.cn/s/5b65f1724888
+
+#### 《红弦俱乐部（The Red Strings Club）》最新 中文版
+夸克：https://pan.quark.cn/s/699a4b92d783
+
+#### 《节奏医生（Rhythm Doctor）》最新 中文 联机版
+夸克:https://pan.quark.cn/s/d8b4a148d84a
+
+#### 《咖啡心语（Coffee Talk）》1+2两部合集 最新 中文版
+夸克：https://pan.quark.cn/s/4bd686407a2b
+
+#### 《迷宫校舍（School Labyrinth）》最新 中文 联机版
+夸克：https://pan.quark.cn/s/b1160dbbc89c
+
+#### 《乐高旋风忍者大电影》Build.78560 中文版
 夸克：https://pan.quark.cn/s/012bb7987664
 
 #### 《无线机兵AI LIMIT》Build 18026211 中文版
@@ -2489,7 +2507,7 @@
 #### 《铁骑少女》v1.1.1839 中文版
 夸克:https://pan.quark.cn/s/84d23b1e0a47
 
-#### 《潜渊症》v1.6.17.0 中文版
+#### 《潜渊症（Barotrauma）》最新 中文 联机版
 夸克:https://pan.quark.cn/s/49e7a6cc123a
 
 #### 《太空海盗的崛起X2》 中文版
@@ -2986,9 +3004,6 @@
 
 #### 《自然之力2：幽灵守护者》v2023.11.06 中文版
 夸克:https://pan.quark.cn/s/ccce1c3c4db2
-
-#### 《节奏医生》v0.15.1 中文版
-夸克:https://pan.quark.cn/s/d8b4a148d84a
 
 #### 《觉醒者：遗忘之誓》v2.01 中文版
 夸克:https://pan.quark.cn/s/3b70b830a2cc
