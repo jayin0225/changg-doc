@@ -30,7 +30,7 @@
 #### 《游戏合集 总目录》不能实现搜索，请在文档或者网站搜索
 夸克：https://pan.quark.cn/s/7c396432c1ec
 
-#### 《最后生还者2：重制版（The Last of Us Part 2 Remastered）》v1.0.10407.714 中文版（美末2）
+#### 《最后生还者2：重制版（The Last of Us Part 2 Remastered）》v1.1.10411 中文版 打包XG器（美末2）
 夸克：https://pan.quark.cn/s/39b9feaad93b
 
 #### 《浪人崛起（Rise of the Ronin）》最新 全DLC 中文版
