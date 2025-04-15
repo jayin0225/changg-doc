@@ -36,6 +36,9 @@
 #### 《浪人崛起（Rise of the Ronin）》最新 全DLC 中文版
 夸克：https://pan.quark.cn/s/eb13b80a6cf0
 
+#### 《永恒天空（Forever Skies）》最新 中文版 全DLC
+链接：https://pan.quark.cn/s/699b364f8676
+
 #### 《皮罗与全息之书（Pilo and the Holobook）》最新 中文版
 夸克：https://pan.quark.cn/s/886a29c10848
 
