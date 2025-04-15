@@ -33,6 +33,21 @@
 #### 《最后生还者2：重制版（The Last of Us Part 2 Remastered）》v1.0.10407.714 中文版（美末2）
 夸克：https://pan.quark.cn/s/39b9feaad93b
 
+#### 《浪人崛起（Rise of the Ronin）》最新 全DLC 中文版
+夸克：https://pan.quark.cn/s/eb13b80a6cf0
+
+#### 《皮罗与全息之书（Pilo and the Holobook）》最新 中文版
+夸克：https://pan.quark.cn/s/886a29c10848
+
+#### 《Schedule I》最新 中文 联机版（绝命毒师？）
+夸克：https://pan.quark.cn/s/7d0ee75402f5
+
+#### 《七日杀（7 Days to Die）》最新 多版本 中文 联机版
+夸克：https://pan.quark.cn/s/de8f2cdb8ac4
+
+#### 《救命 怎么又塌了（Haste）》最新 中文版（跑酷肉鸽）
+夸克：https://pan.quark.cn/s/22679b425fb3
+
 #### 《达愿福神社（Promise Mascot Agency）》最新 中文版
 夸克：https://pan.quark.cn/s/9c50dbc38dd4
 
