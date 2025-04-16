@@ -33,11 +33,20 @@
 #### 《最后生还者2：重制版（The Last of Us Part 2 Remastered）》v1.1.10411 中文版 打包XG器（美末2）
 夸克：https://pan.quark.cn/s/39b9feaad93b
 
+#### 《二手车模拟器》 v2025.4.11 中文
+夸克：https://pan.quark.cn/s/c18f1ec72198
+
+#### 《超级跑车收藏模拟器》 v2025.4.15 中文版
+夸克：https://pan.quark.cn/s/fe0a9a96075e
+
+#### 《口袋城市2》 v2025.4.2 中文版
+夸克：https://pan.quark.cn/s/2690ab09ae04
+
 #### 《浪人崛起（Rise of the Ronin）》最新 全DLC 中文版
 夸克：https://pan.quark.cn/s/eb13b80a6cf0
 
 #### 《永恒天空（Forever Skies）》最新 中文版 全DLC
-链接：https://pan.quark.cn/s/699b364f8676
+夸克：https://pan.quark.cn/s/699b364f8676
 
 #### 《皮罗与全息之书（Pilo and the Holobook）》最新 中文版
 夸克：https://pan.quark.cn/s/886a29c10848
@@ -1863,9 +1872,6 @@
 #### 《Invector 节奏银河》 官方中文 v1.0.6
 夸克:https://pan.quark.cn/s/98d48b00bbd8
 
-#### 《PC装机模拟器2》v1.9.20 豪华中文版 全DLC
-夸克:https://pan.quark.cn/s/2c0f08d009a5
-
 #### 《奥雷萨之下》v1.0.21 豪华中文版
 夸克:https://pan.quark.cn/s/b9bb8e58e927
 
@@ -3683,7 +3689,7 @@
 #### 《停车难题》v1.0.1 中文版
 夸克:https://pan.quark.cn/s/05bd18052144
 
-#### 《PC装机模拟器2》v1.11.11 豪华中文版 全DLC 打包XG器
+#### 《PC装机模拟器2》最新 豪华中文版 全DLC 打包XG器
 夸克:https://pan.quark.cn/s/374ae1d05857
 
 #### 《模拟人生4》最新 豪华中文版 全DLC
