@@ -432,7 +432,7 @@
 #### 《哈迪斯2（Hades II）》最新 中文版 附修改器
 夸克:https://pan.quark.cn/s/52af982b71bd
 
-#### 《帝国时代4（Age of Empires I》v）》最新 全DLC 周年纪念 中文版
+#### 《帝国时代4（Age of Empires IV）》最新 全DLC 周年纪念 中文版
 夸克:https://pan.quark.cn/s/e48e72f8617e
 
 #### 《影子武士2》v1.1.14 豪华中文版 全DLC
