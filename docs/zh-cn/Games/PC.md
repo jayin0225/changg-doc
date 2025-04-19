@@ -33,6 +33,9 @@
 #### 《最后生还者2：重制版（The Last of Us Part 2 Remastered）》v1.1.10411 中文版 打包XG器（美末2）
 夸克：https://pan.quark.cn/s/39b9feaad93b
 
+#### 《死亡细胞》 最新 豪华中文版 全DLC
+夸克：https://pan.quark.cn/s/a99713609cd4
+
 #### 《塔洛斯原则：重新觉醒》Build 18057167 中文版
 夸克：https://pan.quark.cn/s/4fa70740b60b
 
