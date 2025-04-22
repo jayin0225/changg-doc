@@ -63,6 +63,9 @@
 
 ## 😍 最近更新
 
+#### 《博德之门3(Baldurs Gate 3)》v4.1.1.6758295 全DLC 豪华中文版 附升级补丁可用虚拟局域网软件可联机
+夸克:https://pan.quark.cn/s/f00293dbd438
+
 #### 《缺氧》 U55-663500 豪华中文版 全DLC
 夸克:https://pan.quark.cn/s/1373b58f11c7
 
@@ -239,7 +242,7 @@
 #### 《做你的猫（Be Your Cat）》最新 中文版（真人互动游戏）
 夸克:https://pan.quark.cn/s/1570ad9f73ae
 
-#### 《博德之门3(Baldurs Gate 3)》v4.1.1.5932596 全DLC 豪华中文版 附升级补丁可用虚拟局域网软件可联机
+#### 《博德之门3(Baldurs Gate 3)》最新 豪华中文版 附升级补丁可用虚拟局域网软件可联机
 夸克:https://pan.quark.cn/s/f00293dbd438
 
 #### 《王国保卫战》1-6部（联盟） 全DLC 电脑版
@@ -442,9 +445,6 @@
 
 #### 《十钟酒馆》v2.0.7 中文版
 夸克:https://pan.quark.cn/s/6e13ab82492d
-
-#### 《博德之门3》v4.1.1.6072089 豪华中文版 全DLC 附单独升级补丁 打包XG器
-夸克:https://pan.quark.cn/s/db9aaa01faa2
 
 #### 《古墓丽影系列1-11》
 夸克:https://pan.quark.cn/s/ca63e8a61f6e
