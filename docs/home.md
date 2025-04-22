@@ -17,7 +17,6 @@
 
  **在线资源文档**（每日更新）  
     在线游戏文档：[点击跳转](https://docs.qq.com/aio/DY2xldmd2TGNjYlZN)  
-    离线游戏表格：[点击跳转](http://jayin.ysepan.com/)
 #### **QQ群**
 
     [**点击后直接添加**] (https://qm.qq.com/q/rsMnaU4DGo) 
