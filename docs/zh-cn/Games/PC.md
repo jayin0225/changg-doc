@@ -33,7 +33,7 @@
 #### 《最后生还者2：重制版（The Last of Us Part 2 Remastered）》v1.1.10411 中文版 打包XG器（美末2）
 夸克：https://pan.quark.cn/s/39b9feaad93b
 
-#### 《死亡细胞》 最新 豪华中文版 全DLC
+#### 《死亡细胞》（重生细胞） 最新 豪华中文版 全DLC
 夸克：https://pan.quark.cn/s/a99713609cd4
 
 #### 《塔洛斯原则：重新觉醒》Build 18057167 中文版
@@ -2109,9 +2109,6 @@
 #### 《探灵直播2》v1.01 中文版
 夸克:https://pan.quark.cn/s/a29e73e4fb8a
 
-#### 《缺氧》 U52-626616 豪华中文版 全DLC
-夸克:https://pan.quark.cn/s/67632034e593
-
 #### 《太空猫战术》v1.0.5 中文版
 夸克:https://pan.quark.cn/s/ef2b853afd68
 
@@ -3389,9 +3386,6 @@
 #### 《赛博朋克2077》v2.20 终极中文版 全DLC 附单独升级补丁+单独国语配音包 打包XG器
 夸克:https://pan.quark.cn/s/055ebcd669b7
 
-#### 《缺氧》 U53-644960 豪华中文版 全DLC
-夸克:https://pan.quark.cn/s/fbb4b65528a8
-
 #### 《翻转世界》v1768 中文联机版
 夸克:https://pan.quark.cn/s/cd12cf03417e
 
@@ -3568,9 +3562,6 @@
 
 #### 《森林之下》v0.0.7.2 中文版
 夸克:https://pan.quark.cn/s/f1a02ac80694
-
-#### 《缺氧》 U54-648807 豪华中文版 全DLC
-夸克:https://pan.quark.cn/s/cfcef9687d15
 
 #### 《探灵直播2》v1.01 中文版
 夸克:https://pan.quark.cn/s/51c50ca35ac2
