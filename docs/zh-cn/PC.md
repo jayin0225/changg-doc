@@ -85,6 +85,9 @@
 
 夸克:https://pan.quark.cn/s/f00293dbd438
 
+#### 《腐蚀Rust》最新 中文联机版 附单独升级补丁
+夸克:https://pan.quark.cn/s/5725e914ed57
+
 #### 《缺氧》 U55-663500 豪华中文版 全DLC
 
 夸克:https://pan.quark.cn/s/1373b58f11c7
@@ -4815,7 +4818,7 @@
 
 夸克:https://pan.quark.cn/s/b82d7c9768c9
 
-#### 《腐蚀Rust》v2573 中文联机版 附单独升级补丁
+#### 《腐蚀Rust》最新 中文联机版 附单独升级补丁
 
 夸克:https://pan.quark.cn/s/5725e914ed57
 
