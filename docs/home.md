@@ -19,7 +19,7 @@
     在线游戏文档：[点击跳转](https://docs.qq.com/aio/DY2xldmd2TGNjYlZN)  
 #### **QQ群**
 
-    [**点击后直接添加**] (https://qm.qq.com/q/rsMnaU4DGo) 
+    [点击后直接添加](https://qm.qq.com/q/rsMnaU4DGo) 
     QQ群：[70861873](https://qm.qq.com/q/rsMnaU4DGo)  
 
 <!-- tabs:end -->
