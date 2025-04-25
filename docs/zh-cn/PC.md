@@ -54,6 +54,9 @@
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
 
+#### 《光与影 33号远征队（Clair Obscur Expedition 33）》最新 豪华 中文版
+链接：https://pan.quark.cn/s/2d88dc6722a3
+
 #### 《饥荒》最新 中文联机版
 
 链接：https://pan.quark.cn/s/15ecc8a943d1
