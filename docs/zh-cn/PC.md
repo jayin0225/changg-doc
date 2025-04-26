@@ -54,12 +54,15 @@
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
 
+#### 《救护车生活：救护员模拟器》 最新 豪华中文版 全DLC
+夸克：https://pan.quark.cn/s/a44a68785225
+
 #### 《光与影 33号远征队（Clair Obscur Expedition 33）》最新 豪华 中文版
-链接：https://pan.quark.cn/s/2d88dc6722a3
+夸克：https://pan.quark.cn/s/2d88dc6722a3
 
 #### 《饥荒》最新 中文联机版
 
-链接：https://pan.quark.cn/s/15ecc8a943d1
+夸克：https://pan.quark.cn/s/15ecc8a943d1
 
 #### 《上古卷轴4：湮灭》 重制版 v0.411.140.0 豪华中文版 全DLC
 
@@ -88,6 +91,10 @@
 ---
 
 ## 最近更新
+
+#### 《崩溃大陆2》 v1.0.10 中文版 打包XG器
+
+夸克：https://pan.quark.cn/s/9cafe41fe6e0
 
 #### 《七龙珠 电光炸裂！ZERO》 v2011.010.003.007.006 豪华中文版 全DLC 打包XG器 新增角色组合1DLC
 
