@@ -88,6 +88,11 @@
 ---
 
 ## 最近更新
+
+#### 《七龙珠 电光炸裂！ZERO》 v2011.010.003.007.006 豪华中文版 全DLC 打包XG器 新增角色组合1DLC
+
+夸克:https://pan.quark.cn/s/3629ae024b31
+
 #### 《暗黑破坏神4（Diablo 4）》V2.2.1 中文版
 
 夸克:https://pan.quark.cn/s/70a3d8efc130
