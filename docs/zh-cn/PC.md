@@ -54,6 +54,12 @@
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
 
+#### 《美女，请别影响我学习》 v2024.6.20 中文版
+夸克：https://pan.quark.cn/s/c252aa51866d
+
+#### 《中国式网游》 最新  豪华中文版 全DLC
+夸克：https://pan.quark.cn/s/4f7ce7c7845b
+
 #### 《救护车生活：救护员模拟器》 最新 豪华中文版 全DLC
 夸克：https://pan.quark.cn/s/a44a68785225
 
@@ -91,6 +97,10 @@
 ---
 
 ## 最近更新
+
+#### 《幻兽帕鲁（Palworld）》v0.5.4.69489 中文版 打包XG器
+
+夸克:https://pan.quark.cn/s/386d40c9f5ee
 
 #### 《崩溃大陆2》 v1.0.10 中文版 打包XG器
 
@@ -228,7 +238,7 @@
 
 夸克：https://pan.quark.cn/s/d6d78333b790
 
-#### 《逃离鸭科夫（Escape From Duckov）》最新 中文版。
+#### 《逃离鸭提前你科夫（Escape From Duckov）》最新 中文版。
 
 夸克：https://pan.quark.cn/s/e9c40d701e82
 
