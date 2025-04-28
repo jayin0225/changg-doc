@@ -54,16 +54,24 @@
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
 
+#### 《十字军之王 III 草原可汗（Crusader Kings III Khans of the Steppe）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/41a99903d3ae
+
 #### 《美女，请别影响我学习》 v2024.6.20 中文版
+
 夸克：https://pan.quark.cn/s/c252aa51866d
 
 #### 《中国式网游》 最新  豪华中文版 全DLC
+
 夸克：https://pan.quark.cn/s/4f7ce7c7845b
 
 #### 《救护车生活：救护员模拟器》 最新 豪华中文版 全DLC
+
 夸克：https://pan.quark.cn/s/a44a68785225
 
 #### 《光与影 33号远征队（Clair Obscur Expedition 33）》最新 豪华 中文版
+
 夸克：https://pan.quark.cn/s/2d88dc6722a3
 
 #### 《饥荒》最新 中文联机版
@@ -97,6 +105,10 @@
 ---
 
 ## 最近更新
+
+#### 《方舟动物园》最新  中文版
+
+夸克:https://pan.quark.cn/s/9cb33816f125
 
 #### 《幻兽帕鲁（Palworld）》v0.5.4.69489 中文版 打包XG器
 
