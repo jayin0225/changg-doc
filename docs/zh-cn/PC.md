@@ -79,6 +79,10 @@
 
 ## 最近更新
 
+#### 《堕落之主》最新 豪华中文版 全DLC 打包XG器
+
+夸克:https://pan.quark.cn/s/1ec3d7213b9e
+
 #### 《往日不再》最新 豪华中文版 全DLC 打包XG器 新增破碎之路DLC
 
 夸克:https://pan.quark.cn/s/5073b5d775d5
