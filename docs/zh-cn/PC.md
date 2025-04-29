@@ -74,6 +74,31 @@
 
 夸克：https://pan.quark.cn/s/2d88dc6722a3
 
+
+---
+
+## 最近更新
+
+#### 《往日不再》最新 豪华中文版 全DLC 打包XG器 新增破碎之路DLC
+
+夸克:https://pan.quark.cn/s/5073b5d775d5
+
+#### 《方舟动物园》最新  中文版
+
+夸克:https://pan.quark.cn/s/9cb33816f125
+
+#### 《幻兽帕鲁（Palworld）》v0.5.4.69489 中文版 打包XG器
+
+夸克:https://pan.quark.cn/s/386d40c9f5ee
+
+#### 《崩溃大陆2》 v1.0.10 中文版 打包XG器
+
+夸克：https://pan.quark.cn/s/9cafe41fe6e0
+
+---
+
+## 已有游戏
+
 #### 《饥荒》最新 中文联机版
 
 夸克：https://pan.quark.cn/s/15ecc8a943d1
@@ -101,58 +126,6 @@
 #### 《口袋城市2》 v2025.4.2 中文版
 
 夸克：https://pan.quark.cn/s/2690ab09ae04
-
----
-
-## 最近更新
-
-#### 《方舟动物园》最新  中文版
-
-夸克:https://pan.quark.cn/s/9cb33816f125
-
-#### 《幻兽帕鲁（Palworld）》v0.5.4.69489 中文版 打包XG器
-
-夸克:https://pan.quark.cn/s/386d40c9f5ee
-
-#### 《崩溃大陆2》 v1.0.10 中文版 打包XG器
-
-夸克：https://pan.quark.cn/s/9cafe41fe6e0
-
-#### 《七龙珠 电光炸裂！ZERO》 v2011.010.003.007.006 豪华中文版 全DLC 打包XG器 新增角色组合1DLC
-
-夸克:https://pan.quark.cn/s/3629ae024b31
-
-#### 《暗黑破坏神4（Diablo 4）》V2.2.1 中文版
-
-夸克:https://pan.quark.cn/s/70a3d8efc130
-
-#### 《博德之门3(Baldurs Gate 3)》v4.1.1.6758295 全DLC 豪华中文版 附升级补丁可用虚拟局域网软件可联机
-
-夸克:https://pan.quark.cn/s/f00293dbd438
-
-#### 《腐蚀Rust》最新 中文联机版 附单独升级补丁
-
-夸克:https://pan.quark.cn/s/5725e914ed57
-
-#### 《缺氧》 U55-663500 豪华中文版 全DLC
-
-夸克:https://pan.quark.cn/s/1373b58f11c7
-
-#### 《天国：拯救2》v 1.2.4  build 18007633 黄金版 中文版 全DLC
-
-夸克:https://pan.quark.cn/s/5908989dc9dd
-
-#### 《最后生还者2：重制版（The Last of Us Part 2 Remastered）》v 1.2.10416.553   build 18129998 中文 XG器（美末2）
-
-夸克：https://pan.quark.cn/s/39b9feaad93b
-
- #### 《潜水员戴夫》v1.0.4.1642 豪华中文版 全DLC 打包XG器
-
-夸克:https://pan.quark.cn/s/ab3b9d10bd63
-
----
-
-## 已有游戏
 
 #### 《最后生还者2：重制版（The Last of Us Part 2 Remastered）》v1.1.10411 中文版 打包XG器（美末2）
 
@@ -1690,7 +1663,7 @@
 
 夸克:https://pan.quark.cn/s/c478ced4792d
 
-#### 《往日不再》v1.07 整合版
+#### 《往日不再》最新 豪华中文版 全DLC 打包XG器 新增破碎之路DLC
 
 夸克:https://pan.quark.cn/s/5073b5d775d5
 
