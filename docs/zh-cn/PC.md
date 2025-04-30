@@ -79,6 +79,10 @@
 
 ## 最近更新
 
+#### 《消逝的光芒2》 最新 豪华中文版 全DLC 打包XG器
+
+夸克:https://pan.quark.cn/s/58bc02ef38a3
+
 #### 《堕落之主》最新 豪华中文版 全DLC 打包XG器
 
 夸克:https://pan.quark.cn/s/1ec3d7213b9e
