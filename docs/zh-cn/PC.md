@@ -54,16 +54,28 @@
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
 
+#### 《机器人角斗场》最新 中文版
+
+夸克：https://pan.quark.cn/s/4b5bf6b0ff1b
+
+#### 《乐高：星球大战》
+
+夸克：https://pan.quark.cn/s/557353120de4
+
 #### 《水培农场和商店模拟器》 v1.0 中文版
+
 夸克：https://pan.quark.cn/s/d030cb67f7d2
 
 #### 《主播之心》 v2025.4.28 中文版
+
 夸克：https://pan.quark.cn/s/cce9588e97c1
 
 #### 《女神氪金系统》 v2025.4.25 中文版
+
 夸克：https://pan.quark.cn/s/a395d7f0d801
 
 #### 《哎呀哎呀？房东呀！》v1.0.0 中文版
+
 夸克：https://pan.quark.cn/s/a84f2f4b1e4d
 
 #### 《十字军之王 III 草原可汗（Crusader Kings III Khans of the Steppe）》v1.16.0 全DLC中文联机版
