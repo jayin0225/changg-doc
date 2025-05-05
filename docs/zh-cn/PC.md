@@ -62,7 +62,17 @@
 
 夸克：https://pan.quark.cn/s/611986b324b3
 
+#### 《侠盗猎车手5增强版（Grand Theft Auto V Enhanced）》最新 中文版（GTA5次世代版）
 
+夸克：https://pan.quark.cn/s/a8d83025477b
+
+#### 《Grand Theft Auto V》GTA5 MOD整合版 超清画质+800真车+179人物
+
+夸克：https://pan.quark.cn/s/3f9f1656f68c
+
+#### 《Grand Theft Auto V》GTA5 最新 纯净中文版
+
+夸克：https://pan.quark.cn/s/14456dbea835
 ---
 
 ## 最近更新
@@ -514,10 +524,6 @@
 #### 《黑色间歇泉：黑暗信使》v1.2.33 中文版
 
 夸克:https://pan.quark.cn/s/cba29596f005
-
-#### 《GTA5》v1.41版 国风整合版
-
-夸克:https://pan.quark.cn/s/ad2be77cee8c
 
 #### 《漫威蜘蛛侠：重制版》v3.618.0.0 豪华中文版 全DLC 单独升级补丁 预购特典
 
