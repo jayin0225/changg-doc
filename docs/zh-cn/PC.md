@@ -54,6 +54,47 @@
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
 
+#### 《巴士模拟2（OMSI 2 Bus Simulator）》v2.3.004 全DLC 汉化版
+
+夸克：https://pan.quark.cn/s/9ad9caa2c6b2
+
+#### 《劫盗惊魂夜（Dark Hours）》最新 中文 联机版
+
+夸克：https://pan.quark.cn/s/611986b324b3
+
+
+---
+
+## 最近更新
+
+#### 《消逝的光芒2》 最新 豪华中文版 全DLC 打包XG器
+
+夸克:https://pan.quark.cn/s/58bc02ef38a3
+
+#### 《堕落之主》最新 豪华中文版 全DLC 打包XG器
+
+夸克:https://pan.quark.cn/s/1ec3d7213b9e
+
+#### 《往日不再》最新 豪华中文版 全DLC 打包XG器 新增破碎之路DLC
+
+夸克:https://pan.quark.cn/s/5073b5d775d5
+
+#### 《方舟动物园》最新  中文版
+
+夸克:https://pan.quark.cn/s/9cb33816f125
+
+#### 《幻兽帕鲁（Palworld）》v0.5.4.69489 中文版 打包XG器
+
+夸克:https://pan.quark.cn/s/386d40c9f5ee
+
+#### 《崩溃大陆2》 v1.0.10 中文版 打包XG器
+
+夸克：https://pan.quark.cn/s/9cafe41fe6e0
+
+---
+
+## 已有游戏
+
 #### 《机器人角斗场》最新 中文版
 
 夸克：https://pan.quark.cn/s/4b5bf6b0ff1b
@@ -97,39 +138,6 @@
 #### 《光与影 33号远征队（Clair Obscur Expedition 33）》最新 豪华 中文版
 
 夸克：https://pan.quark.cn/s/2d88dc6722a3
-
-
----
-
-## 最近更新
-
-#### 《消逝的光芒2》 最新 豪华中文版 全DLC 打包XG器
-
-夸克:https://pan.quark.cn/s/58bc02ef38a3
-
-#### 《堕落之主》最新 豪华中文版 全DLC 打包XG器
-
-夸克:https://pan.quark.cn/s/1ec3d7213b9e
-
-#### 《往日不再》最新 豪华中文版 全DLC 打包XG器 新增破碎之路DLC
-
-夸克:https://pan.quark.cn/s/5073b5d775d5
-
-#### 《方舟动物园》最新  中文版
-
-夸克:https://pan.quark.cn/s/9cb33816f125
-
-#### 《幻兽帕鲁（Palworld）》v0.5.4.69489 中文版 打包XG器
-
-夸克:https://pan.quark.cn/s/386d40c9f5ee
-
-#### 《崩溃大陆2》 v1.0.10 中文版 打包XG器
-
-夸克：https://pan.quark.cn/s/9cafe41fe6e0
-
----
-
-## 已有游戏
 
 #### 《饥荒》最新 中文联机版
 
