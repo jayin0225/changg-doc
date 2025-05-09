@@ -79,13 +79,17 @@
 
 ## 最近更新
 
+#### 《猎人：荒野的召唤》 v2989309 豪华中文版 全DLC
+
+夸克:https://pan.quark.cn/s/bdbb9c2b2661
+
 #### 《森林之子》v1.0-53951 中文正式联机版
 
 夸克:https://pan.quark.cn/s/5a8f65257d4d
 
 #### 《消逝的光芒2》 最新 豪华中文版 全DLC 打包XG器
 
-夸克:https://pan.quark.cn/s/58bc02ef38a3
+夸克:https://pan.quark.cn/s/8e8098bfb86a
 
 #### 《堕落之主》最新 豪华中文版 全DLC 打包XG器
 
@@ -1199,9 +1203,9 @@
 
 夸克:https://pan.quark.cn/s/a2290e13141c
 
-#### 《消逝的光芒2：人与仁之战》v1.18.0c 豪华中文联机版 全DLC 打包XG器+15国语言包
+#### 《消逝的光芒2：人与仁之战》最新 豪华中文联机版 全DLC 打包XG器+15国语言包
 
-夸克:https://pan.quark.cn/s/58bc02ef38a3
+夸克:https://pan.quark.cn/s/8e8098bfb86a
 
 #### 《史莱姆牧场2》v0.5.2 中文版
 
