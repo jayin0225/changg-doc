@@ -103,13 +103,13 @@
 
 夸克:https://pan.quark.cn/s/9cb33816f125
 
-#### 《幻兽帕鲁（Palworld）》v0.5.4.69489 中文版 打包XG器
+#### 《幻兽帕鲁（Palworld）》v0.5.5.70590 中文版 打包XG器
 
-夸克:https://pan.quark.cn/s/386d40c9f5ee
+夸克:https://pan.quark.cn/s/0ca1b61bb4c6
 
 #### 《崩溃大陆2》 v1.0.10 中文版 打包XG器
 
-夸克：https://pan.quark.cn/s/9cafe41fe6e0
+夸克:https://pan.quark.cn/s/9cafe41fe6e0
 
 ---
 
@@ -357,7 +357,7 @@
 
 #### 《幻兽帕鲁（Palworld）》最新 全DLC 中文 联机版 (附：MOD合集+修改器+升级补丁)
 
-夸克:https://pan.quark.cn/s/386d40c9f5ee
+夸克:https://pan.quark.cn/s/0ca1b61bb4c6
 
 #### 《寂静岭2：重制版（Silent Hill 2 Remake）》最新 豪华 中文版（恐怖冒险游戏）
 
