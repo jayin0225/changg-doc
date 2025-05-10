@@ -78,10 +78,20 @@
 ---
 
 ## 最近更新
+#### 《仓库猎人模拟器》 最新  中文版
+
+夸克:https://pan.quark.cn/s/f97d0521eea9
+
+#### 《车祸模拟器BeamNG.drive 》最新 中文联机版
+
+夸克:https://pan.quark.cn/s/4d676ba4e45d
+
 #### 《光与影 33号远征队（Clair Obscur Expedition 33）》v56442 豪华 中文版
+
 夸克：https://pan.quark.cn/s/2d88dc6722a3
 
 #### 《双影奇境（Split Fiction）》V1.0 中文 联机版
+
 夸克:https://pan.quark.cn/s/90a330bb6289
 
 #### 《猎人：荒野的召唤》 v2989309 豪华中文版 全DLC
@@ -544,7 +554,7 @@
 
 夸克:https://pan.quark.cn/s/9a824e975040
 
-#### 《仓库猎人模拟器》v2024.10.10 中文版
+#### 《仓库猎人模拟器》最新 中文版
 
 夸克:https://pan.quark.cn/s/f97d0521eea9
 
@@ -1318,7 +1328,7 @@
 
 #### 《车祸模拟器BeamNG.drive 》最新 中文联机版
 
-夸克:https://pan.quark.cn/s/62a8cd75fb0c
+夸克:https://pan.quark.cn/s/4d676ba4e45d
 
 #### 《蝙蝠侠：阿卡姆骑士年度版》  简体中文+全DLC
 
