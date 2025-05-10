@@ -78,6 +78,11 @@
 ---
 
 ## 最近更新
+#### 《光与影 33号远征队（Clair Obscur Expedition 33）》v56442 豪华 中文版
+夸克：https://pan.quark.cn/s/2d88dc6722a3
+
+#### 《双影奇境（Split Fiction）》V1.0 中文 联机版
+夸克:https://pan.quark.cn/s/90a330bb6289
 
 #### 《猎人：荒野的召唤》 v2989309 豪华中文版 全DLC
 
