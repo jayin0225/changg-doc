@@ -78,6 +78,18 @@
 ---
 
 ## 最近更新
+#### 《机器人角斗场》v1.6.0.34 中文版
+
+夸克：https://pan.quark.cn/s/4b5bf6b0ff1b
+
+#### 《漫威蜘蛛侠2》v1.508.0.0 豪华中文版 全DLC 打包XG器
+
+夸克:https://pan.quark.cn/s/3583be7a6f84
+
+#### 《最后生还者2：重制版（The Last of Us Part 2 Remastered）》v1.3.10430.406  中文版
+
+夸克：https://pan.quark.cn/s/39b9feaad93b
+
 #### 《仓库猎人模拟器》 最新  中文版
 
 夸克:https://pan.quark.cn/s/f97d0521eea9
