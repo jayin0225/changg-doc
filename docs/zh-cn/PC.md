@@ -122,9 +122,9 @@
 
 夸克:https://pan.quark.cn/s/1ec3d7213b9e
 
-#### 《往日不再》最新 豪华中文版 全DLC 打包XG器 新增破碎之路DLC
+#### 《往日不再》v1.25.679.0 豪华中文版 全DLC 打包XG器 
 
-夸克:https://pan.quark.cn/s/5073b5d775d5
+夸克:https://pan.quark.cn/s/82cf2423ccc0
 
 #### 《方舟动物园》最新  中文版
 
@@ -1746,9 +1746,9 @@
 
 夸克:https://pan.quark.cn/s/c478ced4792d
 
-#### 《往日不再》最新 豪华中文版 全DLC 打包XG器 新增破碎之路DLC
+#### 《往日不再》最新 豪华中文版 全DLC 打包XG器 
 
-夸克:https://pan.quark.cn/s/5073b5d775d5
+夸克:https://pan.quark.cn/s/82cf2423ccc0
 
 #### 《黑道圣徒：重启版》v1.6.1.4734369中文版
 
