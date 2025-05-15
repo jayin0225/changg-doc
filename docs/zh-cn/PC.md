@@ -55,6 +55,61 @@
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
 
+#### 《被诅咒的圣战（The Cursed Crusade）》最新 汉化版
+
+夸克：https://pan.quark.cn/s/3cf97d82db6e
+
+#### 《尘路之旅（Dustborn）》最新 中文版
+
+夸克：https://pan.quark.cn/s/ea261ad30158
+
+#### 《黑山：起源（Black Mesa）》最新 中文 联机版
+
+夸克：https://pan.quark.cn/s/6c5b1f2375af
+
+#### 《北欧之烬：诸神黄昏幸存者（Nordic Ashes Survivors of Ragnarok）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/a961e6eab13d
+
+#### 《planetarian～雪圏球～（planetarian Snow Globe）》最新 中文版（视觉小说）
+
+夸克：https://pan.quark.cn/s/53adc73c2267
+
+#### 《炮舰外交（Gunbot Diplomacy）》最新 中文版
+
+夸克：https://pan.quark.cn/s/83b27364d351
+
+#### 《Selfloss》最新 中文版（冰岛神话奇幻冒险）
+
+夸克：https://pan.quark.cn/s/992fa98f0013
+
+#### 《Spiritfall》最新 中文版（圣灵降临，魂降？）
+
+夸克：https://pan.quark.cn/s/45cfdd79e095
+
+#### 《The Slormancer》最新 中文版（巫魔人）
+
+夸克：https://pan.quark.cn/s/fdaa964f33b7
+
+#### 《硬币与仙人掌（Coins Wishpalm）》最新 中文版
+
+夸克：https://pan.quark.cn/s/8782e900f7dd
+
+---
+
+## 最近更新
+
+#### 《往日不再》v1.25.679.0 豪华中文版 全DLC 打包XG器 
+
+夸克:https://pan.quark.cn/s/82cf2423ccc0
+
+#### 《鬼谷八荒》v1.2.110.259 豪华中文版 全DLC 打包XG器
+
+夸克:https://pan.quark.cn/s/d4195ae46669
+
+---
+
+## 已有游戏
 #### 《巴士模拟2（OMSI 2 Bus Simulator）》v2.3.004 全DLC 汉化版
 
 夸克：https://pan.quark.cn/s/9ad9caa2c6b2
@@ -74,73 +129,6 @@
 #### 《Grand Theft Auto V》GTA5 最新 纯净中文版
 
 夸克：https://pan.quark.cn/s/14456dbea835
-
----
-
-## 最近更新
-#### 《机器人角斗场》v1.6.0.34 中文版
-
-夸克：https://pan.quark.cn/s/4b5bf6b0ff1b
-
-#### 《漫威蜘蛛侠2》v1.508.0.0 豪华中文版 全DLC 打包XG器
-
-夸克:https://pan.quark.cn/s/3583be7a6f84
-
-#### 《最后生还者2：重制版（The Last of Us Part 2 Remastered）》v1.3.10430.406  中文版
-
-夸克：https://pan.quark.cn/s/39b9feaad93b
-
-#### 《仓库猎人模拟器》 最新  中文版
-
-夸克:https://pan.quark.cn/s/f97d0521eea9
-
-#### 《车祸模拟器BeamNG.drive 》最新 中文联机版
-
-夸克:https://pan.quark.cn/s/4d676ba4e45d
-
-#### 《光与影 33号远征队（Clair Obscur Expedition 33）》v56442 豪华 中文版
-
-夸克：https://pan.quark.cn/s/2d88dc6722a3
-
-#### 《双影奇境（Split Fiction）》V1.0 中文 联机版
-
-夸克:https://pan.quark.cn/s/90a330bb6289
-
-#### 《猎人：荒野的召唤》 v2989309 豪华中文版 全DLC
-
-夸克:https://pan.quark.cn/s/bdbb9c2b2661
-
-#### 《森林之子》v1.0-53951 中文正式联机版
-
-夸克:https://pan.quark.cn/s/5a8f65257d4d
-
-#### 《消逝的光芒2》 最新 豪华中文版 全DLC 打包XG器
-
-夸克:https://pan.quark.cn/s/8e8098bfb86a
-
-#### 《堕落之主》最新 豪华中文版 全DLC 打包XG器
-
-夸克:https://pan.quark.cn/s/1ec3d7213b9e
-
-#### 《往日不再》v1.25.679.0 豪华中文版 全DLC 打包XG器 
-
-夸克:https://pan.quark.cn/s/82cf2423ccc0
-
-#### 《方舟动物园》最新  中文版
-
-夸克:https://pan.quark.cn/s/9cb33816f125
-
-#### 《幻兽帕鲁（Palworld）》v0.5.5.70590 中文版 打包XG器
-
-夸克:https://pan.quark.cn/s/0ca1b61bb4c6
-
-#### 《崩溃大陆2》 v1.0.10 中文版 打包XG器
-
-夸克:https://pan.quark.cn/s/9cafe41fe6e0
-
----
-
-## 已有游戏
 
 #### 《机器人角斗场》最新 中文版
 
