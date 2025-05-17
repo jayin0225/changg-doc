@@ -98,6 +98,21 @@
 ---
 
 ## 最近更新
+#### 《人渣SCUM》 v0.9.611.90072 豪华中文版 全DLC
+
+夸克:https://pan.quark.cn/s/4762c2a74c7c
+
+#### 《潜水员戴夫》v1.0.4.1647 豪华中文版 全DLC 打包XG器
+
+夸克:https://pan.quark.cn/s/ab3b9d10bd63
+
+#### 《潜行者2：切尔诺贝利之心》v 1.4.0 Build 18456110 终极中文版 全DLC
+
+夸克:https://pan.quark.cn/s/de848953f6a8
+
+#### 《暗黑破坏神3（Diablo 3）重制版》v2.0.1.22044 英文版（看启动说明）
+
+夸克：https://pan.quark.cn/s/9e25d305c110
 
 #### 《往日不再》v1.25.679.0 豪华中文版 全DLC 打包XG器 
 
@@ -2094,9 +2109,9 @@
 
 夸克:https://pan.quark.cn/s/4b0e64efc0ef
 
-#### 《暗黑破坏神3》v2.7.6.90 全DLC   yuzu模拟器版
+#### 《暗黑破坏神3（Diablo 3）重制版》最新 英文版（看启动说明）
 
-夸克:https://pan.quark.cn/s/985ef7e53488
+夸克：https://pan.quark.cn/s/9e25d305c110
 
 #### 《浮城 URBO》v1.0.2148
 
