@@ -98,6 +98,18 @@
 ---
 
 ## 最近更新
+#### 《R.E.P.O.》v0.1.2.31 中文 联机版（REPO）
+
+夸克:https://pan.quark.cn/s/da01d84da063
+
+#### 《天国拯救2（Kingdom Come Deliverance 2）黄金版》v1.3 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/e8a70ec41cc6
+
+#### 《冰汽时代2（Frostpunk 2）豪华版》v1.3.1 全DLC 豪华中文版
+
+夸克：https://pan.quark.cn/s/9c0475eea898
+
 #### 《人渣SCUM》 v0.9.611.90072 豪华中文版 全DLC
 
 夸克:https://pan.quark.cn/s/4762c2a74c7c
@@ -357,9 +369,9 @@
 
 夸克:https://pan.quark.cn/s/58bffb6e362c
 
-#### 《冰汽时代2（Frostpunk 2）》v5.2.1-391109 全DLC 豪华中文版
+#### 《冰汽时代2（Frostpunk 2）豪华版》最新 全DLC 豪华中文版
 
-夸克:https://pan.quark.cn/s/21b5fb5550c9
+夸克：https://pan.quark.cn/s/9c0475eea898
 
 #### 《对马岛之魂：导演剪辑版》v1053.7.0809.1937 中文版 附单独升级补丁 打包XG器
 
@@ -4995,9 +5007,9 @@
 
 夸克:https://pan.quark.cn/s/7efebc511079
 
-#### 《天国：拯救2》最新 豪华中文版 全DLC 
+#### 《天国拯救2（Kingdom Come Deliverance 2）黄金版》最新 全DLC 中文版
 
-夸克:https://pan.quark.cn/s/5908989dc9dd
+夸克：https://pan.quark.cn/s/e8a70ec41cc6
 
 #### 《漫威蜘蛛侠2》最新 豪华中文版 全DLC 打包XG器
 
