@@ -55,45 +55,45 @@
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
 
-#### 《被诅咒的圣战（The Cursed Crusade）》最新 汉化版
+ #### 《潜行者：晴空 增强版（S.T.A.L.K.E.R. Clear Sky Enhanced Edition）》最新 中文版
 
-夸克：https://pan.quark.cn/s/3cf97d82db6e
+夸克：https://pan.quark.cn/s/d4f24e4a1cce
 
-#### 《尘路之旅（Dustborn）》最新 中文版
+ #### 《潜行者：普里皮亚季的召唤 增强版（S.T.A.L.K.E.R. Call of Prypiat Enhanced Edition）》最新 中文版
 
-夸克：https://pan.quark.cn/s/ea261ad30158
+夸克：https://pan.quark.cn/s/07dcfa29e60c
 
-#### 《黑山：起源（Black Mesa）》最新 中文 联机版
+ #### 《潜行者：切尔诺贝利的阴影 增强版（S.T.A.L.K.E.R. Shadow of Chornobyl Enhanced Edition）》最新 中文版
+ 
+夸克：https://pan.quark.cn/s/279c78daa1fd
 
-夸克：https://pan.quark.cn/s/6c5b1f2375af
+ #### 《形状节奏（Just Shapes & Beats）》最新 中文 联机版（只有形状和节奏）
 
-#### 《北欧之烬：诸神黄昏幸存者（Nordic Ashes Survivors of Ragnarok）》最新 全DLC 中文版
+夸克：https://pan.quark.cn/s/7e2b193a0cdd
 
-夸克：https://pan.quark.cn/s/a961e6eab13d
+ #### 《幽室鬼牌（Deck of Haunts）》最新 中文版
 
-#### 《planetarian～雪圏球～（planetarian Snow Globe）》最新 中文版（视觉小说）
+夸克：https://pan.quark.cn/s/d71185fe8f87
 
-夸克：https://pan.quark.cn/s/53adc73c2267
+ #### 《最强城堡（Castle Craft）》最新 中文版
 
-#### 《炮舰外交（Gunbot Diplomacy）》最新 中文版
+夸克：https://pan.quark.cn/s/e9f27784b441
 
-夸克：https://pan.quark.cn/s/83b27364d351
+ #### 《奇异人生 双重曝光（Life Is Strange Double Exposure）》最新 中文版
 
-#### 《Selfloss》最新 中文版（冰岛神话奇幻冒险）
+夸克：https://pan.quark.cn/s/39753a30d44c
 
-夸克：https://pan.quark.cn/s/992fa98f0013
+ #### 《如燕之影（the Shadow of Swallow）》最新 中文版
 
-#### 《Spiritfall》最新 中文版（圣灵降临，魂降？）
+夸克：https://pan.quark.cn/s/fa89272dc2d6
 
-夸克：https://pan.quark.cn/s/45cfdd79e095
+ #### 《吾今有世家（House of Legacy）》最新 中文版
 
-#### 《The Slormancer》最新 中文版（巫魔人）
+夸克：https://pan.quark.cn/s/db5b4220a33a
 
-夸克：https://pan.quark.cn/s/fdaa964f33b7
-
-#### 《硬币与仙人掌（Coins Wishpalm）》最新 中文版
-
-夸克：https://pan.quark.cn/s/8782e900f7dd
+ #### 《幻想生活i 转圈圈的龙和偷取时间的少女（FANTASY LIFE i）》最新 中文版
+ 
+夸克：https://pan.quark.cn/s/a5235626cee9
 
 ---
 
@@ -101,7 +101,7 @@
 
 #### 《博德之门3（Baldurs Gate 3）》v4.1.1.6758295 全DLC 豪华中文 联机版
 
-夸克：https://pan.quark.cn/s/97d4fa98a552
+夸克：https://pan.quark.cn/s/039ac38a5211
 
 #### 《钢铁雄心4》v1.16.6 豪华中文版 全DLC 打包XG器
 
@@ -146,6 +146,55 @@
 ---
 
 ## 已有游戏
+
+#### 《火影忍者：究极忍者风暴3  完全爆发HD》最新 汉化版（支持键盘）
+
+夸克：https://pan.quark.cn/s/7e96bbc803e3
+
+#### 《将熄之焰（The Last Flame）》最新 中文版
+
+夸克：https://pan.quark.cn/s/1edb2011c449
+
+#### 《被诅咒的圣战（The Cursed Crusade）》最新 汉化版
+
+夸克：https://pan.quark.cn/s/3cf97d82db6e
+
+#### 《尘路之旅（Dustborn）》最新 中文版
+
+夸克：https://pan.quark.cn/s/ea261ad30158
+
+#### 《黑山：起源（Black Mesa）》最新 中文 联机版
+
+夸克：https://pan.quark.cn/s/6c5b1f2375af
+
+#### 《北欧之烬：诸神黄昏幸存者（Nordic Ashes Survivors of Ragnarok）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/a961e6eab13d
+
+#### 《planetarian～雪圏球～（planetarian Snow Globe）》最新 中文版（视觉小说）
+
+夸克：https://pan.quark.cn/s/53adc73c2267
+
+#### 《炮舰外交（Gunbot Diplomacy）》最新 中文版
+
+夸克：https://pan.quark.cn/s/83b27364d351
+
+#### 《Selfloss》最新 中文版（冰岛神话奇幻冒险）
+
+夸克：https://pan.quark.cn/s/992fa98f0013
+
+#### 《Spiritfall》最新 中文版（圣灵降临，魂降？）
+
+夸克：https://pan.quark.cn/s/45cfdd79e095
+
+#### 《The Slormancer》最新 中文版（巫魔人）
+
+夸克：https://pan.quark.cn/s/fdaa964f33b7
+
+#### 《硬币与仙人掌（Coins Wishpalm）》最新 中文版
+
+夸克：https://pan.quark.cn/s/8782e900f7dd
+
 #### 《巴士模拟2（OMSI 2 Bus Simulator）》v2.3.004 全DLC 汉化版
 
 夸克：https://pan.quark.cn/s/9ad9caa2c6b2
