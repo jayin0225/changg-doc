@@ -98,6 +98,15 @@
 ---
 
 ## 最近更新
+
+#### 《博德之门3（Baldurs Gate 3）》v4.1.1.6758295 全DLC 豪华中文 联机版
+
+夸克：https://pan.quark.cn/s/97d4fa98a552
+
+#### 《钢铁雄心4》v1.16.6 豪华中文版 全DLC 打包XG器
+
+夸克:https://pan.quark.cn/s/9b5c123aa6d1
+
 #### 《R.E.P.O.》v0.1.2.31 中文 联机版（REPO）
 
 夸克:https://pan.quark.cn/s/da01d84da063
@@ -445,9 +454,9 @@
 
 夸克:https://pan.quark.cn/s/1570ad9f73ae
 
-#### 《博德之门3(Baldurs Gate 3)》最新 豪华中文版 附升级补丁可用虚拟局域网软件可联机
+#### 《博德之门3（Baldurs Gate 3）》最新 全DLC 豪华中文 联机版
 
-夸克:https://pan.quark.cn/s/f00293dbd438
+夸克：https://pan.quark.cn/s/97d4fa98a552
 
 #### 《王国保卫战》1-6部（联盟） 全DLC 电脑版
 
