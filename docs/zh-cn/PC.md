@@ -55,6 +55,10 @@
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
 
+ #### 《JoJo 的奇妙冒险：全明星对战 R》最新 豪华中文版
+ 
+夸克：https://pan.quark.cn/s/5fa57c640f96
+
  #### 《潜行者：晴空 增强版（S.T.A.L.K.E.R. Clear Sky Enhanced Edition）》最新 中文版
 
 夸克：https://pan.quark.cn/s/d4f24e4a1cce
