@@ -99,6 +99,10 @@
 
 ## 最近更新
 
+#### 《超市模拟器》v0.9.1 中文版 打包XG器
+
+夸克:https://pan.quark.cn/s/4539de9e02b6
+
 #### 《博德之门3（Baldurs Gate 3）》v4.1.1.6758295 全DLC 豪华中文 联机版
 
 夸克：https://pan.quark.cn/s/039ac38a5211
@@ -5057,7 +5061,7 @@
 
 夸克:https://pan.quark.cn/s/bc5f29bab18b
 
-#### 《超市模拟器》v0.5 中文版 打包XG器
+#### 《超市模拟器》最新 中文版 打包XG器
 
 夸克:https://pan.quark.cn/s/4539de9e02b6
 
