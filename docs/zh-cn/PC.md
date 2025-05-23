@@ -103,6 +103,14 @@
 
 ## 最近更新
 
+#### 《十字军之王 III 草原可汗（Crusader Kings III Khans of the Steppe）》v1.16.1 全DLC中文联机版
+
+夸克：https://pan.quark.cn/s/41a99903d3ae
+
+#### 《潜行者2：切尔诺贝利之心》v 1.4.1  终极中文版 全DLC 打包XG器
+
+夸克:https://pan.quark.cn/s/de848953f6a8
+
 #### 《超市模拟器》v0.9.1 中文版 打包XG器
 
 夸克:https://pan.quark.cn/s/4539de9e02b6
