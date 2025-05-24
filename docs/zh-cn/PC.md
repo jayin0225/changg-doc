@@ -55,6 +55,14 @@
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
 
+ #### 《学园构想家（Lets School）》最新 全DLC 中文版
+ 
+夸克：https://pan.quark.cn/s/76b0b2386ff7
+
+ #### 《使命召唤19：现代战争2（Call of Duty Modern Warfare II Campaign）》最新 中文版（COD19）
+
+夸克：https://pan.quark.cn/s/dfb590e56d4f
+
  #### 《JoJo 的奇妙冒险：全明星对战 R》最新 豪华中文版
  
 夸克：https://pan.quark.cn/s/5fa57c640f96

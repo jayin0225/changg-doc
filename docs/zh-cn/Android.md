@@ -23,6 +23,12 @@
 
 夸克：https://pan.quark.cn/s/ed04126d467c
 
+#### 《沙威玛传奇》最新 安卓 免广告 无限金币版
+夸克：https://pan.quark.cn/s/8c7c9b2e7e6b
+
+#### 《重生细胞 死亡细胞v3.3.12》[完整版+DLC]重返恶魔城Steam移植
+夸克：https://pan.quark.cn/s/8bc5dbf2fa0a
+
 
 ----
 ## 最新添加
