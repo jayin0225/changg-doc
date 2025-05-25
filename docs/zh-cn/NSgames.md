@@ -28,3 +28,10 @@
 
 #### 《Switch模拟器游戏 总目录》
 
+夸克：https://pan.quark.cn/s/8030eb5b2f0f
+
+
+#### 《文明7》最新 全DLC NS模拟器整合版 PC+安卓
+
+夸克：https://pan.quark.cn/s/6ee569a79990
+
