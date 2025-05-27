@@ -48,7 +48,11 @@
 
 #### 《Everything》最新 中文版（搜索快速定位到系统文件夹）
 
-链接：https://pan.quark.cn/s/7b500ac1ed22
+夸克：https://pan.quark.cn/s/7b500ac1ed22
+
+#### 《补帧小黄鸭（Lossless Scaling）》最新 中文版（软件）
+
+夸克：https://pan.quark.cn/s/0679309b4efb
 
 ---
 
