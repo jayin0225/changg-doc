@@ -59,6 +59,14 @@
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
 
+#### 《超级妙音鸟(Super Kalavinka）》最新 中文版
+
+夸克：https://pan.quark.cn/s/49c4d13daedb
+
+#### 《飞机竞速锦标赛（Airplane Racing Championship）》最新 中文版
+
+夸克：https://pan.quark.cn/s/d8d42b3d13a1
+
  #### 《战魂铭人（Otherworld Legends）》最新 中文版
 
 夸克：https://pan.quark.cn/s/93411bac4c88
