@@ -59,37 +59,33 @@
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
 
-#### 《超级妙音鸟(Super Kalavinka）》最新 中文版
+ #### 《Zombie Cure Lab》最新 中文版（僵尸治疗实验室）
+ 
+夸克：https://pan.quark.cn/s/5338acf2c8c1
 
-夸克：https://pan.quark.cn/s/49c4d13daedb
+ #### 《囍（Xi）》最新 中文版（恐怖解密）
 
-#### 《飞机竞速锦标赛（Airplane Racing Championship）》最新 中文版
+夸克：https://pan.quark.cn/s/932d2ce2d43d
 
-夸克：https://pan.quark.cn/s/d8d42b3d13a1
+ #### 《洞石火（Ignited in Cavern）》最新 中文版
 
- #### 《战魂铭人（Otherworld Legends）》最新 中文版
+夸克：https://pan.quark.cn/s/68cf059f2bd3
 
-夸克：https://pan.quark.cn/s/93411bac4c88
+ #### 《Spectator 2》最新 中文版（恐怖游戏 支持双人分屏）（观察者2 旁观者2 目击者2）
 
- #### 《造作海岛（Tinkerlands）》最新 中文 联机版
+夸克：https://pan.quark.cn/s/2cb13a6a6492
 
-夸克：https://pan.quark.cn/s/68f3f87c5da8
+ #### 《恐惧与饥饿1+2合集（Fear and Hunger）》最新 中文版
 
- #### 《污痕圣杯：阿瓦隆的陨落（Tainted Grail The Fall of Avalon）》最新 中文版
+夸克：https://pan.quark.cn/s/e64329afa252
 
-夸克：https://pan.quark.cn/s/7ab6b757c13f
+ #### 《九王（9 Kings）》最新 中文版
 
- #### 《熊视眈眈（Out of Sight）》最新 中文版（解密恐怖）
+夸克：https://pan.quark.cn/s/022124a55529
 
-夸克：https://pan.quark.cn/s/83b0022cc34b
+ #### 《合同村（ContractVille）》最新 中文版
 
- #### 《长安：石之舞（Sin And Love）》最新 中文版
-
-夸克：https://pan.quark.cn/s/31ddd4f9b009
-
- #### 《怪物火车2（Monster Train 2）》最新 中文版（附第一部）
-
-夸克：https://pan.quark.cn/s/3a5ea38f7b1c
+夸克：https://pan.quark.cn/s/63ad8d138e9a
 
  #### 《烈焰之刃（Blades of Fire）》最新 中文版
 
@@ -202,6 +198,38 @@
 #### 《黑神话：悟空》周边合集（无游戏）
 
 夸克:https://pan.quark.cn/s/f17ec784d176
+
+#### 《超级妙音鸟(Super Kalavinka）》最新 中文版
+
+夸克：https://pan.quark.cn/s/49c4d13daedb
+
+#### 《飞机竞速锦标赛（Airplane Racing Championship）》最新 中文版
+
+夸克：https://pan.quark.cn/s/d8d42b3d13a1
+
+ #### 《战魂铭人（Otherworld Legends）》最新 中文版
+
+夸克：https://pan.quark.cn/s/93411bac4c88
+
+ #### 《造作海岛（Tinkerlands）》最新 中文 联机版
+
+夸克：https://pan.quark.cn/s/68f3f87c5da8
+
+ #### 《污痕圣杯：阿瓦隆的陨落（Tainted Grail The Fall of Avalon）》最新 中文版
+
+夸克：https://pan.quark.cn/s/7ab6b757c13f
+
+ #### 《熊视眈眈（Out of Sight）》最新 中文版（解密恐怖）
+
+夸克：https://pan.quark.cn/s/83b0022cc34b
+
+ #### 《长安：石之舞（Sin And Love）》最新 中文版
+
+夸克：https://pan.quark.cn/s/31ddd4f9b009
+
+ #### 《怪物火车2（Monster Train 2）》最新 中文版（附第一部）
+
+夸克：https://pan.quark.cn/s/3a5ea38f7b1c
 
 #### 《形状节奏（Just Shapes & Beats）》最新 中文 联机版（只有形状和节奏）
 
