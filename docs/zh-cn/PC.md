@@ -59,6 +59,34 @@
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
 
+ #### 《缉私警察（Contraband Police）》最新 中文版
+
+夸克：https://pan.quark.cn/s/dfba5a22588c
+
+ #### 《影之遗产（Legacy of Shadows）》最新 中文版（恐怖游戏）
+
+夸克：https://pan.quark.cn/s/26525e548fd9
+
+ #### 《Temporal Purge Z》最新 中文版（清除丧尸 射击肉鸽）
+
+夸克：https://pan.quark.cn/s/f260c07d486f
+
+ #### 《黑暗时代：背水一战（Age of Darkness Final Stand）》最新 中文 联机版
+
+夸克：https://pan.quark.cn/s/d32eaa4f1ce5
+
+ #### 《伽马绿宝石（Gamma Emerald）》最新 中文版（gamma绿宝石）
+
+夸克：https://pan.quark.cn/s/43bd3e1e1ab2
+
+ #### 《人类（HUMANKIND）豪华版》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/ce3945e8ab97
+
+ #### 《嗜血代码（CODE VEIN Deluxe Edition）》最新 全DLC 豪华中文版
+ 
+夸克：https://pan.quark.cn/s/27ccf67c5c66
+
  #### 《Zombie Cure Lab》最新 中文版（僵尸治疗实验室）
  
 夸克：https://pan.quark.cn/s/5338acf2c8c1
