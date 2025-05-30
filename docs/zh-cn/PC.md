@@ -59,73 +59,21 @@
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
 
+#### 《艾尔登法环：黑夜君临（Elden-Ring-Nightreign）》 v1.01 豪华中文版
+
+夸克：https://pan.quark.cn/s/5602dc1ab614
+
+#### 《使命召唤16：现代战争（Call of Duty Modern Warfare 2019）》最新 英文版（COD16）
+
+夸克：https://pan.quark.cn/s/d78d432a72ad
+
+#### 《模拟农场25 (Farming Simulator 25) 》最新 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/d8914ec0c1f9
+
  #### 《缉私警察（Contraband Police）》最新 中文版
 
 夸克：https://pan.quark.cn/s/dfba5a22588c
-
- #### 《影之遗产（Legacy of Shadows）》最新 中文版（恐怖游戏）
-
-夸克：https://pan.quark.cn/s/26525e548fd9
-
- #### 《Temporal Purge Z》最新 中文版（清除丧尸 射击肉鸽）
-
-夸克：https://pan.quark.cn/s/f260c07d486f
-
- #### 《黑暗时代：背水一战（Age of Darkness Final Stand）》最新 中文 联机版
-
-夸克：https://pan.quark.cn/s/d32eaa4f1ce5
-
- #### 《伽马绿宝石（Gamma Emerald）》最新 中文版（gamma绿宝石）
-
-夸克：https://pan.quark.cn/s/43bd3e1e1ab2
-
- #### 《人类（HUMANKIND）豪华版》最新 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/ce3945e8ab97
-
- #### 《嗜血代码（CODE VEIN Deluxe Edition）》最新 全DLC 豪华中文版
- 
-夸克：https://pan.quark.cn/s/27ccf67c5c66
-
- #### 《Zombie Cure Lab》最新 中文版（僵尸治疗实验室）
- 
-夸克：https://pan.quark.cn/s/5338acf2c8c1
-
- #### 《囍（Xi）》最新 中文版（恐怖解密）
-
-夸克：https://pan.quark.cn/s/932d2ce2d43d
-
- #### 《洞石火（Ignited in Cavern）》最新 中文版
-
-夸克：https://pan.quark.cn/s/68cf059f2bd3
-
- #### 《Spectator 2》最新 中文版（恐怖游戏 支持双人分屏）（观察者2 旁观者2 目击者2）
-
-夸克：https://pan.quark.cn/s/2cb13a6a6492
-
- #### 《恐惧与饥饿1+2合集（Fear and Hunger）》最新 中文版
-
-夸克：https://pan.quark.cn/s/e64329afa252
-
- #### 《九王（9 Kings）》最新 中文版
-
-夸克：https://pan.quark.cn/s/022124a55529
-
- #### 《合同村（ContractVille）》最新 中文版
-
-夸克：https://pan.quark.cn/s/63ad8d138e9a
-
- #### 《烈焰之刃（Blades of Fire）》最新 中文版
-
-夸克：https://pan.quark.cn/s/7b918ce3bc5d
-
- #### 《勇者斗恶龙3 HD-2D 重制版（DRAGON QUEST III HD 2D Remake）》最新 中文版
-
-夸克：https://pan.quark.cn/s/cc53cd8c4ca1
-
- #### 《毁灭战士1+2 增强版（DOOM plus DOOM II Enhanced）》最新 中文版
-
-夸克：https://pan.quark.cn/s/e8c8d15ff477
 
  #### 《使命召唤18：先锋（Call of Duty Vanguard Campaign）》最新 中文版（COD18）
 
@@ -162,6 +110,14 @@
 ---
 
 ## 最近更新
+
+#### 《克苏鲁信徒》v1.0.0.1 中文版
+
+夸克:https://pan.quark.cn/s/b860ec1129ac
+
+#### 《勇闯死人谷 暗黑之日（Into the Dead Our Darkest Days）》v0.4.11834 中文版
+
+夸克：https://pan.quark.cn/s/e01163e69e8e
 
 #### 《十字军之王 III 草原可汗（Crusader Kings III Khans of the Steppe）》v1.16.1 全DLC中文联机版
 
@@ -226,6 +182,70 @@
 #### 《黑神话：悟空》周边合集（无游戏）
 
 夸克:https://pan.quark.cn/s/f17ec784d176
+
+#### 《影之遗产（Legacy of Shadows）》最新 中文版（恐怖游戏）
+
+夸克：https://pan.quark.cn/s/26525e548fd9
+
+ #### 《Temporal Purge Z》最新 中文版（清除丧尸 射击肉鸽）
+
+夸克：https://pan.quark.cn/s/f260c07d486f
+
+ #### 《黑暗时代：背水一战（Age of Darkness Final Stand）》最新 中文 联机版
+
+夸克：https://pan.quark.cn/s/d32eaa4f1ce5
+
+ #### 《伽马绿宝石（Gamma Emerald）》最新 中文版（gamma绿宝石）
+
+夸克：https://pan.quark.cn/s/43bd3e1e1ab2
+
+ #### 《人类（HUMANKIND）豪华版》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/ce3945e8ab97
+
+ #### 《嗜血代码（CODE VEIN Deluxe Edition）》最新 全DLC 豪华中文版
+ 
+夸克：https://pan.quark.cn/s/27ccf67c5c66
+
+ #### 《Zombie Cure Lab》最新 中文版（僵尸治疗实验室）
+ 
+夸克：https://pan.quark.cn/s/5338acf2c8c1
+
+ #### 《囍（Xi）》最新 中文版（恐怖解密）
+
+夸克：https://pan.quark.cn/s/932d2ce2d43d
+
+ #### 《洞石火（Ignited in Cavern）》最新 中文版
+
+夸克：https://pan.quark.cn/s/68cf059f2bd3
+
+ #### 《Spectator 2》最新 中文版（恐怖游戏 支持双人分屏）（观察者2 旁观者2 目击者2）
+
+夸克：https://pan.quark.cn/s/2cb13a6a6492
+
+ #### 《恐惧与饥饿1+2合集（Fear and Hunger）》最新 中文版
+
+夸克：https://pan.quark.cn/s/e64329afa252
+
+ #### 《九王（9 Kings）》最新 中文版
+
+夸克：https://pan.quark.cn/s/022124a55529
+
+ #### 《合同村（ContractVille）》最新 中文版
+
+夸克：https://pan.quark.cn/s/63ad8d138e9a
+
+ #### 《烈焰之刃（Blades of Fire）》最新 中文版
+
+夸克：https://pan.quark.cn/s/7b918ce3bc5d
+
+ #### 《勇者斗恶龙3 HD-2D 重制版（DRAGON QUEST III HD 2D Remake）》最新 中文版
+
+夸克：https://pan.quark.cn/s/cc53cd8c4ca1
+
+ #### 《毁灭战士1+2 增强版（DOOM plus DOOM II Enhanced）》最新 中文版
+
+夸克：https://pan.quark.cn/s/e8c8d15ff477
 
 #### 《超级妙音鸟(Super Kalavinka）》最新 中文版
 
@@ -919,7 +939,7 @@
 
 夸克:https://pan.quark.cn/s/df03c040bf6f
 
-#### 《克苏鲁信徒》v0.9.2.0 中文版
+#### 《克苏鲁信徒》最新 中文版
 
 夸克:https://pan.quark.cn/s/b860ec1129ac
 
