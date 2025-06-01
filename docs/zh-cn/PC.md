@@ -59,6 +59,10 @@
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
 
+#### 《使命召唤18：先锋（Call of Duty Vanguard Campaign）》最新 中文版（COD18）
+
+夸克：https://pan.quark.cn/s/7a0cb4d5849c
+
 #### 《艾尔登法环：黑夜君临（Elden-Ring-Nightreign）》 v1.01 豪华中文版
 
 夸克：https://pan.quark.cn/s/5602dc1ab614
@@ -110,6 +114,14 @@
 ---
 
 ## 最近更新
+
+#### 《设备医生模拟器2024（Device.Doctor.Simulator.2024）》Build.18664339 中文版
+
+夸克:https://pan.quark.cn/s/cbf136ecf7f1
+
+#### 《双影奇境（Split Fiction）》最新 v2025.5.27 联机版
+
+夸克:https://pan.quark.cn/s/90a330bb6289
 
 #### 《克苏鲁信徒》v1.0.0.1 中文版
 
