@@ -115,6 +115,10 @@
 
 ## 最近更新
 
+#### 《漫威蜘蛛侠2》v1.526 豪华中文版 全DLC 打包XG器
+
+夸克:https://pan.quark.cn/s/3583be7a6f84
+
 #### 《设备医生模拟器2024（Device.Doctor.Simulator.2024）》Build.18664339 中文版
 
 夸克:https://pan.quark.cn/s/cbf136ecf7f1
@@ -1399,9 +1403,9 @@
 
 夸克:https://pan.quark.cn/s/6d93beba706d
 
-#### 《逃离塔科夫》最新 中文离线版
+#### 《逃离塔科夫（Escape from Tarkov）》最新 离线 中文版
 
-夸克:https://pan.quark.cn/s/42aad88d76ba
+夸克：https://pan.quark.cn/s/618eddb5b71b
 
 #### 《热血无赖》
 
