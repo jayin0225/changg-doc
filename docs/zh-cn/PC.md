@@ -38,11 +38,11 @@
 
 夸克:https://pan.quark.cn/s/3c718e73e594
 
- #### 《壁纸引擎（Wallpaper Engine）》最新 中文版
+#### 《壁纸引擎（Wallpaper Engine）》最新 中文版
 
 夸克:https://pan.quark.cn/s/11cf3d10d0ca
 
- #### 《yuzu 柚子模拟器+龙神模拟器》最新 PC和安卓版（固件+密钥 在此获取更新）
+#### 《yuzu 柚子模拟器+龙神模拟器》最新 PC和安卓版（固件+密钥 在此获取更新）
 
 夸克:https://pan.quark.cn/s/76f63797422f
 
@@ -75,40 +75,56 @@
 
 夸克：https://pan.quark.cn/s/d8914ec0c1f9
 
- #### 《缉私警察（Contraband Police）》最新 中文版
+#### 《战争机器4（Gears of War 4）》最新 全DLC 中文配音 联机版
+
+夸克：https://pan.quark.cn/s/4aa2e50ee609
+
+#### 《战争机器5（Gears 5）》最新 全DLC 中文配音 联机版
+
+夸克：https://pan.quark.cn/s/c23d686dd9ad
+
+#### 《Creature Keeper》最新 中文版（即时战斗像素宝可梦）
+
+夸克：https://pan.quark.cn/s/8eee728c88dc
+
+#### 《伽马绿宝石（Gamma Emerald）》最新 中文版（gamma绿宝石）
+
+夸克：https://pan.quark.cn/s/d2dcdda6cea2
+
+#### 《缉私警察（Contraband Police）》最新 中文版
 
 夸克：https://pan.quark.cn/s/dfba5a22588c
 
- #### 《使命召唤18：先锋（Call of Duty Vanguard Campaign）》最新 中文版（COD18）
+#### 《使命召唤18：先锋（Call of Duty Vanguard Campaign）》最新 中文版（COD18）
 
 夸克：https://pan.quark.cn/s/b4958c77e7df
 
- #### 《Grandma No》最新 中文版（搞怪奶奶）
- 
+#### 《Grandma No》最新 中文版（搞怪奶奶）
+
 夸克：https://pan.quark.cn/s/50afa9261074
 
- #### 《学园构想家（Lets School）》最新 全DLC 中文版
- 
+#### 《学园构想家（Lets School）》最新 全DLC 中文版
+
 夸克：https://pan.quark.cn/s/76b0b2386ff7
 
- #### 《使命召唤19：现代战争2（Call of Duty Modern Warfare II Campaign）》最新 中文版（COD19）
+#### 《使命召唤19：现代战争2（Call of Duty Modern Warfare II Campaign）》最新 中文版（COD19）
 
 夸克：https://pan.quark.cn/s/dfb590e56d4f
 
- #### 《JoJo 的奇妙冒险：全明星对战 R》最新 豪华中文版
- 
+#### 《JoJo 的奇妙冒险：全明星对战 R》最新 豪华中文版
+
 夸克：https://pan.quark.cn/s/5fa57c640f96
 
- #### 《潜行者：晴空 增强版（S.T.A.L.K.E.R. Clear Sky Enhanced Edition）》最新 中文版
+#### 《潜行者：晴空 增强版（S.T.A.L.K.E.R. Clear Sky Enhanced Edition）》最新 中文版
 
 夸克：https://pan.quark.cn/s/d4f24e4a1cce
 
- #### 《潜行者：普里皮亚季的召唤 增强版（S.T.A.L.K.E.R. Call of Prypiat Enhanced Edition）》最新 中文版
+#### 《潜行者：普里皮亚季的召唤 增强版（S.T.A.L.K.E.R. Call of Prypiat Enhanced Edition）》最新 中文版
 
 夸克：https://pan.quark.cn/s/07dcfa29e60c
 
- #### 《潜行者：切尔诺贝利的阴影 增强版（S.T.A.L.K.E.R. Shadow of Chornobyl Enhanced Edition）》最新 中文版
- 
+#### 《潜行者：切尔诺贝利的阴影 增强版（S.T.A.L.K.E.R. Shadow of Chornobyl Enhanced Edition）》最新 中文版
+
 夸克：https://pan.quark.cn/s/279c78daa1fd
 
 ---
@@ -198,63 +214,63 @@
 
 夸克：https://pan.quark.cn/s/26525e548fd9
 
- #### 《Temporal Purge Z》最新 中文版（清除丧尸 射击肉鸽）
+#### 《Temporal Purge Z》最新 中文版（清除丧尸 射击肉鸽）
 
 夸克：https://pan.quark.cn/s/f260c07d486f
 
- #### 《黑暗时代：背水一战（Age of Darkness Final Stand）》最新 中文 联机版
+#### 《黑暗时代：背水一战（Age of Darkness Final Stand）》最新 中文 联机版
 
 夸克：https://pan.quark.cn/s/d32eaa4f1ce5
 
- #### 《伽马绿宝石（Gamma Emerald）》最新 中文版（gamma绿宝石）
+#### 《伽马绿宝石（Gamma Emerald）》最新 中文版（gamma绿宝石）
 
 夸克：https://pan.quark.cn/s/43bd3e1e1ab2
 
- #### 《人类（HUMANKIND）豪华版》最新 全DLC 中文版
+#### 《人类（HUMANKIND）豪华版》最新 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/ce3945e8ab97
 
- #### 《嗜血代码（CODE VEIN Deluxe Edition）》最新 全DLC 豪华中文版
- 
+#### 《嗜血代码（CODE VEIN Deluxe Edition）》最新 全DLC 豪华中文版
+
 夸克：https://pan.quark.cn/s/27ccf67c5c66
 
- #### 《Zombie Cure Lab》最新 中文版（僵尸治疗实验室）
- 
+#### 《Zombie Cure Lab》最新 中文版（僵尸治疗实验室）
+
 夸克：https://pan.quark.cn/s/5338acf2c8c1
 
- #### 《囍（Xi）》最新 中文版（恐怖解密）
+#### 《囍（Xi）》最新 中文版（恐怖解密）
 
 夸克：https://pan.quark.cn/s/932d2ce2d43d
 
- #### 《洞石火（Ignited in Cavern）》最新 中文版
+#### 《洞石火（Ignited in Cavern）》最新 中文版
 
 夸克：https://pan.quark.cn/s/68cf059f2bd3
 
- #### 《Spectator 2》最新 中文版（恐怖游戏 支持双人分屏）（观察者2 旁观者2 目击者2）
+#### 《Spectator 2》最新 中文版（恐怖游戏 支持双人分屏）（观察者2 旁观者2 目击者2）
 
 夸克：https://pan.quark.cn/s/2cb13a6a6492
 
- #### 《恐惧与饥饿1+2合集（Fear and Hunger）》最新 中文版
+#### 《恐惧与饥饿1+2合集（Fear and Hunger）》最新 中文版
 
 夸克：https://pan.quark.cn/s/e64329afa252
 
- #### 《九王（9 Kings）》最新 中文版
+#### 《九王（9 Kings）》最新 中文版
 
 夸克：https://pan.quark.cn/s/022124a55529
 
- #### 《合同村（ContractVille）》最新 中文版
+#### 《合同村（ContractVille）》最新 中文版
 
 夸克：https://pan.quark.cn/s/63ad8d138e9a
 
- #### 《烈焰之刃（Blades of Fire）》最新 中文版
+#### 《烈焰之刃（Blades of Fire）》最新 中文版
 
 夸克：https://pan.quark.cn/s/7b918ce3bc5d
 
- #### 《勇者斗恶龙3 HD-2D 重制版（DRAGON QUEST III HD 2D Remake）》最新 中文版
+#### 《勇者斗恶龙3 HD-2D 重制版（DRAGON QUEST III HD 2D Remake）》最新 中文版
 
 夸克：https://pan.quark.cn/s/cc53cd8c4ca1
 
- #### 《毁灭战士1+2 增强版（DOOM plus DOOM II Enhanced）》最新 中文版
+#### 《毁灭战士1+2 增强版（DOOM plus DOOM II Enhanced）》最新 中文版
 
 夸克：https://pan.quark.cn/s/e8c8d15ff477
 
@@ -266,27 +282,27 @@
 
 夸克：https://pan.quark.cn/s/d8d42b3d13a1
 
- #### 《战魂铭人（Otherworld Legends）》最新 中文版
+#### 《战魂铭人（Otherworld Legends）》最新 中文版
 
 夸克：https://pan.quark.cn/s/93411bac4c88
 
- #### 《造作海岛（Tinkerlands）》最新 中文 联机版
+#### 《造作海岛（Tinkerlands）》最新 中文 联机版
 
 夸克：https://pan.quark.cn/s/68f3f87c5da8
 
- #### 《污痕圣杯：阿瓦隆的陨落（Tainted Grail The Fall of Avalon）》最新 中文版
+#### 《污痕圣杯：阿瓦隆的陨落（Tainted Grail The Fall of Avalon）》最新 中文版
 
 夸克：https://pan.quark.cn/s/7ab6b757c13f
 
- #### 《熊视眈眈（Out of Sight）》最新 中文版（解密恐怖）
+#### 《熊视眈眈（Out of Sight）》最新 中文版（解密恐怖）
 
 夸克：https://pan.quark.cn/s/83b0022cc34b
 
- #### 《长安：石之舞（Sin And Love）》最新 中文版
+#### 《长安：石之舞（Sin And Love）》最新 中文版
 
 夸克：https://pan.quark.cn/s/31ddd4f9b009
 
- #### 《怪物火车2（Monster Train 2）》最新 中文版（附第一部）
+#### 《怪物火车2（Monster Train 2）》最新 中文版（附第一部）
 
 夸克：https://pan.quark.cn/s/3a5ea38f7b1c
 
@@ -294,27 +310,27 @@
 
 夸克：https://pan.quark.cn/s/7e2b193a0cdd
 
- #### 《幽室鬼牌（Deck of Haunts）》最新 中文版
+#### 《幽室鬼牌（Deck of Haunts）》最新 中文版
 
 夸克：https://pan.quark.cn/s/d71185fe8f87
 
- #### 《最强城堡（Castle Craft）》最新 中文版
+#### 《最强城堡（Castle Craft）》最新 中文版
 
 夸克：https://pan.quark.cn/s/e9f27784b441
 
- #### 《奇异人生 双重曝光（Life Is Strange Double Exposure）》最新 中文版
+#### 《奇异人生 双重曝光（Life Is Strange Double Exposure）》最新 中文版
 
 夸克：https://pan.quark.cn/s/39753a30d44c
 
- #### 《如燕之影（the Shadow of Swallow）》最新 中文版
+#### 《如燕之影（the Shadow of Swallow）》最新 中文版
 
 夸克：https://pan.quark.cn/s/fa89272dc2d6
 
- #### 《吾今有世家（House of Legacy）》最新 中文版
+#### 《吾今有世家（House of Legacy）》最新 中文版
 
 夸克：https://pan.quark.cn/s/db5b4220a33a
 
- #### 《幻想生活i 转圈圈的龙和偷取时间的少女（FANTASY LIFE i）》最新 中文版
+#### 《幻想生活i 转圈圈的龙和偷取时间的少女（FANTASY LIFE i）》最新 中文版
  
 夸克：https://pan.quark.cn/s/a5235626cee9
 
