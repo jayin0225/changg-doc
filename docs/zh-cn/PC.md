@@ -4276,7 +4276,7 @@
 
 夸克:https://pan.quark.cn/s/e12c00d1ac64
 
-#### 《潜行者2：切尔诺贝利之心》最新 终极中文版 全DLC
+#### 《潜行者2：切尔诺贝利之心》最新 终极中文版 全DLC  打包XG器
 
 夸克:https://pan.quark.cn/s/de848953f6a8
 
