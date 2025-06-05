@@ -71,6 +71,14 @@
 
 夸克：https://pan.quark.cn/s/d78d432a72ad
 
+#### 《街漓芳传（YinYang Street Separate Ways）》最新 中文版
+
+夸克：https://pan.quark.cn/s/bac4c8db1f6e
+
+#### 《迪士尼幻梦岛：与米奇和朋友们历险（Disney Illusion Island Starring Mickey and Friends）》最新 中文配音版（支持双人游玩）
+
+夸克：https://pan.quark.cn/s/5fe937a0996d
+
 #### 《模拟农场25 (Farming Simulator 25) 》最新 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/d8914ec0c1f9
