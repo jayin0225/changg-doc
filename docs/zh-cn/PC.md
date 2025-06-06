@@ -59,6 +59,10 @@
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
 
+#### 《油管主播的生活 1+2合集 （Youtubers Life）》最新 中文版
+
+夸克：https://pan.quark.cn/s/19570cac4f60
+
 #### 《使命召唤18：先锋（Call of Duty Vanguard Campaign）》最新 中文版（COD18）
 
 夸克：https://pan.quark.cn/s/7a0cb4d5849c
@@ -138,6 +142,19 @@
 ---
 
 ## 最近更新
+
+#### 《幻想生活i 转圈圈的龙和偷取时间的少女（FANTASY LIFE i）》v1.2.1 中文版
+
+夸克：https://pan.quark.cn/s/a5235626cee9
+
+#### 《宝可梦 朱 紫》v4.0.0 全DLC整合版 附柚子模拟器教程
+
+夸克:https://pan.quark.cn/s/2f0925ea84e4
+
+#### 《超市模拟器》v1.2.4 中文版 打包XG器
+
+夸克:https://pan.quark.cn/s/4539de9e02b6
+
 #### 《潜行者2：切尔诺贝利之心》v1.4.2 终极中文版 全DLC 打包XG器
 
 夸克:https://pan.quark.cn/s/de848953f6a8
@@ -165,10 +182,6 @@
 #### 《十字军之王 III 草原可汗（Crusader Kings III Khans of the Steppe）》v1.16.1 全DLC中文联机版
 
 夸克：https://pan.quark.cn/s/41a99903d3ae
-
-#### 《超市模拟器》v0.9.1 中文版 打包XG器
-
-夸克:https://pan.quark.cn/s/4539de9e02b6
 
 #### 《博德之门3（Baldurs Gate 3）》v4.1.1.6758295 全DLC 豪华中文 联机版
 
@@ -774,7 +787,7 @@
 
 夸克:https://pan.quark.cn/s/323dfacec962
 
-#### 《宝可梦 朱/紫》(》v3.0.1整合版) 柚子模拟器教程 1DLC 海之秘宝前篇碧之
+#### 《宝可梦 朱 紫》最新 全DLC整合版 附柚子模拟器教程
 
 夸克:https://pan.quark.cn/s/2f0925ea84e4
 
