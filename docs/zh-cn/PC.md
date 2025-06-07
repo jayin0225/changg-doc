@@ -59,6 +59,18 @@
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
 
+#### 《匹诺曹的谎言》 v1.8.0.0 豪华中文版 全DLC 新增序曲DLC
+
+夸克：https://pan.quark.cn/s/b34add59a7e8
+
+#### 《死亡崛起 3（Dead Rising 3）》v1.0.0.6 中文版 （丧尸围城3）
+
+夸克：https://pan.quark.cn/s/57b7fe1f6058
+
+#### 《三角符文（deltarune）》v1.36
+
+夸克：https://pan.quark.cn/s/16375e1b8179
+
 #### 《油管主播的生活 1+2合集 （Youtubers Life）》最新 中文版
 
 夸克：https://pan.quark.cn/s/19570cac4f60
@@ -170,58 +182,6 @@
 #### 《双影奇境（Split Fiction）》最新 v2025.5.27 联机版
 
 夸克:https://pan.quark.cn/s/90a330bb6289
-
-#### 《克苏鲁信徒》v1.0.0.1 中文版
-
-夸克:https://pan.quark.cn/s/b860ec1129ac
-
-#### 《勇闯死人谷 暗黑之日（Into the Dead Our Darkest Days）》v0.4.11834 中文版
-
-夸克：https://pan.quark.cn/s/e01163e69e8e
-
-#### 《十字军之王 III 草原可汗（Crusader Kings III Khans of the Steppe）》v1.16.1 全DLC中文联机版
-
-夸克：https://pan.quark.cn/s/41a99903d3ae
-
-#### 《博德之门3（Baldurs Gate 3）》v4.1.1.6758295 全DLC 豪华中文 联机版
-
-夸克：https://pan.quark.cn/s/039ac38a5211
-
-#### 《钢铁雄心4》v1.16.6 豪华中文版 全DLC 打包XG器
-
-夸克:https://pan.quark.cn/s/9b5c123aa6d1
-
-#### 《R.E.P.O.》v0.1.2.31 中文 联机版（REPO）
-
-夸克:https://pan.quark.cn/s/da01d84da063
-
-#### 《天国拯救2（Kingdom Come Deliverance 2）黄金版》v1.3 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/e8a70ec41cc6
-
-#### 《冰汽时代2（Frostpunk 2）豪华版》v1.3.1 全DLC 豪华中文版
-
-夸克：https://pan.quark.cn/s/9c0475eea898
-
-#### 《人渣SCUM》 v0.9.611.90072 豪华中文版 全DLC
-
-夸克:https://pan.quark.cn/s/4762c2a74c7c
-
-#### 《潜水员戴夫》v1.0.4.1647 豪华中文版 全DLC 打包XG器
-
-夸克:https://pan.quark.cn/s/ab3b9d10bd63
-
-#### 《暗黑破坏神3（Diablo 3）重制版》v2.0.1.22044 英文版（看启动说明）
-
-夸克：https://pan.quark.cn/s/9e25d305c110
-
-#### 《往日不再》v1.25.679.0 豪华中文版 全DLC 打包XG器 
-
-夸克:https://pan.quark.cn/s/82cf2423ccc0
-
-#### 《鬼谷八荒》v1.2.110.259 豪华中文版 全DLC 打包XG器
-
-夸克:https://pan.quark.cn/s/d4195ae46669
 
 ---
 
