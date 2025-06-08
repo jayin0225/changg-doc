@@ -155,6 +155,14 @@
 
 ## 最近更新
 
+#### 《最后生还者2：重制版（The Last of Us Part 2 Remastered）》v1.4.10515  中文版（美末2）
+
+夸克：https://pan.quark.cn/s/39b9feaad93b
+
+#### 《最后生还者（The Last of Us Part I）》v1.1.4.0 全DLC 豪华 中文版（美国末日）
+
+夸克:https://pan.quark.cn/s/d916dde3bbbd
+
 #### 《幻想生活i 转圈圈的龙和偷取时间的少女（FANTASY LIFE i）》v1.2.1 中文版
 
 夸克：https://pan.quark.cn/s/a5235626cee9
@@ -727,7 +735,7 @@
 
 夸克:https://pan.quark.cn/s/5a8f65257d4d
 
-#### 《最后生还者：重制版》（美国末日）》v1.1.3.0 全DLC豪华中文版 附单独升级补丁+修改器
+#### 《最后生还者（The Last of Us Part I）》最新 全DLC 豪华 中文版（美国末日）
 
 夸克:https://pan.quark.cn/s/d916dde3bbbd
 
