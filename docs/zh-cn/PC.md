@@ -63,6 +63,10 @@
 
 夸克：https://pan.quark.cn/s/b34add59a7e8
 
+#### 《医生生活模拟器》 v2025.6.5 中文版
+
+夸克：https://pan.quark.cn/s/2ec75106c4e4
+
 #### 《小骨：杀手英雄》v 1.9.1  中文版
 
 夸克：https://pan.quark.cn/s/49eb587dccff
@@ -178,6 +182,10 @@
 #### 《宝可梦 朱 紫》v4.0.0 全DLC整合版 附柚子模拟器教程
 
 夸克:https://pan.quark.cn/s/2f0925ea84e4
+
+#### 《腐蚀Rust》 v2590 中文联机版 附单独升级补丁
+
+夸克：https://pan.quark.cn/s/b456616a5df4
 
 #### 《超市模拟器》v1.2.4 中文版 打包XG器
 
@@ -5173,9 +5181,9 @@
 
 夸克:https://pan.quark.cn/s/b82d7c9768c9
 
-#### 《腐蚀Rust》最新 中文联机版 附单独升级补丁
+#### 《腐蚀Rust》 最新 中文联机版 附单独升级补丁
 
-夸克:https://pan.quark.cn/s/5725e914ed57
+夸克：https://pan.quark.cn/s/b456616a5df4
 
 #### 《北境之地（Northgard）》v3.6.28.40864 全DLC 中文 联机版
 
