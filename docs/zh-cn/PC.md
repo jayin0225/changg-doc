@@ -183,6 +183,10 @@
 
 夸克:https://pan.quark.cn/s/2f0925ea84e4
 
+#### 《角斗士公会经理(Gladiator Guild Manager )》v1.041 中文版
+
+夸克:https://pan.quark.cn/s/2759a840bc0e
+
 #### 《腐蚀Rust》 v2590 中文联机版 附单独升级补丁
 
 夸克：https://pan.quark.cn/s/b456616a5df4
@@ -5137,7 +5141,7 @@
 
 夸克:https://pan.quark.cn/s/d8d71cfefebf
 
-#### 《角斗士公会经理》v1.039 中文版
+#### 《角斗士公会经理(Gladiator Guild Manager )》最新 中文版
 
 夸克:https://pan.quark.cn/s/2759a840bc0e
 
