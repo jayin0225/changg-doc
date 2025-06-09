@@ -63,6 +63,14 @@
 
 夸克：https://pan.quark.cn/s/b34add59a7e8
 
+#### 《小骨：杀手英雄》v 1.9.1  中文版
+
+夸克：https://pan.quark.cn/s/49eb587dccff
+
+#### 《汉尘：腐草为萤》2024.07.17
+
+夸克：https://pan.quark.cn/s/4ed646112658
+
 #### 《死亡崛起 3（Dead Rising 3）》v1.0.0.6 中文版 （丧尸围城3）
 
 夸克：https://pan.quark.cn/s/57b7fe1f6058
