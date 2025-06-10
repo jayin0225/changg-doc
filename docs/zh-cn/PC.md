@@ -59,6 +59,10 @@
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
 
+#### 《深海迷航（Subnautica）》 v16.05.2024  中文版
+
+夸克：https://pan.quark.cn/s/18bbbfa4eb35
+
 #### 《匹诺曹的谎言》 v1.8.0.0 豪华中文版 全DLC 新增序曲DLC
 
 夸克：https://pan.quark.cn/s/b34add59a7e8
