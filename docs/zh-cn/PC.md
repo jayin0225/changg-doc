@@ -115,58 +115,6 @@
 
 夸克：https://pan.quark.cn/s/d8914ec0c1f9
 
-#### 《战争机器4（Gears of War 4）》最新 全DLC 中文配音 联机版
-
-夸克：https://pan.quark.cn/s/4aa2e50ee609
-
-#### 《战争机器5（Gears 5）》最新 全DLC 中文配音 联机版
-
-夸克：https://pan.quark.cn/s/c23d686dd9ad
-
-#### 《Creature Keeper》最新 中文版（即时战斗像素宝可梦）
-
-夸克：https://pan.quark.cn/s/8eee728c88dc
-
-#### 《伽马绿宝石（Gamma Emerald）》最新 中文版（gamma绿宝石）
-
-夸克：https://pan.quark.cn/s/d2dcdda6cea2
-
-#### 《缉私警察（Contraband Police）》最新 中文版
-
-夸克：https://pan.quark.cn/s/dfba5a22588c
-
-#### 《使命召唤18：先锋（Call of Duty Vanguard Campaign）》最新 中文版（COD18）
-
-夸克：https://pan.quark.cn/s/b4958c77e7df
-
-#### 《Grandma No》最新 中文版（搞怪奶奶）
-
-夸克：https://pan.quark.cn/s/50afa9261074
-
-#### 《学园构想家（Lets School）》最新 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/76b0b2386ff7
-
-#### 《使命召唤19：现代战争2（Call of Duty Modern Warfare II Campaign）》最新 中文版（COD19）
-
-夸克：https://pan.quark.cn/s/dfb590e56d4f
-
-#### 《JoJo 的奇妙冒险：全明星对战 R》最新 豪华中文版
-
-夸克：https://pan.quark.cn/s/5fa57c640f96
-
-#### 《潜行者：晴空 增强版（S.T.A.L.K.E.R. Clear Sky Enhanced Edition）》最新 中文版
-
-夸克：https://pan.quark.cn/s/d4f24e4a1cce
-
-#### 《潜行者：普里皮亚季的召唤 增强版（S.T.A.L.K.E.R. Call of Prypiat Enhanced Edition）》最新 中文版
-
-夸克：https://pan.quark.cn/s/07dcfa29e60c
-
-#### 《潜行者：切尔诺贝利的阴影 增强版（S.T.A.L.K.E.R. Shadow of Chornobyl Enhanced Edition）》最新 中文版
-
-夸克：https://pan.quark.cn/s/279c78daa1fd
-
 ---
 
 ## 最近更新
@@ -222,6 +170,58 @@
 #### 《黑神话：悟空》周边合集（无游戏）
 
 夸克:https://pan.quark.cn/s/f17ec784d176
+
+#### 《战争机器4（Gears of War 4）》最新 全DLC 中文配音 联机版
+
+夸克：https://pan.quark.cn/s/4aa2e50ee609
+
+#### 《战争机器5（Gears 5）》最新 全DLC 中文配音 联机版
+
+夸克：https://pan.quark.cn/s/c23d686dd9ad
+
+#### 《Creature Keeper》最新 中文版（即时战斗像素宝可梦）
+
+夸克：https://pan.quark.cn/s/8eee728c88dc
+
+#### 《伽马绿宝石（Gamma Emerald）》最新 中文版（gamma绿宝石）
+
+夸克：https://pan.quark.cn/s/d2dcdda6cea2
+
+#### 《缉私警察（Contraband Police）》最新 中文版
+
+夸克：https://pan.quark.cn/s/dfba5a22588c
+
+#### 《使命召唤18：先锋（Call of Duty Vanguard Campaign）》最新 中文版（COD18）
+
+夸克：https://pan.quark.cn/s/b4958c77e7df
+
+#### 《Grandma No》最新 中文版（搞怪奶奶）
+
+夸克：https://pan.quark.cn/s/50afa9261074
+
+#### 《学园构想家（Lets School）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/76b0b2386ff7
+
+#### 《使命召唤19：现代战争2（Call of Duty Modern Warfare II Campaign）》最新 中文版（COD19）
+
+夸克：https://pan.quark.cn/s/dfb590e56d4f
+
+#### 《JoJo 的奇妙冒险：全明星对战 R》最新 豪华中文版
+
+夸克：https://pan.quark.cn/s/5fa57c640f96
+
+#### 《潜行者：晴空 增强版（S.T.A.L.K.E.R. Clear Sky Enhanced Edition）》最新 中文版
+
+夸克：https://pan.quark.cn/s/d4f24e4a1cce
+
+#### 《潜行者：普里皮亚季的召唤 增强版（S.T.A.L.K.E.R. Call of Prypiat Enhanced Edition）》最新 中文版
+
+夸克：https://pan.quark.cn/s/07dcfa29e60c
+
+#### 《潜行者：切尔诺贝利的阴影 增强版（S.T.A.L.K.E.R. Shadow of Chornobyl Enhanced Edition）》最新 中文版
+
+夸克：https://pan.quark.cn/s/279c78daa1fd
 
 #### 《影之遗产（Legacy of Shadows）》最新 中文版（恐怖游戏）
 
