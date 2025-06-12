@@ -118,6 +118,11 @@
 ---
 
 ## 最近更新
+
+#### 《最后纪元》 v1.2.6 豪华中文版 全DLC 打包XG器
+
+夸克:https://pan.quark.cn/s/07390831b0f9
+
 #### 《光与影 33号远征队（Clair Obscur Expedition 33）》v57006 豪华 中文版
 
 夸克：https://pan.quark.cn/s/2d88dc6722a3
@@ -704,7 +709,7 @@
 
 #### 《博德之门3（Baldurs Gate 3）》最新 全DLC 豪华中文 联机版
 
-夸克：https://pan.quark.cn/s/62aacbac11da
+夸克：https://pan.quark.cn/s/43c5d1bd91df
 
 #### 《王国保卫战》1-6部（联盟） 全DLC 电脑版
 
@@ -2222,9 +2227,9 @@
 
 夸克:https://pan.quark.cn/s/dc831cf32a15
 
-#### 《最后纪元》v1.1.7.5 豪华中文版 全DLC 打包XG器
+#### 《最后纪元》 最新 豪华中文版 全DLC 打包XG器
 
-夸克:https://pan.quark.cn/s/a43a1c6fff4b
+夸克:https://pan.quark.cn/s/07390831b0f9
 
 #### 《匿名代码》 中文版 全DLC》v1.0
 
