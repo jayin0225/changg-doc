@@ -95,7 +95,7 @@
 
 夸克：https://pan.quark.cn/s/7a0cb4d5849c
 
-#### 《艾尔登法环：黑夜君临（Elden-Ring-Nightreign）》 最新 豪华中文版  
+#### 《艾尔登法环：黑夜君临（Elden-Ring-Nightreign）》 最新 豪华中文版
 
 夸克：https://pan.quark.cn/s/5602dc1ab614
 
@@ -3579,10 +3579,7 @@
 
 夸克:https://pan.quark.cn/s/b24b53d72b87
 
-#### 《小猫组：逆刃的窃贼》中文版
-
-雪居之地Wildfrost》v1.2.3 中文版
-#### 《
+#### 《雪居之地Wildfrost》v1.2.3 中文版
 夸克:https://pan.quark.cn/s/fe9905574726
 
 #### 《人性末日HumanitZ》v0.912.c 中文版
