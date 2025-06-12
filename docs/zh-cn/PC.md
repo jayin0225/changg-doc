@@ -454,7 +454,7 @@
 
 夸克：https://pan.quark.cn/s/4f7ce7c7845b
 
-#### 《光与影 33号远征队（Clair Obscur Expedition 33）》v57006 豪华 中文版
+#### 《光与影 33号远征队（Clair Obscur Expedition 33）》最新 豪华 中文版
 
 夸克：https://pan.quark.cn/s/2d88dc6722a3
 
