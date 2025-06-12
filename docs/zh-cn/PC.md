@@ -95,7 +95,7 @@
 
 夸克：https://pan.quark.cn/s/7a0cb4d5849c
 
-#### 《艾尔登法环：黑夜君临（Elden-Ring-Nightreign）》 v1.01 豪华中文版
+#### 《艾尔登法环：黑夜君临（Elden-Ring-Nightreign）》 最新 豪华中文版  
 
 夸克：https://pan.quark.cn/s/5602dc1ab614
 
@@ -118,6 +118,9 @@
 ---
 
 ## 最近更新
+#### 《光与影 33号远征队（Clair Obscur Expedition 33）》v57006 豪华 中文版
+
+夸克：https://pan.quark.cn/s/2d88dc6722a3
 
 #### 《最后生还者2：重制版（The Last of Us Part 2 Remastered）》v1.4.10515  中文版（美末2）
 
@@ -344,7 +347,7 @@
 夸克：https://pan.quark.cn/s/db5b4220a33a
 
 #### 《幻想生活i 转圈圈的龙和偷取时间的少女（FANTASY LIFE i）》最新 中文版
- 
+
 夸克：https://pan.quark.cn/s/a5235626cee9
 
 #### 《火影忍者：究极忍者风暴3  完全爆发HD》最新 汉化版（支持键盘）
@@ -451,13 +454,13 @@
 
 夸克：https://pan.quark.cn/s/4f7ce7c7845b
 
+#### 《光与影 33号远征队（Clair Obscur Expedition 33）》v57006 豪华 中文版
+
+夸克：https://pan.quark.cn/s/2d88dc6722a3
+
 #### 《救护车生活：救护员模拟器》 最新 豪华中文版 全DLC
 
 夸克：https://pan.quark.cn/s/a44a68785225
-
-#### 《光与影 33号远征队（Clair Obscur Expedition 33）》最新 豪华 中文版
-
-夸克：https://pan.quark.cn/s/2d88dc6722a3
 
 #### 《饥荒》最新 中文联机版
 
@@ -791,7 +794,7 @@
 
 夸克:https://pan.quark.cn/s/5dadba4674af
 
-#### 《艾尔登法环》最新 全DLC+奖励内容 豪华中文版 附联机补丁（
+#### 《艾尔登法环》最新 全DLC+奖励内容 豪华中文版 附联机补丁
 
 夸克:https://pan.quark.cn/s/046219fba047
 
