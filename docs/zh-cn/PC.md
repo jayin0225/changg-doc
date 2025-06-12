@@ -701,7 +701,7 @@
 
 #### 《博德之门3（Baldurs Gate 3）》最新 全DLC 豪华中文 联机版
 
-夸克：https://pan.quark.cn/s/97d4fa98a552
+夸克：https://pan.quark.cn/s/62aacbac11da
 
 #### 《王国保卫战》1-6部（联盟） 全DLC 电脑版
 
