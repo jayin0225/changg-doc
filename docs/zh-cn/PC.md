@@ -59,6 +59,10 @@
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
 
+#### 《多重人生（The Alters）》 v1.0.1.46 中文版
+
+夸克：https://pan.quark.cn/s/60a458e880bc
+
 #### 《深海迷航（Subnautica）》 v16.05.2024  中文版
 
 夸克：https://pan.quark.cn/s/18bbbfa4eb35
