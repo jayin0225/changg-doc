@@ -58,6 +58,22 @@
 
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
+#### 《Way of the Hunter 精英版》最新 全DLC 中文版（狩猎之道 猎人之路）
+
+夸克：https://pan.quark.cn/s/b3b21c549e3a
+
+#### 《塞伯利亚之谜：世界之前（Syberia The World Before）》最新 中文 豪华版
+
+夸克：https://pan.quark.cn/s/d9c4e101b615
+
+#### 《虚拟少女@ 世界末日（VIRTUAL GIRL @ WORLD’S END）》最新 中文版（视觉小说）
+
+夸克：https://pan.quark.cn/s/b3f97450866e
+
+#### 《星际争霸 重制版（StarCraft Remastered）》最新 中文 联机版
+
+夸克：https://pan.quark.cn/s/cead1c9fa1a7
+
 #### 《inZOI》最新 中文版（云族裔？韩版模拟人生）
 
 夸克：https://pan.quark.cn/s/849a889c7519
