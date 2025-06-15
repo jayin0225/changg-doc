@@ -58,6 +58,10 @@
 
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
+#### 《UnderMine》最新 中文版（地下矿工、矿坑之下）
+
+夸克：https://pan.quark.cn/s/a4f8da95e4fd
+
 #### 《Way of the Hunter 精英版》最新 全DLC 中文版（狩猎之道 猎人之路）
 
 夸克：https://pan.quark.cn/s/b3b21c549e3a
@@ -142,9 +146,13 @@
 
 ## 最近更新
 
-#### 《inZOI》最新 中文版（云族裔？韩版模拟人生）
+#### 《缺氧（Oxygen）》vU56-674504-SCRP 全DLC 豪华中文 联机版
 
-夸克：https://pan.quark.cn/s/849a889c7519
+夸克:https://pan.quark.cn/s/1373b58f11c7
+
+#### 《幻想生活i 转圈圈的龙和偷取时间的少女（FANTASY LIFE i）》v1.3.2 中文版
+
+夸克：https://pan.quark.cn/s/a5235626cee9
 
 #### 《最后纪元》 v1.2.6 豪华中文版 全DLC 打包XG器
 
