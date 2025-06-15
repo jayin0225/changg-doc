@@ -62,6 +62,10 @@
 
 夸克：https://pan.quark.cn/s/a4f8da95e4fd
 
+#### 《心之眼》 最新 豪华中文版
+
+夸克：https://pan.quark.cn/s/f216ca246af9
+
 #### 《Way of the Hunter 精英版》最新 全DLC 中文版（狩猎之道 猎人之路）
 
 夸克：https://pan.quark.cn/s/b3b21c549e3a
