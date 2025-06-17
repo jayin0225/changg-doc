@@ -58,6 +58,18 @@
 
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
+#### 《断箭（Broken Arrow）》 v1.0.6.P 豪华中文版
+
+夸克：https://pan.quark.cn/s/00e73adfebc5
+
+#### 《都市天际线2（Cities Skylines 2）终结版》最新 全DLC 中文版（城市天际线2）
+
+夸克：https://pan.quark.cn/s/92561f2dc586
+
+#### 《异变战区2（E.E.R.I.E2）》最新 中文 联机版
+
+夸克：https://pan.quark.cn/s/24cd36637f44
+
 #### 《地下矿井（UnderMine）》最新 中文版（地下矿工、矿坑之下）
 
 夸克：https://pan.quark.cn/s/a4f8da95e4fd
@@ -149,6 +161,10 @@
 ---
 
 ## 最近更新
+
+#### 《R.E.P.O.》v0.1.2.42  中文 联机版（REPO）
+
+夸克:https://pan.quark.cn/s/da01d84da063
 
 #### 《堕落之主》v2.0.30 豪华中文版 全DLC 打包XG器
 
