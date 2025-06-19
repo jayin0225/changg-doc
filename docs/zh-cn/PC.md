@@ -174,6 +174,10 @@
 
 ## 最近更新
 
+#### 《帝国时代4（Age of Empires IV）周年纪念版》v13.2.4553 全DLC 中文版
+
+夸克:https://pan.quark.cn/s/e48e72f8617e
+
 #### 《人渣SCUM》v1.0.0.0.94918 豪华中文版 全DLC
 
 夸克:https://pan.quark.cn/s/4762c2a74c7c
@@ -1098,7 +1102,7 @@
 
 夸克:https://pan.quark.cn/s/52af982b71bd
 
-#### 《帝国时代4（Age of Empires IV）》最新 全DLC 周年纪念 中文版
+#### 《帝国时代4（Age of Empires IV）周年纪念版》最新 全DLC 中文版
 
 夸克:https://pan.quark.cn/s/e48e72f8617e
 
