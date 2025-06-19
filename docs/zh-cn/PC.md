@@ -58,6 +58,10 @@
 
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
+#### 《咒语旅团（The Spell Brigade）》最新  中文版
+
+夸克：https://pan.quark.cn/s/f1db064342f4
+
 #### 《使命召唤：现代战争3（Call of Duty Modern Warfare 3）》 v10.1.16258245 英文版（不含战役模式 仅支持多人地图的人机对战）
 
 夸克：https://pan.quark.cn/s/3a6a1f6f8730
@@ -165,6 +169,10 @@
 ---
 
 ## 最近更新
+
+#### 《人渣SCUM》v1.0.0.0.94918 豪华中文版 全DLC
+
+夸克:https://pan.quark.cn/s/4762c2a74c7c
 
 #### 《R.E.P.O.》v0.1.2.42  中文 联机版（REPO）
 
