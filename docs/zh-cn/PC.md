@@ -58,9 +58,6 @@
 
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
-#### 《光环无限啊（Halo Infinite）》 v6.10020.17952.0   中文版
-
-夸克：https://pan.quark.cn/s/b3b34f2ba102
 
 #### 《咒语旅团（The Spell Brigade）》最新  中文版
 
@@ -69,6 +66,10 @@
 #### 《使命召唤：现代战争3（Call of Duty Modern Warfare 3）》 v10.1.16258245 英文版（不含战役模式 仅支持多人地图的人机对战）
 
 夸克：https://pan.quark.cn/s/3a6a1f6f8730
+
+#### 《光环无限（Halo Infinite）》 v6.10020.17952.0   中文版
+
+夸克：https://pan.quark.cn/s/b3b34f2ba102
 
 #### 《断箭（Broken Arrow）》 v1.0.6.P 豪华中文版
 
@@ -173,6 +174,10 @@
 ---
 
 ## 最近更新
+
+#### 《上古卷轴4：湮灭》 重制版   v1.511.102.0   豪华中文版 全DLC
+
+夸克：https://pan.quark.cn/s/9c3aec30dd9a
 
 #### 《帝国时代4（Age of Empires IV）周年纪念版》v13.2.4553 全DLC 中文版
 
