@@ -59,6 +59,10 @@
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
 
+#### 《大侠立志传：碧血丹心（Hero's Adventure）》v 1.2.0424b74    中文版
+
+夸克：https://pan.quark.cn/s/620812266021
+
 #### 《咒语旅团（The Spell Brigade）》最新  中文版
 
 夸克：https://pan.quark.cn/s/f1db064342f4
@@ -90,6 +94,42 @@
 #### 《心之眼》 最新 豪华中文版
 
 夸克：https://pan.quark.cn/s/f216ca246af9
+
+---
+
+## 最近更新
+
+#### 《上古卷轴4：湮灭》 重制版   v1.511.102.0   豪华中文版 全DLC
+
+夸克：https://pan.quark.cn/s/9c3aec30dd9a
+
+#### 《帝国时代4（Age of Empires IV）周年纪念版》v13.2.4553 全DLC 中文版
+
+夸克:https://pan.quark.cn/s/e48e72f8617e
+
+#### 《人渣SCUM》v1.0.0.0.94918 豪华中文版 全DLC
+
+夸克:https://pan.quark.cn/s/4762c2a74c7c
+
+#### 《R.E.P.O.》v0.1.2.42  中文 联机版（REPO）
+
+夸克:https://pan.quark.cn/s/da01d84da063
+
+#### 《堕落之主》v2.0.30 豪华中文版 全DLC 打包XG器
+
+夸克:https://pan.quark.cn/s/b9101d18b965
+
+#### 《缺氧（Oxygen）》vU56-674504-SCRP 全DLC 豪华中文 联机版
+
+夸克:https://pan.quark.cn/s/1373b58f11c7
+
+---
+
+## 已有游戏
+
+#### 《黑神话：悟空》周边合集（无游戏）
+
+夸克:https://pan.quark.cn/s/f17ec784d176
 
 #### 《Way of the Hunter 精英版》最新 全DLC 中文版（狩猎之道 猎人之路）
 
@@ -170,98 +210,6 @@
 #### 《模拟农场25 (Farming Simulator 25) 》最新 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/d8914ec0c1f9
-
----
-
-## 最近更新
-
-#### 《上古卷轴4：湮灭》 重制版   v1.511.102.0   豪华中文版 全DLC
-
-夸克：https://pan.quark.cn/s/9c3aec30dd9a
-
-#### 《帝国时代4（Age of Empires IV）周年纪念版》v13.2.4553 全DLC 中文版
-
-夸克:https://pan.quark.cn/s/e48e72f8617e
-
-#### 《人渣SCUM》v1.0.0.0.94918 豪华中文版 全DLC
-
-夸克:https://pan.quark.cn/s/4762c2a74c7c
-
-#### 《R.E.P.O.》v0.1.2.42  中文 联机版（REPO）
-
-夸克:https://pan.quark.cn/s/da01d84da063
-
-#### 《堕落之主》v2.0.30 豪华中文版 全DLC 打包XG器
-
-夸克:https://pan.quark.cn/s/b9101d18b965
-
-#### 《缺氧（Oxygen）》vU56-674504-SCRP 全DLC 豪华中文 联机版
-
-夸克:https://pan.quark.cn/s/1373b58f11c7
-
-#### 《幻想生活i 转圈圈的龙和偷取时间的少女（FANTASY LIFE i）》v1.3.2 中文版
-
-夸克：https://pan.quark.cn/s/a5235626cee9
-
-#### 《最后纪元》 v1.2.6 豪华中文版 全DLC 打包XG器
-
-夸克:https://pan.quark.cn/s/07390831b0f9
-
-#### 《光与影 33号远征队（Clair Obscur Expedition 33）》v57006 豪华 中文版
-
-夸克：https://pan.quark.cn/s/2d88dc6722a3
-
-#### 《最后生还者2：重制版（The Last of Us Part 2 Remastered）》v1.4.10515  中文版（美末2）
-
-夸克：https://pan.quark.cn/s/39b9feaad93b
-
-#### 《最后生还者（The Last of Us Part I）》v1.1.4.0 全DLC 豪华 中文版（美国末日）
-
-夸克:https://pan.quark.cn/s/d916dde3bbbd
-
-#### 《幻想生活i 转圈圈的龙和偷取时间的少女（FANTASY LIFE i）》v1.2.1 中文版
-
-夸克：https://pan.quark.cn/s/a5235626cee9
-
-#### 《宝可梦 朱 紫》v4.0.0 全DLC整合版 附柚子模拟器教程
-
-夸克:https://pan.quark.cn/s/2f0925ea84e4
-
-#### 《角斗士公会经理(Gladiator Guild Manager )》v1.041 中文版
-
-夸克:https://pan.quark.cn/s/2759a840bc0e
-
-#### 《腐蚀Rust》 v2590 中文联机版 附单独升级补丁
-
-夸克：https://pan.quark.cn/s/b456616a5df4
-
-#### 《超市模拟器》v1.2.4 中文版 打包XG器
-
-夸克:https://pan.quark.cn/s/4539de9e02b6
-
-#### 《潜行者2：切尔诺贝利之心》v1.4.2 终极中文版 全DLC 打包XG器
-
-夸克:https://pan.quark.cn/s/de848953f6a8
-
-#### 《漫威蜘蛛侠2》v1.526 豪华中文版 全DLC 打包XG器
-
-夸克:https://pan.quark.cn/s/3583be7a6f84
-
-#### 《设备医生模拟器2024（Device.Doctor.Simulator.2024）》Build.18664339 中文版
-
-夸克:https://pan.quark.cn/s/cbf136ecf7f1
-
-#### 《双影奇境（Split Fiction）》最新 v2025.5.27 联机版
-
-夸克:https://pan.quark.cn/s/90a330bb6289
-
----
-
-## 已有游戏
-
-#### 《黑神话：悟空》周边合集（无游戏）
-
-夸克:https://pan.quark.cn/s/f17ec784d176
 
 #### 《战争机器4（Gears of War 4）》最新 全DLC 中文配音 联机版
 
