@@ -117,6 +117,9 @@
 ---
 
 ## 最近更新
+#### 《匹诺曹的谎言：序曲（Lies of P Overture）豪华版》v1.9.0.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/b34add59a7e8
 
 #### 《哈迪斯2（Hades II）》v2025.6.18  中文版 附修改器
 
@@ -182,7 +185,7 @@
 
 夸克：https://pan.quark.cn/s/18bbbfa4eb35
 
-#### 《匹诺曹的谎言》 v1.8.0.0 豪华中文版 全DLC 新增序曲DLC
+#### 《匹诺曹的谎言：序曲（Lies of P Overture）豪华版》最新 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/b34add59a7e8
 
