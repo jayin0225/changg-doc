@@ -58,6 +58,25 @@
 
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
+#### 《捞女游戏》 v2025.6.19 中文版
+
+链接：https://pan.quark.cn/s/28706731f38f
+
+#### 《宇宙沙盘（Universe Sandbox）》最新 中文版
+
+夸克：https://pan.quark.cn/s/81f471a6fd78
+
+#### 《逸剑风云决（Wandering Sword）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/383f5e96f5cf
+
+#### 《妖之乡（Yaoling Mythical Journey）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/689df6b97287
+
+#### 《莱恩岛生存指南（Lens Island）》最新 中文版
+
+夸克：https://pan.quark.cn/s/3599c3ab9673
 
 #### 《大侠立志传：碧血丹心（Hero's Adventure）》v 1.2.0424b74    中文版
 
@@ -98,6 +117,10 @@
 ---
 
 ## 最近更新
+
+#### 《哈迪斯2（Hades II）》v2025.6.18  中文版 附修改器
+
+夸克:https://pan.quark.cn/s/52af982b71bd
 
 #### 《上古卷轴4：湮灭》 重制版   v1.511.102.0   豪华中文版 全DLC
 
