@@ -58,6 +58,22 @@
 
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
+#### 《包裹模拟器（Parcel Simulator）》 v2025.6.21 中文版
+
+夸克：https://pan.quark.cn/s/a4bc535a32c3
+
+#### 《Tower Dominion》最新 中文版（塔防游戏）
+
+夸克：https://pan.quark.cn/s/3429349f48d6
+
+#### 《Slackers Carts of Glory》最新 中文 联机版（懒虫荣耀手推车）
+
+夸克：https://pan.quark.cn/s/9e02d1391a3d
+
+#### 《台球国度FX（Pool Nation FX）》最新 英文版
+
+夸克：https://pan.quark.cn/s/c4bbebc6d6ba
+
 #### 《情感反诈模拟器（Revenge On Gold Diggers）》v2025.6.19 中文版（捞女游戏）
 
 夸克：https://pan.quark.cn/s/28706731f38f
@@ -117,6 +133,14 @@
 ---
 
 ## 最近更新
+#### 《超市模拟器》v1.0.1 中文版 打包XG器
+
+夸克:https://pan.quark.cn/s/4539de9e02b6
+
+#### 《失落城堡2（Lost Castle 2）》v0.7.1.2 中文 联机版
+
+夸克:https://pan.quark.cn/s/74310b50de21
+
 #### 《匹诺曹的谎言：序曲（Lies of P Overture）豪华版》v1.9.0.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/b34add59a7e8
