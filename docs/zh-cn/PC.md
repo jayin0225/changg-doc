@@ -58,6 +58,10 @@
 
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
+#### 《侠客风云传（Tale of Wuxia）》最新 中文版
+
+夸克：https://pan.quark.cn/s/935c6c8e7219
+
 #### 《包裹模拟器（Parcel Simulator）》 v2025.6.21 中文版
 
 夸克：https://pan.quark.cn/s/a4bc535a32c3
