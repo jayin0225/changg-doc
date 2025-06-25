@@ -58,6 +58,22 @@
 
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
+#### 《饿狼传说：群狼之城（FATAL FURY City of the Wolves）》最新 中文 联机版
+
+链接：https://pan.quark.cn/s/3bf942623887
+
+#### 《Chained in the Backrooms》最新 中文 联机版（被锁在后室）
+
+夸克：https://pan.quark.cn/s/df50bfe73b4b
+
+#### 《兵马俑（TERRACOTTA）》最新 中文版
+
+夸克：https://pan.quark.cn/s/dfebf840e330
+
+#### 《滑板XL（Skater XL - The Ultimate Skateboarding Game）》v 1.2.10.4  全DLC 英文版   不支持鼠标键盘
+
+夸克：https://pan.quark.cn/s/2de0c8950d44
+
 #### 《侠客风云传（Tale of Wuxia）》最新 中文版
 
 夸克：https://pan.quark.cn/s/935c6c8e7219
@@ -137,6 +153,14 @@
 ---
 
 ## 最近更新
+#### 《侠盗猎车手5增强版（Grand Theft Auto V Enhanced）》GTA5增强版 最新 中文版
+
+夸克：https://pan.quark.cn/s/af36261675d0
+
+#### 《七龙珠：电光炸裂！ZERO》最新 终极中文版 全DLC
+
+夸克:https://pan.quark.cn/s/3629ae024b31
+
 #### 《超市模拟器》v1.0.1 中文版 打包XG器
 
 夸克:https://pan.quark.cn/s/4539de9e02b6
@@ -497,9 +521,9 @@
 
 夸克：https://pan.quark.cn/s/611986b324b3
 
-#### 《侠盗猎车手5增强版（Grand Theft Auto V Enhanced）》最新 中文版（GTA5次世代版）
+#### 《侠盗猎车手5增强版（Grand Theft Auto V Enhanced）》GTA5增强版 最新 中文版
 
-夸克：https://pan.quark.cn/s/a8d83025477b
+夸克：https://pan.quark.cn/s/af36261675d0
 
 #### 《Grand Theft Auto V》GTA5 MOD整合版 超清画质+800真车+179人物
 
