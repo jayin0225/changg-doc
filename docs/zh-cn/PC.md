@@ -58,6 +58,15 @@
 
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
+
+#### 《骑马与砍杀2：霸主（Mount and Blade II Bannerlord）》v1.2.12.77991 全DLC 豪华中文 联机版
+
+夸克：https://pan.quark.cn/s/2b9d6b8520e4
+
+#### 《Nanomon Virtual Pet》最新 中文版（小小萌——你的终极桌面宠物！）
+
+夸克：https://pan.quark.cn/s/af0051d90ce5
+
 #### 《饿狼传说：群狼之城（FATAL FURY City of the Wolves）》最新 中文 联机版
 
 链接：https://pan.quark.cn/s/3bf942623887
@@ -153,6 +162,14 @@
 ---
 
 ## 最近更新
+#### 《幻兽帕鲁（Palworld）》最新 全DLC 中文 联机版 (附：MOD合集+修改器+升级补丁)
+
+夸克:https://pan.quark.cn/s/0ca1b61bb4c6
+
+#### 《缉私警察（Contraband Police）》最新 中文版
+
+夸克：https://pan.quark.cn/s/dfba5a22588c
+
 #### 《侠盗猎车手5增强版（Grand Theft Auto V Enhanced）》GTA5增强版 最新 中文版
 
 夸克：https://pan.quark.cn/s/af36261675d0
