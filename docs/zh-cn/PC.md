@@ -161,6 +161,10 @@
 
 夸克:https://pan.quark.cn/s/3629ae024b31
 
+#### 《同舟共济（Ship of Fools）》最新 全DLC 中文 联机版
+
+夸克:https://pan.quark.cn/s/51bab68faf1b
+
 #### 《超市模拟器》v1.0.1 中文版 打包XG器
 
 夸克:https://pan.quark.cn/s/4539de9e02b6
@@ -4580,7 +4584,7 @@
 
 夸克:https://pan.quark.cn/s/1c2a196e3f9a
 
-#### 《同舟共济》v1.4.0 中文版
+#### 《同舟共济（Ship of Fools）》最新 全DLC 中文 联机版
 
 夸克:https://pan.quark.cn/s/51bab68faf1b
 
