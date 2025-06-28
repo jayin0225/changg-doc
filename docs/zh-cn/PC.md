@@ -59,6 +59,26 @@
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
 
+#### 《骷髅女孩（Skullgirls 2nd Encore）》英文版
+
+夸克：https://pan.quark.cn/s/2075bf76fc22
+
+#### 《PEAK》最新 汉化中文 联机版（多人联机爬山）
+
+夸克：https://pan.quark.cn/s/7071cfef02d5
+
+#### 《沙丘：帝国（Dune Imperium）》最新 全DLC 中文 联机版（桌游）
+
+夸克：https://pan.quark.cn/s/36af058a12e8
+
+#### 《天命奇御二（Fate Seeker II）》最新 中文版
+
+夸克：https://pan.quark.cn/s/553773e729e0
+
+#### 《桌宠屋（Desk Paws）》最新 中文版
+
+夸克：https://pan.quark.cn/s/64345de04ace
+
 #### 《骑马与砍杀2：霸主（Mount and Blade II Bannerlord）》v1.2.12.77991 全DLC 豪华中文 联机版
 
 夸克：https://pan.quark.cn/s/2b9d6b8520e4
@@ -82,86 +102,13 @@
 #### 《滑板XL（Skater XL - The Ultimate Skateboarding Game）》v 1.2.10.4  全DLC 英文版   不支持鼠标键盘
 
 夸克：https://pan.quark.cn/s/2de0c8950d44
-
-#### 《侠客风云传（Tale of Wuxia）》最新 中文版
-
-夸克：https://pan.quark.cn/s/935c6c8e7219
-
-#### 《包裹模拟器（Parcel Simulator）》 v2025.6.21 中文版
-
-夸克：https://pan.quark.cn/s/a4bc535a32c3
-
-#### 《Tower Dominion》最新 中文版（塔防游戏）
-
-夸克：https://pan.quark.cn/s/3429349f48d6
-
-#### 《Slackers Carts of Glory》最新 中文 联机版（懒虫荣耀手推车）
-
-夸克：https://pan.quark.cn/s/9e02d1391a3d
-
-#### 《台球国度FX（Pool Nation FX）》最新 英文版
-
-夸克：https://pan.quark.cn/s/c4bbebc6d6ba
-
-#### 《情感反诈模拟器（Revenge On Gold Diggers）》v2025.6.19 中文版（捞女游戏）
-
-夸克：https://pan.quark.cn/s/28706731f38f
-
-#### 《宇宙沙盘（Universe Sandbox）》最新 中文版
-
-夸克：https://pan.quark.cn/s/81f471a6fd78
-
-#### 《逸剑风云决（Wandering Sword）》最新 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/383f5e96f5cf
-
-#### 《妖之乡（Yaoling Mythical Journey）》最新 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/689df6b97287
-
-#### 《莱恩岛生存指南（Lens Island）》最新 中文版
-
-夸克：https://pan.quark.cn/s/3599c3ab9673
-
-#### 《大侠立志传：碧血丹心（Hero's Adventure）》v 1.2.0424b74    中文版
-
-夸克：https://pan.quark.cn/s/620812266021
-
-#### 《咒语旅团（The Spell Brigade）》最新  中文版
-
-夸克：https://pan.quark.cn/s/f1db064342f4
-
-#### 《使命召唤：现代战争3（Call of Duty Modern Warfare 3）》 v10.1.16258245 英文版（不含战役模式 仅支持多人地图的人机对战）
-
-夸克：https://pan.quark.cn/s/3a6a1f6f8730
-
-#### 《光环无限（Halo Infinite）》 v6.10020.17952.0   中文版
-
-夸克：https://pan.quark.cn/s/b3b34f2ba102
-
-#### 《断箭（Broken Arrow）》 v1.0.6.P 豪华中文版
-
-夸克：https://pan.quark.cn/s/00e73adfebc5
-
-#### 《都市天际线2（Cities Skylines 2）终结版》最新 全DLC 中文版（城市天际线2）
-
-夸克：https://pan.quark.cn/s/92561f2dc586
-
-#### 《异变战区2（E.E.R.I.E2）》最新 中文 联机版
-
-夸克：https://pan.quark.cn/s/24cd36637f44
-
-#### 《地下矿井（UnderMine）》最新 中文版（地下矿工、矿坑之下）
-
-夸克：https://pan.quark.cn/s/a4f8da95e4fd
-
-#### 《心之眼》 最新 豪华中文版
-
-夸克：https://pan.quark.cn/s/f216ca246af9
-
 ---
 
 ## 最近更新
+#### 《出租生涯：模拟城市驾驶》内部》最新   全DLC 豪华中文版
+
+夸克:https://pan.quark.cn/s/5dadba4674af
+
 #### 《幻兽帕鲁（Palworld）》最新 全DLC 中文 联机版 (附：MOD合集+修改器+升级补丁)
 
 夸克:https://pan.quark.cn/s/0ca1b61bb4c6
@@ -201,26 +148,6 @@
 #### 《上古卷轴4：湮灭》 重制版   v1.511.102.0   豪华中文版 全DLC
 
 夸克：https://pan.quark.cn/s/9c3aec30dd9a
-
-#### 《帝国时代4（Age of Empires IV）周年纪念版》v13.2.4553 全DLC 中文版
-
-夸克:https://pan.quark.cn/s/e48e72f8617e
-
-#### 《人渣SCUM》v1.0.0.0.94918 豪华中文版 全DLC
-
-夸克:https://pan.quark.cn/s/4762c2a74c7c
-
-#### 《R.E.P.O.》v0.1.2.42  中文 联机版（REPO）
-
-夸克:https://pan.quark.cn/s/da01d84da063
-
-#### 《堕落之主》v2.0.30 豪华中文版 全DLC 打包XG器
-
-夸克:https://pan.quark.cn/s/b9101d18b965
-
-#### 《缺氧（Oxygen）》vU56-674504-SCRP 全DLC 豪华中文 联机版
-
-夸克:https://pan.quark.cn/s/1373b58f11c7
 
 ---
 
@@ -1362,7 +1289,7 @@
 
 夸克:https://pan.quark.cn/s/b89267401f32
 
-#### 《小小梦魇1》
+#### 《小小梦魇1（Little Nightmares）》
 
 夸克:https://pan.quark.cn/s/d5febe802538
 
@@ -2274,9 +2201,9 @@
 
 夸克:https://pan.quark.cn/s/d7ad29f32903
 
-#### 《小小梦魇2》
+#### 《小小梦魇2（Little Nightmares II）》 最新 中文版
 
-夸克:https://pan.quark.cn/s/9edc81fc9410
+夸克:https://pan.quark.cn/s/9184a5c94d2f
 
 #### 《毁灭战士：永恒》v2024.8.9 豪华中文版 全DLC 打包XG器
 
