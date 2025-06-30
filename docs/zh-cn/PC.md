@@ -58,6 +58,17 @@
 
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
+#### 《犯罪模拟器（Crime Simulator）》最新 中文 联机版
+
+夸克：https://pan.quark.cn/s/9e04f91e206f
+
+#### 《蜘蛛侠：破碎维度（Spider-Man Shattered Dimensions）》最新 汉化中文版
+
+夸克：https://pan.quark.cn/s/622155d73b24
+
+#### 《战锤40K：战斗区域（Warhammer 40000 Battlesector）豪华版》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/222335b98021
 
 #### 《骷髅女孩（Skullgirls 2nd Encore）》英文版
 
