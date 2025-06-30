@@ -58,6 +58,14 @@
 
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
+#### 《TCG卡牌商店模拟器（TCG Card Shop Simulator）》最新 中文版
+s
+夸克：https://pan.quark.cn/s/150d8e210273
+
+#### 《行星的毁灭：泰坦（Planetary Annihilation TITANS）》最新 中文 联机版
+
+夸克：https://pan.quark.cn/s/08e751d93616
+
 #### 《犯罪模拟器（Crime Simulator）》最新 中文 联机版
 
 夸克：https://pan.quark.cn/s/9e04f91e206f
