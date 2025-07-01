@@ -58,6 +58,18 @@
 
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
+#### 《大厨的轮班（The Chefs Shift）》最新 中文版
+
+夸克：https://pan.quark.cn/s/62cb50f1fa74
+
+#### 《战锤40K：行商浪人（Warhammer 40000 Rogue Trader）虚空远航版》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/8d30ff96af1b
+
+#### 《百日战纪 -最终防卫学园-（The Hundred Line Last Defense Academy）》最新 中文版
+
+夸克：https://pan.quark.cn/s/38bf8ee5e131
+
 #### 《TCG卡牌商店模拟器（TCG Card Shop Simulator）》最新 中文版
 
 夸克：https://pan.quark.cn/s/150d8e210273
