@@ -58,6 +58,10 @@
 
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
+#### 《使命召唤20：现代战争3（Call of Duty Modern Warfare 3 2023）》最新 英文版（COD20）
+
+夸克：https://pan.quark.cn/s/5721669da28c
+
 #### 《大厨的轮班（The Chefs Shift）》最新 中文版
 
 夸克：https://pan.quark.cn/s/62cb50f1fa74
@@ -1152,7 +1156,7 @@
 
 夸克:https://pan.quark.cn/s/c1470c22037d
 
-#### 《COD1-14/使命召唤1-14》【原版】
+#### 《COD1-15/使命召唤1-15》【原版】
 
 夸克:https://pan.quark.cn/s/4178397b33d7
 
