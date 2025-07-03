@@ -58,6 +58,14 @@
 
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
+#### 《Rekindled Trails》最新 中文版（温馨奇幻冒险）
+
+夸克：https://pan.quark.cn/s/28fe1eb31550
+
+#### 《美女，请别影响我成仙（Ladys Sect Protector）》最新 中文版
+
+夸克：https://pan.quark.cn/s/cc7693c36257
+
 #### 《克劳斯·李：虎胆龙威（Klaus Lee Thunderballs）》最新 中文版
 
 夸克：https://pan.quark.cn/s/c7461b064ba2
@@ -152,6 +160,14 @@
 ---
 
 ## 最近更新
+#### 《幻想生活i 转圈圈的龙和偷取时间的少女（FANTASY LIFE i）》v1.4.0 中文版 联机版
+
+夸克：https://pan.quark.cn/s/a5235626cee9
+
+#### 《艾尔登法环：黑夜君临（Elden-Ring-Nightreign）》 v1.01.5 豪华中文版 联机版 打包XG器
+
+夸克：https://pan.quark.cn/s/5602dc1ab614
+
 #### 《出租生涯：模拟城市驾驶》内部》最新   全DLC 豪华中文版
 
 夸克:https://pan.quark.cn/s/5dadba4674af
@@ -264,7 +280,7 @@
 
 夸克：https://pan.quark.cn/s/7a0cb4d5849c
 
-#### 《艾尔登法环：黑夜君临（Elden-Ring-Nightreign）》 最新 豪华中文版
+#### 《艾尔登法环：黑夜君临（Elden-Ring-Nightreign）》 最新 豪华中文版 联机版 打包XG器
 
 夸克：https://pan.quark.cn/s/5602dc1ab614
 
@@ -456,7 +472,7 @@
 
 夸克：https://pan.quark.cn/s/db5b4220a33a
 
-#### 《幻想生活i 转圈圈的龙和偷取时间的少女（FANTASY LIFE i）》最新 中文版
+#### 《幻想生活i 转圈圈的龙和偷取时间的少女（FANTASY LIFE i）》最新 中文版 联机版
 
 夸克：https://pan.quark.cn/s/a5235626cee9
 
