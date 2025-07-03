@@ -58,6 +58,18 @@
 
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
+#### 《克劳斯·李：虎胆龙威（Klaus Lee Thunderballs）》最新 中文版
+
+夸克：https://pan.quark.cn/s/c7461b064ba2
+
+#### 《生存战争 API插件版（Survivalcraft）》最新 中文版
+
+夸克：https://pan.quark.cn/s/258e94797003
+
+#### 《狭间骑士（Knights in Tight Spaces）典藏版》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/70447c0c1045
+
 #### 《使命召唤20：现代战争3（Call of Duty Modern Warfare 3 2023）》最新 英文版（COD20）
 
 夸克：https://pan.quark.cn/s/5721669da28c
