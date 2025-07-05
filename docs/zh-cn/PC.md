@@ -58,6 +58,10 @@
 
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
+#### 《超级机器人大战30（Super Robot Wars 30）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/19fcfcd9e629
+
 #### 《Rekindled Trails》最新 中文版（温馨奇幻冒险）
 
 夸克：https://pan.quark.cn/s/28fe1eb31550
