@@ -760,30 +760,6 @@
 
 夸克：https://pan.quark.cn/s/e01163e69e8e
 
-#### 《解压缩软件》
-
-夸克:https://pan.quark.cn/s/5a389b3ccd61
-
-#### 《运行库+DX修复工具》
-
-夸克:https://pan.quark.cn/s/ad994a3ea1b9
-
-#### 《游戏合集 总目录》
-
-夸克:https://pan.quark.cn/s/5e734d360ab0
-
-#### 《yuzu 柚子模拟器 PC和安卓 +龙神模拟器》最新版本
-
-夸克:https://pan.quark.cn/s/76f63797422f
-
-#### 《虚拟局域网软件(Radmin LAN)》能轻松的把局域网联机的游戏通过互联网来联机
-
-夸克:https://pan.quark.cn/s/3c718e73e594
-
-#### 《壁纸引擎（Wallpaper Engine）》最新 中文版
-
-夸克:https://pan.quark.cn/s/11cf3d10d0ca
-
 #### 《战神5：诸神黄昏》 v1.0.643.6425 豪华中文版 全DLC 打包XG器
 
 夸克:https://pan.quark.cn/s/58bffb6e362c
@@ -884,7 +860,7 @@
 
 夸克:https://pan.quark.cn/s/26c78abc655e
 
-#### 《完蛋！我被美女包围了（Lo》ve Is All Around）》v1.13.0.61 中文 模拟器整合 PC+安卓版（真人互动游戏
+#### 《完蛋！我被美女包围了（Lo》ve Is All Around）》v1.13.0.61 中文 模拟器整合 PC+安卓版（真人互动游戏）
 
 夸克:https://pan.quark.cn/s/419e74e15798
 
@@ -939,14 +915,6 @@
 #### 《鬼屋魔影：重制版》v1.05 豪华中文版 全DLC 打包XG器
 
 夸克:https://pan.quark.cn/s/da7c1928d8e2
-
-#### 《宝可梦 剑 盾》v1.3.2 整合版 附 柚子模拟器教程
-
-夸克:https://pan.quark.cn/s/323dfacec962
-
-#### 《宝可梦 朱 紫》最新 全DLC整合版 附柚子模拟器教程
-
-夸克:https://pan.quark.cn/s/2f0925ea84e4
 
 #### 《高仿宝可梦：科洛蒙》最新 中文版
 
@@ -1152,10 +1120,6 @@
 
 夸克:https://pan.quark.cn/s/18a9ef9547d2
 
-#### 《超级马力欧派对 空前盛会（Super Mario Party Jamboree）》最新 模拟器整合 PC+安卓 中文版
-
-夸克:https://pan.quark.cn/s/21b02ccd5cb3
-
 #### 《无名九使：觉醒》v2024.10.18 中文版
 
 夸克:https://pan.quark.cn/s/22b742cb6d1f
@@ -1187,10 +1151,6 @@
 #### 《影子武士2》v1.1.14 豪华中文版 全DLC
 
 夸克:https://pan.quark.cn/s/09afaefc4920
-
-#### 《波斯王子：失落的王冠》v1.0.2 豪华中文正式版 3DLC 模拟器整合版
-
-夸克:https://pan.quark.cn/s/83fd2f74fca3
 
 #### 《模拟火车世界4》v1.0.2137.0 豪华中文联机版 全99个DLC
 
@@ -1580,10 +1540,6 @@
 
 夸克:https://pan.quark.cn/s/58331b127946
 
-#### 《双点校园》v9.0.135830 yuzu模拟器整合版 全DLC
-
-夸克:https://pan.quark.cn/s/cdc3756debfd
-
 #### 《全面战争》 不列颠王座+金手指
 
 夸克:https://pan.quark.cn/s/0087683b4e4b
@@ -1827,10 +1783,6 @@
 #### 《深海迷航：美丽水世界》v2024.1.11 中文版
 
 夸克:https://pan.quark.cn/s/69c3d11fa3c7
-
-#### 《建筑模拟器2》【模拟器版】
-
-夸克:https://pan.quark.cn/s/c4239d823701
 
 #### 《尘封大陆》v1.119040.1728481680 豪华中文版 全DLC 打包XG器
 
@@ -2699,10 +2651,6 @@
 #### 《翼星求生》v2.2.15.125724 豪华中文版 全DLC 附XG器
 
 夸克:https://pan.quark.cn/s/288bd4191fe4
-
-#### 《真人快打1》 模拟器版
-
-夸克:https://pan.quark.cn/s/b14ae9c78d64
 
 #### 《影子战术：将军之刃》v2.2.11.F
 
@@ -3583,10 +3531,6 @@
 #### 《我来自江湖》v5.00HF 中文版
 
 夸克:https://pan.quark.cn/s/e7227eb75f9f
-
-#### 《无限神速斩：勇者斗恶龙 达伊的大冒险》v1.0.2 模拟器版
-
-夸克:https://pan.quark.cn/s/1dd8c8f15898
 
 #### 《维京之乡》v1.2.0》v 中文版 新增奴隶DLC
 
@@ -4799,14 +4743,6 @@
 
 夸克:https://pan.quark.cn/s/34c59940b21e
 
-#### 《超级马里奥兄弟：惊奇》v1.0.0 yuzu模拟器整合版
-
-夸克:https://pan.quark.cn/s/938fb5925c17
-
-#### 《超级马力欧RPG》v1.0.0 yuzu模拟器整合版
-
-夸克:https://pan.quark.cn/s/0afe856495c3
-
 #### 《开罗物语：创造都市岛物语》 中文版
 
 夸克:https://pan.quark.cn/s/5947d04bfd56
@@ -4883,10 +4819,6 @@
 
 夸克:https://pan.quark.cn/s/84a57f18ca84
 
-#### 《女神异闻录5：战略版》v1.0.2 yuzu模拟器版 全DLC
-
-夸克:https://pan.quark.cn/s/07d6abde77a4
-
 #### 《拆迁》v1.6.2 豪华中文版 全DLC
 
 夸克:https://pan.quark.cn/s/a45fe2a97865
@@ -4922,10 +4854,6 @@
 #### 《忆我：一个性格测试游戏》 中文版
 
 夸克:https://pan.quark.cn/s/51218aa222ed
-
-#### 《无双：风花雪月》v1.0.2 yuzu模拟器中文版
-
-夸克:https://pan.quark.cn/s/5f7c1b0c0135
 
 #### 《诸子无双》v1.14 中文版-新模式
 

@@ -30,8 +30,63 @@
 
 夸克：https://pan.quark.cn/s/8030eb5b2f0f
 
+#### 《yuzu 柚子模拟器+龙神模拟器》最新 PC和安卓版（固件+密钥 在此获取更新）
+
+夸克:https://pan.quark.cn/s/76f63797422f
 
 #### 《文明7》最新 全DLC NS模拟器整合版 PC+安卓
 
 夸克：https://pan.quark.cn/s/6ee569a79990
+
+#### 《完蛋！我被美女包围了（Lo》ve Is All Around）》v1.13.0.61 中文 模拟器整合 PC+安卓版（真人互动游戏）
+
+夸克:https://pan.quark.cn/s/419e74e15798
+
+#### 《宝可梦 剑 盾》v1.3.2 整合版 附 柚子模拟器教程
+
+夸克:https://pan.quark.cn/s/323dfacec962
+
+#### 《宝可梦 朱 紫》最新 全DLC整合版 附柚子模拟器教程
+
+夸克:https://pan.quark.cn/s/2f0925ea84e4
+
+#### 《超级马力欧派对 空前盛会（Super Mario Party Jamboree）》最新 模拟器整合 PC+安卓 中文版
+
+夸克:https://pan.quark.cn/s/21b02ccd5cb3
+
+#### 《波斯王子：失落的王冠》v1.0.2 豪华中文正式版 3DLC 模拟器整合版
+
+夸克:https://pan.quark.cn/s/83fd2f74fca3
+
+#### 《双点校园》v9.0.135830 yuzu模拟器整合版 全DLC
+
+夸克:https://pan.quark.cn/s/cdc3756debfd
+
+#### 《建筑模拟器2》【模拟器版】
+
+夸克:https://pan.quark.cn/s/c4239d823701
+
+#### 《真人快打1》 模拟器版
+
+夸克:https://pan.quark.cn/s/b14ae9c78d64
+
+#### 《无限神速斩：勇者斗恶龙 达伊的大冒险》v1.0.2 模拟器版
+
+夸克:https://pan.quark.cn/s/1dd8c8f15898
+
+#### 《超级马里奥兄弟：惊奇》v1.0.0 yuzu模拟器整合版
+
+夸克:https://pan.quark.cn/s/938fb5925c17
+
+#### 《超级马力欧RPG》v1.0.0 yuzu模拟器整合版
+
+夸克:https://pan.quark.cn/s/0afe856495c3
+
+#### 《女神异闻录5：战略版》v1.0.2 yuzu模拟器版 全DLC
+
+夸克:https://pan.quark.cn/s/07d6abde77a4
+
+#### 《无双：风花雪月》v1.0.2 yuzu模拟器中文版
+
+夸克:https://pan.quark.cn/s/5f7c1b0c0135
 
