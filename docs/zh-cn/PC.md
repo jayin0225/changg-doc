@@ -58,6 +58,38 @@
 
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
+#### 《深海迷航（Subnautica）》最新  中文版
+
+夸克：https://pan.quark.cn/s/189ddf4a0216
+
+#### 《发霉的孩子（The Mildew Children）》最新 中文版
+
+夸克：https://pan.quark.cn/s/473acad196c8
+
+#### 《故障星系（Galactic Glitch）》最新 中文版
+
+夸克：https://pan.quark.cn/s/dd33fc0ddd17
+
+#### 《神选战争（Chosen War）》最新 中文版
+
+夸克：https://pan.quark.cn/s/892bbab961f1
+
+#### 《深岩银河（Deep Rock Galactic）》最新 全DLC 豪华中文 联机版
+
+夸克：https://pan.quark.cn/s/bca45cbedd6f
+
+#### 《苏菲亚的谎言与代价（Sofia in Exchange for Lies）》最新 中文版（视觉小说）
+
+夸克：https://pan.quark.cn/s/22d896e0b74f
+
+#### 《危险时空的恋人（Lovers in a Dangerous Spacetime）》最新 中文 联机版
+
+夸克：https://pan.quark.cn/s/def24246088b
+
+#### 《误入歧途（Lost in Play）》最近 中文版
+
+夸克：https://pan.quark.cn/s/733f8403f5d5
+
 #### 《超级机器人大战30（Super Robot Wars 30）》最新 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/19fcfcd9e629
@@ -69,6 +101,68 @@
 #### 《美女，请别影响我成仙（Ladys Sect Protector）》最新 中文版
 
 夸克：https://pan.quark.cn/s/cc7693c36257
+---
+
+## 最近更新
+#### 《幻想生活i 转圈圈的龙和偷取时间的少女（FANTASY LIFE i）》v1.4.0 中文版 联机版
+
+夸克：https://pan.quark.cn/s/a5235626cee9
+
+#### 《艾尔登法环：黑夜君临（Elden-Ring-Nightreign）》 v1.01.5 豪华中文版 联机版 打包XG器
+
+夸克：https://pan.quark.cn/s/5602dc1ab614
+
+#### 《出租生涯：模拟城市驾驶》内部》最新   全DLC 豪华中文版
+
+夸克:https://pan.quark.cn/s/5dadba4674af
+
+#### 《幻兽帕鲁（Palworld）》最新 全DLC 中文 联机版 (附：MOD合集+修改器+升级补丁)
+
+夸克:https://pan.quark.cn/s/0ca1b61bb4c6
+
+#### 《缉私警察（Contraband Police）》最新 中文版
+
+夸克：https://pan.quark.cn/s/dfba5a22588c
+
+#### 《侠盗猎车手5增强版（Grand Theft Auto V Enhanced）》GTA5增强版 最新 中文版
+
+夸克：https://pan.quark.cn/s/af36261675d0
+
+#### 《七龙珠：电光炸裂！ZERO》最新 终极中文版 全DLC
+
+夸克:https://pan.quark.cn/s/3629ae024b31
+
+#### 《同舟共济（Ship of Fools）》最新 全DLC 中文 联机版
+
+夸克:https://pan.quark.cn/s/51bab68faf1b
+
+#### 《超市模拟器》v1.0.1 中文版 打包XG器
+
+夸克:https://pan.quark.cn/s/4539de9e02b6
+
+#### 《失落城堡2（Lost Castle 2）》v0.7.1.2 中文 联机版
+
+夸克:https://pan.quark.cn/s/74310b50de21
+
+#### 《匹诺曹的谎言：序曲（Lies of P Overture）豪华版》v1.9.0.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/b34add59a7e8
+
+#### 《哈迪斯2（Hades II）》v2025.6.18  中文版 附修改器
+
+夸克:https://pan.quark.cn/s/52af982b71bd
+
+#### 《上古卷轴4：湮灭》 重制版   v1.511.102.0   豪华中文版 全DLC
+
+夸克：https://pan.quark.cn/s/9c3aec30dd9a
+
+---
+
+## 已有游戏
+
+#### 《黑神话：悟空》周边合集（无游戏）
+
+夸克:https://pan.quark.cn/s/f17ec784d176
 
 #### 《克劳斯·李：虎胆龙威（Klaus Lee Thunderballs）》最新 中文版
 
@@ -161,68 +255,6 @@
 #### 《滑板XL（Skater XL - The Ultimate Skateboarding Game）》v 1.2.10.4  全DLC 英文版   不支持鼠标键盘
 
 夸克：https://pan.quark.cn/s/2de0c8950d44
----
-
-## 最近更新
-#### 《幻想生活i 转圈圈的龙和偷取时间的少女（FANTASY LIFE i）》v1.4.0 中文版 联机版
-
-夸克：https://pan.quark.cn/s/a5235626cee9
-
-#### 《艾尔登法环：黑夜君临（Elden-Ring-Nightreign）》 v1.01.5 豪华中文版 联机版 打包XG器
-
-夸克：https://pan.quark.cn/s/5602dc1ab614
-
-#### 《出租生涯：模拟城市驾驶》内部》最新   全DLC 豪华中文版
-
-夸克:https://pan.quark.cn/s/5dadba4674af
-
-#### 《幻兽帕鲁（Palworld）》最新 全DLC 中文 联机版 (附：MOD合集+修改器+升级补丁)
-
-夸克:https://pan.quark.cn/s/0ca1b61bb4c6
-
-#### 《缉私警察（Contraband Police）》最新 中文版
-
-夸克：https://pan.quark.cn/s/dfba5a22588c
-
-#### 《侠盗猎车手5增强版（Grand Theft Auto V Enhanced）》GTA5增强版 最新 中文版
-
-夸克：https://pan.quark.cn/s/af36261675d0
-
-#### 《七龙珠：电光炸裂！ZERO》最新 终极中文版 全DLC
-
-夸克:https://pan.quark.cn/s/3629ae024b31
-
-#### 《同舟共济（Ship of Fools）》最新 全DLC 中文 联机版
-
-夸克:https://pan.quark.cn/s/51bab68faf1b
-
-#### 《超市模拟器》v1.0.1 中文版 打包XG器
-
-夸克:https://pan.quark.cn/s/4539de9e02b6
-
-#### 《失落城堡2（Lost Castle 2）》v0.7.1.2 中文 联机版
-
-夸克:https://pan.quark.cn/s/74310b50de21
-
-#### 《匹诺曹的谎言：序曲（Lies of P Overture）豪华版》v1.9.0.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/b34add59a7e8
-
-#### 《哈迪斯2（Hades II）》v2025.6.18  中文版 附修改器
-
-夸克:https://pan.quark.cn/s/52af982b71bd
-
-#### 《上古卷轴4：湮灭》 重制版   v1.511.102.0   豪华中文版 全DLC
-
-夸克：https://pan.quark.cn/s/9c3aec30dd9a
-
----
-
-## 已有游戏
-
-#### 《黑神话：悟空》周边合集（无游戏）
-
-夸克:https://pan.quark.cn/s/f17ec784d176
 
 #### 《Way of the Hunter 精英版》最新 全DLC 中文版（狩猎之道 猎人之路）
 
