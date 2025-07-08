@@ -58,6 +58,14 @@
 
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
+#### 《烹饪模拟器（Cooking Simulator）》 最新 全DLC 豪华中文版
+
+夸克：https://pan.quark.cn/s/f1cee2f61866
+
+#### 《生化公司：救赎（Bio Inc Redemption）》最新 英文 联机版
+
+夸克：https://pan.quark.cn/s/864bc979dd68
+
 #### 《Bodycam：肾上腺素》 最新  中文联机版 (随身摄像机)
 
 夸克：https://pan.quark.cn/s/fa665d3db3d1
