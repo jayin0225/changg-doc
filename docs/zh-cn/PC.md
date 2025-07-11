@@ -58,6 +58,10 @@
 
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
+#### 《TCG多人卡牌商店模拟器（TCG Multiplayer Card Shop Simulator）》最新 中文版
+
+夸克：https://pan.quark.cn/s/0351375e39f8
+
 #### 《烹饪模拟器（Cooking Simulator）》 最新 全DLC 豪华中文版
 
 夸克：https://pan.quark.cn/s/f1cee2f61866
