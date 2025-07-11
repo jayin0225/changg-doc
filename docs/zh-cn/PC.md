@@ -120,6 +120,18 @@
 ---
 
 ## 最近更新
+#### 《幸福工厂》 v1.1.1.0  全DLC 中文联机版 打包XG器
+
+夸克:https://pan.quark.cn/s/4d5453dbbc50
+
+#### 《最后生还者2：重制版（The Last of Us Part 2 Remastered）》v1.3.10430.406 中文版 打包XG器（美末2）
+
+夸克：https://pan.quark.cn/s/39b9feaad93b
+
+#### 《堕落之主》v2.0.41 豪华中文版 全DLC 打包XG器
+
+夸克:https://pan.quark.cn/s/b9101d18b965
+
 #### 《幻想生活i 转圈圈的龙和偷取时间的少女（FANTASY LIFE i）》v1.4.0 中文版 联机版
 
 夸克：https://pan.quark.cn/s/a5235626cee9
@@ -132,7 +144,7 @@
 
 夸克:https://pan.quark.cn/s/5dadba4674af
 
-#### 《幻兽帕鲁（Palworld）》最新 全DLC 中文 联机版 (附：MOD合集+修改器+升级补丁)
+#### 《幻兽帕鲁（Palworld）》v0.6.2.76269 全DLC 中文 联机版 (附：MOD合集+修改器+升级补丁)
 
 夸克:https://pan.quark.cn/s/0ca1b61bb4c6
 
@@ -668,7 +680,7 @@
 
 夸克：https://pan.quark.cn/s/2690ab09ae04
 
-#### 《最后生还者2：重制版（The Last of Us Part 2 Remastered）》v1.1.10411 中文版 打包XG器（美末2）
+#### 《最后生还者2：重制版（The Last of Us Part 2 Remastered）》最新 中文版 打包XG器（美末2）
 
 夸克：https://pan.quark.cn/s/39b9feaad93b
 
@@ -4515,7 +4527,7 @@
 
 夸克:https://pan.quark.cn/s/d2c89f3d4d87
 
-#### 《幸福工厂》v1.0.0.7 中文联机版 打包XG器
+#### 《幸福工厂》最新  全DLC 中文联机版 打包XG器
 
 夸克:https://pan.quark.cn/s/4d5453dbbc50
 
