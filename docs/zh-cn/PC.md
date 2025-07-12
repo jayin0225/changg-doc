@@ -58,9 +58,17 @@
 
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
+#### 《战锤40K：星际战士 2(Warhammer 40,000 Space Marine 2)》 V8.1.0.1   全DLC 中文版
+
+夸克：https://pan.quark.cn/s/16a585ca424d
+
 #### 《TCG多人卡牌商店模拟器（TCG Multiplayer Card Shop Simulator）》最新 中文版
 
 夸克：https://pan.quark.cn/s/0351375e39f8
+
+#### 《模拟美景摄影（Lushfoil Photography Sim）》最新 中文版
+
+夸克：https://pan.quark.cn/s/16d2be2ce50b
 
 #### 《烹饪模拟器（Cooking Simulator）》 最新 全DLC 豪华中文版
 
@@ -124,6 +132,10 @@
 ---
 
 ## 最近更新
+#### 《断箭（Broken Arrow）》 v1.0.7.p   豪华中文版
+
+夸克：https://pan.quark.cn/s/00e73adfebc5
+
 #### 《幸福工厂》 v1.1.1.0  全DLC 中文联机版 打包XG器
 
 夸克:https://pan.quark.cn/s/4d5453dbbc50
@@ -287,6 +299,82 @@
 #### 《滑板XL（Skater XL - The Ultimate Skateboarding Game）》v 1.2.10.4  全DLC 英文版   不支持鼠标键盘
 
 夸克：https://pan.quark.cn/s/2de0c8950d44
+
+#### 《侠客风云传（Tale of Wuxia）》最新 中文版
+
+夸克：https://pan.quark.cn/s/935c6c8e7219
+
+#### 《包裹模拟器（Parcel Simulator）》 v2025.6.21 中文版
+
+夸克：https://pan.quark.cn/s/a4bc535a32c3
+
+#### 《Tower Dominion》最新 中文版（塔防游戏）
+
+夸克：https://pan.quark.cn/s/3429349f48d6
+
+#### 《Slackers Carts of Glory》最新 中文 联机版（懒虫荣耀手推车）
+
+夸克：https://pan.quark.cn/s/9e02d1391a3d
+
+#### 《台球国度FX（Pool Nation FX）》最新 英文版
+
+夸克：https://pan.quark.cn/s/c4bbebc6d6ba
+
+#### 《情感反诈模拟器（Revenge On Gold Diggers）》v2025.6.19 中文版（捞女游戏）
+
+夸克：https://pan.quark.cn/s/28706731f38f
+
+#### 《宇宙沙盘（Universe Sandbox）》最新 中文版
+
+夸克：https://pan.quark.cn/s/81f471a6fd78
+
+#### 《逸剑风云决（Wandering Sword）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/383f5e96f5cf
+
+#### 《妖之乡（Yaoling Mythical Journey）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/689df6b97287
+
+#### 《莱恩岛生存指南（Lens Island）》最新 中文版
+
+夸克：https://pan.quark.cn/s/3599c3ab9673
+
+#### 《大侠立志传：碧血丹心（Hero's Adventure）》v 1.2.0424b74    中文版
+
+夸克：https://pan.quark.cn/s/620812266021
+
+#### 《咒语旅团（The Spell Brigade）》最新  中文版
+
+夸克：https://pan.quark.cn/s/f1db064342f4
+
+#### 《使命召唤：现代战争3（Call of Duty Modern Warfare 3）》 v10.1.16258245 英文版（不含战役模式 仅支持多人地图的人机对战）
+
+夸克：https://pan.quark.cn/s/3a6a1f6f8730
+
+#### 《光环无限（Halo Infinite）》 v6.10020.17952.0   中文版
+
+夸克：https://pan.quark.cn/s/b3b34f2ba102
+
+#### 《断箭（Broken Arrow）》 最新   豪华中文版
+
+夸克：https://pan.quark.cn/s/00e73adfebc5
+
+#### 《都市天际线2（Cities Skylines 2）终结版》最新 全DLC 中文版（城市天际线2）
+
+夸克：https://pan.quark.cn/s/92561f2dc586
+
+#### 《异变战区2（E.E.R.I.E2）》最新 中文 联机版
+
+夸克：https://pan.quark.cn/s/24cd36637f44
+
+#### 《地下矿井（UnderMine）》最新 中文版（地下矿工、矿坑之下）
+
+夸克：https://pan.quark.cn/s/a4f8da95e4fd
+
+#### 《心之眼》 最新 豪华中文版
+
+夸克：https://pan.quark.cn/s/f216ca246af9
 
 #### 《Way of the Hunter 精英版》最新 全DLC 中文版（狩猎之道 猎人之路）
 
