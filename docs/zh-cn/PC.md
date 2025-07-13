@@ -58,6 +58,10 @@
 
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
+#### 《烘焙咖啡馆模拟器（Bakery Cafe Simulator）》Build 19162487  中文版
+
+夸克：https://pan.quark.cn/s/3e74a53ee603
+
 #### 《战锤40K：星际战士 2(Warhammer 40,000 Space Marine 2)》 V8.1.0.1   全DLC 中文版
 
 夸克：https://pan.quark.cn/s/16a585ca424d
