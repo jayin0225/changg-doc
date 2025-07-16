@@ -34,6 +34,8 @@
 
 夸克:https://pan.quark.cn/s/76f63797422f
 
+##  已有游戏
+
 #### 《文明7》最新 全DLC NS模拟器整合版 PC+安卓
 
 夸克：https://pan.quark.cn/s/6ee569a79990
@@ -82,11 +84,16 @@
 
 夸克:https://pan.quark.cn/s/0afe856495c3
 
-#### 《女神异闻录5：战略版》v1.0.2 yuzu模拟器版 全DLC
-
-夸克:https://pan.quark.cn/s/07d6abde77a4
-
 #### 《无双：风花雪月》v1.0.2 yuzu模拟器中文版
 
 夸克:https://pan.quark.cn/s/5f7c1b0c0135
 
+##  女神异闻录系列
+
+#### 《女神异闻录5：战略版》 P5T 最新 全DLC PC+安卓 模拟器版
+
+夸克：https://pan.quark.cn/s/bc0cd2adde6f
+
+#### 《女神异闻录5：皇家版》P5R 官方中文收藏 PC+安卓 模拟器版（本体+1.0.2升补+金手指+60帧补丁）
+
+夸克：https://pan.quark.cn/s/e7798d172d58
