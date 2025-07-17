@@ -58,6 +58,10 @@
 
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
+#### 《传说法师2（Wizard of Legend 2）》最新 中文 联机版
+
+夸克：https://pan.quark.cn/s/6a98c7fd6226
+
 #### 《极品飞车系列（Need For Speed）》最新 中文版
 
 夸克：https://pan.quark.cn/s/e1b8dc1ad37c
