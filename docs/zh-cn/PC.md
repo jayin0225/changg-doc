@@ -58,6 +58,10 @@
 
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
+#### 《犯罪现场清洁工（Crime.Scene.Cleaner）》最新 中文版
+
+夸克：https://pan.quark.cn/s/51d7752dd4d5
+
 #### 《卷饼店模拟器（Wrap House Simulator）》最新 中文版
 
 夸克：https://pan.quark.cn/s/cabbdcdf060a
