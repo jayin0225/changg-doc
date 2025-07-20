@@ -58,6 +58,10 @@
 
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
+#### 《最终幻想系列合集（FINAL FANTASY）》最新 全DLC 豪华中文版
+
+夸克：https://pan.quark.cn/s/382535aea11f
+
 #### 《犯罪现场清洁工（Crime.Scene.Cleaner）》最新 中文版
 
 夸克：https://pan.quark.cn/s/51d7752dd4d5
