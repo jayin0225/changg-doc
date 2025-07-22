@@ -160,6 +160,14 @@
 ---
 
 ## 最近更新
+#### 《PC装机模拟器2》v1.13.05 豪华中文版 全DLC 打包XG器
+
+夸克:https://pan.quark.cn/s/374ae1d05857
+
+#### 《赛博朋克2077（Cyberpunk 2077）终极版》v2.30 全DLC 中文配音版
+
+夸克:https://pan.quark.cn/s/055ebcd669b7
+
 #### 《断箭（Broken Arrow）》 v1.0.7.p   豪华中文版
 
 夸克：https://pan.quark.cn/s/00e73adfebc5
