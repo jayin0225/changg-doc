@@ -164,7 +164,7 @@
 ---
 
 ## 最近更新
-#### 《胡闹厨房》系列
+#### 《胡闹厨房（Overcooked）》系列
 
 夸克:https://pan.quark.cn/s/b1a4ca72b1c8
 
@@ -1888,7 +1888,7 @@
 
 夸克:https://pan.quark.cn/s/3fc336520cc0
 
-#### 《胡闹厨房》系列
+#### 《胡闹厨房（Overcooked）》系列
 
 夸克:https://pan.quark.cn/s/b1a4ca72b1c8
 
