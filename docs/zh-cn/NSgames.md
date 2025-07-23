@@ -36,6 +36,10 @@
 
 ##  已有游戏
 
+#### 《胡闹厨房（Overcooked）1+2》最新 模拟器整合版 PC+安卓
+
+夸克：https://pan.quark.cn/s/3a9b864702a5
+
 #### 《文明7》最新 全DLC NS模拟器整合版 PC+安卓
 
 夸克：https://pan.quark.cn/s/6ee569a79990
