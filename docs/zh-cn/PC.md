@@ -160,6 +160,10 @@
 ---
 
 ## 最近更新
+#### 《胡闹厨房》系列
+
+夸克:https://pan.quark.cn/s/b1a4ca72b1c8
+
 #### 《PC装机模拟器2》v1.13.05 豪华中文版 全DLC 打包XG器
 
 夸克:https://pan.quark.cn/s/374ae1d05857
@@ -1880,9 +1884,9 @@
 
 夸克:https://pan.quark.cn/s/3fc336520cc0
 
-#### 《胡闹厨房 全都好吃》
+#### 《胡闹厨房》系列
 
-夸克:https://pan.quark.cn/s/2dc16fcfdf22
+夸克:https://pan.quark.cn/s/b1a4ca72b1c8
 
 #### 《车祸模拟器BeamNG.drive 》最新 中文联机版
 
