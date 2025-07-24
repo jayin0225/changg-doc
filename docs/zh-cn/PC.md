@@ -58,6 +58,10 @@
 
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
+#### 《往日不再：破碎之路 重制版（Days Gone Broken Road）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/cc9314f0c1d2
+
 #### 《黑暗欺骗（Dark Deception Chapter）》 最新 中文版  全DLC
 
 夸克：https://pan.quark.cn/s/606e75bc1b3a
@@ -184,7 +188,7 @@
 
 夸克:https://pan.quark.cn/s/4d5453dbbc50
 
-#### 《最后生还者2：重制版（The Last of Us Part 2 Remastered）》v1.3.10430.406 中文版 打包XG器（美末2）
+#### 《最后生还者2：重制版（The Last of Us Part 2 Remastered）》v1.5.10708.624 中文版 打包XG器（美末2）
 
 夸克：https://pan.quark.cn/s/39b9feaad93b
 
