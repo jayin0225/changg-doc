@@ -58,6 +58,96 @@
 
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
+#### 《明末：渊虚之羽（WUCHANG Fallen Feathers）豪华版》最新 中文版
+
+夸克：https://pan.quark.cn/s/1e406886ed61
+
+#### 《残暴约翰2（BRUTAL JOHN 2）》最新 中文版
+
+夸克：https://pan.quark.cn/s/fbdeb9928d18
+
+#### 《沉沦遗迹（Fallen Relics）》最新 中文版
+
+夸克：https://pan.quark.cn/s/cfaf9333e3fb
+
+#### 《地狱丧钟（Hell Clock）》最新 中文版
+
+夸克：https://pan.quark.cn/s/eeb418f83d65
+
+#### 《机械战警：暴戾都市（RoboCop Rogue City Unfinished Business）》最新 中文版
+
+夸克：https://pan.quark.cn/s/86693a0ef491
+
+#### 《Luto》最新 中文版（心理恐怖叙事游戏）
+
+夸克：https://pan.quark.cn/s/e9b8cd55133d
+
+#### 《十二影（Twelves Shadow）》最新 中文版
+
+夸克：https://pan.quark.cn/s/a75404fb763f
+
+#### 《夜下降生2（UNDER NIGHT IN-BIRTH II Sys Celes）》最新 中文 联机版（格斗游戏）
+
+夸克：https://pan.quark.cn/s/5c1351df7c80
+---
+
+## 最近更新
+#### 《胡闹厨房（Overcooked）》系列
+
+夸克:https://pan.quark.cn/s/b1a4ca72b1c8
+
+#### 《PC装机模拟器2》v1.13.05 豪华中文版 全DLC 打包XG器
+
+夸克:https://pan.quark.cn/s/374ae1d05857
+
+#### 《赛博朋克2077（Cyberpunk 2077）终极版》v2.30 全DLC 中文配音版
+
+夸克:https://pan.quark.cn/s/055ebcd669b7
+
+#### 《断箭（Broken Arrow）》 v1.0.7.p   豪华中文版
+
+夸克：https://pan.quark.cn/s/00e73adfebc5
+
+#### 《幸福工厂》 v1.1.1.0  全DLC 中文联机版 打包XG器
+
+夸克:https://pan.quark.cn/s/4d5453dbbc50
+
+#### 《最后生还者2：重制版（The Last of Us Part 2 Remastered）》v1.5.10708.624 中文版 打包XG器（美末2）
+
+夸克：https://pan.quark.cn/s/39b9feaad93b
+
+#### 《堕落之主》v2.0.41 豪华中文版 全DLC 打包XG器
+
+夸克:https://pan.quark.cn/s/b9101d18b965
+
+#### 《幻想生活i 转圈圈的龙和偷取时间的少女（FANTASY LIFE i）》v1.4.0 中文版 联机版
+
+夸克：https://pan.quark.cn/s/a5235626cee9
+
+#### 《艾尔登法环：黑夜君临（Elden-Ring-Nightreign）》 v1.01.5 豪华中文版 联机版 打包XG器
+
+夸克：https://pan.quark.cn/s/5602dc1ab614
+
+#### 《出租生涯：模拟城市驾驶》内部》最新   全DLC 豪华中文版
+
+夸克:https://pan.quark.cn/s/5dadba4674af
+
+#### 《幻兽帕鲁（Palworld）》v0.6.2.76269 全DLC 中文 联机版 (附：MOD合集+修改器+升级补丁)
+
+夸克:https://pan.quark.cn/s/0ca1b61bb4c6
+
+#### 《缉私警察（Contraband Police）》最新 中文版
+
+夸克：https://pan.quark.cn/s/dfba5a22588c
+
+---
+
+## 已有游戏
+
+#### 《黑神话：悟空》周边合集（无游戏）
+
+夸克:https://pan.quark.cn/s/f17ec784d176
+
 #### 《往日不再：破碎之路 重制版（Days Gone Broken Road）》最新 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/cc9314f0c1d2
@@ -165,96 +255,6 @@
 #### 《美女，请别影响我成仙（Ladys Sect Protector）》最新 中文版
 
 夸克：https://pan.quark.cn/s/cc7693c36257
----
-
-## 最近更新
-#### 《胡闹厨房（Overcooked）》系列
-
-夸克:https://pan.quark.cn/s/b1a4ca72b1c8
-
-#### 《PC装机模拟器2》v1.13.05 豪华中文版 全DLC 打包XG器
-
-夸克:https://pan.quark.cn/s/374ae1d05857
-
-#### 《赛博朋克2077（Cyberpunk 2077）终极版》v2.30 全DLC 中文配音版
-
-夸克:https://pan.quark.cn/s/055ebcd669b7
-
-#### 《断箭（Broken Arrow）》 v1.0.7.p   豪华中文版
-
-夸克：https://pan.quark.cn/s/00e73adfebc5
-
-#### 《幸福工厂》 v1.1.1.0  全DLC 中文联机版 打包XG器
-
-夸克:https://pan.quark.cn/s/4d5453dbbc50
-
-#### 《最后生还者2：重制版（The Last of Us Part 2 Remastered）》v1.5.10708.624 中文版 打包XG器（美末2）
-
-夸克：https://pan.quark.cn/s/39b9feaad93b
-
-#### 《堕落之主》v2.0.41 豪华中文版 全DLC 打包XG器
-
-夸克:https://pan.quark.cn/s/b9101d18b965
-
-#### 《幻想生活i 转圈圈的龙和偷取时间的少女（FANTASY LIFE i）》v1.4.0 中文版 联机版
-
-夸克：https://pan.quark.cn/s/a5235626cee9
-
-#### 《艾尔登法环：黑夜君临（Elden-Ring-Nightreign）》 v1.01.5 豪华中文版 联机版 打包XG器
-
-夸克：https://pan.quark.cn/s/5602dc1ab614
-
-#### 《出租生涯：模拟城市驾驶》内部》最新   全DLC 豪华中文版
-
-夸克:https://pan.quark.cn/s/5dadba4674af
-
-#### 《幻兽帕鲁（Palworld）》v0.6.2.76269 全DLC 中文 联机版 (附：MOD合集+修改器+升级补丁)
-
-夸克:https://pan.quark.cn/s/0ca1b61bb4c6
-
-#### 《缉私警察（Contraband Police）》最新 中文版
-
-夸克：https://pan.quark.cn/s/dfba5a22588c
-
-#### 《侠盗猎车手5增强版（Grand Theft Auto V Enhanced）》GTA5增强版 最新 中文版
-
-夸克：https://pan.quark.cn/s/af36261675d0
-
-#### 《七龙珠：电光炸裂！ZERO》最新 终极中文版 全DLC
-
-夸克:https://pan.quark.cn/s/3629ae024b31
-
-#### 《同舟共济（Ship of Fools）》最新 全DLC 中文 联机版
-
-夸克:https://pan.quark.cn/s/51bab68faf1b
-
-#### 《超市模拟器》v1.0.1 中文版 打包XG器
-
-夸克:https://pan.quark.cn/s/4539de9e02b6
-
-#### 《失落城堡2（Lost Castle 2）》v0.7.1.2 中文 联机版
-
-夸克:https://pan.quark.cn/s/74310b50de21
-
-#### 《匹诺曹的谎言：序曲（Lies of P Overture）豪华版》v1.9.0.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/b34add59a7e8
-
-#### 《哈迪斯2（Hades II）》v2025.6.18  中文版 附修改器
-
-夸克:https://pan.quark.cn/s/52af982b71bd
-
-#### 《上古卷轴4：湮灭》 重制版   v1.511.102.0   豪华中文版 全DLC
-
-夸克：https://pan.quark.cn/s/9c3aec30dd9a
-
----
-
-## 已有游戏
-
-#### 《黑神话：悟空》周边合集（无游戏）
-
-夸克:https://pan.quark.cn/s/f17ec784d176
 
 #### 《克劳斯·李：虎胆龙威（Klaus Lee Thunderballs）》最新 中文版
 
