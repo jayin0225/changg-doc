@@ -62,6 +62,10 @@
 
 夸克：https://pan.quark.cn/s/1e406886ed61
 
+#### 《3D 密室逃脱：侦探故事（3D Escape Room Detective Story）》最新 中文版
+
+夸克：https://pan.quark.cn/s/c4ec0a3b3999
+
 #### 《僵尸毁灭工程（Project Zomboid）》最新 中文 联机版
 
 夸克：https://pan.quark.cn/s/1d6fb98ac791
