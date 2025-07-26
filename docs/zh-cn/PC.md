@@ -62,6 +62,10 @@
 
 夸克：https://pan.quark.cn/s/1e406886ed61
 
+#### 《僵尸毁灭工程（Project Zomboid）》最新 中文 联机版
+
+夸克：https://pan.quark.cn/s/1d6fb98ac791
+
 #### 《残暴约翰2（BRUTAL JOHN 2）》最新 中文版
 
 夸克：https://pan.quark.cn/s/fbdeb9928d18
