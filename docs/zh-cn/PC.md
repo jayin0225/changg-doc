@@ -101,6 +101,14 @@
 ---
 
 ## 最近更新
+#### 《幻想生活i 转圈圈的龙和偷取时间的少女（FANTASY LIFE i）》v1.4.1 中文版 联机版
+
+夸克：https://pan.quark.cn/s/a5235626cee9
+
+#### 《潜行者2：切尔诺贝利之心（S.T.A.L.K.E.R 2 Heart of Chornobyl）终结版》v1.5.2 全DLC 中文版
+
+夸克:https://pan.quark.cn/s/de848953f6a8
+
 #### 《胡闹厨房（Overcooked）》系列
 
 夸克:https://pan.quark.cn/s/b1a4ca72b1c8
@@ -128,10 +136,6 @@
 #### 《堕落之主》v2.0.41 豪华中文版 全DLC 打包XG器
 
 夸克:https://pan.quark.cn/s/b9101d18b965
-
-#### 《幻想生活i 转圈圈的龙和偷取时间的少女（FANTASY LIFE i）》v1.4.0 中文版 联机版
-
-夸克：https://pan.quark.cn/s/a5235626cee9
 
 #### 《艾尔登法环：黑夜君临（Elden-Ring-Nightreign）》 v1.01.5 豪华中文版 联机版 打包XG器
 
@@ -4588,7 +4592,7 @@
 
 夸克:https://pan.quark.cn/s/e12c00d1ac64
 
-#### 《潜行者2：切尔诺贝利之心》最新 终极中文版 全DLC  打包XG器
+#### 《潜行者2：切尔诺贝利之心（S.T.A.L.K.E.R 2 Heart of Chornobyl）终结版》最新 全DLC 中文版
 
 夸克:https://pan.quark.cn/s/de848953f6a8
 
