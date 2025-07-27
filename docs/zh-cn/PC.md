@@ -62,6 +62,38 @@
 
 夸克：https://pan.quark.cn/s/1e406886ed61
 
+#### 《无法成眠的伊达键 - From AI：梦境档案（No Sleep For Kaname Date From AI THE SOMNIUM FILES）》最新 中文版
+
+夸克：https://pan.quark.cn/s/9d94658948d4
+
+#### 《越狱模拟器挖掘逃生 (Prison Escape Simulator Dig Out)》最新 中文版
+
+夸克：https://pan.quark.cn/s/b178aa9633f0
+
+#### 《向生而死（Death Relives）》最新 中文版
+
+夸克：https://pan.quark.cn/s/52bd405765eb
+
+#### 《阿拉斯加卡车司机（Alaskan Road Truckers）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/34fc55847a2e
+
+#### 《轨道连结（Railbound）》最新 中文版
+
+夸克：https://pan.quark.cn/s/7a3695ec61e4
+
+#### 《hololive 滚滚山（hololive GoroGoro Mountain）》最新 中文版
+
+夸克：https://pan.quark.cn/s/cbc3ea3831e4
+
+#### 《蓝途王子（Blue Prince）》最新 英文版
+
+夸克：https://pan.quark.cn/s/26c638f53a8c
+
+#### 《贸易之路（Let Them Trade）》最新 中文版
+
+夸克：https://pan.quark.cn/s/7b9c9efd5107
+
 #### 《3D 密室逃脱：侦探故事（3D Escape Room Detective Story）》最新 中文版
 
 夸克：https://pan.quark.cn/s/c4ec0a3b3999
