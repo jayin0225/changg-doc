@@ -62,6 +62,10 @@
 
 夸克：https://pan.quark.cn/s/1e406886ed61
 
+#### 《一起玩农场（Farm Together）》最新 中文版
+
+夸克：https://pan.quark.cn/s/a3b721641bbe
+
 #### 《无法成眠的伊达键 - From AI：梦境档案（No Sleep For Kaname Date From AI THE SOMNIUM FILES）》最新 中文版
 
 夸克：https://pan.quark.cn/s/9d94658948d4
