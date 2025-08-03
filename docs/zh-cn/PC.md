@@ -58,6 +58,14 @@
 
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
+#### 《生化奇兵 重制版 1-3部合集（BioShock Remastered）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/abae70ccf5a1
+
+#### 《沙龙模拟器（Saloon Simulator）》Build 19214013 中文版
+
+夸克：https://pan.quark.cn/s/3f5cd7a7f132
+
 #### 《使命召唤16：现代战争（Call of Duty Modern Warfare 2019）》最新 中文版（COD16）
 
 夸克：https://pan.quark.cn/s/73cf0e38ffe2
