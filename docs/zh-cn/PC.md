@@ -58,6 +58,10 @@
 
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
+#### 《建筑工模拟器（House Builder）》最新 全DLC 中文版（房屋建筑商）
+
+夸克：https://pan.quark.cn/s/0933fdaf5e7e
+
 #### 《极限竞速：地平线5（Forza Horizon 5）高级版》最新 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/f166b0cc47b6
@@ -108,6 +112,19 @@
 ---
 
 ## 最近更新
+
+#### 《光与影 33号远征队（Clair Obscur Expedition 33）》v57661 豪华 中文版
+
+夸克：https://pan.quark.cn/s/2d88dc6722a3
+
+#### 《博德之门3（Baldurs Gate 3）》v4.1.1.6897358 全DLC 豪华中文 联机版
+
+夸克：https://pan.quark.cn/s/43c5d1bd91df
+
+#### 《艾尔登法环：黑夜君临（Elden-Ring-Nightreign）》 v1.02.0 豪华中文版 联机版 打包XG器
+
+夸克：https://pan.quark.cn/s/5602dc1ab614
+
 #### 《明末：渊虚之羽（WUCHANG Fallen Feathers）豪华版》最新 中文版
 
 夸克：https://pan.quark.cn/s/1e406886ed61
@@ -136,37 +153,9 @@
 
 夸克:https://pan.quark.cn/s/055ebcd669b7
 
-#### 《断箭（Broken Arrow）》 v1.0.7.p   豪华中文版
-
-夸克：https://pan.quark.cn/s/00e73adfebc5
-
-#### 《幸福工厂》 v1.1.1.0  全DLC 中文联机版 打包XG器
-
-夸克:https://pan.quark.cn/s/4d5453dbbc50
-
 #### 《最后生还者2：重制版（The Last of Us Part 2 Remastered）》v1.5.10708.624 中文版 打包XG器（美末2）
 
 夸克：https://pan.quark.cn/s/39b9feaad93b
-
-#### 《堕落之主》v2.0.41 豪华中文版 全DLC 打包XG器
-
-夸克:https://pan.quark.cn/s/b9101d18b965
-
-#### 《艾尔登法环：黑夜君临（Elden-Ring-Nightreign）》 v1.01.5 豪华中文版 联机版 打包XG器
-
-夸克：https://pan.quark.cn/s/5602dc1ab614
-
-#### 《出租生涯：模拟城市驾驶》内部》最新   全DLC 豪华中文版
-
-夸克:https://pan.quark.cn/s/5dadba4674af
-
-#### 《幻兽帕鲁（Palworld）》v0.6.2.76269 全DLC 中文 联机版 (附：MOD合集+修改器+升级补丁)
-
-夸克:https://pan.quark.cn/s/0ca1b61bb4c6
-
-#### 《缉私警察（Contraband Police）》最新 中文版
-
-夸克：https://pan.quark.cn/s/dfba5a22588c
 
 ---
 
