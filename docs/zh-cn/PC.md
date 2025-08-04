@@ -58,6 +58,10 @@
 
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
+#### 《极限竞速：地平线5（Forza Horizon 5）高级版》最新 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/f166b0cc47b6
+
 #### 《生化奇兵 重制版 1-3部合集（BioShock Remastered）》最新 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/abae70ccf5a1
