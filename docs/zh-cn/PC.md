@@ -58,6 +58,22 @@
 
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
+#### 《使命召唤21：黑色行动6（Call of Duty Black Ops 6）》最新 中文版（COD21）
+
+夸克:https://pan.quark.cn/s/4178397b33d7
+
+#### 《动物收容所2（Animal Shelter 2）》最新 中文版
+
+夸克：https://pan.quark.cn/s/ea58d71ccc54
+
+#### 《宝可梦PTCG Live》PC游戏安装包 + 界面卡面汉化模组（win+mac）附保姆教程
+
+夸克：https://pan.quark.cn/s/ea58d71ccc54
+
+#### 《泰坦之旅2（Titan Quest II）》最新 中文 联机版
+
+夸克：https://pan.quark.cn/s/7bb73f763a1e
+
 #### 《建筑工模拟器（House Builder）》最新 全DLC 中文版（房屋建筑商）
 
 夸克：https://pan.quark.cn/s/0933fdaf5e7e
@@ -1441,7 +1457,7 @@
 
 夸克:https://pan.quark.cn/s/c1470c22037d
 
-#### 《COD1-15/使命召唤1-15》【原版】
+#### 《COD1-21/使命召唤1-21》
 
 夸克:https://pan.quark.cn/s/4178397b33d7
 
