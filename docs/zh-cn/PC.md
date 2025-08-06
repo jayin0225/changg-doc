@@ -62,6 +62,26 @@
 
 夸克:https://pan.quark.cn/s/4178397b33d7
 
+#### 《禁闭求生2（Grounded 2）》最新 中文 联机版
+
+夸克：https://pan.quark.cn/s/ce491cf41744
+
+#### 《猫神牧场（Cat God Ranch）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/7cdd36720d1a
+
+#### 《巫泡（Wuppo Definitive Edition）最终版》最新 全DLC 中文联机版
+
+夸克：https://pan.quark.cn/s/0b98de3cfced
+
+#### 《无双深渊（WARRIORS Abyss）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/e8366edf47c6
+
+#### 《英雄立志传 三国志（Legend of Heroes Three Kingdoms）》最新 中文版
+
+夸克：https://pan.quark.cn/s/2717de069c05
+
 #### 《动物收容所2（Animal Shelter 2）》最新 中文版
 
 夸克：https://pan.quark.cn/s/ea58d71ccc54
@@ -81,6 +101,65 @@
 #### 《极限竞速：地平线5（Forza Horizon 5）高级版》最新 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/f166b0cc47b6
+---
+
+## 最近更新
+
+#### 《人渣SCUM》v1.0.1.3.96391 豪华中文版 全DLC
+
+夸克:https://pan.quark.cn/s/ac755bb1ff1f
+
+#### 《明末：渊虚之羽（WUCHANG Fallen Feathers）豪华版》v1.4.1 中文版
+
+夸克：https://pan.quark.cn/s/1e406886ed61
+
+#### 《光与影 33号远征队（Clair Obscur Expedition 33）》v57661 豪华 中文版
+
+夸克：https://pan.quark.cn/s/2d88dc6722a3
+
+#### 《博德之门3（Baldurs Gate 3）》v4.1.1.6897358 全DLC 豪华中文 联机版
+
+夸克：https://pan.quark.cn/s/43c5d1bd91df
+
+#### 《艾尔登法环：黑夜君临（Elden-Ring-Nightreign）》 v1.02.0 豪华中文版 联机版 打包XG器
+
+夸克：https://pan.quark.cn/s/5602dc1ab614
+
+#### 《哈迪斯2（Hades II）》最新 中文版 附修改器
+
+夸克:https://pan.quark.cn/s/52af982b71bd
+
+#### 《幻想生活i 转圈圈的龙和偷取时间的少女（FANTASY LIFE i）》v1.4.1 中文版 联机版
+
+夸克：https://pan.quark.cn/s/a5235626cee9
+
+#### 《潜行者2：切尔诺贝利之心（S.T.A.L.K.E.R 2 Heart of Chornobyl）终结版》v1.5.2 全DLC 中文版
+
+夸克:https://pan.quark.cn/s/de848953f6a8
+
+#### 《胡闹厨房（Overcooked）》系列
+
+夸克:https://pan.quark.cn/s/b1a4ca72b1c8
+
+#### 《PC装机模拟器2》v1.13.05 豪华中文版 全DLC 打包XG器
+
+夸克:https://pan.quark.cn/s/374ae1d05857
+
+#### 《赛博朋克2077（Cyberpunk 2077）终极版》v2.30 全DLC 中文配音版
+
+夸克:https://pan.quark.cn/s/055ebcd669b7
+
+#### 《最后生还者2：重制版（The Last of Us Part 2 Remastered）》v1.5.10708.624 中文版 打包XG器（美末2）
+
+夸克：https://pan.quark.cn/s/39b9feaad93b
+
+---
+
+## 已有游戏
+
+#### 《黑神话：悟空》周边合集（无游戏）
+
+夸克:https://pan.quark.cn/s/f17ec784d176
 
 #### 《生化奇兵 重制版 1-3部合集（BioShock Remastered）》最新 全DLC 中文版
 
@@ -125,61 +204,6 @@
 #### 《独眼利霍（One-Eyed Likho）》最新 中文版（恐怖冒险）
 
 夸克：https://pan.quark.cn/s/e3c9e66673b7
----
-
-## 最近更新
-
-#### 《光与影 33号远征队（Clair Obscur Expedition 33）》v57661 豪华 中文版
-
-夸克：https://pan.quark.cn/s/2d88dc6722a3
-
-#### 《博德之门3（Baldurs Gate 3）》v4.1.1.6897358 全DLC 豪华中文 联机版
-
-夸克：https://pan.quark.cn/s/43c5d1bd91df
-
-#### 《艾尔登法环：黑夜君临（Elden-Ring-Nightreign）》 v1.02.0 豪华中文版 联机版 打包XG器
-
-夸克：https://pan.quark.cn/s/5602dc1ab614
-
-#### 《明末：渊虚之羽（WUCHANG Fallen Feathers）豪华版》最新 中文版
-
-夸克：https://pan.quark.cn/s/1e406886ed61
-
-#### 《哈迪斯2（Hades II）》最新 中文版 附修改器
-
-夸克:https://pan.quark.cn/s/52af982b71bd
-
-#### 《幻想生活i 转圈圈的龙和偷取时间的少女（FANTASY LIFE i）》v1.4.1 中文版 联机版
-
-夸克：https://pan.quark.cn/s/a5235626cee9
-
-#### 《潜行者2：切尔诺贝利之心（S.T.A.L.K.E.R 2 Heart of Chornobyl）终结版》v1.5.2 全DLC 中文版
-
-夸克:https://pan.quark.cn/s/de848953f6a8
-
-#### 《胡闹厨房（Overcooked）》系列
-
-夸克:https://pan.quark.cn/s/b1a4ca72b1c8
-
-#### 《PC装机模拟器2》v1.13.05 豪华中文版 全DLC 打包XG器
-
-夸克:https://pan.quark.cn/s/374ae1d05857
-
-#### 《赛博朋克2077（Cyberpunk 2077）终极版》v2.30 全DLC 中文配音版
-
-夸克:https://pan.quark.cn/s/055ebcd669b7
-
-#### 《最后生还者2：重制版（The Last of Us Part 2 Remastered）》v1.5.10708.624 中文版 打包XG器（美末2）
-
-夸克：https://pan.quark.cn/s/39b9feaad93b
-
----
-
-## 已有游戏
-
-#### 《黑神话：悟空》周边合集（无游戏）
-
-夸克:https://pan.quark.cn/s/f17ec784d176
 
 #### 《明末：渊虚之羽（WUCHANG Fallen Feathers）豪华版》最新 中文版
 
@@ -1695,7 +1719,7 @@
 
 #### 《人渣SCUM》最新 豪华中文版 全DLC
 
-夸克:https://pan.quark.cn/s/4762c2a74c7c
+夸克:https://pan.quark.cn/s/ac755bb1ff1f
 
 #### 《微软飞行模拟2020》 中文高级版
 
