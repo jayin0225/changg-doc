@@ -62,45 +62,45 @@
 
 夸克:https://pan.quark.cn/s/4178397b33d7
 
-#### 《禁闭求生2（Grounded 2）》最新 中文 联机版
+#### 《小小书店（Tiny Bookshop）》最新 中文版（模拟经营）
 
-夸克：https://pan.quark.cn/s/ce491cf41744
+夸克：https://pan.quark.cn/s/891d4721a721
 
-#### 《猫神牧场（Cat God Ranch）》最新 全DLC 中文版
+#### 《涂鸦下落（Squiggle Drop）》最新 中文版
 
-夸克：https://pan.quark.cn/s/7cdd36720d1a
+夸克：https://pan.quark.cn/s/f933fbf7cbec
 
-#### 《巫泡（Wuppo Definitive Edition）最终版》最新 全DLC 中文联机版
+#### 《静默恐惧：老灯塔十五夜（Static Dread The Lighthouse）》最新 中文版（恐怖解密）
 
-夸克：https://pan.quark.cn/s/0b98de3cfced
+夸克：https://pan.quark.cn/s/2ecbf77a2d5f
 
-#### 《无双深渊（WARRIORS Abyss）》最新 全DLC 中文版
+#### 《方舟：生存飞升（ARK Survival Ascended）》最新 全DLC 中文 联机版
 
-夸克：https://pan.quark.cn/s/e8366edf47c6
+夸克：https://pan.quark.cn/s/4a3774fa7562
 
-#### 《英雄立志传 三国志（Legend of Heroes Three Kingdoms）》最新 中文版
+#### 《The RPG》最新 中文版
 
-夸克：https://pan.quark.cn/s/2717de069c05
+夸克：https://pan.quark.cn/s/3ba06d17dea6
 
-#### 《动物收容所2（Animal Shelter 2）》最新 中文版
+#### 《究极大越野：传奇（MX vs ATV Legends）》最新 全DLC 中文版
 
-夸克：https://pan.quark.cn/s/ea58d71ccc54
+夸克：https://pan.quark.cn/s/93d38f576195
 
-#### 《宝可梦PTCG Live》PC游戏安装包 + 界面卡面汉化模组（win+mac）附保姆教程
+#### 《碧蓝幻想Versus：崛起（Granblue Fantasy Versus Rising）》 最新 全DLC 豪华中文 联机版
 
-夸克：https://pan.quark.cn/s/ea58d71ccc54
+夸克：https://pan.quark.cn/s/bea0911ff1fa
 
-#### 《泰坦之旅2（Titan Quest II）》最新 中文 联机版
+#### 《ShellShock Live》最新 中文 联机版（多人在线坦克游戏）
 
-夸克：https://pan.quark.cn/s/7bb73f763a1e
+夸克：https://pan.quark.cn/s/9ba59e01e5dc
 
-#### 《建筑工模拟器（House Builder）》最新 全DLC 中文版（房屋建筑商）
+#### 《妖之乡（Yaoling Mythical Journey）》最新 全DLC 中文版
 
-夸克：https://pan.quark.cn/s/0933fdaf5e7e
+夸克：https://pan.quark.cn/s/206a8d7a4d13
 
-#### 《极限竞速：地平线5（Forza Horizon 5）高级版》最新 全DLC 中文 联机版
+#### 《UnderMine 1+2》最新 中文版（地下矿工、矿坑之下）
 
-夸克：https://pan.quark.cn/s/f166b0cc47b6
+夸克：https://pan.quark.cn/s/419f00f04be1
 ---
 
 ## 最近更新
@@ -160,6 +160,46 @@
 #### 《黑神话：悟空》周边合集（无游戏）
 
 夸克:https://pan.quark.cn/s/f17ec784d176
+
+#### 《禁闭求生2（Grounded 2）》最新 中文 联机版
+
+夸克：https://pan.quark.cn/s/ce491cf41744
+
+#### 《猫神牧场（Cat God Ranch）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/7cdd36720d1a
+
+#### 《巫泡（Wuppo Definitive Edition）最终版》最新 全DLC 中文联机版
+
+夸克：https://pan.quark.cn/s/0b98de3cfced
+
+#### 《无双深渊（WARRIORS Abyss）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/e8366edf47c6
+
+#### 《英雄立志传 三国志（Legend of Heroes Three Kingdoms）》最新 中文版
+
+夸克：https://pan.quark.cn/s/2717de069c05
+
+#### 《动物收容所2（Animal Shelter 2）》最新 中文版
+
+夸克：https://pan.quark.cn/s/ea58d71ccc54
+
+#### 《宝可梦PTCG Live》PC游戏安装包 + 界面卡面汉化模组（win+mac）附保姆教程
+
+夸克：https://pan.quark.cn/s/ea58d71ccc54
+
+#### 《泰坦之旅2（Titan Quest II）》最新 中文 联机版
+
+夸克：https://pan.quark.cn/s/7bb73f763a1e
+
+#### 《建筑工模拟器（House Builder）》最新 全DLC 中文版（房屋建筑商）
+
+夸克：https://pan.quark.cn/s/0933fdaf5e7e
+
+#### 《极限竞速：地平线5（Forza Horizon 5）高级版》最新 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/f166b0cc47b6
 
 #### 《生化奇兵 重制版 1-3部合集（BioShock Remastered）》最新 全DLC 中文版
 
