@@ -58,49 +58,29 @@
 
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
-#### 《使命召唤21：黑色行动6（Call of Duty Black Ops 6）》最新 中文版（COD21）
+#### 《爱氏物语（Artis Impact）》最新 中文版
 
-夸克:https://pan.quark.cn/s/4178397b33d7
+夸克：https://pan.quark.cn/s/128cbc71cf4f
 
-#### 《小小书店（Tiny Bookshop）》最新 中文版（模拟经营）
+#### 《地铁模拟2（SubwaySim 2）》最新 中文版
 
-夸克：https://pan.quark.cn/s/891d4721a721
+夸克：https://pan.quark.cn/s/533d3244591f
 
-#### 《涂鸦下落（Squiggle Drop）》最新 中文版
+#### 《划划划（PaddlePaddlePaddle）》最新 中文版（双人游戏）
 
-夸克：https://pan.quark.cn/s/f933fbf7cbec
+夸克：https://pan.quark.cn/s/df2e29eeb604
 
-#### 《静默恐惧：老灯塔十五夜（Static Dread The Lighthouse）》最新 中文版（恐怖解密）
+#### 《恐怖轮椅（Ells Tales Chairbound）》最新 中文版（恐怖解密）
 
-夸克：https://pan.quark.cn/s/2ecbf77a2d5f
+夸克：https://pan.quark.cn/s/64284349918a
 
-#### 《方舟：生存飞升（ARK Survival Ascended）》最新 全DLC 中文 联机版
+#### 《猫猫钓游记（Fischers Fishing Journey）》最新 中文版
 
-夸克：https://pan.quark.cn/s/4a3774fa7562
+夸克：https://pan.quark.cn/s/8c83b4def4cb
 
-#### 《The RPG》最新 中文版
+#### 《枪途末路（GUNTOUCHABLES）》最新 中文版
 
-夸克：https://pan.quark.cn/s/3ba06d17dea6
-
-#### 《究极大越野：传奇（MX vs ATV Legends）》最新 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/93d38f576195
-
-#### 《碧蓝幻想Versus：崛起（Granblue Fantasy Versus Rising）》 最新 全DLC 豪华中文 联机版
-
-夸克：https://pan.quark.cn/s/bea0911ff1fa
-
-#### 《ShellShock Live》最新 中文 联机版（多人在线坦克游戏）
-
-夸克：https://pan.quark.cn/s/9ba59e01e5dc
-
-#### 《妖之乡（Yaoling Mythical Journey）》最新 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/206a8d7a4d13
-
-#### 《UnderMine 1+2》最新 中文版（地下矿工、矿坑之下）
-
-夸克：https://pan.quark.cn/s/419f00f04be1
+链接：https://pan.quark.cn/s/06f8135e7071
 ---
 
 ## 最近更新
@@ -160,6 +140,50 @@
 #### 《黑神话：悟空》周边合集（无游戏）
 
 夸克:https://pan.quark.cn/s/f17ec784d176
+
+#### 《使命召唤21：黑色行动6（Call of Duty Black Ops 6）》最新 中文版（COD21）
+
+夸克:https://pan.quark.cn/s/4178397b33d7
+
+#### 《小小书店（Tiny Bookshop）》最新 中文版（模拟经营）
+
+夸克：https://pan.quark.cn/s/891d4721a721
+
+#### 《涂鸦下落（Squiggle Drop）》最新 中文版
+
+夸克：https://pan.quark.cn/s/f933fbf7cbec
+
+#### 《静默恐惧：老灯塔十五夜（Static Dread The Lighthouse）》最新 中文版（恐怖解密）
+
+夸克：https://pan.quark.cn/s/2ecbf77a2d5f
+
+#### 《方舟：生存飞升（ARK Survival Ascended）》最新 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/4a3774fa7562
+
+#### 《The RPG》最新 中文版
+
+夸克：https://pan.quark.cn/s/3ba06d17dea6
+
+#### 《究极大越野：传奇（MX vs ATV Legends）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/93d38f576195
+
+#### 《碧蓝幻想Versus：崛起（Granblue Fantasy Versus Rising）》 最新 全DLC 豪华中文 联机版
+
+夸克：https://pan.quark.cn/s/bea0911ff1fa
+
+#### 《ShellShock Live》最新 中文 联机版（多人在线坦克游戏）
+
+夸克：https://pan.quark.cn/s/9ba59e01e5dc
+
+#### 《妖之乡（Yaoling Mythical Journey）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/206a8d7a4d13
+
+#### 《UnderMine 1+2》最新 中文版（地下矿工、矿坑之下）
+
+夸克：https://pan.quark.cn/s/419f00f04be1
 
 #### 《禁闭求生2（Grounded 2）》最新 中文 联机版
 
