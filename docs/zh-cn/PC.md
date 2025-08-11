@@ -4712,9 +4712,9 @@
 
 夸克:https://pan.quark.cn/s/8e17e7396b3b
 
-#### 《钢铁雄心4》最新 豪华中文版 全DLC 打包XG器
+#### 《钢铁雄心4（Hearts of Iron IV）终结版》最新 全DLC 中文联机版
 
-夸克:https://pan.quark.cn/s/9b5c123aa6d1
+夸克:https://pan.quark.cn/s/39b64d75d4fc
 
 #### 《乐高 地平线大冒险》最新 中文版
 
