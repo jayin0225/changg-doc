@@ -58,6 +58,42 @@
 
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
+#### 《A Fistful Of Yankees》最新 中文版（狂野西部）
+
+夸克：https://pan.quark.cn/s/720d80d51326
+
+#### 《爱与生活：幸福学生（Love n Life Happy Student）》最新 中文版（模拟恋爱）
+
+夸克：https://pan.quark.cn/s/9cea58aa0e6c
+
+#### 《海盗湾模拟器（Pirate Cove Simulator）》最新 中文版
+
+夸克：https://pan.quark.cn/s/3d57b82472dc
+
+#### 《机械制造者（Trailmakers）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/db99d2a2a6ac
+
+#### 《牛仔镇杂货铺（Wild West Supermarket Simulator）》最新 中文版
+
+夸克：https://pan.quark.cn/s/bfdf741c1660
+
+#### 《奇怪拼图（Strange Jigsaws）》最新 英文版
+
+夸克：https://pan.quark.cn/s/5f8895962439
+
+#### 《汽车修理工模拟2021（Car Mechanic Simulator 2021）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/6e8c7d66e3c7
+
+#### 《热即生，冷即死（Heat or Die）》最新 中文版（恐怖逃生）
+
+夸克：https://pan.quark.cn/s/47682c950574
+
+#### 《酒馆经理模拟器（Tavern Manager Simulator）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/2a48ebab2e08
+
 #### 《爱氏物语（Artis Impact）》最新 中文版
 
 夸克：https://pan.quark.cn/s/128cbc71cf4f
