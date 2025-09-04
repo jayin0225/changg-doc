@@ -58,6 +58,29 @@
 
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
+#### 《尘封大陆：沙之王国（Atlas Fallen）终极版》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/30b92c68d3ca
+
+#### 《丧尸围城 豪华复刻版（Dead Rising Deluxe Remaster）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/8866829233a4
+
+#### 《漫游奇境（Promenade）》最新 中文版
+
+夸克：https://pan.quark.cn/s/438eeee4f687
+
+#### 《迸发（The Surge）增强版》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/1c7b77911b91
+
+#### 《迸发2（The Surge 2）豪华版》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/7af59f486670
+
+#### 《合金装备Δ：食蛇者（Metal Gear Solid Snake Eater）豪华版》最新 全DLC 中文版
+夸克：https://pan.quark.cn/s/d592406908d8
+
 #### 《失落之魂（Lost Soul Aside）》v2025.8.29 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/2e7d496ea360
