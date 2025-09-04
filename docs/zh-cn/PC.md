@@ -58,6 +58,10 @@
 
 ##  最新添加
 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
+#### 《空洞骑士：丝之歌 （Hollow Knight Silksong）》v1.0.28324 中文版
+
+夸克：https://pan.quark.cn/s/0ae09ce96377
+
 #### 《尘封大陆：沙之王国（Atlas Fallen）终极版》最新 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/30b92c68d3ca
