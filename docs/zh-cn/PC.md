@@ -86,8 +86,8 @@
 夸克：https://pan.quark.cn/s/7af59f486670
 
 #### 《合金装备Δ：食蛇者（Metal Gear Solid Snake Eater）豪华版》最新 全DLC 中文版
-夸克：https://pan.quark.cn/s/d592406908d8
 
+夸克：https://pan.quark.cn/s/d592406908d8
 
 #### 《失落之魂（Lost Soul Aside）》v2025.8.29 全DLC 中文版
 
