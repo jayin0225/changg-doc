@@ -65,6 +65,18 @@
 
 夸克：https://pan.quark.cn/s/0ae09ce96377
 
+#### 《农场与超市模拟器（Farming & Supermarket Simulator）》最新 中文版
+
+夸克：https://pan.quark.cn/s/71dcfe6516a6
+
+#### 《桌游设计者专业版（Tabletop Creator Pro）》最新 中文版（桌面创造者专业版）
+
+夸克：https://pan.quark.cn/s/7fe09bdb5de8
+
+#### 《耻辱 系列合集（Dishonored）》3部 最新 全DLC 中文版（羞辱）
+
+夸克：https://pan.quark.cn/s/d0a84f8912b8
+
 #### 《尘封大陆：沙之王国（Atlas Fallen）终极版》最新 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/30b92c68d3ca
