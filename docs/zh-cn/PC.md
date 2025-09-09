@@ -226,7 +226,7 @@
 
 ## 已有游戏
 
-#### 《最后生还者2：重制版（The Last of Us Part 2 Remastered）》v1.5.10708.624 中文版 打包XG器（美末2）
+#### 《最后生还者2：重制版（The Last of Us Part 2 Remastered）》v1.5.10708.624 中文版（美末2）
 
 夸克：<https://pan.quark.cn/s/39b9feaad93b>
 
