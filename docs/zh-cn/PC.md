@@ -220,7 +220,7 @@
 
 #### 《赛博朋克2077（Cyberpunk 2077）终极版》v2.30 全DLC 中文配音版
 
-夸克:<https://pan.quark.cn/s/055ebcd669b7>
+夸克:https://pan.quark.cn/s/055ebcd669b7
 
 ---
 
