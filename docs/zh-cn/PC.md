@@ -46,7 +46,7 @@
 
 #### 《yuzu 柚子模拟器+龙神模拟器》最新 PC和安卓版（固件+密钥 在此获取更新）
 
-夸克:<https://pan.quark.cn/s/76f63797422f>
+夸克:https://pan.quark.cn/s/76f63797422f
 
 #### 《Everything》最新 中文版（搜索快速定位到系统文件夹）
 
