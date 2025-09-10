@@ -64,7 +64,7 @@
 
 #### 《神秘岛（Myst）》 v 3.0.5 hotfix (82985)  中文版
 
-夸克：https://pan.quark.cn/s/8c137
+夸克：https://pan.quark.cn/s/19c560a1c1a0
 
 #### 《终端：灭绝永恒（Endling-Extinction is Forever）》最新 全DLC 中文版（狐狸生存冒险）
 
