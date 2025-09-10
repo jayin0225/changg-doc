@@ -62,6 +62,42 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
 
+#### 《终端：灭绝永恒（Endling-Extinction is Forever）》最新 全DLC 中文版（狐狸生存冒险）
+
+夸克：https://pan.quark.cn/s/034b00c68aab
+
+#### 《复生娜（ReSetna）》最新 中文版
+
+夸克：https://pan.quark.cn/s/1a8281217edd
+
+#### 《人狼村之谜（Raging Loop）》最新 汉化版（心理恐怖故事）
+
+夸克：https://pan.quark.cn/s/74a192709f67
+
+#### 《细胞分裂5：断罪（Tom Clancys Splinter Cell Conviction）豪华版》最新 汉化 联机版
+
+夸克：https://pan.quark.cn/s/563037449837
+
+#### 《请不要欺负我，大小姐们！（Dont FOOL ME Beauties）》最新 中文版（真人互动游戏）
+
+夸克：https://pan.quark.cn/s/09e749e26a04
+
+#### 《时间旅者：重生曙光（Cronos. The New Dawn）豪华版》最新 中文版
+
+夸克：https://pan.quark.cn/s/9175db2d720f
+
+#### 《学生时代（Student Age）》最新 中文版
+
+夸克：https://pan.quark.cn/s/41b3e8d8ed72
+
+#### 《失落城堡2（Lost Castle 2）》最新 中文 联机版
+
+夸克：https://pan.quark.cn/s/d854b0bfa107
+
+#### 《人格解体（Depersonalization）》最新 中文版
+
+夸克：https://pan.quark.cn/s/c0969490e6e2
+
 #### 《空洞骑士：丝之歌 （Hollow Knight Silksong）》v1.0.28324 中文版
 
 夸克：https://pan.quark.cn/s/0ae09ce96377
