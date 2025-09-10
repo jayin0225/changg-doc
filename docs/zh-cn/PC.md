@@ -62,6 +62,10 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
 
+#### 《神秘岛（Myst）》 v 3.0.5 hotfix (82985)  中文版
+
+夸克：https://pan.quark.cn/s/8c137
+
 #### 《终端：灭绝永恒（Endling-Extinction is Forever）》最新 全DLC 中文版（狐狸生存冒险）
 
 夸克：https://pan.quark.cn/s/034b00c68aab
