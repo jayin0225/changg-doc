@@ -62,6 +62,46 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
 
+#### 《NODE：安塔瑞族的最终馈赠（NODE The Last Favor of the Antarii）》最新 中文版
+
+夸克：https://pan.quark.cn/s/34055a0e29e4
+
+#### 《脑怪来袭！脑晶保卫战（Chipn Clawz vs The Brainioids）》最新 中文 联机版
+
+夸克：https://pan.quark.cn/s/50fd504977e2
+
+#### 《主权辛迪加：雾都疑案（Sovereign Syndicate）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/f88d8588f56b
+
+#### 《吸血鬼（Vampyr）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/86e25916b001
+
+#### 《小女巫幸存者（Little Witch Survivors）》最新 中文版（肉鸽弹幕射击）
+
+夸克：https://pan.quark.cn/s/6ccc6fd756f6
+
+#### 《巫智学院（Wizdom Academy）》最新 中文版（建造管理成长）
+
+夸克：https://pan.quark.cn/s/8328a3e7f3da
+
+#### 《舌尖上的魔术师（MagicCar of Delicious）》最新 中文版（经营策略塔防）
+
+夸克：https://pan.quark.cn/s/010c19cbc5f9
+
+#### 《浪客诺特（Katanaut）》最新 中文版（轻度肉鸽动作）
+
+夸克：https://pan.quark.cn/s/5c5b6c57cdd1
+
+#### 《奥塔里昂：最后的战斗（Ortharion The Last Battle）》最新 中文版
+
+夸克：https://pan.quark.cn/s/e3c91b188b76
+
+#### 阿拉洛斯：四国战士（Alaloth Champions of The Four Kingdoms）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/dc708767f665
+
 #### 《神秘岛（Myst）》 v 3.0.5 hotfix (82985)  中文版
 
 夸克：https://pan.quark.cn/s/19c560a1c1a0
@@ -129,6 +169,72 @@
 #### 《漫游奇境（Promenade）》最新 中文版
 
 夸克：https://pan.quark.cn/s/438eeee4f687
+
+
+
+---
+
+## 最近更新
+
+#### 《人渣SCUM》v1.0.1.3.96391 豪华中文版 全DLC
+
+夸克:<https://pan.quark.cn/s/ac755bb1ff1f>
+
+#### 《明末：渊虚之羽（WUCHANG Fallen Feathers）豪华版》v1.4.1 中文版
+
+夸克：<https://pan.quark.cn/s/1e406886ed61>
+
+#### 《光与影 33号远征队（Clair Obscur Expedition 33）》v57661 豪华 中文版
+
+夸克：<https://pan.quark.cn/s/2d88dc6722a3>
+
+#### 《博德之门3（Baldurs Gate 3）》v4.1.1.6897358 全DLC 豪华中文 联机版
+
+夸克：<https://pan.quark.cn/s/43c5d1bd91df>
+
+#### 《艾尔登法环：黑夜君临（Elden-Ring-Nightreign）》 v1.02.0 豪华中文版 联机版 打包XG器
+
+夸克：<https://pan.quark.cn/s/5602dc1ab614>
+
+#### 《哈迪斯2（Hades II）》最新 中文版 附修改器
+
+夸克:<https://pan.quark.cn/s/52af982b71bd>
+
+#### 《幻想生活i 转圈圈的龙和偷取时间的少女（FANTASY LIFE i）》v1.4.1 中文版 联机版
+
+夸克：<https://pan.quark.cn/s/a5235626cee9>
+
+#### 《潜行者2：切尔诺贝利之心（S.T.A.L.K.E.R 2 Heart of Chornobyl）终结版》v1.5.2 全DLC 中文版
+
+夸克:<https://pan.quark.cn/s/de848953f6a8>
+
+#### 《胡闹厨房（Overcooked）》系列
+
+夸克:<https://pan.quark.cn/s/b1a4ca72b1c8>
+
+#### 《PC装机模拟器2》v1.13.05 豪华中文版 全DLC 打包XG器
+
+夸克:<https://pan.quark.cn/s/374ae1d05857>
+
+#### 《赛博朋克2077（Cyberpunk 2077）终极版》v2.30 全DLC 中文配音版
+
+夸克:https://pan.quark.cn/s/055ebcd669b7
+
+---
+
+## 已有游戏
+
+#### 《最后生还者2：重制版（The Last of Us Part 2 Remastered）》v1.5.10708.624 中文版（美末2）
+
+夸克：<https://pan.quark.cn/s/39b9feaad93b>
+
+#### 《黑神话：悟空》周边合集（无游戏）
+
+夸克:<https://pan.quark.cn/s/f17ec784d176>
+
+#### 《使命召唤21：黑色行动6（Call of Duty Black Ops 6）》最新 中文版（COD21）
+
+夸克:<https://pan.quark.cn/s/4178397b33d7>
 
 #### 《迸发（The Surge）增强版》最新 全DLC 中文版
 
@@ -213,70 +319,6 @@
 #### 《枪途末路（GUNTOUCHABLES）》最新 中文版
 
 夸克：<https://pan.quark.cn/s/06f8135e7071>
-
----
-
-## 最近更新
-
-#### 《人渣SCUM》v1.0.1.3.96391 豪华中文版 全DLC
-
-夸克:<https://pan.quark.cn/s/ac755bb1ff1f>
-
-#### 《明末：渊虚之羽（WUCHANG Fallen Feathers）豪华版》v1.4.1 中文版
-
-夸克：<https://pan.quark.cn/s/1e406886ed61>
-
-#### 《光与影 33号远征队（Clair Obscur Expedition 33）》v57661 豪华 中文版
-
-夸克：<https://pan.quark.cn/s/2d88dc6722a3>
-
-#### 《博德之门3（Baldurs Gate 3）》v4.1.1.6897358 全DLC 豪华中文 联机版
-
-夸克：<https://pan.quark.cn/s/43c5d1bd91df>
-
-#### 《艾尔登法环：黑夜君临（Elden-Ring-Nightreign）》 v1.02.0 豪华中文版 联机版 打包XG器
-
-夸克：<https://pan.quark.cn/s/5602dc1ab614>
-
-#### 《哈迪斯2（Hades II）》最新 中文版 附修改器
-
-夸克:<https://pan.quark.cn/s/52af982b71bd>
-
-#### 《幻想生活i 转圈圈的龙和偷取时间的少女（FANTASY LIFE i）》v1.4.1 中文版 联机版
-
-夸克：<https://pan.quark.cn/s/a5235626cee9>
-
-#### 《潜行者2：切尔诺贝利之心（S.T.A.L.K.E.R 2 Heart of Chornobyl）终结版》v1.5.2 全DLC 中文版
-
-夸克:<https://pan.quark.cn/s/de848953f6a8>
-
-#### 《胡闹厨房（Overcooked）》系列
-
-夸克:<https://pan.quark.cn/s/b1a4ca72b1c8>
-
-#### 《PC装机模拟器2》v1.13.05 豪华中文版 全DLC 打包XG器
-
-夸克:<https://pan.quark.cn/s/374ae1d05857>
-
-#### 《赛博朋克2077（Cyberpunk 2077）终极版》v2.30 全DLC 中文配音版
-
-夸克:https://pan.quark.cn/s/055ebcd669b7
-
----
-
-## 已有游戏
-
-#### 《最后生还者2：重制版（The Last of Us Part 2 Remastered）》v1.5.10708.624 中文版（美末2）
-
-夸克：<https://pan.quark.cn/s/39b9feaad93b>
-
-#### 《黑神话：悟空》周边合集（无游戏）
-
-夸克:<https://pan.quark.cn/s/f17ec784d176>
-
-#### 《使命召唤21：黑色行动6（Call of Duty Black Ops 6）》最新 中文版（COD21）
-
-夸克:<https://pan.quark.cn/s/4178397b33d7>
 
 #### 《小小书店（Tiny Bookshop）》最新 中文版（模拟经营）
 
