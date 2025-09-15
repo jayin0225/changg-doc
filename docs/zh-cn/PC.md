@@ -62,6 +62,14 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
 
+#### 《迷雾审判（Misty Judgment）》v 2025.9.14 中文版（真人互动影游）
+
+夸克：https://pan.quark.cn/s/c7e5e3bee3c8
+
+#### 《帝国时代3 决定版（Age of Empires III Definitive Edition）》最新 全DLC 中文版（可Radmin LAN联机）
+
+夸克：https://pan.quark.cn/s/b11dff006bae
+
 #### 《NODE：安塔瑞族的最终馈赠（NODE The Last Favor of the Antarii）》最新 中文版
 
 夸克：https://pan.quark.cn/s/34055a0e29e4
