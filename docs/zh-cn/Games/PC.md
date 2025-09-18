@@ -1,9 +1,9 @@
 
 **游戏目录：**
 
-  [电脑游戏](zh-cn/PC)&#8195;
-  [NS模拟器游戏 PC/安卓](zh-cn/NSgames)&#8195;
-  [安卓游戏](zh-cn/Android)
+  [电脑游戏](zh-cn/Games/PC)&#8195;
+  [NS模拟器游戏 PC/安卓](zh-cn/Games/NSgames)&#8195;
+  [安卓游戏](zh-cn/Games/Android)
 ---
 
 # 电脑游戏
