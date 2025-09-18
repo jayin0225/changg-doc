@@ -7,7 +7,7 @@
  [初中专区](zh-cn/study/middleschool)&#8195;
  [高中专区](zh-cn/study/highschool)
  ---
-# 高中专区
+# 学习攻略【方法、记忆、效率】
 
 ----
 > **夸克领取1T容量**
@@ -21,9 +21,9 @@
 ----
 > 更新的时候可能内容不会即时添加，可使用浏览器的搜索功能 **CTRL+F** 弹出搜索
 
-#### 《高中数学全套视频课程》（180节）
-夸克：https://pan.quark.cn/s/5d25ccade14d
-百度: https://pan.baidu.com/s/1uce4NNMTI7H5q2NX0bJVsA?pwd=52pj 提取码: 52pj
+#### 《战胜拖延症》
+夸克：https://pan.quark.cn/s/6cca942ca380
+百度: https://pan.baidu.com/s/1TBbO0XEMHtQU5mBhsAhoDQ?pwd=52pj 提取码: 52pj
 
 
 ----
