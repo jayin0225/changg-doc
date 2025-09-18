@@ -23,25 +23,25 @@
 
 #### 【从小学到大学最全教材及教师用书】
 
-夸克：https://pan.quark.cn/s/3e642e5ec595
+夸克：https://pan.quark.cn/s/3e642e5ec595  
 
 百度: https://pan.baidu.com/s/1hn1pNFyfx8heXQykmkzlpA?pwd=52pj 提取码: 52pj
 
 #### 小学教师教学用书
 
-夸克：https://pan.quark.cn/s/9fb02ba9ae3d
+夸克：https://pan.quark.cn/s/9fb02ba9ae3d  
 
 百度: https://pan.baidu.com/s/1zSfX5gSnKiJI8y-uNShIcQ?pwd=52pj 提取码: 52pj
 
 #### 初中教师教学用书
 
-夸克：https://pan.quark.cn/s/d032b3a41074
+夸克：https://pan.quark.cn/s/d032b3a41074  
 
 百度: https://pan.baidu.com/s/1_DxKHyvusKYmPA6BwoxkZw?pwd=52pj 提取码: 52pj
 
 #### 高中教师教学用书
 
-夸克：https://pan.quark.cn/s/c9dfb75c6cc6
+夸克：https://pan.quark.cn/s/c9dfb75c6cc6  
 
 百度: https://pan.baidu.com/s/10njMNdqoDFzBIGoGWds-7g?pwd=52pj 提取码: 52pj
 
