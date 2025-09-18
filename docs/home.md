@@ -16,11 +16,12 @@
      [https://rux.netlify.app](https://rux.netlify.app)  
 
  **在线资源文档**（每日更新）  
-    在线游戏文档：[点击跳转](https://docs.qq.com/aio/DY2xldmd2TGNjYlZN)  
+    在线资源文档：[点击跳转](https://docs.qq.com/aio/DY2xldmd2TGNjYlZN)  
 #### **QQ群**
 
     [点击后直接添加](https://qm.qq.com/q/rsMnaU4DGo) 
-    QQ群：[70861873](https://qm.qq.com/q/rsMnaU4DGo)  
+    游戏资源QQ群：[70861873](https://qm.qq.com/q/rsMnaU4DGo)
+    学习资源QQ群：[26190041](https://qm.qq.com/q/kiJK8Uc6Gs)  
 
 <!-- tabs:end -->
 ---
