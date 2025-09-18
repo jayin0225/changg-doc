@@ -1,9 +1,9 @@
 
 **游戏目录：**
 
- [小学资源](zh-cn/Games/PC)&#8195;
- [NS模拟器游戏 PC/安卓](zh-cn/Games/NSgames)&#8195;
- [安卓游戏](zh-cn/Games/Android)
+ [小学资源](zh-cn/study/primaryschool)&#8195;
+ [初中资源](zh-cn/study/middleschool)&#8195;
+ [高中资源](zh-cn/study/highschool)
  ---
 # 安卓游戏
 
