@@ -1,11 +1,13 @@
 
-**游戏目录：**
+**学习资源目录：**
 
- [小学资源](zh-cn/study/primaryschool)&#8195;
- [初中资源](zh-cn/study/middleschool)&#8195;
- [高中资源](zh-cn/study/highschool)
+ [学习资源](zh-cn/study/study)&#8195;
+ [学习攻略](zh-cn/study/Studyguide)&#8195;
+ [小学专区](zh-cn/study/primaryschool)&#8195;
+ [初中专区](zh-cn/study/middleschool)&#8195;
+ [高中专区](zh-cn/study/highschool)
  ---
-# 安卓游戏
+# 学习资源
 
 ----
 > **夸克领取1T容量**
@@ -19,12 +21,26 @@
 ----
 > 更新的时候可能内容不会即时添加，可使用浏览器的搜索功能 **CTRL+F** 弹出搜索
 
-### 安卓单机游戏合集（几千个）
+#### 【从小学到大学最全教材及教师用书】
+夸克：https://pan.quark.cn/s/3e642e5ec595
+百度: https://pan.baidu.com/s/1hn1pNFyfx8heXQykmkzlpA?pwd=52pj 提取码: 52pj
 
-夸克：https://pan.quark.cn/s/29bc34d181a2
+#### 小学教师教学用书
+夸克：https://pan.quark.cn/s/9fb02ba9ae3d
+百度: https://pan.baidu.com/s/1zSfX5gSnKiJI8y-uNShIcQ?pwd=52pj 提取码: 52pj
+
+#### 初中教师教学用书
+夸克：https://pan.quark.cn/s/d032b3a41074
+百度: https://pan.baidu.com/s/1_DxKHyvusKYmPA6BwoxkZw?pwd=52pj 提取码: 52pj
+
+#### 高中教师教学用书
+夸克：https://pan.quark.cn/s/c9dfb75c6cc6
+百度: https://pan.baidu.com/s/10njMNdqoDFzBIGoGWds-7g?pwd=52pj 提取码: 52pj
 
 
 
 ----
 ## 最新添加
+
+
 

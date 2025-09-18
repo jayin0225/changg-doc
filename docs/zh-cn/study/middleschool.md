@@ -1,11 +1,13 @@
 
-**游戏目录：**
+**学习资源目录：**
 
- [小学资源](zh-cn/study/primaryschool)&#8195;
- [初中资源](zh-cn/study/middleschool)&#8195;
- [高中资源](zh-cn/study/highschool)
+ [学习资源](zh-cn/study/study)&#8195;
+ [学习攻略](zh-cn/study/Studyguide)&#8195;
+ [小学专区](zh-cn/study/primaryschool)&#8195;
+ [初中专区](zh-cn/study/middleschool)&#8195;
+ [高中专区](zh-cn/study/highschool)
  ---
-# 安卓游戏
+# 初中专区
 
 ----
 > **夸克领取1T容量**
@@ -19,12 +21,26 @@
 ----
 > 更新的时候可能内容不会即时添加，可使用浏览器的搜索功能 **CTRL+F** 弹出搜索
 
-### 安卓单机游戏合集（几千个）
+#### 中学生必读名著50部精讲
+夸克：https://pan.quark.cn/s/9e046d8aadd7
+百度: https://pan.baidu.com/s/13gLjIWXfH0Z-NFgIWjWUyQ?pwd=52pj 提取码: 52pj
 
-夸克：https://pan.quark.cn/s/29bc34d181a2
+#### 作业帮7-9年级各科决胜大招课
+夸克：https://pan.quark.cn/s/bb5814e78f6b
+百度: https://pan.baidu.com/s/13-M_awXtu1T-N3QURGUU5A?pwd=52pj 提取码: 52pj
 
+#### 《初中数学千题解》全套6本 PDF
+夸克：https://pan.quark.cn/s/127fe1891943
+百度: https://pan.baidu.com/s/1WNIipC4eK-LIyFuxziFdeA?pwd=52pj 提取码: 52pj
+
+#### 新东方剑桥流利生活口语（初中高级）
+夸克：https://pan.quark.cn/s/0309622dd61b
+百度: https://pan.baidu.com/s/1tikENzD6vm0g-rcijKqAyQ?pwd=52pj 提取码: 52pj
 
 
 ----
 ## 最新添加
+
+
+
 
