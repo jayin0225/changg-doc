@@ -14,4 +14,5 @@
 [留言板](zh-cn/bbs)
 [电脑游戏](zh-cn/Games/PC)
 [QQ群（游戏）](https://qm.qq.com/q/rsMnaU4DGo)
+[学习资源](zh-cn/study/study)
 [QQ群（学习）](https://qm.qq.com/q/kiJK8Uc6Gs)
