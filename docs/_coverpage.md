@@ -8,9 +8,10 @@
 > **一个非常专业的纯资源分享文档**
 
 - 无套路、海量资源免费分享、
-- 有游戏、电影、电视剧、动漫、纪录片、音乐、书籍、短剧等等
+- 有游戏、学习资料、电影、电视剧、动漫、纪录片、音乐、书籍、短剧等等
 
 [进  入](home)
 [留言板](zh-cn/bbs)
 [电脑游戏](zh-cn/Games/PC)
-[QQ群①](https://qm.qq.com/q/rsMnaU4DGo)
+[QQ群（游戏）](https://qm.qq.com/q/rsMnaU4DGo)
+[QQ群（学习）](https://qm.qq.com/q/kiJK8Uc6Gs)
