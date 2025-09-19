@@ -66,6 +66,102 @@
 
 夸克：https://pan.quark.cn/s/d9b95ef6d445
 
+#### 《方块奥德赛（Cubic Odyssey）》最新 中文 联机版
+
+夸克：https://pan.quark.cn/s/209aa7d76304
+
+#### 《海洋幻想（Sea Fantasy）》最新 中文版
+
+夸克：https://pan.quark.cn/s/72480e1923de
+
+#### 《东方夜雀食堂（Touhou Mystias Izakaya）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/47de7bcdbb7b
+
+#### 《末日的回声（Echoes of the End）》最新 中文版（电影级动作冒险）
+
+夸克：https://pan.quark.cn/s/c86f31fae8b6
+
+#### 《梦之形（Shape of Dreams）》最新 中文 联机版
+
+夸克：https://pan.quark.cn/s/6fc5243d66e9
+
+#### 《末日核心：机甲幸存者（Iron Core Mech Survivor）》最新 中文版
+
+夸克：https://pan.quark.cn/s/b1b1fb1016ec
+
+#### 《牧场物语 来吧！风之繁华集市（STORY OF SEASONS Grand Bazaar）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/54d371282870
+
+#### 《破门而入2：北方特遣队（Door Kickers 2 Task Force North）》最新 中文 联机版
+
+夸克：https://pan.quark.cn/s/f8f6448e54fc
+
+#### 《山海旅人2（Rewinder）》最新 中文版（附第一部）
+
+夸克：https://pan.quark.cn/s/fc5464e99c74
+
+#### 《贪婪大地（Greedland）》最新 中文版
+
+夸克：https://pan.quark.cn/s/d96bb8d4cb99
+
+#### 《无尽星火 (Star Fire Eternal Cycle) 》最新 中文版（横板动作肉鸽）
+
+夸克：https://pan.quark.cn/s/9a360ad0aaab
+
+#### 《终点站：僵尸幸存者（Terminus：Zombie Survivors）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/ee268490aed0
+
+#### 《银河破裂者（The Riftbreaker）》最新 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/f5402d5970f3
+
+---
+
+## 最近更新
+
+#### 《失落之魂（Lost Soul Aside）》最新 全DLC 中文版
+
+夸克：<https://pan.quark.cn/s/2e7d496ea360>
+
+#### 《蠕行的恐惧：克苏鲁选集（Menace from the Deep）》 v1.17 中文版
+
+夸克:<https://pan.quark.cn/s/398b8ee3d579>
+
+#### 《多重人生（The Alters）》 v1.3.0.7 中文版
+
+夸克：<https://pan.quark.cn/s/60a458e880bc>
+
+#### 《艾尔登法环：黑夜君临（Elden-Ring-Nightreign）》 v1.02.2 豪华中文版 联机版 打包XG器
+
+夸克：<https://pan.quark.cn/s/5602dc1ab614>
+
+#### 《天国拯救2（Kingdom Come Deliverance 2）黄金版》v1.4.0 全DLC 中文版
+
+夸克：<https://pan.quark.cn/s/e8a70ec41cc6>
+
+#### 《空洞骑士：丝之歌 （Hollow Knight Silksong）》 v1.0.28561 中文 联机版
+
+夸克：https://pan.quark.cn/s/0ae09ce96377
+
+#### 《赛博朋克2077（Cyberpunk 2077）终极版》v2.31 全DLC 中文配音版
+
+夸克:https://pan.quark.cn/s/055ebcd669b7
+
+---
+
+## 已有游戏
+
+#### 《黑神话：悟空》周边合集（无游戏）
+
+夸克:<https://pan.quark.cn/s/f17ec784d176>
+
+#### 《最后生还者2：重制版（The Last of Us Part 2 Remastered）》v1.5.10708.624 中文版（美末2）
+
+夸克：<https://pan.quark.cn/s/39b9feaad93b>
+
 #### 《死亡重启（Dead Reset）》最新 中文版（恐怖游戏）
 
 夸克：https://pan.quark.cn/s/4b057dd3a2b5
@@ -150,66 +246,6 @@
 
 夸克：https://pan.quark.cn/s/010c19cbc5f9
 
----
-
-## 最近更新
-
-#### 《人渣SCUM》v1.0.1.3.96391 豪华中文版 全DLC
-
-夸克:<https://pan.quark.cn/s/ac755bb1ff1f>
-
-#### 《明末：渊虚之羽（WUCHANG Fallen Feathers）豪华版》v1.4.1 中文版
-
-夸克：<https://pan.quark.cn/s/1e406886ed61>
-
-#### 《光与影 33号远征队（Clair Obscur Expedition 33）》v57661 豪华 中文版
-
-夸克：<https://pan.quark.cn/s/2d88dc6722a3>
-
-#### 《博德之门3（Baldurs Gate 3）》v4.1.1.6897358 全DLC 豪华中文 联机版
-
-夸克：<https://pan.quark.cn/s/43c5d1bd91df>
-
-#### 《艾尔登法环：黑夜君临（Elden-Ring-Nightreign）》 v1.02.0 豪华中文版 联机版 打包XG器
-
-夸克：<https://pan.quark.cn/s/5602dc1ab614>
-
-#### 《哈迪斯2（Hades II）》最新 中文版 附修改器
-
-夸克:<https://pan.quark.cn/s/52af982b71bd>
-
-#### 《幻想生活i 转圈圈的龙和偷取时间的少女（FANTASY LIFE i）》v1.4.1 中文版 联机版
-
-夸克：<https://pan.quark.cn/s/a5235626cee9>
-
-#### 《潜行者2：切尔诺贝利之心（S.T.A.L.K.E.R 2 Heart of Chornobyl）终结版》v1.5.2 全DLC 中文版
-
-夸克:<https://pan.quark.cn/s/de848953f6a8>
-
-#### 《胡闹厨房（Overcooked）》系列
-
-夸克:<https://pan.quark.cn/s/b1a4ca72b1c8>
-
-#### 《PC装机模拟器2》v1.13.05 豪华中文版 全DLC 打包XG器
-
-夸克:<https://pan.quark.cn/s/374ae1d05857>
-
-#### 《赛博朋克2077（Cyberpunk 2077）终极版》v2.30 全DLC 中文配音版
-
-夸克:https://pan.quark.cn/s/055ebcd669b7
-
----
-
-## 已有游戏
-
-#### 《最后生还者2：重制版（The Last of Us Part 2 Remastered）》v1.5.10708.624 中文版（美末2）
-
-夸克：<https://pan.quark.cn/s/39b9feaad93b>
-
-#### 《黑神话：悟空》周边合集（无游戏）
-
-夸克:<https://pan.quark.cn/s/f17ec784d176>
-
 #### 《浪客诺特（Katanaut）》最新 中文版（轻度肉鸽动作）
 
 夸克：https://pan.quark.cn/s/5c5b6c57cdd1
@@ -262,7 +298,7 @@
 
 夸克：https://pan.quark.cn/s/c0969490e6e2
 
-#### 《空洞骑士：丝之歌 （Hollow Knight Silksong）》v1.0.28324 中文版
+#### 《空洞骑士：丝之歌 （Hollow Knight Silksong）》 最新 中文 联机版
 
 夸克：https://pan.quark.cn/s/0ae09ce96377
 
@@ -306,7 +342,7 @@
 
 夸克：https://pan.quark.cn/s/d592406908d8
 
-#### 《失落之魂（Lost Soul Aside）》v2025.8.29 全DLC 中文版
+#### 《失落之魂（Lost Soul Aside）》最新 全DLC 中文版
 
 夸克：<https://pan.quark.cn/s/2e7d496ea360>
 
@@ -874,7 +910,7 @@
 
 夸克：<https://pan.quark.cn/s/849a889c7519>
 
-#### 《多重人生（The Alters）》 v1.0.1.46 中文版
+#### 《多重人生（The Alters）》 最新 中文版
 
 夸克：<https://pan.quark.cn/s/60a458e880bc>
 
