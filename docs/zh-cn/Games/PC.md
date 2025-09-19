@@ -62,6 +62,10 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示
 
+#### 《消逝的光芒：困兽（Dying Light The Beast）豪华版》最新 全DLC 中文配音 联机版  
+
+夸克：https://pan.quark.cn/s/d9b95ef6d445
+
 #### 《死亡重启（Dead Reset）》最新 中文版（恐怖游戏）
 
 夸克：https://pan.quark.cn/s/4b057dd3a2b5
