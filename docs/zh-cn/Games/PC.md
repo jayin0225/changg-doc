@@ -66,6 +66,10 @@
 
 夸克：https://pan.quark.cn/s/d9b95ef6d445
 
+#### 《狼王传奇（WolfQuest Anniversary Edition）周年纪念版》 v 2.0.3d 联机版
+
+夸克：https://pan.quark.cn/s/31afc7f895c0
+
 #### 《方块奥德赛（Cubic Odyssey）》最新 中文 联机版
 
 夸克：https://pan.quark.cn/s/209aa7d76304
