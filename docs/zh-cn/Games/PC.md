@@ -66,6 +66,14 @@
 
 夸克：https://pan.quark.cn/s/d9b95ef6d445
 
+#### 《越狱模拟器挖掘逃生 (Prison Escape Simulator Dig Out)》最新 中文版
+
+夸克：https://pan.quark.cn/s/245dcc425891
+
+#### 《完蛋！我被美女包围了！》前传 v2024.10.23 中文版
+
+链接：https://pan.quark.cn/s/6c68566ab80f
+
 #### 《狼王传奇（WolfQuest Anniversary Edition）周年纪念版》 v 2.0.3d 联机版
 
 夸克：https://pan.quark.cn/s/31afc7f895c0
