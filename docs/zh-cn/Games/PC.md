@@ -126,6 +126,10 @@
 
 ## 最近更新
 
+#### 《龙珠：超宇宙2》最新 豪华中文版 全DLC 打包XG器 
+
+夸克:<https://pan.quark.cn/s/c8fda5a16136>
+
 #### 《失落之魂（Lost Soul Aside）》最新 全DLC 中文版
 
 夸克：<https://pan.quark.cn/s/2e7d496ea360>
@@ -2962,7 +2966,7 @@
 
 夸克:<https://pan.quark.cn/s/b0c778351ad2>
 
-#### 《龙珠：超宇宙2》v1.23.00 豪华中文版 全DLC 打包XG器 新增未来之歌 第2章DLC
+#### 《龙珠：超宇宙2》最新 豪华中文版 全DLC 打包XG器 
 
 夸克:<https://pan.quark.cn/s/c8fda5a16136>
 
