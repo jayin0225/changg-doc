@@ -63,6 +63,10 @@
 
 百度: https://pan.baidu.com/s/1Z9G-BwgfJ6gkWr18YZuOWQ?pwd=52pj 提取码: 52pj
 
+#### 最适合学英语的278部英语分级动画（共30000多集）
+
+夸克：https://pan.quark.cn/s/7120612f6cd8
+
 
 ----
 ## 最新添加
