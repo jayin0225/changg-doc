@@ -134,6 +134,10 @@
 
 ## 最近更新
 
+#### 《冰汽时代2（Frostpunk 2）豪华版》v1.4.0 全DLC 豪华中文版
+
+夸克：https://pan.quark.cn/s/a1ddd0967825
+
 #### 《龙珠：超宇宙2》v1.24.01 豪华中文版 全DLC 打包XG器 
 
 夸克:<https://pan.quark.cn/s/c8fda5a16136>
