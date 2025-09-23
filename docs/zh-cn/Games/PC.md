@@ -66,6 +66,10 @@
 
 夸克：https://pan.quark.cn/s/d9b95ef6d445
 
+#### 《小丑牌（Balatro）》Build 17459173
+
+夸克：https://pan.quark.cn/s/a0714c56488f
+
 #### 《空之轨迹 重制版（Trails in the Sky 1st Chapter）》最新 全DLC 无中文
 
 夸克：https://pan.quark.cn/s/c292a853ae77
