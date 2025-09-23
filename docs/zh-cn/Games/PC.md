@@ -158,6 +158,10 @@
 
 ## 最近更新
 
+#### 《三位一体5：发条阴谋（Trine 5 A Clockwork Conspiracy）》最新 中文 联机版
+
+夸克:https://pan.quark.cn/s/c2b5e87f9fe1
+
 #### 《冰汽时代2（Frostpunk 2）豪华版》v1.4.0 全DLC 豪华中文版
 
 夸克：https://pan.quark.cn/s/a1ddd0967825
@@ -2830,9 +2834,9 @@
 
 夸克:<https://pan.quark.cn/s/25a8e21c26f7>
 
-#### 《三位一体5：发条阴谋》v1.2A 豪华中文版 全DLC
+#### 《三位一体5：发条阴谋（Trine 5 A Clockwork Conspiracy）》最新 中文 联机版
 
-夸克:<https://pan.quark.cn/s/d052aea44487>
+夸克:https://pan.quark.cn/s/c2b5e87f9fe1
 
 #### 《罗格：救世传说》v0.10.0.2.b 豪华中文版 全DLC
 
