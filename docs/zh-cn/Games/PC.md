@@ -66,6 +66,22 @@
 
 夸克：https://pan.quark.cn/s/d9b95ef6d445
 
+#### 《空之轨迹 重制版（Trails in the Sky 1st Chapter）》最新 全DLC 无中文
+
+夸克：https://pan.quark.cn/s/c292a853ae77
+
+#### 《啦嗒铛（Ratatan）》最新 中文版（节奏横轴动作）
+
+夸克：https://pan.quark.cn/s/a76b568f98c8
+
+#### 《心跳大冒险：泰遇（Heartbeat In Thailand）》最新 中文版
+
+夸克：https://pan.quark.cn/s/08fe5614fad2
+
+#### 《蚀之境（Eclipsium）》最新 中文版
+
+夸克：https://pan.quark.cn/s/9b5acc4aaeed
+
 #### 《越狱模拟器挖掘逃生 (Prison Escape Simulator Dig Out)》最新 中文版
 
 夸克：https://pan.quark.cn/s/245dcc425891
