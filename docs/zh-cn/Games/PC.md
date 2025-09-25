@@ -70,6 +70,10 @@
 
 夸克：https://pan.quark.cn/s/d9b95ef6d445
 
+#### 《饭团店模拟（Onigiri Shop Simulator）》最新 中文版
+
+夸克：https://pan.quark.cn/s/39fed3508788
+
 #### 《野蛮战卒（Pawnbarian）》最新  中文版
 
 夸克：https://pan.quark.cn/s/aca392c4484d
