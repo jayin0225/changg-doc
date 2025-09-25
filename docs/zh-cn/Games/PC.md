@@ -70,6 +70,18 @@
 
 夸克：https://pan.quark.cn/s/d9b95ef6d445
 
+#### 《野蛮战卒（Pawnbarian）》最新  中文版
+
+夸克：https://pan.quark.cn/s/aca392c4484d
+
+#### 《我在地府打麻将（Demonic Mahjong）》最新 中文版
+
+夸克：https://pan.quark.cn/s/698d29b6f83b
+
+#### 《消逝的光芒2：坚守人性 重装上阵版（Dying Light 2 Stay Human）终极版》最新 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/661979bf6131
+
 #### 《小丑牌（Balatro）》Build 17459173
 
 夸克：https://pan.quark.cn/s/a0714c56488f
@@ -157,6 +169,18 @@
 ---
 
 ## 最近更新
+
+#### 《消逝的光芒：困兽（Dying Light The Beast）豪华版》v1.2.1 全DLC 中文配音 联机版
+
+夸克：https://pan.quark.cn/s/d9b95ef6d445
+
+#### 《明末：渊虚之羽（WUCHANG Fallen Feathers）豪华版》v179243 中文版
+
+夸克：https://pan.quark.cn/s/1e406886ed61
+
+#### 《三位一体5：发条阴谋（Trine 5 A Clockwork Conspiracy）》最新 中文 联机版
+
+夸克:https://pan.quark.cn/s/c2b5e87f9fe1
 
 #### 《冰汽时代2（Frostpunk 2）豪华版》v1.4.0 全DLC 豪华中文版
 
