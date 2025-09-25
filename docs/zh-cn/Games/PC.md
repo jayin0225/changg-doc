@@ -174,6 +174,10 @@
 
 ## 最近更新
 
+#### 幻兽帕鲁（Palworld）》 v0.6.6.79318 全DLC 中文 联机版 (附：MOD合集+修改器+升级补丁)
+
+夸克:https://pan.quark.cn/s/0ca1b61bb4c6
+
 #### 《消逝的光芒：困兽（Dying Light The Beast）豪华版》v1.2.1 全DLC 中文配音 联机版
 
 夸克：https://pan.quark.cn/s/d9b95ef6d445
