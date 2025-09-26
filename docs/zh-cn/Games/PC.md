@@ -70,6 +70,10 @@
 
 夸克：https://pan.quark.cn/s/d9b95ef6d445
 
+#### 《牧场物语：来吧！风之繁华集市（STORY OF SEASONS Grand Bazaar）》v 1.0.4  全DLC 中文版
+
+夸克：https://pan.quark.cn/s/cf462138d84a
+
 #### 《饭团店模拟（Onigiri Shop Simulator）》最新 中文版
 
 夸克：https://pan.quark.cn/s/39fed3508788
@@ -85,6 +89,69 @@
 #### 《消逝的光芒2：坚守人性 重装上阵版（Dying Light 2 Stay Human）终极版》最新 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/661979bf6131
+---
+
+## 最近更新
+
+#### 幻兽帕鲁（Palworld）》 v0.6.6.79318 全DLC 中文 联机版 (附：MOD合集+修改器+升级补丁)
+
+夸克:https://pan.quark.cn/s/0ca1b61bb4c6
+
+#### 《消逝的光芒：困兽（Dying Light The Beast）豪华版》v1.2.1 全DLC 中文配音 联机版
+
+夸克：https://pan.quark.cn/s/d9b95ef6d445
+
+#### 《明末：渊虚之羽（WUCHANG Fallen Feathers）豪华版》v179243 中文版
+
+夸克：https://pan.quark.cn/s/1e406886ed61
+
+#### 《三位一体5：发条阴谋（Trine 5 A Clockwork Conspiracy）》最新 中文 联机版
+
+夸克:https://pan.quark.cn/s/c2b5e87f9fe1
+
+#### 《冰汽时代2（Frostpunk 2）豪华版》v1.4.0 全DLC 豪华中文版
+
+夸克：https://pan.quark.cn/s/a1ddd0967825
+
+#### 《龙珠：超宇宙2》v1.24.01 豪华中文版 全DLC 打包XG器 
+
+夸克:<https://pan.quark.cn/s/c8fda5a16136>
+
+#### 《失落之魂（Lost Soul Aside）》最新 全DLC 中文版
+
+夸克：<https://pan.quark.cn/s/2e7d496ea360>
+
+#### 《蠕行的恐惧：克苏鲁选集（Menace from the Deep）》 v1.17 中文版
+
+夸克:<https://pan.quark.cn/s/398b8ee3d579>
+
+#### 《多重人生（The Alters）》 v1.3.0.7 中文版
+
+夸克：<https://pan.quark.cn/s/60a458e880bc>
+
+#### 《艾尔登法环：黑夜君临（Elden-Ring-Nightreign）》 v1.02.2 豪华中文版 联机版 打包XG器
+
+夸克：<https://pan.quark.cn/s/5602dc1ab614>
+
+#### 《天国拯救2（Kingdom Come Deliverance 2）黄金版》v1.4.0 全DLC 中文版
+
+夸克：<https://pan.quark.cn/s/e8a70ec41cc6>
+
+#### 《空洞骑士：丝之歌 （Hollow Knight Silksong）》 v1.0.28561 中文 联机版
+
+夸克：https://pan.quark.cn/s/0ae09ce96377
+
+#### 《赛博朋克2077（Cyberpunk 2077）终极版》v2.31 全DLC 中文配音版
+
+夸克:https://pan.quark.cn/s/055ebcd669b7
+
+---
+
+## 已有游戏
+
+#### 《黑神话：悟空》周边合集（无游戏）
+
+夸克:<https://pan.quark.cn/s/f17ec784d176>
 
 #### 《小丑牌（Balatro）》Build 17459173
 
@@ -169,74 +236,6 @@
 #### 《银河破裂者（The Riftbreaker）》最新 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/f5402d5970f3
-
----
-
-## 最近更新
-
-#### 幻兽帕鲁（Palworld）》 v0.6.6.79318 全DLC 中文 联机版 (附：MOD合集+修改器+升级补丁)
-
-夸克:https://pan.quark.cn/s/0ca1b61bb4c6
-
-#### 《消逝的光芒：困兽（Dying Light The Beast）豪华版》v1.2.1 全DLC 中文配音 联机版
-
-夸克：https://pan.quark.cn/s/d9b95ef6d445
-
-#### 《明末：渊虚之羽（WUCHANG Fallen Feathers）豪华版》v179243 中文版
-
-夸克：https://pan.quark.cn/s/1e406886ed61
-
-#### 《三位一体5：发条阴谋（Trine 5 A Clockwork Conspiracy）》最新 中文 联机版
-
-夸克:https://pan.quark.cn/s/c2b5e87f9fe1
-
-#### 《冰汽时代2（Frostpunk 2）豪华版》v1.4.0 全DLC 豪华中文版
-
-夸克：https://pan.quark.cn/s/a1ddd0967825
-
-#### 《龙珠：超宇宙2》v1.24.01 豪华中文版 全DLC 打包XG器 
-
-夸克:<https://pan.quark.cn/s/c8fda5a16136>
-
-#### 《失落之魂（Lost Soul Aside）》最新 全DLC 中文版
-
-夸克：<https://pan.quark.cn/s/2e7d496ea360>
-
-#### 《蠕行的恐惧：克苏鲁选集（Menace from the Deep）》 v1.17 中文版
-
-夸克:<https://pan.quark.cn/s/398b8ee3d579>
-
-#### 《多重人生（The Alters）》 v1.3.0.7 中文版
-
-夸克：<https://pan.quark.cn/s/60a458e880bc>
-
-#### 《艾尔登法环：黑夜君临（Elden-Ring-Nightreign）》 v1.02.2 豪华中文版 联机版 打包XG器
-
-夸克：<https://pan.quark.cn/s/5602dc1ab614>
-
-#### 《天国拯救2（Kingdom Come Deliverance 2）黄金版》v1.4.0 全DLC 中文版
-
-夸克：<https://pan.quark.cn/s/e8a70ec41cc6>
-
-#### 《空洞骑士：丝之歌 （Hollow Knight Silksong）》 v1.0.28561 中文 联机版
-
-夸克：https://pan.quark.cn/s/0ae09ce96377
-
-#### 《赛博朋克2077（Cyberpunk 2077）终极版》v2.31 全DLC 中文配音版
-
-夸克:https://pan.quark.cn/s/055ebcd669b7
-
----
-
-## 已有游戏
-
-#### 《黑神话：悟空》周边合集（无游戏）
-
-夸克:<https://pan.quark.cn/s/f17ec784d176>
-
-#### 《最后生还者2：重制版（The Last of Us Part 2 Remastered）》v1.5.10708.624 中文版（美末2）
-
-夸克：<https://pan.quark.cn/s/39b9feaad93b>
 
 #### 《死亡重启（Dead Reset）》最新 中文版（恐怖游戏）
 
