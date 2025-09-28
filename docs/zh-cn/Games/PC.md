@@ -70,9 +70,13 @@
 
 夸克：https://pan.quark.cn/s/d9b95ef6d445
 
-#### 《牧场物语：来吧！风之繁华集市（STORY OF SEASONS Grand Bazaar）》v 1.0.4  全DLC 中文版
+#### 《银行家模拟器（Banker Simulator）》最新 中文版
 
-夸克：https://pan.quark.cn/s/cf462138d84a
+夸克：https://pan.quark.cn/s/6176f14c54fa
+
+#### 《一步一脚印（Baby Steps）》最新 中文版（搞怪冒险）
+
+夸克：https://pan.quark.cn/s/f3e3072ee33e
 
 #### 《饭团店模拟（Onigiri Shop Simulator）》最新 中文版
 
@@ -100,6 +104,10 @@
 #### 《消逝的光芒：困兽（Dying Light The Beast）豪华版》v1.2.1 全DLC 中文配音 联机版
 
 夸克：https://pan.quark.cn/s/d9b95ef6d445
+
+#### 《逃离塔科夫（Escape from Tarkov）》最新 离线 中文版
+
+夸克：<https://pan.quark.cn/s/618eddb5b71b>
 
 #### 《明末：渊虚之羽（WUCHANG Fallen Feathers）豪华版》v179243 中文版
 
