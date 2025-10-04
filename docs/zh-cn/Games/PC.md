@@ -62,6 +62,22 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。
 
+#### 《罪恶装备：启示者（GUILTY GEAR Xrd REV 2）豪华版》最新 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/36f68d1e31dd
+
+#### 《异形：盗贼入侵 进化版（Alien Rogue Incursion Evolved Edition）豪华版》最新 中文版
+
+夸克：https://pan.quark.cn/s/03429f68e82d
+
+#### 《ROAD59 -新时代任侠特区- 摩天楼黑白抗争》最新 中文版（视觉小说）
+
+夸克：https://pan.quark.cn/s/d7960b1cbaf0
+
+#### 《NBA 弹跳（NBA BOUNCE）》最新 中文版
+
+夸克：https://pan.quark.cn/s/2984a1528027
+
 #### 《寂静岭F（SILENT HILL F）豪华版》v1.1.378720 全DLC 中文版（心理恐怖游戏）
 
 夸克：https://pan.quark.cn/s/4b3b51019b6d
