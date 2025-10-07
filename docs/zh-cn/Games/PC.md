@@ -125,6 +125,13 @@
 ---
 
 ## 最近更新
+#### 《都市天际线2（Cities Skylines 2）终结版》v1.3.5f1 全DLC 中文版（城市天际线2）
+
+夸克：https://pan.quark.cn/s/92561f2dc586
+
+#### 《冰汽时代2（Frostpunk 2）豪华版》v1.4.1 全DLC 豪华中文版
+
+夸克：https://pan.quark.cn/s/a1ddd0967825
 
 #### 幻兽帕鲁（Palworld）》 v0.6.6.79318 全DLC 中文 联机版 (附：MOD合集+修改器+升级补丁)
 
@@ -145,10 +152,6 @@
 #### 《三位一体5：发条阴谋（Trine 5 A Clockwork Conspiracy）》最新 中文 联机版
 
 夸克:https://pan.quark.cn/s/c2b5e87f9fe1
-
-#### 《冰汽时代2（Frostpunk 2）豪华版》v1.4.0 全DLC 豪华中文版
-
-夸克：https://pan.quark.cn/s/a1ddd0967825
 
 #### 《龙珠：超宇宙2》v1.24.01 豪华中文版 全DLC 打包XG器 
 
