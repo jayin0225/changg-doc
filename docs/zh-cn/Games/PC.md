@@ -62,6 +62,18 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。
 
+#### 《奥特曼格斗进化3》日语版（附两款PS2模拟器）
+
+夸克：https://pan.quark.cn/s/3da0f6fb2301
+
+#### 《建筑师之谷（The Valley of the Architects）》v20250407 英文版
+
+夸克：https://pan.quark.cn/s/cd0c887f6f1b
+
+#### 《幽灵诡计（Ghost Trick Phantom Detective）》Build 11038113 中文版
+
+夸克：https://pan.quark.cn/s/bac7f8fb60af
+
 #### 《罪恶装备：启示者（GUILTY GEAR Xrd REV 2）豪华版》最新 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/36f68d1e31dd
