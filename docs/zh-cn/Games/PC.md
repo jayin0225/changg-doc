@@ -62,6 +62,18 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。
 
+#### 《枪豆人（Bang Bang Barrage）》最新 中文版（多人本地联机）
+
+夸克：https://pan.quark.cn/s/23e448e25193
+
+#### 《海员人生：行船模拟（Seafarer The Ship Sim）》最新 中文版
+
+夸克：https://pan.quark.cn/s/f797123886eb
+
+#### 《Blood of Mehran》最新 中文版
+
+夸克：https://pan.quark.cn/s/130f2c009cf4
+
 #### 《方舟：生存进化 终极幸存者版》v356.1 全DLC 终极版 联机版
 
 夸克：https://pan.quark.cn/s/4b67145a4a03
