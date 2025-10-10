@@ -66,6 +66,14 @@
 
 夸克：https://pan.quark.cn/s/3e94eef49bd2
 
+#### 《苏丹的游戏（Sultans Game）》最新 中文版
+
+夸克：https://pan.quark.cn/s/2d4c52fcc1a0
+
+#### 《勇者斗恶龙：创世小玩家2 破坏神席德与空荡岛（Dragon.Quest.Builders.2）》 最新 中文版
+
+夸克：https://pan.quark.cn/s/b17cee591c96
+
 #### 《枪豆人（Bang Bang Barrage）》最新 中文版（多人本地联机）
 
 夸克：https://pan.quark.cn/s/23e448e25193
