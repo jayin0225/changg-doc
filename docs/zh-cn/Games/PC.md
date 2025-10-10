@@ -74,6 +74,18 @@
 
 夸克：https://pan.quark.cn/s/b17cee591c96
 
+#### 《60分钟绝灭：密室逃脱（60 Minutes to Extinction Escape Room）》最新 中文版
+
+夸克：https://pan.quark.cn/s/327429ef7814
+
+#### 《小小火箭实验室（Little Rocket Lab）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/89eae33eaa25
+
+#### 《星战王牌（Battle Suit Aces）》最新 中文版（剧情卡牌游戏）
+
+夸克：https://pan.quark.cn/s/0836e479d718
+
 #### 《枪豆人（Bang Bang Barrage）》最新 中文版（多人本地联机）
 
 夸克：https://pan.quark.cn/s/23e448e25193
@@ -98,61 +110,37 @@
 
 夸克：https://pan.quark.cn/s/cd0c887f6f1b
 
-#### 《幽灵诡计（Ghost Trick Phantom Detective）》Build 11038113 中文版
-
-夸克：https://pan.quark.cn/s/bac7f8fb60af
-
-#### 《罪恶装备：启示者（GUILTY GEAR Xrd REV 2）豪华版》最新 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/36f68d1e31dd
-
-#### 《异形：盗贼入侵 进化版（Alien Rogue Incursion Evolved Edition）豪华版》最新 中文版
-
-夸克：https://pan.quark.cn/s/03429f68e82d
-
-#### 《ROAD59 -新时代任侠特区- 摩天楼黑白抗争》最新 中文版（视觉小说）
-
-夸克：https://pan.quark.cn/s/d7960b1cbaf0
-
-#### 《NBA 弹跳（NBA BOUNCE）》最新 中文版
-
-夸克：https://pan.quark.cn/s/2984a1528027
-
-#### 《寂静岭F（SILENT HILL F）豪华版》v1.1.378720 全DLC 中文版（心理恐怖游戏）
-
-夸克：https://pan.quark.cn/s/4b3b51019b6d
-
-#### 《消逝的光芒：困兽（Dying Light The Beast）豪华版》最新 全DLC 中文配音 联机版  
-
-夸克：https://pan.quark.cn/s/d9b95ef6d445
-
-#### 《银行家模拟器（Banker Simulator）》最新 中文版
-
-夸克：https://pan.quark.cn/s/6176f14c54fa
-
-#### 《一步一脚印（Baby Steps）》最新 中文版（搞怪冒险）
-
-夸克：https://pan.quark.cn/s/f3e3072ee33e
-
-#### 《饭团店模拟（Onigiri Shop Simulator）》最新 中文版
-
-夸克：https://pan.quark.cn/s/39fed3508788
-
-#### 《野蛮战卒（Pawnbarian）》最新  中文版
-
-夸克：https://pan.quark.cn/s/aca392c4484d
-
-#### 《我在地府打麻将（Demonic Mahjong）》最新 中文版
-
-夸克：https://pan.quark.cn/s/698d29b6f83b
-
-#### 《消逝的光芒2：坚守人性 重装上阵版（Dying Light 2 Stay Human）终极版》最新 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/661979bf6131  
-
 ---
 
 ## 最近更新
+
+#### 《艾尔登法环：黑夜君临（Elden-Ring-Nightreign）》 v1.02.4 豪华中文版 联机版 打包XG器
+
+夸克：https://pan.quark.cn/s/5602dc1ab614
+
+#### 《空洞骑士：丝之歌 （Hollow Knight Silksong）》 v1.0.28891 中文 联机版
+
+夸克：https://pan.quark.cn/s/0ae09ce96377
+
+#### 《禁闭求生2（Grounded 2）》v0.2.0.1 中文 联机版
+
+夸克：https://pan.quark.cn/s/ce491cf41744
+
+#### 《欧洲卡车模拟2（Euro Truck Simulator 2）》v1.56.1.8s 全DLC 豪华中文 联机版
+
+夸克:https://pan.quark.cn/s/709d5ab4cc5f
+
+#### 《美国卡车模拟（American Truck Simulator）高级版》v1.56.1.7s 全DLC 中文版
+
+夸克:https://pan.quark.cn/s/7383cec056c4
+
+#### 《缉私警察（Contraband Police）》v20251002 中文版
+
+夸克：https://pan.quark.cn/s/dfba5a22588c
+
+#### 《超市模拟器（Supermarket Simulator）》v1.1.1  中文版 打包XG器
+
+夸克:https://pan.quark.cn/s/4539de9e02b6
 
 #### 《都市天际线2（Cities Skylines 2）终结版》v1.3.5f1 全DLC 中文版（城市天际线2）
 
@@ -221,6 +209,58 @@
 #### 《黑神话：悟空》周边合集（无游戏）
 
 夸克:<https://pan.quark.cn/s/f17ec784d176>
+
+#### 《幽灵诡计（Ghost Trick Phantom Detective）》Build 11038113 中文版
+
+夸克：https://pan.quark.cn/s/bac7f8fb60af
+
+#### 《罪恶装备：启示者（GUILTY GEAR Xrd REV 2）豪华版》最新 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/36f68d1e31dd
+
+#### 《异形：盗贼入侵 进化版（Alien Rogue Incursion Evolved Edition）豪华版》最新 中文版
+
+夸克：https://pan.quark.cn/s/03429f68e82d
+
+#### 《ROAD59 -新时代任侠特区- 摩天楼黑白抗争》最新 中文版（视觉小说）
+
+夸克：https://pan.quark.cn/s/d7960b1cbaf0
+
+#### 《NBA 弹跳（NBA BOUNCE）》最新 中文版
+
+夸克：https://pan.quark.cn/s/2984a1528027
+
+#### 《寂静岭F（SILENT HILL F）豪华版》v1.1.378720 全DLC 中文版（心理恐怖游戏）
+
+夸克：https://pan.quark.cn/s/4b3b51019b6d
+
+#### 《消逝的光芒：困兽（Dying Light The Beast）豪华版》最新 全DLC 中文配音 联机版  
+
+夸克：https://pan.quark.cn/s/d9b95ef6d445
+
+#### 《银行家模拟器（Banker Simulator）》最新 中文版
+
+夸克：https://pan.quark.cn/s/6176f14c54fa
+
+#### 《一步一脚印（Baby Steps）》最新 中文版（搞怪冒险）
+
+夸克：https://pan.quark.cn/s/f3e3072ee33e
+
+#### 《饭团店模拟（Onigiri Shop Simulator）》最新 中文版
+
+夸克：https://pan.quark.cn/s/39fed3508788
+
+#### 《野蛮战卒（Pawnbarian）》最新  中文版
+
+夸克：https://pan.quark.cn/s/aca392c4484d
+
+#### 《我在地府打麻将（Demonic Mahjong）》最新 中文版
+
+夸克：https://pan.quark.cn/s/698d29b6f83b
+
+#### 《消逝的光芒2：坚守人性 重装上阵版（Dying Light 2 Stay Human）终极版》最新 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/661979bf6131  
 
 #### 《小丑牌（Balatro）》Build 17459173
 
@@ -669,10 +709,6 @@
 #### 《末日地带2（Endzone 2）》最新 全DLC 中文版（末世生存建造）
 
 夸克：<https://pan.quark.cn/s/05b3c84f79ea>
-
-#### 《禁闭求生2（Grounded 2）》最新 中文 联机版
-
-夸克：<https://pan.quark.cn/s/03cd4ca98bd2>
 
 #### 《代号：海洋守护者（Codename Ocean Keeper）》最新 中文版（塔防游戏）
 
@@ -1854,13 +1890,13 @@
 
 夸克:<https://pan.quark.cn/s/b75a8e13db59>
 
-#### 《欧洲卡车模拟2》最新 豪华中文版 全DLC
+#### 《欧洲卡车模拟2（Euro Truck Simulator 2）》最新 全DLC 豪华中文 联机版
 
-夸克:<https://pan.quark.cn/s/709d5ab4cc5f>
+夸克:https://pan.quark.cn/s/709d5ab4cc5f
 
-#### 《美国卡车模拟2》v1.52.0.3s 豪华中文版 全DLC
+#### 《美国卡车模拟（American Truck Simulator）高级版》最新 全DLC 中文版
 
-夸克:<https://pan.quark.cn/s/7383cec056c4>
+夸克:https://pan.quark.cn/s/7383cec056c4
 
 #### 《忍者神龟：变种释放》v2024.10.18 中文版
 
@@ -6117,10 +6153,6 @@
 #### 《神力科莎EVO》v0.1 中文版
 
 夸克:<https://pan.quark.cn/s/e103cb2555c2>
-
-#### 《缉私警察》v10.6.1 中文版
-
-夸克:<https://pan.quark.cn/s/bc5f29bab18b>
 
 #### 《超市模拟器》最新 中文版 打包XG器
 
