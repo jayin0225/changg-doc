@@ -36,6 +36,10 @@
 
 ##  已有游戏
 
+#### 《索尼克赛车：交叉世界（Sonic.Racing.CrossWorlds-EMU）》v1.1.2 安装版 带模拟器
+
+夸克：https://pan.quark.cn/s/5deec62828c4
+
 #### 《口袋妖怪合集（精灵宝可梦合集）》中文版
 
 夸克：https://pan.quark.cn/s/9f64d0ff44ef
