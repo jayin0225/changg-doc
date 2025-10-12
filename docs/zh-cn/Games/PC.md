@@ -66,6 +66,14 @@
 
 夸克：https://pan.quark.cn/s/3e94eef49bd2
 
+#### 《群星（Stellaris）豪华版》最新 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/3e74c6b3e0ff
+
+#### 《哈利波特霍格沃兹遗产（Hogwarts Legacy）》最新 中文版 全DLC 附XG器
+
+夸克：https://pan.quark.cn/s/2619f139c72c
+
 #### 《苏丹的游戏（Sultans Game）》最新 中文版
 
 夸克：https://pan.quark.cn/s/2d4c52fcc1a0
