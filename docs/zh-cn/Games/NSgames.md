@@ -36,6 +36,14 @@
 
 ##  已有游戏
 
+#### 《宝可梦ZA》 最新 全DLC NS整合 中文版
+
+夸克：https://pan.quark.cn/s/7fb39c0f9ce0
+
+#### 《小小梦魇3 Little Nightmares III》最新 NS整合 中文版
+
+夸克：https://pan.quark.cn/s/df5ed7cb5765
+
 #### 《索尼克赛车：交叉世界（Sonic.Racing.CrossWorlds-EMU）》v1.1.2 安装版 带模拟器
 
 夸克：https://pan.quark.cn/s/5deec62828c4

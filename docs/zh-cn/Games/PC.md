@@ -62,6 +62,14 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。
 
+#### 《宝可梦ZA》 最新 全DLC NS整合 中文版
+
+夸克：https://pan.quark.cn/s/7fb39c0f9ce0
+
+#### 《小小梦魇3 Little Nightmares III》最新 NS整合 中文版
+
+夸克：https://pan.quark.cn/s/df5ed7cb5765
+
 #### 《小小梦魇3（Little Nightmares 3）》v2025.10.10 全DLC 中文 联机版（附前2部 恐怖解密）
 
 夸克：https://pan.quark.cn/s/3e94eef49bd2
