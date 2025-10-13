@@ -70,6 +70,10 @@
 
 夸克：https://pan.quark.cn/s/df5ed7cb5765
 
+#### 《破门而入：行动小队（Door Kickers Action Squad）》最新 中文 联机版
+
+夸克：https://pan.quark.cn/s/6b9a2389935c
+
 #### 《小小梦魇3（Little Nightmares 3）》v2025.10.10 全DLC 中文 联机版（附前2部 恐怖解密）
 
 夸克：https://pan.quark.cn/s/3e94eef49bd2
