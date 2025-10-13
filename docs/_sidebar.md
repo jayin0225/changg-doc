@@ -4,7 +4,11 @@
   - [👌电脑游戏](zh-cn/Games/PC)
   - [✌NS模拟器游戏 PC/安卓](zh-cn/Games/NSgames)
   - [👍安卓游戏](zh-cn/Games/Android)  
-
+- [🐱 动画剧集](/zh-cn/animetv/page)
+  - [🐼 国产动漫](/zh-cn/animetv/gcdm)
+  - [🌸 日本动漫](/zh-cn/animetv/rbdm)
+  - [🦅 欧美动漫](/zh-cn/animetv/omdm)
+  - [👶 小朋友动画](/zh-cn/animetv/xpy)
 - [💡学习资源](zh-cn/study/study)
   - [💯学习攻略](zh-cn/study/Studyguide)
   - [📗小学资源](zh-cn/study/primaryschool)
