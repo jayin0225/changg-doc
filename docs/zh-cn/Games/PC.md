@@ -1726,9 +1726,9 @@
 
 夸克:<https://pan.quark.cn/s/1c9ed2a56308>
 
-#### 《森林之子》最新 中文正式联机版 版本号看网盘里
+#### 《森林之子（Sons Of The Forest）》最新 中文 联机版
 
-夸克:<https://pan.quark.cn/s/5a8f65257d4d>
+夸克:<https://pan.quark.cn/s/2ced92e36563>
 
 #### 《最后生还者（The Last of Us Part I）》最新 全DLC 豪华 中文版（美国末日）
 
