@@ -290,29 +290,25 @@
 
 夸克：https://pan.quark.cn/s/d4cf57cd3f7c
 
-
-
-
-
 #### 《赘婿 动漫版》（2023-2024）4K 1-2季全
 
-夸克：
+夸克：https://pan.quark.cn/s/ba48b89c5dbc
 
 #### 《从前有座灵剑山》（2016-2017）1-2季全 动漫+剧版
 
-夸克：
+夸克：https://pan.quark.cn/s/860f8c40bb8b
 
 #### 《小兵传奇》（2024）4K 26集全
 
-夸克：
+夸克：https://pan.quark.cn/s/2024aed7ddde
 
 #### 《云中居三子》（2024）第一季 4K 26集全
 
-夸克：
+夸克：https://pan.quark.cn/s/c0ba675e0b67
 
 #### 《元尊》（2024）4K 26集全
 
-夸克：
+夸克：https://pan.quark.cn/s/4eacecb8d14f
 
 #### 《暗河传》（2023）4K 第一季 26集全【少年行歌系列】
 
@@ -320,75 +316,75 @@
 
 #### 《百妖谱》（2020-2024）4K 1-4季全
 
-夸克：
+夸克：https://pan.quark.cn/s/5a9fb2dfdb86
 
 #### 《狂王》（2024）9集全
 
-夸克：
+夸克：https://pan.quark.cn/s/eed937cc0c45
 
 #### 《少年歌行海外仙山篇》1-3季全 4K
 
-夸克：
+夸克：https://pan.quark.cn/s/24815c0bcbff
 
 #### 《大王饶命》 1-2季全 4K
 
-夸克：
+夸克：https://pan.quark.cn/s/d1c9051aed39
 
 #### 《恶魔法则（2023）24集全（异世界转生中世纪题材）
 
-夸克：
+夸克：https://pan.quark.cn/s/dd127df52a4f
 
 #### 《近战法师》（2023）20集全
 
-夸克：
+夸克：https://pan.quark.cn/s/80d83a84a1bd
 
 #### 《从红月开始》（2023）16集全
 
-夸克：
+夸克：https://pan.quark.cn/s/c43c40976c95
 
 #### 《三十六骑》（2023）4K 13集全
 
-夸克：
+夸克：https://pan.quark.cn/s/bbd224be47b3
 
 #### 《枕刀歌》（2023）4K 1-2季全+电影+特别篇
 
-夸克：
+夸克：https://pan.quark.cn/s/6c497fabe2ad
 
 #### 《太一剑仙传》（2023）4K 20集全
 
-夸克：
+夸克：https://pan.quark.cn/s/fd98200844c6
 
 #### 《神藏》（2023）12集全
 
-夸克：
+夸克：https://pan.quark.cn/s/b8e128babd04
 
 #### 《你的人生是我来迟了》（2023）16集全
 
-夸克：
+夸克：https://pan.quark.cn/s/3ce1586730a2
 
 #### 《天官赐福》（2023）4K 1-2季全（第一季 国日配音）
 
-夸克：
+夸克：https://pan.quark.cn/s/84875a0d05e1
 
 #### 《有药》（2023）1-2季全 4K
 
-夸克：
+夸克：https://pan.quark.cn/s/709f11dd55cf
 
 #### 《不死不灭》（2023）4K 16集全
 
-夸克：
+夸克：https://pan.quark.cn/s/cd3695da096d
 
 #### 《深渊游戏》（2023）4K 16集全
 
-夸克：
+夸克：https://pan.quark.cn/s/918bea63daf8
 
 #### 《魁拔之殊途》（2014-2023全）（附电影+魁拔妖侠传）
 
-夸克：
+夸克：https://pan.quark.cn/s/a61a3c21541b
 
 #### 《仙王的日常生活》 附1-4季全
 
-夸克：
+夸克：https://pan.quark.cn/s/a642ea09f614
 
 #### 《逆天邪神》（2023）4K 30集全（附小说）
 
@@ -396,59 +392,59 @@
 
 #### 《七侯笔录》（2023）4K 12集全
 
-夸克：
+夸克：https://pan.quark.cn/s/388cae4919b0
 
 #### 《王者荣耀：荣耀之章》（2023）4K 4集全
 
-夸克：
+夸克：https://pan.quark.cn/s/1d7b0ecf0d9a
 
 #### 《武双姝》（2023）4K.12集全
 
-夸克：
+夸克：https://pan.quark.cn/s/f7519666b024
 
 #### 《武动乾坤》（2023）4K 1-4季全
 
-夸克：
+夸克：https://pan.quark.cn/s/9309bc84a11d
 
 #### 《修罗武神》（2023）1080P.16集全
 
-夸克：
+夸克：https://pan.quark.cn/s/251a11bc4433
 
 #### 《雾山五行》4K 1-2季 共7集全.央视赞赏的高分国风动漫之光.精良制作
 
-夸克：
+夸克：https://pan.quark.cn/s/2e62596ff5cd
 
 #### 《王者大师兄》16集全 （系统 反转套路）
 
-夸克：
+夸克：https://pan.quark.cn/s/bfb372977f85
 
 #### 《镖人》4K 15集全 火到国外的去漫画改编 (附：漫画)
 
-夸克：
+夸克：https://pan.quark.cn/s/1611a19b3cf1
 
 #### 《神澜奇域无双珠》1-3季全
 
-夸克：
+夸克：https://pan.quark.cn/s/71a5a7119270
 
 #### 《一人之下》1-5季+番外篇+剧场版
 
-夸克：
+夸克：https://pan.quark.cn/s/6c32b0b6258a
 
 #### 《中国奇谭》4K 8集全
 
-夸克：
+夸克：https://pan.quark.cn/s/6a948cb06255
 
 #### 《秦时明月系列合集》
 
-夸克：
+夸克：https://pan.quark.cn/s/944af61bb9c2
 
 #### 《十万个冷笑话》1-3季+大电影1-2部 全集
 
-夸克：
+夸克：https://pan.quark.cn/s/22d76365c8fe
 
 #### 《我的三体之章北海传》1080P 9集全
 
-夸克：
+夸克：https://pan.quark.cn/s/fd477067ce26
 
 #### 《我叫白小飞（尸兄）》（2013）1080P 1-2季全
 
