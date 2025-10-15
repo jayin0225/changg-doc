@@ -62,6 +62,14 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。
 
+#### 《铁拳8（Tekken 8）终极版》最新 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/ae3f1e7360aa
+
+#### 《无双大蛇2 + 无双大蛇3 》最新 全DLC 简中 终极版
+
+夸克：https://pan.quark.cn/s/093a515e4c96
+
 #### 《宝可梦ZA》 最新 全DLC NS整合 中文版
 
 夸克：https://pan.quark.cn/s/7fb39c0f9ce0
@@ -134,6 +142,18 @@
 
 ## 最近更新
 
+#### 《牧场物语 来吧！风之繁华集市（STORY OF SEASONS Grand Bazaar）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/54d371282870
+
+#### 《维多利亚3（victoria 3）》最新 全DLC 豪华中文版
+
+夸克:https://pan.quark.cn/s/efbed999f966
+
+#### 《消逝的光芒：困兽（Dying Light The Beast）豪华版》v1.2.4 全DLC 中文配音 联机版
+
+夸克：https://pan.quark.cn/s/d9b95ef6d445
+
 #### 《艾尔登法环：黑夜君临（Elden-Ring-Nightreign）》 v1.02.4 豪华中文版 联机版 打包XG器
 
 夸克：https://pan.quark.cn/s/5602dc1ab614
@@ -170,13 +190,9 @@
 
 夸克：https://pan.quark.cn/s/a1ddd0967825
 
-#### 幻兽帕鲁（Palworld）》 v0.6.6.79318 全DLC 中文 联机版 (附：MOD合集+修改器+升级补丁)
+#### 《幻兽帕鲁（Palworld）》 v0.6.6.79318 全DLC 中文 联机版 (附：MOD合集+修改器+升级补丁)
 
 夸克:https://pan.quark.cn/s/0ca1b61bb4c6
-
-#### 《消逝的光芒：困兽（Dying Light The Beast）豪华版》v1.2.1 全DLC 中文配音 联机版
-
-夸克：https://pan.quark.cn/s/d9b95ef6d445
 
 #### 《逃离塔科夫（Escape from Tarkov）》最新 离线 中文版
 
@@ -2069,10 +2085,6 @@
 #### 《使命召唤14：二战》  局域网联机版
 
 夸克:<https://pan.quark.cn/s/40ebf38b4565>
-
-#### 《维多利亚3》v1.7.6 豪华中文版 全DLC 打包XG器
-
-夸克:<https://pan.quark.cn/s/ea8eb7edcb6e>
 
 #### 《刺客信条全》系列【15部】
 
