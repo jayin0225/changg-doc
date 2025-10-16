@@ -62,6 +62,10 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。
 
+#### 《勇敢的心：伟大战争（Valiant Hearts The Great War）》最新  中文版
+
+夸克：https://pan.quark.cn/s/50ef7513987c
+
 #### 《孤岛惊魂6（FarCry6）》v1.5.0  全DLC + 高清纹理包 终极版
 
 夸克：https://pan.quark.cn/s/b218cf73ff3b
