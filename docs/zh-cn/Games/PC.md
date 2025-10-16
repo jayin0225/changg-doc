@@ -62,6 +62,10 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。
 
+#### 《孤岛惊魂6（FarCry6）》v1.5.0  全DLC + 高清纹理包 终极版
+
+夸克：https://pan.quark.cn/s/b218cf73ff3b
+
 #### 《铁拳8（Tekken 8）终极版》最新 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/ae3f1e7360aa
