@@ -62,6 +62,10 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。
 
+#### 《阿呆等什么（While.Waiting）》最新 中文版
+
+夸克：https://pan.quark.cn/s/f07ee6b76c1e
+
 #### 《神秘海域：失落的遗产和盗贼传奇（Uncharted）》合集
 
 夸克：https://pan.quark.cn/s/f62a8eefcad5
@@ -153,6 +157,10 @@
 ---
 
 ## 最近更新
+
+#### 《模拟农场25 (Farming Simulator 25) 》v1.13.0.0 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/d8914ec0c1f9
 
 #### 《牧场物语 来吧！风之繁华集市（STORY OF SEASONS Grand Bazaar）》最新 全DLC 中文版
 
