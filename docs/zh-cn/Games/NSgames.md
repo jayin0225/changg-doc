@@ -40,6 +40,10 @@
 
 夸克：https://pan.quark.cn/s/7fb39c0f9ce0
 
+#### 《逆转裁判》1-6整合版合集 最新中文 NS版
+
+夸克：https://pan.quark.cn/s/6d08824db57e
+
 #### 《小小梦魇3 Little Nightmares III》最新 NS整合 中文版
 
 夸克：https://pan.quark.cn/s/df5ed7cb5765

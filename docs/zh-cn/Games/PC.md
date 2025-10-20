@@ -62,6 +62,18 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。
 
+#### 《逆转裁判123：成步堂精选集（Phoenix Wright Ace Attorney Trilogy）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/57de7f39e773
+
+#### 《逆转裁判 456 王泥喜精选集（Apollo Justice Ace Attorney Trilogy）》最新 中文版
+
+链接：https://pan.quark.cn/s/f2768b8ea43c
+
+#### 《奇因希德（Kynseed）》最新 中文版
+
+夸克：https://pan.quark.cn/s/17c99e1c064b
+
 #### 《阿呆等什么（While.Waiting）》最新 中文版
 
 夸克：https://pan.quark.cn/s/f07ee6b76c1e
@@ -101,6 +113,46 @@
 #### 《小小梦魇3（Little Nightmares 3）》v2025.10.10 全DLC 中文 联机版（附前2部 恐怖解密）
 
 夸克：https://pan.quark.cn/s/3e94eef49bd2
+
+---
+
+## 最近更新
+
+#### 《消逝的光芒：困兽（Dying Light The Beast）豪华版》v1.2.5 全DLC 中文配音 联机版
+
+夸克：https://pan.quark.cn/s/d9b95ef6d445
+
+#### 《PEAK》最新 汉化中文 联机版（多人联机爬山）
+
+夸克：https://pan.quark.cn/s/7071cfef02d5
+
+#### 《逃离鸭科夫（Escape From Duckov）》v1.0.25 中文版
+
+夸克：https://pan.quark.cn/s/e9c40d701e82
+
+#### 《人渣SCUM》v1.1.0.2 豪华中文版 全DLC
+
+夸克:https://pan.quark.cn/s/ac755bb1ff1f
+
+#### 《模拟农场25 (Farming Simulator 25) 》v1.13.0.0 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/d8914ec0c1f9
+
+#### 《牧场物语 来吧！风之繁华集市（STORY OF SEASONS Grand Bazaar）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/54d371282870
+
+#### 《维多利亚3（victoria 3）》最新 全DLC 豪华中文版
+
+夸克:https://pan.quark.cn/s/efbed999f966
+
+---
+
+## 已有游戏
+
+#### 《黑神话：悟空》周边合集（无游戏）
+
+夸克:<https://pan.quark.cn/s/f17ec784d176>
 
 #### 《群星（Stellaris）豪华版》最新 全DLC 中文 联机版
 
@@ -153,118 +205,6 @@
 #### 《建筑师之谷（The Valley of the Architects）》v20250407 英文版
 
 夸克：https://pan.quark.cn/s/cd0c887f6f1b
-
----
-
-## 最近更新
-
-#### 《模拟农场25 (Farming Simulator 25) 》v1.13.0.0 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/d8914ec0c1f9
-
-#### 《牧场物语 来吧！风之繁华集市（STORY OF SEASONS Grand Bazaar）》最新 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/54d371282870
-
-#### 《维多利亚3（victoria 3）》最新 全DLC 豪华中文版
-
-夸克:https://pan.quark.cn/s/efbed999f966
-
-#### 《消逝的光芒：困兽（Dying Light The Beast）豪华版》v1.2.4 全DLC 中文配音 联机版
-
-夸克：https://pan.quark.cn/s/d9b95ef6d445
-
-#### 《艾尔登法环：黑夜君临（Elden-Ring-Nightreign）》 v1.02.4 豪华中文版 联机版 打包XG器
-
-夸克：https://pan.quark.cn/s/5602dc1ab614
-
-#### 《空洞骑士：丝之歌 （Hollow Knight Silksong）》 v1.0.28891 中文 联机版
-
-夸克：https://pan.quark.cn/s/0ae09ce96377
-
-#### 《禁闭求生2（Grounded 2）》v0.2.0.1 中文 联机版
-
-夸克：https://pan.quark.cn/s/ce491cf41744
-
-#### 《欧洲卡车模拟2（Euro Truck Simulator 2）》v1.56.1.8s 全DLC 豪华中文 联机版
-
-夸克:https://pan.quark.cn/s/709d5ab4cc5f
-
-#### 《美国卡车模拟（American Truck Simulator）高级版》v1.56.1.7s 全DLC 中文版
-
-夸克:https://pan.quark.cn/s/7383cec056c4
-
-#### 《缉私警察（Contraband Police）》v20251002 中文版
-
-夸克：https://pan.quark.cn/s/dfba5a22588c
-
-#### 《超市模拟器（Supermarket Simulator）》v1.1.1  中文版 打包XG器
-
-夸克:https://pan.quark.cn/s/4539de9e02b6
-
-#### 《都市天际线2（Cities Skylines 2）终结版》v1.3.5f1 全DLC 中文版（城市天际线2）
-
-夸克：https://pan.quark.cn/s/92561f2dc586
-
-#### 《冰汽时代2（Frostpunk 2）豪华版》v1.4.1 全DLC 豪华中文版
-
-夸克：https://pan.quark.cn/s/a1ddd0967825
-
-#### 《幻兽帕鲁（Palworld）》 v0.6.6.79318 全DLC 中文 联机版 (附：MOD合集+修改器+升级补丁)
-
-夸克:https://pan.quark.cn/s/0ca1b61bb4c6
-
-#### 《逃离塔科夫（Escape from Tarkov）》最新 离线 中文版
-
-夸克：<https://pan.quark.cn/s/618eddb5b71b>
-
-#### 《明末：渊虚之羽（WUCHANG Fallen Feathers）豪华版》v179243 中文版
-
-夸克：https://pan.quark.cn/s/1e406886ed61
-
-#### 《三位一体5：发条阴谋（Trine 5 A Clockwork Conspiracy）》最新 中文 联机版
-
-夸克:https://pan.quark.cn/s/c2b5e87f9fe1
-
-#### 《龙珠：超宇宙2》v1.24.01 豪华中文版 全DLC 打包XG器 
-
-夸克:<https://pan.quark.cn/s/c8fda5a16136>
-
-#### 《失落之魂（Lost Soul Aside）》最新 全DLC 中文版
-
-夸克：<https://pan.quark.cn/s/2e7d496ea360>
-
-#### 《蠕行的恐惧：克苏鲁选集（Menace from the Deep）》 v1.17 中文版
-
-夸克:<https://pan.quark.cn/s/398b8ee3d579>
-
-#### 《多重人生（The Alters）》 v1.3.0.7 中文版
-
-夸克：<https://pan.quark.cn/s/60a458e880bc>
-
-#### 《艾尔登法环：黑夜君临（Elden-Ring-Nightreign）》 v1.02.2 豪华中文版 联机版 打包XG器
-
-夸克：<https://pan.quark.cn/s/5602dc1ab614>
-
-#### 《天国拯救2（Kingdom Come Deliverance 2）黄金版》v1.4.0 全DLC 中文版
-
-夸克：<https://pan.quark.cn/s/e8a70ec41cc6>
-
-#### 《空洞骑士：丝之歌 （Hollow Knight Silksong）》 v1.0.28561 中文 联机版
-
-夸克：https://pan.quark.cn/s/0ae09ce96377
-
-#### 《赛博朋克2077（Cyberpunk 2077）终极版》v2.31 全DLC 中文配音版
-
-夸克:https://pan.quark.cn/s/055ebcd669b7
-
----
-
-## 已有游戏
-
-#### 《黑神话：悟空》周边合集（无游戏）
-
-夸克:<https://pan.quark.cn/s/f17ec784d176>
 
 #### 《幽灵诡计（Ghost Trick Phantom Detective）》Build 11038113 中文版
 
