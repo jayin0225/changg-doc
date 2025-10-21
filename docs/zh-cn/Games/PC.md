@@ -346,6 +346,14 @@
 
 夸克：https://pan.quark.cn/s/4b057dd3a2b5
 
+#### 《舒舒服服小岛时光（CozyIsland）》Build.20092698 中文版
+
+夸克：https://pan.quark.cn/s/96dc6024b829
+
+#### 《冲就完事模拟器（PowerWash Simulator‌‌）》 v1.11.0 豪华中文版 全DLC
+
+夸克：https://pan.quark.cn/s/93ad62bd8955
+
 #### 《欺神弄鬼》最新 中文版
 
 夸克：https://pan.quark.cn/s/5a736bf6bbdd
