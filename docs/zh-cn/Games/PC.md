@@ -66,6 +66,14 @@
 
 夸克：https://pan.quark.cn/s/5ae321d21b0e
 
+#### 《忍者龙剑传 大师合集（NINJA GAIDEN Master Collection）豪华版》最新 中文版
+
+夸克：https://pan.quark.cn/s/63201e58ce59
+
+#### 《消防模拟：火苗燃动（Firefighting Simulator Ignite）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/2774717e2433
+
 #### 《东方异域见闻 （Touhou Dystopian）》最新 中文版（动作肉鸽）
 
 夸克：https://pan.quark.cn/s/fce56121dfa0
