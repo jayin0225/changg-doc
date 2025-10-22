@@ -62,6 +62,34 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。
 
+#### 《忍者龙剑传4（NINJA GAIDEN 4）豪华版》v1.0.1.0 中文版
+
+夸克：https://pan.quark.cn/s/5ae321d21b0e
+
+#### 《东方异域见闻 （Touhou Dystopian）》最新 中文版（动作肉鸽）
+
+夸克：https://pan.quark.cn/s/fce56121dfa0
+
+#### 《灵境修仙界（Spirit Realm）》最新 中文版
+
+夸克：https://pan.quark.cn/s/ec00fde85965
+
+#### 《挖掘者：银河宝藏（Digger Galactic Treasures）》最新 中文版
+
+夸克：https://pan.quark.cn/s/37daa0ac0245
+
+#### 《无尽地牢（ENDLESS Dungeon）终结版》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/5754667846d1
+
+#### 《武装突袭 重铸者（Arma Reforger）豪华版》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/02f27c3e8f4a
+
+#### 《自在城镇（Town To City）》最新 中文版
+
+链接：https://pan.quark.cn/s/f24b9d5396a8
+
 #### 《逆转裁判123：成步堂精选集（Phoenix Wright Ace Attorney Trilogy）》最新 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/57de7f39e773
