@@ -46,9 +46,18 @@
 
 百度: https://pan.baidu.com/s/1tikENzD6vm0g-rcijKqAyQ?pwd=52pj 提取码: 52pj
 
+#### 7-9年级全科目《知识点大全》
+
+夸克：https://pan.quark.cn/s/6f4b77531c6f
+
+百度: https://pan.baidu.com/s/18qDNCTkgpHi3Vg6UUDy2wQ?pwd=cglt 提取码: cglt
+
 
 ----
 ## 最新添加
+
+
+
 
 
 
