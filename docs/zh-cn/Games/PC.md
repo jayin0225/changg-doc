@@ -62,6 +62,18 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。
 
+#### 《天外世界2（The Outer Worlds 2）高级版》最新 中文版
+
+夸克：https://pan.quark.cn/s/543dbc86bbca
+
+#### 《未上锁的房间 系列合集（The Room）》4部 最新 汉化中文版
+
+夸克：https://pan.quark.cn/s/0dcf1ab2bc56
+
+#### 《植物大战僵尸：重制版（Plants vs Zombies Replanted）》最新 中文版
+
+夸克：https://pan.quark.cn/s/b22811f1782c
+
 #### 《忍者龙剑传4（NINJA GAIDEN 4）豪华版》v1.0.1.0 中文版
 
 夸克：https://pan.quark.cn/s/5ae321d21b0e
