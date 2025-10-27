@@ -66,6 +66,10 @@
 
 夸克：https://pan.quark.cn/s/543dbc86bbca
 
+#### 《宝可梦ZA》 最新 全DLC NS整合 中文版
+
+夸克：https://pan.quark.cn/s/7fb39c0f9ce0
+
 #### 《未上锁的房间 系列合集（The Room）》4部 最新 汉化中文版
 
 夸克：https://pan.quark.cn/s/0dcf1ab2bc56
@@ -146,10 +150,6 @@
 
 夸克：https://pan.quark.cn/s/093a515e4c96
 
-#### 《宝可梦ZA》 最新 全DLC NS整合 中文版
-
-夸克：https://pan.quark.cn/s/7fb39c0f9ce0
-
 #### 《小小梦魇3 Little Nightmares III》最新 NS整合 中文版
 
 夸克：https://pan.quark.cn/s/df5ed7cb5765
@@ -165,6 +165,10 @@
 ---
 
 ## 最近更新
+
+#### 《幻兽帕鲁（Palworld）》v0.6.8.81654 全DLC 中文 联机版 (附：MOD合集+修改器+升级补丁)
+
+夸克:<https://pan.quark.cn/s/0ca1b61bb4c6>
 
 #### 《消逝的光芒：困兽（Dying Light The Beast）豪华版》v1.2.5 全DLC 中文配音 联机版
 
