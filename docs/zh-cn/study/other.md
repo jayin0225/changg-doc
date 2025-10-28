@@ -6,6 +6,7 @@
  [小学专区](zh-cn/study/primaryschool)&#8195;
  [初中专区](zh-cn/study/middleschool)&#8195;
  [高中专区](zh-cn/study/highschool)&#8195;
+ [语文阅读](zh-cn/study/Chinesereading)&#8195;
  [其他](zh-cn/study/other)
  ---
 # 其他
@@ -24,10 +25,15 @@
 
 #### 《吕祖全书.总六十四卷》
 
-百度: https://pan.baidu.com/s/16NOO9HGH_GuB-xYmEQJKyA?pwd=cglt
-
 夸克：https://pan.quark.cn/s/fa10cb6f74c1
 
+百度: https://pan.baidu.com/s/16NOO9HGH_GuB-xYmEQJKyA?pwd=cglt
+
+#### 《阴阳宅风水》合集
+
+夸克：https://pan.quark.cn/s/7e05ff8720ca
+
+百度: https://pan.baidu.com/s/1ScxKmZ0YMRxOpTHSC7yu2g?pwd=cglt
 
 ----
 ## 最新添加

@@ -6,6 +6,7 @@
  [小学专区](zh-cn/study/primaryschool)&#8195;
  [初中专区](zh-cn/study/middleschool)&#8195;
  [高中专区](zh-cn/study/highschool)&#8195;
+ [语文阅读](zh-cn/study/Chinesereading)&#8195;
  [其他](zh-cn/study/other)
  ---
 # 学习攻略【方法、记忆、效率】

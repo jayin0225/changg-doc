@@ -62,6 +62,10 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。
 
+#### 《窒爱（SUFFOCATE）》最新 中文版（生存恐怖游戏）
+
+夸克：https://pan.quark.cn/s/5af052b3
+
 #### 《天外世界2（The Outer Worlds 2）高级版》最新 中文版
 
 夸克：https://pan.quark.cn/s/543dbc86bbca
