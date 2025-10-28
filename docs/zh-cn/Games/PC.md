@@ -170,6 +170,10 @@
 
 ## 最近更新
 
+#### 《天国拯救2（Kingdom Come Deliverance 2）黄金版》v1.4.2 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/e8a70ec41cc6
+
 #### 《幻兽帕鲁（Palworld）》v0.6.8.81654 全DLC 中文 联机版 (附：MOD合集+修改器+升级补丁)
 
 夸克:<https://pan.quark.cn/s/0ca1b61bb4c6>
