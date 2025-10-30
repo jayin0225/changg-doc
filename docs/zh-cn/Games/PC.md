@@ -5674,9 +5674,9 @@
 
 夸克:<https://pan.quark.cn/s/22587cccf28f>
 
-#### 《泰拉瑞亚》最新 中文版
+#### 《泰拉瑞亚（Terraria）》最新 中文 联机版
 
-夸克:<https://pan.quark.cn/s/a33e10a9b3b3>
+夸克:https://pan.quark.cn/s/4f429183c39d
 
 #### 《四海兄弟3：最终版》v1.100.0 中文版 全DLC
 
