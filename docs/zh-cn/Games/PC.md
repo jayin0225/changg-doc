@@ -62,6 +62,14 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。
 
+#### 《猫还在逃吗？（Still It Runs）》最新 中文版
+
+夸克：https://pan.quark.cn/s/a8c5ecc6ff51
+
+#### 《伊苏9：怪人之夜（Ys IX Monstrum Nox）豪华版》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/eda73d62776a
+
 #### 《窒爱（SUFFOCATE）》最新 中文版（生存恐怖游戏）
 
 夸克：https://pan.quark.cn/s/5af052b3
