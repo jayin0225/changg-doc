@@ -62,6 +62,14 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。
 
+#### 《天命重启：心跳的抉择（Refate Echoes of Desire）》最新 中文版（真人互动影游）
+
+夸克：https://pan.quark.cn/s/ca6d1f85dcb9
+
+#### 《密室逃脱模拟器2（Escape Simulator 2）》最新 中文版
+
+夸克：https://pan.quark.cn/s/e0a6292a60b9
+
 #### 《猫还在逃吗？（Still It Runs）》最新 中文版
 
 夸克：https://pan.quark.cn/s/a8c5ecc6ff51
@@ -178,6 +186,14 @@
 
 ## 最近更新
 
+#### 《博德之门3（Baldurs Gate 3）》v4.1.1.6946847 全DLC 豪华中文 联机版
+
+夸克：https://pan.quark.cn/s/43c5d1bd91df
+
+#### 《逃离鸭科夫（Escape From Duckov）》v1.0.33 中文版
+
+夸克：https://pan.quark.cn/s/e9c40d701e82
+
 #### 《天国拯救2（Kingdom Come Deliverance 2）黄金版》v1.4.2 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/e8a70ec41cc6
@@ -193,10 +209,6 @@
 #### 《PEAK》最新 汉化中文 联机版（多人联机爬山）
 
 夸克：https://pan.quark.cn/s/7071cfef02d5
-
-#### 《逃离鸭科夫（Escape From Duckov）》v1.0.33 中文版
-
-夸克：https://pan.quark.cn/s/e9c40d701e82
 
 #### 《人渣SCUM》v1.1.0.2 豪华中文版 全DLC
 
