@@ -194,7 +194,7 @@
 
 夸克：https://pan.quark.cn/s/7071cfef02d5
 
-#### 《逃离鸭科夫（Escape From Duckov）》v1.0.31 中文版
+#### 《逃离鸭科夫（Escape From Duckov）》v1.0.33 中文版
 
 夸克：https://pan.quark.cn/s/e9c40d701e82
 
