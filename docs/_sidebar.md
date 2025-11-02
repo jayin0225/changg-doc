@@ -9,12 +9,7 @@
   - [🌸 日本动漫](/zh-cn/animetv/rbdm)
   - [🦅 欧美动漫](/zh-cn/animetv/omdm)
   - [👶 小朋友动画](/zh-cn/animetv/xpy)
-- [💡学习资源](zh-cn/study/study)
-  - [💯学习攻略](zh-cn/study/Studyguide)
-  - [📗小学资源](zh-cn/study/primaryschool)
-  - [📘初中资源](zh-cn/study/middleschool)
-  - [📙高中资源](zh-cn/study/highschool)
-  - [📚其他](zh-cn/study/other)
+- [💡教学教材+书籍](zh-cn/study/study)
 
 ---
 - [留言板](zh-cn/bbs)
