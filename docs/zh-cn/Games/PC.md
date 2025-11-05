@@ -4292,7 +4292,7 @@
 
 夸克:<https://pan.quark.cn/s/c3fa9b0308db>
 
-#### 《小小世界：原野求生》v1.4.5 中文版
+#### 《小小世界：原野求生（Smalland：Survive the Wilds）》 最新 中文 联机版
 
 夸克:<https://pan.quark.cn/s/c4ef7b58eb59>
 
