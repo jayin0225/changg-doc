@@ -116,8 +116,6 @@
 
 夸克:https://pan.quark.cn/s/5f7c1b0c0135
 
-##  女神异闻录系列
-
 #### 《女神异闻录5：战略版》 P5T 最新 全DLC PC+安卓 模拟器版
 
 夸克：https://pan.quark.cn/s/bc0cd2adde6f

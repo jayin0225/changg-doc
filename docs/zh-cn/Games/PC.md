@@ -62,7 +62,9 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。
 
+#### 《石头模拟器（Stone Simulator）》最新 中文版
 
+夸克：https://pan.quark.cn/s/e56f406463e4
 
 #### 《天命重启：心跳的抉择（Refate Echoes of Desire）》最新 中文版（真人互动影游）
 
@@ -71,6 +73,38 @@
 #### 《密室逃脱模拟器2（Escape Simulator 2）》最新 中文版
 
 夸克：https://pan.quark.cn/s/e0a6292a60b9
+
+---
+
+## 最近更新
+
+#### 《R.E.P.O.》 v0.3.0 中文 联机版（REPO）
+
+夸克:<https://pan.quark.cn/s/da01d84da063>
+
+#### 《消逝的光芒2：坚守人性 重装上阵版（Dying Light 2 Stay Human）终极版》 v1.25.1 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/661979bf6131  
+
+#### 《天外世界2（The Outer Worlds 2）高级版》 v1.0.4.1 中文版
+
+夸克：https://pan.quark.cn/s/543dbc86bbca
+
+#### 《小小世界：原野求生（Smalland：Survive the Wilds）》 v2.1.1 中文 联机版
+
+夸克:<https://pan.quark.cn/s/c4ef7b58eb59>
+
+#### 《植物大战僵尸：重制版（Plants vs Zombies Replanted）》 v1.3.1217.0 中文版
+
+夸克：https://pan.quark.cn/s/b22811f1782c
+
+---
+
+## 已有游戏
+
+#### 《黑神话：悟空》周边合集（无游戏）
+
+夸克:<https://pan.quark.cn/s/f17ec784d176>
 
 #### 《猫还在逃吗？（Still It Runs）》最新 中文版
 
@@ -87,10 +121,6 @@
 #### 《天外世界2（The Outer Worlds 2）高级版》最新 中文版
 
 夸克：https://pan.quark.cn/s/543dbc86bbca
-
-#### 《宝可梦ZA》 最新 全DLC NS整合 中文版
-
-夸克：https://pan.quark.cn/s/7fb39c0f9ce0
 
 #### 《未上锁的房间 系列合集（The Room）》4部 最新 汉化中文版
 
@@ -172,10 +202,6 @@
 
 夸克：https://pan.quark.cn/s/093a515e4c96
 
-#### 《小小梦魇3 Little Nightmares III》最新 NS整合 中文版
-
-夸克：https://pan.quark.cn/s/df5ed7cb5765
-
 #### 《破门而入：行动小队（Door Kickers Action Squad）》最新 中文 联机版
 
 夸克：https://pan.quark.cn/s/6b9a2389935c
@@ -183,58 +209,6 @@
 #### 《小小梦魇3（Little Nightmares 3）》v2025.10.10 全DLC 中文 联机版（附前2部 恐怖解密）
 
 夸克：https://pan.quark.cn/s/3e94eef49bd2
-
----
-
-## 最近更新
-
-#### 《博德之门3（Baldurs Gate 3）》v4.1.1.6946847 全DLC 豪华中文 联机版
-
-夸克：https://pan.quark.cn/s/43c5d1bd91df
-
-#### 《逃离鸭科夫（Escape From Duckov）》v1.0.33 中文版
-
-夸克：https://pan.quark.cn/s/e9c40d701e82
-
-#### 《天国拯救2（Kingdom Come Deliverance 2）黄金版》v1.4.2 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/e8a70ec41cc6
-
-#### 《幻兽帕鲁（Palworld）》v0.6.8.81654 全DLC 中文 联机版 (附：MOD合集+修改器+升级补丁)
-
-夸克:<https://pan.quark.cn/s/0ca1b61bb4c6>
-
-#### 《消逝的光芒：困兽（Dying Light The Beast）豪华版》v1.2.5 全DLC 中文配音 联机版
-
-夸克：https://pan.quark.cn/s/d9b95ef6d445
-
-#### 《PEAK》最新 汉化中文 联机版（多人联机爬山）
-
-夸克：https://pan.quark.cn/s/7071cfef02d5
-
-#### 《人渣SCUM》v1.1.0.2 豪华中文版 全DLC
-
-夸克:https://pan.quark.cn/s/ac755bb1ff1f
-
-#### 《模拟农场25 (Farming Simulator 25) 》v1.13.0.0 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/d8914ec0c1f9
-
-#### 《牧场物语 来吧！风之繁华集市（STORY OF SEASONS Grand Bazaar）》最新 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/54d371282870
-
-#### 《维多利亚3（victoria 3）》最新 全DLC 豪华中文版
-
-夸克:https://pan.quark.cn/s/efbed999f966
-
----
-
-## 已有游戏
-
-#### 《黑神话：悟空》周边合集（无游戏）
-
-夸克:<https://pan.quark.cn/s/f17ec784d176>
 
 #### 《群星（Stellaris）豪华版》最新 全DLC 中文 联机版
 
