@@ -62,6 +62,22 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。
 
+#### 《欧陆风云5（Europa Universalis V）高级版》v1.0.0 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/4f53d42546af
+
+#### 《超英派遣中心（Dispatch）》v1.0.15411 中文版
+
+夸克：https://pan.quark.cn/s/99e81ce3b95a
+
+#### 《迷魅狩猎（MIMESIS）》 v0.2.4 中文联机版
+
+夸克：https://pan.quark.cn/s/87900712e8e0
+
+#### 《杯杯倒满（Feed The Cups）》v0.8.31 中文 联机版
+
+夸克：https://pan.quark.cn/s/628ca61dec0a
+
 #### 《石头模拟器（Stone Simulator）》最新 中文版
 
 夸克：https://pan.quark.cn/s/e56f406463e4
