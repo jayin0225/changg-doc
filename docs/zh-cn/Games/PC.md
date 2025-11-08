@@ -94,6 +94,10 @@
 
 ## 最近更新
 
+#### 《龙珠 超宇宙2（DRAGON BALL XENOVERSE 2）》v1.25.01 全DLC 豪华中文 联机版（七龙珠 异战2）
+
+夸克:https://pan.quark.cn/s/c8fda5a16136
+
 #### 《R.E.P.O.》 v0.3.0 中文 联机版（REPO）
 
 夸克:<https://pan.quark.cn/s/da01d84da063>
@@ -3210,7 +3214,7 @@
 
 夸克:<https://pan.quark.cn/s/b0c778351ad2>
 
-#### 《龙珠：超宇宙2》最新 豪华中文版 全DLC 打包XG器 
+#### 《龙珠 超宇宙2（DRAGON BALL XENOVERSE 2）》最新 全DLC 豪华中文 联机版（七龙珠 异战2）
 
 夸克:<https://pan.quark.cn/s/c8fda5a16136>
 
