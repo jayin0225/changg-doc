@@ -62,6 +62,10 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。
 
+#### 《鬼灭之刃：火之神血风谭（Demon Slayer Kimetsu no Yaiba）》最新 模拟器整合 PC+安卓版」
+
+夸克：https://pan.quark.cn/s/4318fb7647d9
+
 #### 《欧陆风云5（Europa Universalis V）高级版》v1.0.0 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/4f53d42546af

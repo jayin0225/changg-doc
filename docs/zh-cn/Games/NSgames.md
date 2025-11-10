@@ -40,6 +40,10 @@
 
 夸克：https://pan.quark.cn/s/7fb39c0f9ce0
 
+#### 《鬼灭之刃：火之神血风谭（Demon Slayer Kimetsu no Yaiba）》最新 模拟器整合 PC+安卓版」
+
+夸克：https://pan.quark.cn/s/4318fb7647d9
+
 #### 《逆转裁判》1-6整合版合集 最新中文 NS版
 
 夸克：https://pan.quark.cn/s/6d08824db57e
