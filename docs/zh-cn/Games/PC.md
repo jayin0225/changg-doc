@@ -66,7 +66,15 @@
 
 夸克：https://pan.quark.cn/s/4318fb7647d9
 
-#### 《欧陆风云5（Europa Universalis V）高级版》v1.0.0 全DLC 中文 联机版
+#### 《Mercantile Might》最新 中文版（城市建造小游戏）
+
+夸克：https://pan.quark.cn/s/82391a80c723
+
+#### 《封锁协议（LOCKDOWN Protocol）》最新 汉化中文 联机版
+
+夸克：https://pan.quark.cn/s/fa03c1b226be
+
+#### 《欧陆风云5（Europa Universalis V）高级版》v1.0.3 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/4f53d42546af
 
@@ -97,6 +105,14 @@
 ---
 
 ## 最近更新
+
+#### 《空洞骑士：丝之歌 （Hollow Knight Silksong）》最新 中文 联机版
+
+夸克：https://pan.quark.cn/s/0ae09ce96377
+
+#### 《忍者龙剑传4（NINJA GAIDEN 4）豪华版》最新 中文版
+
+夸克：https://pan.quark.cn/s/5ae321d21b0e
 
 #### 《龙珠 超宇宙2（DRAGON BALL XENOVERSE 2）》v1.25.01 全DLC 豪华中文 联机版（七龙珠 异战2）
 
