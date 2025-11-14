@@ -62,6 +62,22 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。
 
+#### 《雾锁王国（Enshrouded）》最新 中文 联机版
+
+夸克：https://pan.quark.cn/s/06b34131248e
+
+#### 《闪电十一人 英雄们的胜利之路（INAZUMA ELEVEN Victory Road）豪华版》最新 中文版
+
+夸克：https://pan.quark.cn/s/d598897f4c1b
+
+#### 《伊藤润二狂热：无止的囹圄（Junji Ito Maniac An Infinite Gaol）》最新 中文版（悬疑恐怖游戏）
+
+夸克：https://pan.quark.cn/s/27530dac3b0f
+
+#### 《像素工厂（Mindustry）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/15aac9510cc0
+
 #### 《鬼灭之刃：火之神血风谭（Demon Slayer Kimetsu no Yaiba）》最新 模拟器整合 PC+安卓版」
 
 夸克：https://pan.quark.cn/s/4318fb7647d9
