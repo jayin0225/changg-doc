@@ -62,6 +62,54 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。
 
+#### 《逆转检察官 1&2 御剑精选集（Ace Attorney Investigations Collection）》最新 中文版
+
+夸克：https://pan.quark.cn/s/0d00dae860ab
+
+#### 《逆转裁判123：成步堂精选集（Phoenix Wright Ace Attorney Trilogy）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/bd606c68d690
+
+#### 《逆转裁判 456 王泥喜精选集（Apollo Justice Ace Attorney Trilogy）》最新 中文版
+
+夸克：https://pan.quark.cn/s/766b0f7b6d17
+
+#### 《莱莎的炼金工房 ～秘密三部曲～ DX》最新 全DLC 中文版（附旧三部曲）
+
+夸克：https://pan.quark.cn/s/a2568b60dd15
+
+#### 《怪物猎人物语（Monster Hunter Stories）》最新 全DLC 中文版（电脑版）
+
+夸克：https://pan.quark.cn/s/ec254f699c67
+
+#### 《我的26岁女房客：在云端（My 26-Year-Old Female Tenant）》最新 中文版
+
+夸克：https://pan.quark.cn/s/2f914c10187d
+
+#### 《Grand Theft Auto IV》GTA4 v1.2.0.59  汉化中文完全版
+
+夸克：https://pan.quark.cn/s/6db983073014
+
+---
+
+## 最近更新
+
+#### 《都市天际线2（Cities Skylines 2）终结版》 v1.4.2f1 全DLC 中文版（城市天际线2）
+
+夸克：<https://pan.quark.cn/s/92561f2dc586>
+
+#### 《犯罪模拟器（Crime Simulator）》 v1.21 中文 联机版
+
+夸克：<https://pan.quark.cn/s/9e04f91e206f>
+
+---
+
+## 已有游戏
+
+#### 《黑神话：悟空》周边合集（无游戏）
+
+夸克:<https://pan.quark.cn/s/f17ec784d176>
+
 #### 《雾锁王国（Enshrouded）》最新 中文 联机版
 
 夸克：https://pan.quark.cn/s/06b34131248e
@@ -117,50 +165,6 @@
 #### 《密室逃脱模拟器2（Escape Simulator 2）》最新 中文版
 
 夸克：https://pan.quark.cn/s/e0a6292a60b9
-
----
-
-## 最近更新
-
-#### 《空洞骑士：丝之歌 （Hollow Knight Silksong）》最新 中文 联机版
-
-夸克：https://pan.quark.cn/s/0ae09ce96377
-
-#### 《忍者龙剑传4（NINJA GAIDEN 4）豪华版》最新 中文版
-
-夸克：https://pan.quark.cn/s/5ae321d21b0e
-
-#### 《龙珠 超宇宙2（DRAGON BALL XENOVERSE 2）》v1.25.01 全DLC 豪华中文 联机版（七龙珠 异战2）
-
-夸克:https://pan.quark.cn/s/c8fda5a16136
-
-#### 《R.E.P.O.》 v0.3.0 中文 联机版（REPO）
-
-夸克:<https://pan.quark.cn/s/da01d84da063>
-
-#### 《消逝的光芒2：坚守人性 重装上阵版（Dying Light 2 Stay Human）终极版》 v1.25.1 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/661979bf6131  
-
-#### 《天外世界2（The Outer Worlds 2）高级版》 v1.0.4.1 中文版
-
-夸克：https://pan.quark.cn/s/543dbc86bbca
-
-#### 《小小世界：原野求生（Smalland：Survive the Wilds）》 v2.1.1 中文 联机版
-
-夸克:<https://pan.quark.cn/s/c4ef7b58eb59>
-
-#### 《植物大战僵尸：重制版（Plants vs Zombies Replanted）》 v1.3.1217.0 中文版
-
-夸克：https://pan.quark.cn/s/b22811f1782c
-
----
-
-## 已有游戏
-
-#### 《黑神话：悟空》周边合集（无游戏）
-
-夸克:<https://pan.quark.cn/s/f17ec784d176>
 
 #### 《猫还在逃吗？（Still It Runs）》最新 中文版
 
