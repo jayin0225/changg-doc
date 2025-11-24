@@ -62,6 +62,26 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。
 
+#### 《战地风云6（Battlefield 6）》v1.1.2.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/0c3fd33f01ab
+
+#### 《Leaf Blower Co》最新 中文版（落叶吹吹吹）
+
+夸克：https://pan.quark.cn/s/0deafa2fc833
+
+#### 《幻兽大农场：放置好时光》最新 中文版（桌面小游戏）
+
+夸克：https://pan.quark.cn/s/89c9cd644b03
+
+#### 《星空列车与白的旅行（Starry Sky Railroad）》最新 中文版（视觉小说）
+
+夸克：https://pan.quark.cn/s/5df57ee14139
+
+#### 《星球大战：战机中队（Star Wars Squadrons）》最新 中文版
+
+夸克：https://pan.quark.cn/s/49df9abc1201
+
 #### 《逆转检察官 1&2 御剑精选集（Ace Attorney Investigations Collection）》最新 中文版
 
 夸克：https://pan.quark.cn/s/0d00dae860ab
