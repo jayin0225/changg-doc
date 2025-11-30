@@ -66,6 +66,42 @@
 
 夸克：https://pan.quark.cn/s/0c3fd33f01ab
 
+#### 《奈斯启示录（Necesse）》最新 中文 联机版
+
+夸克：https://pan.quark.cn/s/527de5e43ea7
+
+#### 《冲就完事模拟器2（PowerWash Simulator 2）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/7f3c89ce3085
+
+#### 《桥梁建筑师 系列合集（Poly Bridge）》3部 最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/8bbc6321bfd3
+
+---
+
+## 最近更新
+
+#### 《潜行者2：切尔诺贝利之心（S.T.A.L.K.E.R 2 Heart of Chornobyl）终结版》v1.7.0 全DLC 中文版
+
+夸克:<https://pan.quark.cn/s/de848953f6a8>
+
+#### 《消逝的光芒：困兽（Dying Light The Beast）豪华版》v1.3.1 全DLC 中文配音 联机版  
+
+夸克：https://pan.quark.cn/s/d9b95ef6d445
+
+#### 《都市天际线2（Cities Skylines 2）终结版》 v1.4.2f1 全DLC 中文版（城市天际线2）
+
+夸克：<https://pan.quark.cn/s/92561f2dc586>
+
+#### 《犯罪模拟器（Crime Simulator）》 v1.21 中文 联机版
+
+夸克：<https://pan.quark.cn/s/9e04f91e206f>
+
+---
+
+## 已有游戏
+
 #### 《Leaf Blower Co》最新 中文版（落叶吹吹吹）
 
 夸克：https://pan.quark.cn/s/0deafa2fc833
@@ -109,30 +145,6 @@
 #### 《Grand Theft Auto IV》GTA4 v1.2.0.59  汉化中文完全版
 
 夸克：https://pan.quark.cn/s/6db983073014
-
----
-
-## 最近更新
-
-#### 《潜行者2：切尔诺贝利之心（S.T.A.L.K.E.R 2 Heart of Chornobyl）终结版》v1.7.0 全DLC 中文版
-
-夸克:<https://pan.quark.cn/s/de848953f6a8>
-
-#### 《消逝的光芒：困兽（Dying Light The Beast）豪华版》v1.3.1 全DLC 中文配音 联机版  
-
-夸克：https://pan.quark.cn/s/d9b95ef6d445
-
-#### 《都市天际线2（Cities Skylines 2）终结版》 v1.4.2f1 全DLC 中文版（城市天际线2）
-
-夸克：<https://pan.quark.cn/s/92561f2dc586>
-
-#### 《犯罪模拟器（Crime Simulator）》 v1.21 中文 联机版
-
-夸克：<https://pan.quark.cn/s/9e04f91e206f>
-
----
-
-## 已有游戏
 
 #### 《黑神话：悟空》周边合集（无游戏）
 
