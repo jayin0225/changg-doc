@@ -114,6 +114,14 @@
 
 ## 最近更新
 
+#### 《潜行者2：切尔诺贝利之心（S.T.A.L.K.E.R 2 Heart of Chornobyl）终结版》v1.7.0 全DLC 中文版
+
+夸克:<https://pan.quark.cn/s/de848953f6a8>
+
+#### 《消逝的光芒：困兽（Dying Light The Beast）豪华版》v1.3.1 全DLC 中文配音 联机版  
+
+夸克：https://pan.quark.cn/s/d9b95ef6d445
+
 #### 《都市天际线2（Cities Skylines 2）终结版》 v1.4.2f1 全DLC 中文版（城市天际线2）
 
 夸克：<https://pan.quark.cn/s/92561f2dc586>
@@ -5922,9 +5930,9 @@
 
 夸克:<https://pan.quark.cn/s/7ee9d98a2f67>
 
-#### 《猎人：荒野的召唤》v2846103 豪华中文版 全DLC 新增瞄准镜和十字准线装备包DLC
+#### 《猎人：荒野的召唤（theHunter Call of the Wild）》最新 全DLC 豪华 中文 联机版
 
-夸克:<https://pan.quark.cn/s/bdbb9c2b2661>
+夸克：https://pan.quark.cn/s/ba022991b6b8
 
 #### 《节点农场》v1.1.6 中文版
 
