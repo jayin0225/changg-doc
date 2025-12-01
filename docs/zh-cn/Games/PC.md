@@ -66,6 +66,18 @@
 
 夸克：https://pan.quark.cn/s/0c3fd33f01ab
 
+#### 《模拟山羊3（Goat Simulator 3）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/3ef39e63f5d9
+
+#### 《极限国度（Riders Republic）》最新 离线 中文版
+
+夸克：https://pan.quark.cn/s/bd096b6d9c9b
+
+#### 《怪物猎人物语2：破灭之翼（Monster Hunter Stories 2：Wings of Ruin）》最新 全DLC PC中文版
+
+夸克：https://pan.quark.cn/s/db30e74b8e60
+
 #### 《奈斯启示录（Necesse）》最新 中文 联机版
 
 夸克：https://pan.quark.cn/s/527de5e43ea7
