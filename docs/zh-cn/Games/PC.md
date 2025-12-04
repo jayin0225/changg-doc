@@ -66,6 +66,30 @@
 
 夸克：https://pan.quark.cn/s/0c3fd33f01ab
 
+#### 《主题医院 复刻版（Theme Hospital）》最新 中文版
+
+夸克：https://pan.quark.cn/s/3915d554b974
+
+#### 《方块要塞2（Block Fortress 2）》最新 中文版
+
+夸克：https://pan.quark.cn/s/4c27eaaa0a35
+
+---
+
+## 最近更新
+
+#### 《杂货店模拟器（Grocery Store Simulator）》最新 单机+联机版
+
+夸克:https://pan.quark.cn/s/c05002e7e809
+
+#### 《PEAK》最新 汉化中文 联机版（多人联机爬山）
+
+夸克：https://pan.quark.cn/s/7071cfef02d5
+
+---
+
+## 已有游戏
+
 #### 《模拟山羊3（Goat Simulator 3）》最新 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/3ef39e63f5d9
@@ -89,30 +113,6 @@
 #### 《桥梁建筑师 系列合集（Poly Bridge）》3部 最新 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/8bbc6321bfd3
-
----
-
-## 最近更新
-
-#### 《潜行者2：切尔诺贝利之心（S.T.A.L.K.E.R 2 Heart of Chornobyl）终结版》v1.7.0 全DLC 中文版
-
-夸克:<https://pan.quark.cn/s/de848953f6a8>
-
-#### 《消逝的光芒：困兽（Dying Light The Beast）豪华版》v1.3.1 全DLC 中文配音 联机版  
-
-夸克：https://pan.quark.cn/s/d9b95ef6d445
-
-#### 《都市天际线2（Cities Skylines 2）终结版》 v1.4.2f1 全DLC 中文版（城市天际线2）
-
-夸克：<https://pan.quark.cn/s/92561f2dc586>
-
-#### 《犯罪模拟器（Crime Simulator）》 v1.21 中文 联机版
-
-夸克：<https://pan.quark.cn/s/9e04f91e206f>
-
----
-
-## 已有游戏
 
 #### 《Leaf Blower Co》最新 中文版（落叶吹吹吹）
 
@@ -5426,7 +5426,7 @@
 
 夸克:<https://pan.quark.cn/s/422aeb23c247>
 
-#### 《杂货店模拟器》v1.0 中文联机版
+#### 《杂货店模拟器（Grocery Store Simulator）》最新 单机+联机版
 
 夸克:<https://pan.quark.cn/s/c05002e7e809>
 
