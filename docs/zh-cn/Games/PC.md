@@ -66,6 +66,14 @@
 
 夸克：https://pan.quark.cn/s/0c3fd33f01ab
 
+#### 《完美音浪（Hi-Fi RUSH）》v2025.12.4 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/5a8714cbce44
+
+#### 《世界盒子（WorldBox - God Simulator）》最新 中文版（附 手机版+春秋王朝版）
+
+夸克：https://pan.quark.cn/s/e4415dd285e9
+
 #### 《主题医院 复刻版（Theme Hospital）》最新 中文版
 
 夸克：https://pan.quark.cn/s/3915d554b974
