@@ -86,6 +86,18 @@
 
 ## 最近更新
 
+#### 《骑马与砍杀2：霸主（Mount and Blade II Bannerlord）》v1.3.9 全DLC 豪华中文 联机版
+
+夸克：https://pan.quark.cn/s/2b9d6b8520e4
+
+#### 《心之眼》 最新 豪华中文版
+
+夸克：https://pan.quark.cn/s/f216ca246af9
+
+#### 《艾尔登法环：黑夜君临（Elden-Ring-Nightreign）》 v1.03.1  豪华中文版 联机版 打包XG器
+
+夸克：https://pan.quark.cn/s/5602dc1ab614
+
 #### 《杂货店模拟器（Grocery Store Simulator）》最新 单机+联机版
 
 夸克:https://pan.quark.cn/s/c05002e7e809
@@ -1150,7 +1162,7 @@
 
 夸克：<https://pan.quark.cn/s/64345de04ace>
 
-#### 《骑马与砍杀2：霸主（Mount and Blade II Bannerlord）》v1.2.12.77991 全DLC 豪华中文 联机版
+#### 《骑马与砍杀2：霸主（Mount and Blade II Bannerlord）》最新 全DLC 豪华中文 联机版
 
 夸克：<https://pan.quark.cn/s/2b9d6b8520e4>
 
@@ -2289,10 +2301,6 @@
 #### 《正当防卫3》
 
 夸克:<https://pan.quark.cn/s/c2fee74617f5>
-
-#### 《骑马与砍杀2：霸主》v1.2.11.45697 豪华中文联机版 打包XG器
-
-夸克:<https://pan.quark.cn/s/f1f63d4273f4>
 
 #### 《边境检察官》v2024.8.1中文版
 
