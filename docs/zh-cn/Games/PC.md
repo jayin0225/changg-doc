@@ -86,6 +86,10 @@
 
 ## 最近更新
 
+#### 《贪婪之秋2 垂死世界（GreedFall II The Dying World）》最新 中文版（附第一部）
+
+夸克：https://pan.quark.cn/s/8715783ed0df
+
 #### 《骑马与砍杀2：霸主（Mount and Blade II Bannerlord）》v1.3.9 全DLC 豪华中文 联机版
 
 夸克：https://pan.quark.cn/s/2b9d6b8520e4
@@ -3190,9 +3194,9 @@
 
 夸克:<https://pan.quark.cn/s/07f90452335c>
 
-#### 《贪婪之秋 GreedFall》 豪华中文版 全DLC v1.0.5686
+#### 《贪婪之秋2 垂死世界（GreedFall II The Dying World）》最新 中文版（附第一部）
 
-夸克:<https://pan.quark.cn/s/6e0c28180f7a>
+夸克：https://pan.quark.cn/s/8715783ed0df
 
 #### 《海之号角2 失落王国的骑士》v100.91363
 
