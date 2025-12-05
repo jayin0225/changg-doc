@@ -3642,7 +3642,7 @@
 
 夸克:<https://pan.quark.cn/s/46f7d48f5e81>
 
-#### 《艾迪芬奇的记忆》v1.0中文收藏版
+#### 《艾迪芬奇的记忆（What Remains of Edith Finch）》最新 全DLC 中文版
 
 夸克:<https://pan.quark.cn/s/fecc22b09515>
 
