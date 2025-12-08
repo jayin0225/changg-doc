@@ -86,6 +86,10 @@
 
 ## 最近更新
 
+#### 《幻兽帕鲁（Palworld）》最新 全DLC 中文 联机版 (附：MOD合集+修改器+升级补丁)
+
+夸克:<https://pan.quark.cn/s/0ca1b61bb4c6>
+
 #### 《杀手 系列合集（HITMAN）》6部 最新 全DLC 中文版
 
 夸克:<https://pan.quark.cn/s/5d506acd8840>
