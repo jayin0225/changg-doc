@@ -90,6 +90,10 @@
 
 夸克:<https://pan.quark.cn/s/0ca1b61bb4c6>
 
+#### 《真三国无双 起源（Dynasty Warriors Origins）》最新 全DLC 中文版
+
+夸克:<https://pan.quark.cn/s/e23d9a7c6829>
+
 #### 《杀手 系列合集（HITMAN）》6部 最新 全DLC 中文版
 
 夸克:<https://pan.quark.cn/s/5d506acd8840>
@@ -6342,7 +6346,7 @@
 
 夸克:<https://pan.quark.cn/s/54d7c649a568>
 
-#### 《真・三国无双 起源》v2025.1.17 豪华中文版
+#### 《真三国无双 起源（Dynasty Warriors Origins）》最新 全DLC 中文版
 
 夸克:<https://pan.quark.cn/s/e23d9a7c6829>
 
