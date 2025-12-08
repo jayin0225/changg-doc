@@ -86,6 +86,18 @@
 
 ## 最近更新
 
+#### 《杀手 系列合集（HITMAN）》6部 最新 全DLC 中文版
+
+夸克:<https://pan.quark.cn/s/5d506acd8840>
+
+#### 《舒舒服服小岛时光（CozyIsland）》最新 中文 联机版
+
+夸克：https://pan.quark.cn/s/96dc6024b829
+
+#### 《艾迪芬奇的记忆（What Remains of Edith Finch）》最新 全DLC 中文版
+
+夸克:<https://pan.quark.cn/s/fecc22b09515>
+
 #### 《贪婪之秋2 垂死世界（GreedFall II The Dying World）》最新 中文版（附第一部）
 
 夸克：https://pan.quark.cn/s/8715783ed0df
@@ -538,7 +550,7 @@
 
 夸克：https://pan.quark.cn/s/4b057dd3a2b5
 
-#### 《舒舒服服小岛时光（CozyIsland）》Build.20092698 中文版
+#### 《舒舒服服小岛时光（CozyIsland）》最新 中文 联机版
 
 夸克：https://pan.quark.cn/s/96dc6024b829
 
@@ -5306,7 +5318,7 @@
 
 夸克:<https://pan.quark.cn/s/abcc7183659b>
 
-#### 《杀手3：暗杀世界》v3.200.0 豪华中文版 全DLC 新增The Drop DLC 打包XG器
+#### 《杀手 系列合集（HITMAN）》6部 最新 全DLC 中文版
 
 夸克:<https://pan.quark.cn/s/5d506acd8840>
 
