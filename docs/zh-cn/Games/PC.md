@@ -66,6 +66,10 @@
 
 夸克：https://pan.quark.cn/s/0c3fd33f01ab
 
+#### 《我独自升级：起立觉醒（Solo Leveling ARISE OVERDRIVE）豪华版》最新 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/6eb79cefb341
+
 #### 《完美音浪（Hi-Fi RUSH）》v2025.12.4 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/5a8714cbce44
