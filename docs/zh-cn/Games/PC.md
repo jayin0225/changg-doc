@@ -70,6 +70,18 @@
 
 夸克：https://pan.quark.cn/s/6eb79cefb341
 
+#### 《如龙 系列合集（Yakuza）》8部 最新 全DLC 中文版（人中之龙 ）
+
+夸克：https://pan.quark.cn/s/7435d3728b73
+
+#### 《孤胆枪手2：重装上阵（Alien Shooter 2 Reloaded）》最新 汉化版
+
+夸克：https://pan.quark.cn/s/74ae454528be
+
+#### 《航海奇闻2：传承（Pirates Outlaws 2 Heritage）》最新 中文版
+
+夸克：https://pan.quark.cn/s/a4a51cd6d8b0
+
 #### 《完美音浪（Hi-Fi RUSH）》v2025.12.4 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/5a8714cbce44
