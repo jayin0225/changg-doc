@@ -98,6 +98,10 @@
 
 夸克:<https://pan.quark.cn/s/e23d9a7c6829>
 
+#### 《图灵完备（Turing Complete）》最新 中文版
+
+夸克:<https://pan.quark.cn/s/546d46807740>
+
 #### 《杀手 系列合集（HITMAN）》6部 最新 全DLC 中文版
 
 夸克:<https://pan.quark.cn/s/5d506acd8840>
