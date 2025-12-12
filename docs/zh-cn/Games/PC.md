@@ -74,6 +74,34 @@
 
 夸克：https://pan.quark.cn/s/7435d3728b73
 
+---
+
+## 最近更新
+
+#### 《骑马与砍杀2：霸主（Mount and Blade II Bannerlord）》v1.3.10.103977 全DLC 豪华中文 联机版
+
+夸克：https://pan.quark.cn/s/2b9d6b8520e4
+
+#### 《幻兽帕鲁（Palworld）》v0.6.9.82911 全DLC 中文 联机版 (附：MOD合集+修改器+升级补丁)
+
+夸克：https://pan.quark.cn/s/0ca1b61bb4c6
+
+#### 《Way of the Hunter 精英版》v1.29 全DLC 中文版（狩猎之道 猎人之路）
+
+夸克：https://pan.quark.cn/s/b3b21c549e3a
+
+#### 《冰汽时代2（Frostpunk 2）豪华版》v1.5.0 全DLC 豪华中文版
+
+夸克：https://pan.quark.cn/s/a1ddd0967825
+
+#### 《寂静岭F（SILENT HILL F）豪华版》v1.2.382755 全DLC 中文版（心理恐怖游戏）
+
+夸克：https://pan.quark.cn/s/4b3b51019b6d
+
+---
+
+## 已有游戏
+
 #### 《孤胆枪手2：重装上阵（Alien Shooter 2 Reloaded）》最新 汉化版
 
 夸克：https://pan.quark.cn/s/74ae454528be
@@ -97,62 +125,6 @@
 #### 《方块要塞2（Block Fortress 2）》最新 中文版
 
 夸克：https://pan.quark.cn/s/4c27eaaa0a35
-
----
-
-## 最近更新
-
-#### 《幻兽帕鲁（Palworld）》最新 全DLC 中文 联机版 (附：MOD合集+修改器+升级补丁)
-
-夸克:<https://pan.quark.cn/s/0ca1b61bb4c6>
-
-#### 《真三国无双 起源（Dynasty Warriors Origins）》最新 全DLC 中文版
-
-夸克:<https://pan.quark.cn/s/e23d9a7c6829>
-
-#### 《图灵完备（Turing Complete）》最新 中文版
-
-夸克:<https://pan.quark.cn/s/546d46807740>
-
-#### 《杀手 系列合集（HITMAN）》6部 最新 全DLC 中文版
-
-夸克:<https://pan.quark.cn/s/5d506acd8840>
-
-#### 《舒舒服服小岛时光（CozyIsland）》最新 中文 联机版
-
-夸克：https://pan.quark.cn/s/96dc6024b829
-
-#### 《艾迪芬奇的记忆（What Remains of Edith Finch）》最新 全DLC 中文版
-
-夸克:<https://pan.quark.cn/s/fecc22b09515>
-
-#### 《贪婪之秋2 垂死世界（GreedFall II The Dying World）》最新 中文版（附第一部）
-
-夸克：https://pan.quark.cn/s/8715783ed0df
-
-#### 《骑马与砍杀2：霸主（Mount and Blade II Bannerlord）》v1.3.9 全DLC 豪华中文 联机版
-
-夸克：https://pan.quark.cn/s/2b9d6b8520e4
-
-#### 《心之眼》 最新 豪华中文版
-
-夸克：https://pan.quark.cn/s/f216ca246af9
-
-#### 《艾尔登法环：黑夜君临（Elden-Ring-Nightreign）》 v1.03.1  豪华中文版 联机版 打包XG器
-
-夸克：https://pan.quark.cn/s/5602dc1ab614
-
-#### 《杂货店模拟器（Grocery Store Simulator）》最新 单机+联机版
-
-夸克:https://pan.quark.cn/s/c05002e7e809
-
-#### 《PEAK》最新 汉化中文 联机版（多人联机爬山）
-
-夸克：https://pan.quark.cn/s/7071cfef02d5
-
----
-
-## 已有游戏
 
 #### 《模拟山羊3（Goat Simulator 3）》最新 全DLC 中文版
 
