@@ -70,6 +70,10 @@
 
 夸克：https://pan.quark.cn/s/6eb79cefb341
 
+#### 《灾殃（The Scourge）》最新 中文版
+
+夸克： https://pan.quark.cn/s/6772dcbe4d51
+
 #### 《如龙 系列合集（Yakuza）》8部 最新 全DLC 中文版（人中之龙 ）
 
 夸克：https://pan.quark.cn/s/7435d3728b73
@@ -77,6 +81,10 @@
 ---
 
 ## 最近更新
+
+#### 《光与影 33号远征队（Clair Obscur Expedition 33）》 v61339 豪华 中文版
+
+夸克：https://pan.quark.cn/s/2d88dc6722a3
 
 #### 《骑马与砍杀2：霸主（Mount and Blade II Bannerlord）》v1.3.10.103977 全DLC 豪华中文 联机版
 
