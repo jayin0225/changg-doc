@@ -74,6 +74,10 @@
 
 夸克： https://pan.quark.cn/s/6772dcbe4d51
 
+#### 《掘地求生2》 v1.1 英文版（不影响游戏体验）
+
+夸克： https://pan.quark.cn/s/5831a5aa64ec
+
 #### 《如龙 系列合集（Yakuza）》8部 最新 全DLC 中文版（人中之龙 ）
 
 夸克：https://pan.quark.cn/s/7435d3728b73
