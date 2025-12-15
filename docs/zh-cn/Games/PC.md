@@ -72,15 +72,15 @@
 
 #### 《恶魔轮盘（Buckshot Roulette）》最新 中文 联机版
 
-夸克： https://pan.quark.cn/s/47a5ad04ff2a
+夸克：https://pan.quark.cn/s/47a5ad04ff2a
 
 #### 《灾殃（The Scourge）》最新 中文版
 
-夸克： https://pan.quark.cn/s/6772dcbe4d51
+夸克：https://pan.quark.cn/s/6772dcbe4d51
 
 #### 《掘地求生2》 v1.1 英文版（不影响游戏体验）
 
-夸克： https://pan.quark.cn/s/5831a5aa64ec
+夸克：https://pan.quark.cn/s/5831a5aa64ec
 
 #### 《如龙 系列合集（Yakuza）》8部 最新 全DLC 中文版（人中之龙 ）
 
