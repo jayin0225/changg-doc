@@ -70,6 +70,10 @@
 
 夸克：https://pan.quark.cn/s/6eb79cefb341
 
+#### 《恶魔轮盘（Buckshot Roulette）》最新 中文 联机版
+
+夸克： https://pan.quark.cn/s/47a5ad04ff2a
+
 #### 《灾殃（The Scourge）》最新 中文版
 
 夸克： https://pan.quark.cn/s/6772dcbe4d51
