@@ -70,6 +70,10 @@
 
 夸克：https://pan.quark.cn/s/6eb79cefb341
 
+#### 《魔法少女的魔女审判（Mahou Shoujo no Majo Saiban）》最新 中文版（视觉小说）
+
+夸克：https://pan.quark.cn/s/bc10a67c6d4b
+
 #### 《恶魔轮盘（Buckshot Roulette）》最新 中文 联机版
 
 夸克：https://pan.quark.cn/s/47a5ad04ff2a
