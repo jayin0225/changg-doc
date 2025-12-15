@@ -74,6 +74,10 @@
 
 夸克：https://pan.quark.cn/s/bc10a67c6d4b
 
+#### 《放松时光：与你共享Lo-Fi故事（Chill with You Lo-Fi Story）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/32eb82d3a203
+
 #### 《恶魔轮盘（Buckshot Roulette）》最新 中文 联机版
 
 夸克：https://pan.quark.cn/s/47a5ad04ff2a
