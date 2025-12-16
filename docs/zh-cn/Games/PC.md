@@ -66,6 +66,10 @@
 
 夸克：https://pan.quark.cn/s/0c3fd33f01ab
 
+#### 《女神异闻录5 皇家版（Persona 5 Royal）》最新 中文版（PC版）
+
+夸克：https://pan.quark.cn/s/49f7de9ffec2
+
 #### 《我独自升级：起立觉醒（Solo Leveling ARISE OVERDRIVE）豪华版》最新 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/6eb79cefb341
