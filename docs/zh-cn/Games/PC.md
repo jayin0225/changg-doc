@@ -70,25 +70,9 @@
 
 夸克：https://pan.quark.cn/s/6eb79cefb341
 
-#### 《魔法少女的魔女审判（Mahou Shoujo no Majo Saiban）》最新 中文版（视觉小说）
+#### 《破神者（GODBREAKERS）》最新 中文 联机版（动作肉鸽）
 
-夸克：https://pan.quark.cn/s/bc10a67c6d4b
-
-#### 《放松时光：与你共享Lo-Fi故事（Chill with You Lo-Fi Story）》最新 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/32eb82d3a203
-
-#### 《恶魔轮盘（Buckshot Roulette）》最新 中文 联机版
-
-夸克：https://pan.quark.cn/s/47a5ad04ff2a
-
-#### 《灾殃（The Scourge）》最新 中文版
-
-夸克：https://pan.quark.cn/s/6772dcbe4d51
-
-#### 《掘地求生2》 v1.1 英文版（不影响游戏体验）
-
-夸克：https://pan.quark.cn/s/5831a5aa64ec
+夸克：https://pan.quark.cn/s/f55f1d4e7327
 
 #### 《如龙 系列合集（Yakuza）》8部 最新 全DLC 中文版（人中之龙 ）
 
@@ -97,6 +81,10 @@
 ---
 
 ## 最近更新
+
+#### 《天外世界2（The Outer Worlds 2）高级版》 v1.0.6.0 中文版
+
+夸克：https://pan.quark.cn/s/543dbc86bbca
 
 #### 《光与影 33号远征队（Clair Obscur Expedition 33）》 v61339 豪华 中文版
 
@@ -125,6 +113,26 @@
 ---
 
 ## 已有游戏
+
+#### 《魔法少女的魔女审判（Mahou Shoujo no Majo Saiban）》最新 中文版（视觉小说）
+
+夸克：https://pan.quark.cn/s/bc10a67c6d4b
+
+#### 《放松时光：与你共享Lo-Fi故事（Chill with You Lo-Fi Story）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/32eb82d3a203
+
+#### 《恶魔轮盘（Buckshot Roulette）》最新 中文 联机版
+
+夸克：https://pan.quark.cn/s/47a5ad04ff2a
+
+#### 《灾殃（The Scourge）》最新 中文版
+
+夸克：https://pan.quark.cn/s/6772dcbe4d51
+
+#### 《掘地求生2》 v1.1 英文版（不影响游戏体验）
+
+夸克：https://pan.quark.cn/s/5831a5aa64ec
 
 #### 《孤胆枪手2：重装上阵（Alien Shooter 2 Reloaded）》最新 汉化版
 
