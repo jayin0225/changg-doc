@@ -10,6 +10,7 @@
   - [🦅 欧美动漫](/zh-cn/animetv/omdm)
   - [👶 小朋友动画](/zh-cn/animetv/xpy)
 - [💡 教学教材+书籍](zh-cn/study/study)
+- [💡 软件](zh-cn/Software/Software)
 
 ---
 - [留言板](zh-cn/bbs)
