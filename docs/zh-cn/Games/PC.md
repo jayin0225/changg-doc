@@ -82,6 +82,34 @@
 
 夸克：https://pan.quark.cn/s/7435d3728b73
 
+#### 《时光之塔（Tower of Time）》最新 全DLC 中文版（奇特的冒险游戏）
+
+夸克：https://pan.quark.cn/s/85ccc2205d5b
+
+#### 《植物大战僵尸：重制版（Plants vs Zombies Replanted）》最新 中文版 联机版
+
+夸克：https://pan.quark.cn/s/3f74230147d4
+
+#### 《北望江山（JSBW Final Version）》最新 中文版（真人互动影游）
+
+夸克：https://pan.quark.cn/s/37296fc1d921
+
+#### 《奴役西游记（Enslaved Odyssey to the West）高级版》最新 全DLC 英文版
+
+夸克：https://pan.quark.cn/s/5d8f4e80d70c
+
+#### 《未转变者（Unturned）黄金版》最新 中文版
+
+夸克：https://pan.quark.cn/s/7ce3b1e55cc1
+
+#### 《漫威宇宙入侵（MARVEL Cosmic Invasion）》最新 中文版
+
+夸克：https://pan.quark.cn/s/250267fb77b3
+
+#### 《冥界契约（Netherworld Covenant）》最新 中文版（3D动作肉鸽）
+
+夸克：https://pan.quark.cn/s/ee155f835b37
+
 ---
 
 ## 最近更新
