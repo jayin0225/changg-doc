@@ -74,9 +74,25 @@
 
 夸克：https://pan.quark.cn/s/6eb79cefb341
 
+#### 《死亡(The Death)》中文版 打包XG器
+
+夸克：https://pan.quark.cn/s/651c973302e5
+
+#### 《港诡实录（Paranormal HK）》最新 中文版
+
+夸克：https://pan.quark.cn/s/aff480e3ca0d
+
+#### 《狙击精英 系列合集（Sniper Elite）》4部 最新 全DLC 中文版（电脑版）
+
+夸克： https://pan.quark.cn/s/32574fe59d7f
+
+#### 《极速骑行（RIDE）》全系列
+
+夸克： https://pan.quark.cn/s/b8506acc604a
+
 #### 《见证者（The Witness）》最新 中文版
 
- 夸克： https://pan.quark.cn/s/1e4f39030ff7
+夸克： https://pan.quark.cn/s/1e4f39030ff7
 
 #### 《破神者（GODBREAKERS）》最新 中文 联机版（动作肉鸽）
 
