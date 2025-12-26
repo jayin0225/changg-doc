@@ -74,6 +74,14 @@
 
 夸克：https://pan.quark.cn/s/6eb79cefb341
 
+#### 《八号出口(The Exit 8)》v1.1.0
+
+夸克：https://pan.quark.cn/s/b9037f1c9450
+
+#### 《鲁特里一家死了（The Roottrees are Dead）》中文版 v20251219
+
+夸克：https://pan.quark.cn/s/78b7aef14679
+
 #### 《死亡(The Death)》中文版 打包XG器
 
 夸克：https://pan.quark.cn/s/651c973302e5
