@@ -94,33 +94,21 @@
 
 ## 最近更新
 
-#### 《天外世界2（The Outer Worlds 2）高级版》 v1.0.6.0 中文版
+#### 《方舟动物园》Build.19166888  中文版
 
-夸克：https://pan.quark.cn/s/543dbc86bbca
+夸克:https://pan.quark.cn/s/9cb33816f125
 
-#### 《光与影 33号远征队（Clair Obscur Expedition 33）》 v61339 豪华 中文版
+#### 《PEAK》v1.51.a 汉化中文 联机版（多人联机爬山）
 
-夸克：https://pan.quark.cn/s/2d88dc6722a3
+夸克：https://pan.quark.cn/s/7071cfef02d5
 
-#### 《骑马与砍杀2：霸主（Mount and Blade II Bannerlord）》v1.3.10.103977 全DLC 豪华中文 联机版
+#### 《逃离鸭科夫（Escape From Duckov）》最新 中文版。
 
-夸克：https://pan.quark.cn/s/2b9d6b8520e4
+夸克：https://pan.quark.cn/s/e9c40d701e82
 
-#### 《幻兽帕鲁（Palworld）》v0.6.9.82911 全DLC 中文 联机版 (附：MOD合集+修改器+升级补丁)
+#### 《幻想生活i 转圈圈的龙和偷取时间的少女（FANTASY LIFE i）》v2.0.2 中文版 联机版
 
-夸克：https://pan.quark.cn/s/0ca1b61bb4c6
-
-#### 《Way of the Hunter 精英版》v1.29 全DLC 中文版（狩猎之道 猎人之路）
-
-夸克：https://pan.quark.cn/s/b3b21c549e3a
-
-#### 《冰汽时代2（Frostpunk 2）豪华版》v1.5.0 全DLC 豪华中文版
-
-夸克：https://pan.quark.cn/s/a1ddd0967825
-
-#### 《寂静岭F（SILENT HILL F）豪华版》v1.2.382755 全DLC 中文版（心理恐怖游戏）
-
-夸克：https://pan.quark.cn/s/4b3b51019b6d
+夸克：https://pan.quark.cn/s/a5235626cee9
 
 ---
 
