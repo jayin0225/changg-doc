@@ -40,6 +40,10 @@
 
 夸克：https://pan.quark.cn/s/7fb39c0f9ce0
 
+#### 《说谎公主与盲眼王子》最新 模拟器整合 PC+安卓版
+
+夸克： https://pan.quark.cn/s/a26714005be3
+
 #### 《鬼灭之刃：火之神血风谭（Demon Slayer Kimetsu no Yaiba）》最新 模拟器整合 PC+安卓版」
 
 夸克：https://pan.quark.cn/s/4318fb7647d9
