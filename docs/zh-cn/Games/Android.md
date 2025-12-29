@@ -23,10 +23,16 @@
 
 夸克：https://pan.quark.cn/s/29bc34d181a2
 
+#### 《格莉斯的旅程GRISv1.0.3》[完整版]Steam移植
+
+夸克： https://pan.quark.cn/s/525c27780048
+
 #### 《沙威玛传奇》最新 安卓 免广告 无限金币版
+
 夸克：https://pan.quark.cn/s/8c7c9b2e7e6b
 
 #### 《重生细胞 死亡细胞v3.3.12》[完整版+DLC]重返恶魔城Steam移植
+
 夸克：https://pan.quark.cn/s/8bc5dbf2fa0a
 
 
