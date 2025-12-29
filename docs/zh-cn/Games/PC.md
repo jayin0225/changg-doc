@@ -74,6 +74,14 @@
 
 夸克：https://pan.quark.cn/s/6eb79cefb341
 
+#### 《七日杀（7 Days to Die）》最新 中文 联机版
+
+夸克： https://pan.quark.cn/s/a9ea6c38f242
+
+#### 《地铁 离去（Metro Exodus）增强版+黄金版》最新 全DLC 中文版
+
+夸克： https://pan.quark.cn/s/94dda4128aab
+
 #### 《八号出口(The Exit 8)》v1.1.0
 
 夸克：https://pan.quark.cn/s/b9037f1c9450
