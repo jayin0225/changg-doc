@@ -94,6 +94,10 @@
 
 夸克：https://pan.quark.cn/s/bc1337c381f5
 
+#### 《Worldwide Rush》最新 中文版（交通运输模拟游戏）
+
+夸克：https://pan.quark.cn/s/72c60e81235d
+
 #### 《层层恐惧 系列合集（Layers of Fear）》3部 最新 全DLC 中文版（恐怖解密）
 
 夸克： https://pan.quark.cn/s/7061e28b5826
