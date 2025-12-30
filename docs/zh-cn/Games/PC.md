@@ -74,29 +74,41 @@
 
 夸克：https://pan.quark.cn/s/6eb79cefb341
 
-#### 《七日杀（7 Days to Die）》最新 中文 联机版
+#### 《辐射4（Fallout 4）周年版》最新 全DLC 中文版
 
-夸克： https://pan.quark.cn/s/a9ea6c38f242
+夸克：https://pan.quark.cn/s/8848a4e9ca3e
 
-#### 《地铁 离去（Metro Exodus）增强版+黄金版》最新 全DLC 中文版
+#### 《命运 创世（Fate EXTELLA）》最新 全DLC 中文版
 
-夸克： https://pan.quark.cn/s/94dda4128aab
+夸克：https://pan.quark.cn/s/de3f5f8784d2
 
-#### 《八号出口(The Exit 8)》v1.1.0
+#### 《命运 创世 连接（Fate EXTELLA LINK）豪华版》最新 全DLC 中文 联机版
 
-夸克：https://pan.quark.cn/s/b9037f1c9450
+夸克：https://pan.quark.cn/s/665e9e285d79
 
-#### 《鲁特里一家死了（The Roottrees are Dead）》中文版 v20251219
+#### 《汽车工厂帝国（Car Factory Empire）》最新 中文版
 
-夸克：https://pan.quark.cn/s/78b7aef14679
+夸克：https://pan.quark.cn/s/76319c3bfa21
 
-#### 《死亡(The Death)》中文版 打包XG器
+#### 《层层恐惧 系列合集（Layers of Fear）》3部 最新 全DLC 中文版（恐怖解密）
 
-夸克：https://pan.quark.cn/s/651c973302e5
+夸克： https://pan.quark.cn/s/7061e28b5826
 
-#### 《如龙 系列合集（Yakuza）》8部 最新 全DLC 中文版（人中之龙 ）
+#### 《CyberCorp》最新 中文 联机版（赛博巨头、赛博公司？）
 
-夸克：https://pan.quark.cn/s/7435d3728b73
+夸克：https://pan.quark.cn/s/a705c2c3b916
+
+#### 《黑纱突袭者（Raiders of Blackveil）》最新 中文 联机版（动作肉鸽）
+
+夸克：https://pan.quark.cn/s/84fdb23e0d91
+
+#### 《加油站大亨（Gas Station Simulator）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/b41e6267e6c4
+
+#### 《喵喵甜品屋（Cats and Cups）》最新 中文版
+
+夸克：https://pan.quark.cn/s/2cb4fb99fa85
 
 ---
 
@@ -121,6 +133,30 @@
 ---
 
 ## 已有游戏
+
+#### 《七日杀（7 Days to Die）》最新 中文 联机版
+
+夸克： https://pan.quark.cn/s/a9ea6c38f242
+
+#### 《地铁 离去（Metro Exodus）增强版+黄金版》最新 全DLC 中文版
+
+夸克： https://pan.quark.cn/s/94dda4128aab
+
+#### 《八号出口(The Exit 8)》v1.1.0
+
+夸克：https://pan.quark.cn/s/b9037f1c9450
+
+#### 《鲁特里一家死了（The Roottrees are Dead）》中文版 v20251219
+
+夸克：https://pan.quark.cn/s/78b7aef14679
+
+#### 《死亡(The Death)》中文版 打包XG器
+
+夸克：https://pan.quark.cn/s/651c973302e5
+
+#### 《如龙 系列合集（Yakuza）》8部 最新 全DLC 中文版（人中之龙 ）
+
+夸克：https://pan.quark.cn/s/7435d3728b73
 
 #### 《港诡实录（Paranormal HK）》最新 中文版
 

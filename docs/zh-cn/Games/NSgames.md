@@ -40,6 +40,10 @@
 
 夸克：https://pan.quark.cn/s/7fb39c0f9ce0
 
+#### 《涅瓦（Neva）》最新 模拟器整合 NS版
+
+夸克： https://pan.quark.cn/s/07e51f7c0992
+
 #### 《说谎公主与盲眼王子》最新 模拟器整合 PC+安卓版
 
 夸克： https://pan.quark.cn/s/a26714005be3
