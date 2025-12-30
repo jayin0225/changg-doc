@@ -90,6 +90,10 @@
 
 夸克：https://pan.quark.cn/s/76319c3bfa21
 
+#### 《史前王国（Prehistoric Kingdom）》最新 全DLC 中文版（史前动物园建造）
+
+夸克：https://pan.quark.cn/s/bc1337c381f5
+
 #### 《层层恐惧 系列合集（Layers of Fear）》3部 最新 全DLC 中文版（恐怖解密）
 
 夸克： https://pan.quark.cn/s/7061e28b5826
