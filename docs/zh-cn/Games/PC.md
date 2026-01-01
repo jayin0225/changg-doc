@@ -78,6 +78,14 @@
 
 夸克：https://pan.quark.cn/s/8848a4e9ca3e
 
+#### 《生存战争 API插件版（Survivalcraft）》最新 中文版
+
+夸克：https://pan.quark.cn/s/f83cf98b4f95
+
+#### 《战争号令 地狱之门：东线（Call to Arms Gates of Hell Ostfront）》最新 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/2cff7360e0e9
+
 #### 《命运 创世（Fate EXTELLA）》最新 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/de3f5f8784d2
