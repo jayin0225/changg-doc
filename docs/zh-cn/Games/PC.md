@@ -78,6 +78,14 @@
 
 夸克：https://pan.quark.cn/s/8848a4e9ca3e
 
+#### 《阿西 美女室友竟然...？（Five Hearts Under One Roof ）1-2部》最新 中文版（韩国真人互动游戏）
+
+夸克：https://pan.quark.cn/s/042a56ecab5f
+
+#### 《放松时光：与你共享Lo-Fi故事（Chill with You Lo-Fi Story）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/dad074fe2574
+
 #### 《生存战争 API插件版（Survivalcraft）》最新 中文版
 
 夸克：https://pan.quark.cn/s/f83cf98b4f95
