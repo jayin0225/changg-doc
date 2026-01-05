@@ -64,7 +64,7 @@
 
 #### 《疯狂连杀（ULTRAKILL）》最新 英文版
 
-夸克： https://pan.quark.cn/s/9f2ba1431e0d
+夸克：https://pan.quark.cn/s/9f2ba1431e0d
 
 #### 《汽车经销商模拟器（car dealer simulator）》最新 中文版
 
@@ -80,7 +80,7 @@
 
 #### 《方舟动物园》Build.19166888  中文版
 
-夸克:https://pan.quark.cn/s/9cb33816f125
+夸克：https://pan.quark.cn/s/9cb33816f125
 
 #### 《PEAK》v1.51.a 汉化中文 联机版（多人联机爬山）
 
