@@ -62,6 +62,42 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。
 
+#### 《疯狂连杀（ULTRAKILL）》最新 英文版
+
+夸克： https://pan.quark.cn/s/9f2ba1431e0d
+
+#### 《汽车经销商模拟器（car dealer simulator）》最新 中文版
+
+夸克：https://pan.quark.cn/s/03be144a5fa8
+
+#### 《接线疑云（Project OPERATOR）》最新 中文版
+
+夸克：https://pan.quark.cn/s/57b8100144ca
+
+---
+
+## 最近更新
+
+#### 《方舟动物园》Build.19166888  中文版
+
+夸克:https://pan.quark.cn/s/9cb33816f125
+
+#### 《PEAK》v1.51.a 汉化中文 联机版（多人联机爬山）
+
+夸克：https://pan.quark.cn/s/7071cfef02d5
+
+#### 《逃离鸭科夫（Escape From Duckov）》最新 中文版。
+
+夸克：https://pan.quark.cn/s/e9c40d701e82
+
+#### 《幻想生活i 转圈圈的龙和偷取时间的少女（FANTASY LIFE i）》v2.0.2 中文版 联机版
+
+夸克：https://pan.quark.cn/s/a5235626cee9
+
+---
+
+## 已有游戏
+
 #### 《战地风云6（Battlefield 6）》v1.1.2.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/0c3fd33f01ab
@@ -133,30 +169,6 @@
 #### 《喵喵甜品屋（Cats and Cups）》最新 中文版
 
 夸克：https://pan.quark.cn/s/2cb4fb99fa85
-
----
-
-## 最近更新
-
-#### 《方舟动物园》Build.19166888  中文版
-
-夸克:https://pan.quark.cn/s/9cb33816f125
-
-#### 《PEAK》v1.51.a 汉化中文 联机版（多人联机爬山）
-
-夸克：https://pan.quark.cn/s/7071cfef02d5
-
-#### 《逃离鸭科夫（Escape From Duckov）》最新 中文版。
-
-夸克：https://pan.quark.cn/s/e9c40d701e82
-
-#### 《幻想生活i 转圈圈的龙和偷取时间的少女（FANTASY LIFE i）》v2.0.2 中文版 联机版
-
-夸克：https://pan.quark.cn/s/a5235626cee9
-
----
-
-## 已有游戏
 
 #### 《七日杀（7 Days to Die）》最新 中文 联机版
 
