@@ -62,6 +62,10 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。
 
+#### 《生化危机：启示录2（Resident Evil Revelations 2）》最新  中文版
+
+夸克：https://pan.quark.cn/s/5ac6c1baf13a
+
 #### 《疯狂连杀（ULTRAKILL）》最新 英文版
 
 夸克：https://pan.quark.cn/s/9f2ba1431e0d
