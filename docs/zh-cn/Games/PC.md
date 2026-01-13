@@ -62,6 +62,14 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。
 
+#### 《检疫区：最后一站（Quarantine Zone The Last Check）》最新 中文版
+
+夸克：https://pan.quark.cn/s/866ebbead0be
+
+#### 《生化危机：启示录2（Resident Evil Revelations 2）》最新  中文版
+
+夸克：https://pan.quark.cn/s/5ac6c1baf13a
+
 #### 《疯狂连杀（ULTRAKILL）》最新 英文版
 
 夸克：https://pan.quark.cn/s/9f2ba1431e0d
@@ -73,6 +81,14 @@
 #### 《接线疑云（Project OPERATOR）》最新 中文版
 
 夸克：https://pan.quark.cn/s/57b8100144ca
+
+#### 《查尔街九号（9 Childs Street）》最新 英文版
+
+夸克：https://pan.quark.cn/s/260f8a59729b
+
+#### 《阿门蒂（Amenti）》最新 中文版 （阿蒙提）
+
+夸克：https://pan.quark.cn/s/d02edc43cf60
 
 ---
 
@@ -2373,10 +2389,6 @@
 #### 《超凡双生》
 
 夸克:<https://pan.quark.cn/s/1314e471721f>
-
-#### 《生化危机2重制版》
-
-夸克:<https://pan.quark.cn/s/96cff196f5a0>
 
 #### 《GTA罪恶都市合集》
 
