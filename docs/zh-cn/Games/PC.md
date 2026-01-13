@@ -90,6 +90,10 @@
 
 夸克：https://pan.quark.cn/s/d02edc43cf60
 
+#### 《生化危机 系列合集（Resident）》10部 最新 黄金版 + 重制版 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/c02ee55f7d65
+
 ---
 
 ## 最近更新
