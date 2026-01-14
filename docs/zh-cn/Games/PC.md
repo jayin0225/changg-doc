@@ -62,7 +62,16 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。
 
+#### 《不要一起尖叫（DONT SCREAM TOGETHER）》最新 联机版 （禁止尖叫）
+
+夸克：https://pan.quark.cn/s/5e709905a344
+
+#### 《机密谋杀案中案（Confidential Killings）》最新 中文版
+
+夸克：https://pan.quark.cn/s/e12648dbc11e
+
 #### 《六夜将亡（Six nights to die）》最新 中文版
+
 夸克：https://pan.quark.cn/s/93f21dff4608
 
 #### 《检疫区：最后一站（Quarantine Zone The Last Check）》最新 中文版
