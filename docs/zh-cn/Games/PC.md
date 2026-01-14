@@ -62,6 +62,9 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。
 
+#### 《六夜将亡（Six nights to die）》最新 中文版
+夸克：https://pan.quark.cn/s/93f21dff4608
+
 #### 《检疫区：最后一站（Quarantine Zone The Last Check）》最新 中文版
 
 夸克：https://pan.quark.cn/s/866ebbead0be
