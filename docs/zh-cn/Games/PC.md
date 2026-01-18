@@ -62,6 +62,89 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。
 
+#### 《Big Hops》最新 中文版（勇敢小青蛙跳跃平台冒险）
+
+夸克：https://pan.quark.cn/s/e2b55b3fa5cc
+
+#### 《兵连祸结（Wartorn）》最新 中文版
+
+夸克：https://pan.quark.cn/s/a6a7b22b950e
+
+#### 《地狱即我们（Hell is Us）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/bb37b620eafa
+
+#### 《粉红谷》最新 汉化版（电脑+手机版）
+
+夸克：https://pan.quark.cn/s/7aebf4c2ed62
+
+#### 《孤女困魇（Silly Polly Beast）》最新 中文版
+
+夸克：https://pan.quark.cn/s/067ad8953a16
+
+#### 《粪（Muck）》 中文汉化版
+
+夸克：https://pan.quark.cn/s/a27b52bbe408
+
+#### 《蜉蝣世界（Flotsam）》最新 中文版
+
+夸克：https://pan.quark.cn/s/71fb67f0e1a6
+
+#### 《Log.in》最新 中文版（恐怖解謎）
+
+夸克：https://pan.quark.cn/s/bc4cfbe8179d
+
+#### 《灵魂射手 死亡使者（Soulslinger Envoy of Death）》最新 中文版
+
+夸克：https://pan.quark.cn/s/a3f3e7efff89
+
+#### 《尸姬之梦（Dream of Corpse Lady）》最新 中文版
+
+夸克：https://pan.quark.cn/s/740ccea01313
+
+#### 《吞噬（DEVOUR）》 最新 中文 联机版
+
+夸克：https://pan.quark.cn/s/9ec99087f693
+
+#### 《死亡空间 重制版（Dead Space Remake）豪华版》最新 中文版（有中文配音）
+
+夸克：https://pan.quark.cn/s/47e29a152658
+
+#### 《我的世界 故事模式 1-2季（Minecraft：Story Mode）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/7c1a51b55319
+
+#### 《无主之地2（Borderlands 2）年度版》最新 全DLC 汉化版
+
+夸克：https://pan.quark.cn/s/65964de74940
+
+---
+
+## 最近更新
+
+#### 《欧洲卡车模拟2（Euro Truck Simulator 2）》最新 全DLC 豪华中文 联机版
+
+夸克：https://pan.quark.cn/s/709d5ab4cc5f
+
+#### 《潜水员戴夫》最新 豪华中文版 全DLC 打包XG器
+
+夸克：https://pan.quark.cn/s/ab3b9d10bd63
+
+#### 《动物收容所2（Animal Shelter 2）》最新 中文版
+
+夸克：https://pan.quark.cn/s/ea58d71ccc54
+
+#### 《侠盗猎车手5增强版（Grand Theft Auto V Enhanced）》最新 中文版（GTA5增强版+纯净版+MOD整合版）
+
+夸克：https://pan.quark.cn/s/af36261675d0
+
+#### 《鲁特里一家死了（The Roottrees are Dead）》最新 中文版
+
+夸克：https://pan.quark.cn/s/78b7aef14679
+---
+
+## 已有游戏
+
 #### 《不要一起尖叫（DONT SCREAM TOGETHER）》最新 联机版 （禁止尖叫）
 
 夸克：https://pan.quark.cn/s/5e709905a344
@@ -105,30 +188,6 @@
 #### 《生化危机 系列合集（Resident）》10部 最新 黄金版 + 重制版 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/c02ee55f7d65
-
----
-
-## 最近更新
-
-#### 《方舟动物园》Build.19166888  中文版
-
-夸克：https://pan.quark.cn/s/9cb33816f125
-
-#### 《PEAK》v1.51.a 汉化中文 联机版（多人联机爬山）
-
-夸克：https://pan.quark.cn/s/7071cfef02d5
-
-#### 《逃离鸭科夫（Escape From Duckov）》最新 中文版。
-
-夸克：https://pan.quark.cn/s/e9c40d701e82
-
-#### 《幻想生活i 转圈圈的龙和偷取时间的少女（FANTASY LIFE i）》v2.0.2 中文版 联机版
-
-夸克：https://pan.quark.cn/s/a5235626cee9
-
----
-
-## 已有游戏
 
 #### 《战地风云6（Battlefield 6）》v1.1.2.0 全DLC 中文版
 
@@ -214,7 +273,7 @@
 
 夸克：https://pan.quark.cn/s/b9037f1c9450
 
-#### 《鲁特里一家死了（The Roottrees are Dead）》中文版 v20251219
+#### 《鲁特里一家死了（The Roottrees are Dead）》最新 中文版
 
 夸克：https://pan.quark.cn/s/78b7aef14679
 
@@ -1782,7 +1841,7 @@
 
 夸克：<https://pan.quark.cn/s/611986b324b3>
 
-#### 《侠盗猎车手5增强版（Grand Theft Auto V Enhanced）》GTA5增强版 最新 中文版
+#### 《侠盗猎车手5增强版（Grand Theft Auto V Enhanced）》最新 中文版（GTA5增强版+纯净版+MOD整合版）
 
 夸克：<https://pan.quark.cn/s/af36261675d0>
 
