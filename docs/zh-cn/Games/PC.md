@@ -62,6 +62,33 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。
 
+#### 《倾听画语：最美好的景色(Behind the Frame)》最新 中文
+
+夸克：https://pan.quark.cn/s/1ea98beb61d2
+
+#### 《咩咩启示录（Cult of the Lamb）》最新 全DLC 豪华中文 联机版
+
+夸克：https://pan.quark.cn/s/ba68b6927697
+
+---
+
+## 最近更新
+
+#### 《奈斯启示录（Necesse）》v1.0 中文 联机版
+
+夸克：https://pan.quark.cn/s/527de5e43ea7
+
+#### 《宇宙沙盘（Universe Sandbox）》v35.4.4 中文版
+
+夸克：https://pan.quark.cn/s/81f471a6fd78
+
+#### 《太空引擎 SpaceEngine Pro》v0.991 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/5f6fbd036ec8
+---
+
+## 已有游戏
+
 #### 《Big Hops》最新 中文版（勇敢小青蛙跳跃平台冒险）
 
 夸克：https://pan.quark.cn/s/e2b55b3fa5cc
@@ -117,33 +144,6 @@
 #### 《无主之地2（Borderlands 2）年度版》最新 全DLC 汉化版
 
 夸克：https://pan.quark.cn/s/65964de74940
-
----
-
-## 最近更新
-
-#### 《欧洲卡车模拟2（Euro Truck Simulator 2）》最新 全DLC 豪华中文 联机版
-
-夸克：https://pan.quark.cn/s/709d5ab4cc5f
-
-#### 《潜水员戴夫》最新 豪华中文版 全DLC 打包XG器
-
-夸克：https://pan.quark.cn/s/ab3b9d10bd63
-
-#### 《动物收容所2（Animal Shelter 2）》最新 中文版
-
-夸克：https://pan.quark.cn/s/ea58d71ccc54
-
-#### 《侠盗猎车手5增强版（Grand Theft Auto V Enhanced）》最新 中文版（GTA5增强版+纯净版+MOD整合版）
-
-夸克：https://pan.quark.cn/s/af36261675d0
-
-#### 《鲁特里一家死了（The Roottrees are Dead）》最新 中文版
-
-夸克：https://pan.quark.cn/s/78b7aef14679
----
-
-## 已有游戏
 
 #### 《不要一起尖叫（DONT SCREAM TOGETHER）》最新 联机版 （禁止尖叫）
 
@@ -6201,7 +6201,7 @@
 
 夸克:<https://pan.quark.cn/s/6a4522c26930>
 
-#### 《太空引擎 SpaceEngine-PRO》v0.990.47.2015 豪华中文版 全DLC
+#### 《太空引擎 SpaceEngine Pro》最新 全DLC 中文版
 
 夸克:<https://pan.quark.cn/s/5f6fbd036ec8>
 
