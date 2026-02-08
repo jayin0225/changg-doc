@@ -62,6 +62,21 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。
 
+#### 《仁王3（Nioh 3）豪华版》v1.02.02 全DLC 中文版（新）
+#### 《仁王2（Nioh 2）完全版》v1.28.08 中文 联机版
+#### 《仁王（Nioh）完全版》v1.24.08 中文版
+夸克：https://pan.quark.cn/s/9dad8dce13d5
+
+---
+
+## 最近更新
+
+
+
+---
+
+## 已有游戏
+
 #### 《倾听画语：最美好的景色(Behind the Frame)》最新 中文
 
 夸克：https://pan.quark.cn/s/1ea98beb61d2
@@ -73,26 +88,6 @@
 #### 《GTA4》mod版本 V1.03
 
 夸克：https://pan.quark.cn/s/992721d56293
-
----
-
-## 最近更新
-
-#### 《奈斯启示录（Necesse）》v1.0 中文 联机版
-
-夸克：https://pan.quark.cn/s/527de5e43ea7
-
-#### 《宇宙沙盘（Universe Sandbox）》v35.4.4 中文版
-
-夸克：https://pan.quark.cn/s/81f471a6fd78
-
-#### 《太空引擎 SpaceEngine Pro》v0.991 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/5f6fbd036ec8
-
----
-
-## 已有游戏
 
 #### 《Big Hops》最新 中文版（勇敢小青蛙跳跃平台冒险）
 
