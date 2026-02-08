@@ -71,7 +71,9 @@
 
 ## 最近更新
 
+#### 《人渣SCUM》最新 豪华中文版 全DLC
 
+夸克：https://pan.quark.cn/s/ac755bb1ff1f
 
 ---
 
