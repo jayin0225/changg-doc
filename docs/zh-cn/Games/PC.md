@@ -68,6 +68,10 @@
 
 夸克：https://pan.quark.cn/s/9dad8dce13d5
 
+#### 《觅长生（Looking For Longevity）》最新 中文版
+
+夸克：https://pan.quark.cn/s/9583d43f68ca
+
 #### 《恐龙岛（The Isle）》v0.0.0.25
 
 夸克：https://pan.quark.cn/s/e6e3c1e082c2
