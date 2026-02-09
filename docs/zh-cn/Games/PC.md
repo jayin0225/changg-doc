@@ -71,9 +71,13 @@
 
 ## 最近更新
 
-#### 《人渣SCUM》最新 豪华中文版 全DLC
+#### 《人渣SCUM》v1.2.0.6.104952 豪华中文版 全DLC
 
 夸克：https://pan.quark.cn/s/ac755bb1ff1f
+
+#### 《幻想生活i 转圈圈的龙和偷取时间的少女（FANTASY LIFE i）》v2.0.4 中文版 联机版
+
+夸克：https://pan.quark.cn/s/a5235626cee9
 
 ---
 
