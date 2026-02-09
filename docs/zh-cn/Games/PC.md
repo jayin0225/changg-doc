@@ -65,7 +65,12 @@
 #### 《仁王3（Nioh 3）豪华版》v1.02.02 全DLC 中文版（新）
 #### 《仁王2（Nioh 2）完全版》v1.28.08 中文 联机版
 #### 《仁王（Nioh）完全版》v1.24.08 中文版
+
 夸克：https://pan.quark.cn/s/9dad8dce13d5
+
+#### 《恐龙岛（The Isle）》v0.0.0.25
+
+夸克：https://pan.quark.cn/s/e6e3c1e082c2
 
 ---
 
