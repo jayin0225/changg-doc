@@ -72,6 +72,30 @@
 
 夸克：https://pan.quark.cn/s/e6e3c1e082c2
 
+#### 《暗黑拍卖（Dark Auction）豪华版》最新 中文版
+
+夸克：https://pan.quark.cn/s/655deb35d2bc
+
+#### 《海绵宝宝 潮汐巨神（SpongeBob SquarePants Titans of the Tide）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/efdc19945a6b
+
+#### 《黑帆赌局（Pirates Gambit）》最新 中文版
+
+夸克：https://pan.quark.cn/s/4976c9564229
+
+#### 《焕然异星（Terraformers）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/427c7f9ec813
+
+#### 《深蓝 吞噬进化（Deep Blue Devour and Evolve）》最新 中文版
+
+夸克：https://pan.quark.cn/s/4946884ea75e
+
+#### 《桃源村日志（Halcyon Days at Taoyuan）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/1635be035508
+
 ---
 
 ## 最近更新
@@ -83,6 +107,10 @@
 #### 《幻想生活i 转圈圈的龙和偷取时间的少女（FANTASY LIFE i）》v2.0.4 中文版 联机版
 
 夸克：https://pan.quark.cn/s/a5235626cee9
+
+#### 《模拟山羊3（Goat Simulator 3）》v1.2.0.4.462744 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/3ef39e63f5d9
 
 ---
 
