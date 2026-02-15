@@ -62,6 +62,10 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。.
 
+#### 《生灵重塑（Reanimal）》 v2026.2.13 豪华中文版 全DLC
+
+夸克：https://pan.quark.cn/s/ffba5e6000c3
+
 #### 《仁王3（Nioh 3）豪华版》v1.02.02 全DLC 中文版（新）
 #### 《仁王2（Nioh 2）完全版》v1.28.08 中文 联机版
 #### 《仁王（Nioh）完全版》v1.24.08 中文版
@@ -104,9 +108,20 @@
 
 ## 最近更新
 
+#### 《生化危机3 重制版（Resident Evil 3 Remake）豪华版》v20230925 全DLC 中文版
+#### 《生化危机4 重制版（Resident Evil 4 Remake）豪华版》Build.21521672 全DLC 中文版（新）
+#### 《生化危机8 村庄（Resident Evil Village）》Build.21519280 全DLC 中文配音 黄金版
+#### 《生化危机 系列合集 10部》最新 黄金版 + 重制版 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/c02ee55f7d65
+
 #### 《人渣SCUM》v1.2.0.6.104952 豪华中文版 全DLC
 
 夸克：https://pan.quark.cn/s/ac755bb1ff1f
+
+#### 《战锤40K：星际战士2（Warhammer 40K Space Marine 2）终极版》v11.3.0.1 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/1bbc1975cf22
 
 #### 《幻想生活i 转圈圈的龙和偷取时间的少女（FANTASY LIFE i）》v2.0.4 中文版 联机版
 
