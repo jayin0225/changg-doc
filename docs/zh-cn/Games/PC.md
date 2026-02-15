@@ -72,6 +72,26 @@
 
 夸克：https://pan.quark.cn/s/9dad8dce13d5
 
+#### 《孤胆枪手2：新纪元（Alien Shooter 2  New Era）》完整版 汉化版
+
+夸克：https://pan.quark.cn/s/d4a557d45109
+
+#### 《孤胆枪手2：传奇（Alien Shooter 2  The Legend）v1.3.2 汉化版
+
+夸克：https://pan.quark.cn/s/15290ee20bb8
+
+#### 《检疫区：最后一站（Quarantine Zone The Last Check）》最新 中文版
+
+夸克：https://pan.quark.cn/s/efd473b7e16e
+
+#### 《战锤40K：格雷迪厄斯》最新 全DLC 豪华中文版
+
+夸克：https://pan.quark.cn/s/42ce8f57b76d
+
+#### 《玩具熊的五夜后宫 求救（Five Nights at Freddys：Help Wanted）》1-2部 最新 中文版
+
+夸克：https://pan.quark.cn/s/5fb51bff928b
+
 #### 《觅长生（Looking For Longevity）》最新 中文版
 
 夸克：https://pan.quark.cn/s/9583d43f68ca
