@@ -62,6 +62,10 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。.
 
+#### 《极速骑行（RIDE6）》 v2026.2.12 中文版
+
+夸克：https://pan.quark.cn/s/d56196ee2554
+
 #### 《生灵重塑（Reanimal）》 v2026.2.13 豪华中文版 全DLC
 
 夸克：https://pan.quark.cn/s/ffba5e6000c3
@@ -127,6 +131,10 @@
 ---
 
 ## 最近更新
+
+#### 《逃离鸭科夫（Escape From Duckov）》v2.2.0 中文版
+
+夸克：https://pan.quark.cn/s/e9c40d701e82
 
 #### 《生化危机3 重制版（Resident Evil 3 Remake）豪华版》v20230925 全DLC 中文版
 #### 《生化危机4 重制版（Resident Evil 4 Remake）豪华版》Build.21521672 全DLC 中文版（新）
