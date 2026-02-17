@@ -132,6 +132,14 @@
 
 ## 最近更新
 
+#### 《欧洲卡车模拟2（Euro Truck Simulator 2）》v1.58.1.1S 全DLC 豪华中文 联机版
+
+夸克：https://pan.quark.cn/s/709d5ab4cc5f
+
+#### 《美国卡车模拟（American Truck Simulator）高级版》v1.58.1.1S 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/7383cec056c4
+
 #### 《逃离鸭科夫（Escape From Duckov）》v2.2.0 中文版
 
 夸克：https://pan.quark.cn/s/e9c40d701e82
