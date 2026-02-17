@@ -76,6 +76,53 @@
 
 夸克：https://pan.quark.cn/s/9dad8dce13d5
 
+#### 《咖啡店主理人模拟器（Cafe Market Simulator）》 v1.0.3 中文版
+
+夸克：https://pan.quark.cn/s/1654572f7165
+
+---
+
+## 最近更新
+
+#### 《模拟人生4》v1.121.361.1020 豪华中文版 全DLC 新增王室与传承DLC
+
+夸克：https://pan.quark.cn/s/49e6a1485c47
+
+#### 《犯罪模拟器（Crime Simulator）》v1.35b 中文 联机版
+
+夸克：https://pan.quark.cn/s/9e04f91e206f
+
+#### 《十字军之王 III 草原可汗（Crusader Kings III Khans of the Steppe）》v1.18.3.1 全DLC 豪华中文版
+
+夸克：https://pan.quark.cn/s/41a99903d3ae
+
+#### 《欧洲卡车模拟2（Euro Truck Simulator 2）》v1.58.1.1S 全DLC 豪华中文 联机版
+
+夸克：https://pan.quark.cn/s/709d5ab4cc5f
+
+#### 《美国卡车模拟（American Truck Simulator）高级版》v1.58.1.1S 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/7383cec056c4
+
+#### 《逃离鸭科夫（Escape From Duckov）》v2.2.0 中文版
+
+夸克：https://pan.quark.cn/s/e9c40d701e82
+
+#### 《生化危机3 重制版（Resident Evil 3 Remake）豪华版》v20230925 全DLC 中文版
+#### 《生化危机4 重制版（Resident Evil 4 Remake）豪华版》Build.21521672 全DLC 中文版（新）
+#### 《生化危机8 村庄（Resident Evil Village）》Build.21519280 全DLC 中文配音 黄金版
+#### 《生化危机 系列合集 10部》最新 黄金版 + 重制版 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/c02ee55f7d65
+
+#### 《人渣SCUM》v1.2.0.6.104952 豪华中文版 全DLC
+
+夸克：https://pan.quark.cn/s/ac755bb1ff1f
+
+---
+
+## 已有游戏
+
 #### 《孤胆枪手2：新纪元（Alien Shooter 2  New Era）》完整版 汉化版
 
 夸克：https://pan.quark.cn/s/d4a557d45109
@@ -127,49 +174,6 @@
 #### 《桃源村日志（Halcyon Days at Taoyuan）》最新 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/1635be035508
-
----
-
-## 最近更新
-
-#### 《欧洲卡车模拟2（Euro Truck Simulator 2）》v1.58.1.1S 全DLC 豪华中文 联机版
-
-夸克：https://pan.quark.cn/s/709d5ab4cc5f
-
-#### 《美国卡车模拟（American Truck Simulator）高级版》v1.58.1.1S 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/7383cec056c4
-
-#### 《逃离鸭科夫（Escape From Duckov）》v2.2.0 中文版
-
-夸克：https://pan.quark.cn/s/e9c40d701e82
-
-#### 《生化危机3 重制版（Resident Evil 3 Remake）豪华版》v20230925 全DLC 中文版
-#### 《生化危机4 重制版（Resident Evil 4 Remake）豪华版》Build.21521672 全DLC 中文版（新）
-#### 《生化危机8 村庄（Resident Evil Village）》Build.21519280 全DLC 中文配音 黄金版
-#### 《生化危机 系列合集 10部》最新 黄金版 + 重制版 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/c02ee55f7d65
-
-#### 《人渣SCUM》v1.2.0.6.104952 豪华中文版 全DLC
-
-夸克：https://pan.quark.cn/s/ac755bb1ff1f
-
-#### 《战锤40K：星际战士2（Warhammer 40K Space Marine 2）终极版》v11.3.0.1 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/1bbc1975cf22
-
-#### 《幻想生活i 转圈圈的龙和偷取时间的少女（FANTASY LIFE i）》v2.0.4 中文版 联机版
-
-夸克：https://pan.quark.cn/s/a5235626cee9
-
-#### 《模拟山羊3（Goat Simulator 3）》v1.2.0.4.462744 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/3ef39e63f5d9
-
----
-
-## 已有游戏
 
 #### 《倾听画语：最美好的景色(Behind the Frame)》最新 中文
 
@@ -6794,10 +6798,6 @@
 #### 《PC装机模拟器2》最新 豪华中文版 全DLC 打包XG器
 
 夸克:<https://pan.quark.cn/s/374ae1d05857>
-
-#### 《模拟人生4》最新 豪华中文版 全DLC
-
-夸克:<https://pan.quark.cn/s/f533f3bb7eb9>
 
 #### 《3D密室逃脱：侦探故事》v1.1.5 中文版
 
