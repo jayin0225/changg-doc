@@ -88,6 +88,10 @@
 
 ## 最近更新
 
+#### 《劫盗惊魂夜（Dark Hours）》v1.0.24687 中文 联机版
+
+夸克：https://pan.quark.cn/s/611986b324b3
+
 #### 《堕落之主》v2.5.267 豪华中文版 全DLC 打包XG器
 
 夸克：https://pan.quark.cn/s/b9101d18b965
@@ -1783,10 +1787,6 @@
 
 夸克：<https://pan.quark.cn/s/d32eaa4f1ce5>
 
-#### 《伽马绿宝石（Gamma Emerald）》最新 中文版（gamma绿宝石）
-
-夸克：<https://pan.quark.cn/s/43bd3e1e1ab2>
-
 #### 《人类（HUMANKIND）豪华版》最新 全DLC 中文版
 
 夸克：<https://pan.quark.cn/s/ce3945e8ab97>
@@ -2039,26 +2039,6 @@
 
 夸克：<https://pan.quark.cn/s/39b9feaad93b>
 
-#### 《死亡细胞》（重生细胞） 最新 豪华中文版 全DLC
-
-夸克：<https://pan.quark.cn/s/a99713609cd4>
-
-#### 《塔洛斯原则：重新觉醒》Build 18057167 中文版
-
-夸克：<https://pan.quark.cn/s/4fa70740b60b>
-
-#### 《二手车模拟器》 v2025.4.11 中文
-
-夸克：<https://pan.quark.cn/s/c18f1ec72198>
-
-#### 《超级跑车收藏模拟器》 v2025.4.15 中文版
-
-夸克：<https://pan.quark.cn/s/fe0a9a96075e>
-
-#### 《口袋城市2》 v2025.4.2 中文版
-
-夸克：<https://pan.quark.cn/s/2690ab09ae04>
-
 #### 《浪人崛起（Rise of the Ronin）》最新 全DLC 中文版
 
 夸克：<https://pan.quark.cn/s/eb13b80a6cf0>
@@ -2095,10 +2075,6 @@
 
 夸克：<https://pan.quark.cn/s/699a4b92d783>
 
-#### 《节奏医生（Rhythm Doctor）》最新 中文 联机版
-
-夸克:<https://pan.quark.cn/s/d8b4a148d84a>
-
 #### 《咖啡心语（Coffee Talk）》1+2两部合集 最新 中文版
 
 夸克：<https://pan.quark.cn/s/4bd686407a2b>
@@ -2131,7 +2107,7 @@
 
 夸克：<https://pan.quark.cn/s/d6d78333b790>
 
-#### 《逃离鸭提前你科夫（Escape From Duckov）》最新 中文版
+#### 《逃离鸭科夫（Escape From Duckov）》最新 中文版
 
 夸克：<https://pan.quark.cn/s/e9c40d701e82>
 
