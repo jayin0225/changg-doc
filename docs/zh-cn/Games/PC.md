@@ -62,6 +62,10 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。.
 
+#### 《暗黑破坏神2：重制版（Diablo II Resurrected）》 终极包 v3.0.91636 中文离线版
+
+夸克：https://pan.quark.cn/s/31c231863e7c
+
 #### 《挪威：血誓（NORSE Oath of Blood）》最新 豪华中文版 全DLC
 
 夸克：https://pan.quark.cn/s/abada3cfb6ca
