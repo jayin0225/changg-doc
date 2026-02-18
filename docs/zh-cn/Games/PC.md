@@ -62,6 +62,10 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。.
 
+#### 《挪威：血誓（NORSE Oath of Blood）》最新 豪华中文版 全DLC
+
+夸克：https://pan.quark.cn/s/abada3cfb6ca
+
 #### 《上古卷轴5天际（The Elder Scrolls V Skyrim）》周年纪念版+全DLC+绝伦V6
 
 夸克：https://pan.quark.cn/s/55d258e4abe1
