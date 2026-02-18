@@ -66,6 +66,10 @@
 
 夸克：https://pan.quark.cn/s/abada3cfb6ca
 
+#### 《Pure Pool Pro》v1605 中文版（8K画质终极台球模拟）
+
+夸克：https://pan.quark.cn/s/bffe7391046b
+
 #### 《上古卷轴5天际（The Elder Scrolls V Skyrim）》周年纪念版+全DLC+绝伦V6
 
 夸克：https://pan.quark.cn/s/55d258e4abe1
