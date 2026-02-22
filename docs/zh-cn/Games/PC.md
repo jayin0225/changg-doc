@@ -56,6 +56,10 @@
 
 夸克：https://pan.quark.cn/s/383baacb9dc3
 
+#### 《乡间拾趣夏日谈（Natsu no Sagashimono）》v1.06 汉化版（寻找夏日的宝物）
+
+夸克：https://pan.quark.cn/s/45fda4b54570
+
 #### 《奥术扳机（Arcane Trigger）》v1.009 中文版
 
 夸克：https://pan.quark.cn/s/2dabcbaccbee
@@ -100,6 +104,12 @@
 #### 《最终幻想7 重制版Intergrade（Final Fantasy VII Remake Intergrade）》v1.007 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/79878124f832
+
+#### 《苍翼 混沌效应（BlazBlue Entropy Effect）》v1.0.8.139897.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/dffcc45a56c8
+
+迅雷：https://pan.xunlei.com/s/VNpuBMgpFJ9XqL05KHqG9sl2A1?pwd=v8sz#
 
 #### 《嗜血印（Bloody Spell）》Build.21842749 全DLC 中文 联机版
 
@@ -1796,12 +1806,6 @@
 #### 《永夜之围（As We Descend）》v0.9.1.4b 中文版
 
 夸克：https://pan.quark.cn/s/58c92da50fb0
-
-#### 《苍翼：混沌效应（BlazBlue Entropy Effect）》v1.0.7.127446.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/dffcc45a56c8
-
-迅雷：https://pan.xunlei.com/s/VNpuBMgpFJ9XqL05KHqG9sl2A1?pwd=v8sz#
 
 #### 《梦之形（Shape of Dreams）》v1.0.9.9 中文 联机版
 
