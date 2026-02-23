@@ -62,6 +62,14 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。.
 
+#### 《高能人生2（High On Life 2）》最新 全DLC 中文版（FPS游戏）
+
+夸克：https://pan.quark.cn/s/f91121eb8b2d
+
+#### 《soulstice 豪华版》最新 全DLC 中文版（灵魂之刃、灵界战魂、灵魂之魂）
+
+夸克：https://pan.quark.cn/s/6bca8ab7717c
+
 #### 《超级鸡马（Ultimate Chicken Horse）》最新 中文 联机版
 
 夸克：https://pan.quark.cn/s/aec70d35e997
