@@ -56,7 +56,11 @@
 
 夸克：https://pan.quark.cn/s/75206d28a97a
 
-#### 《专业飞行模拟（X-Plane 12）》v12.4.0-r2 全DLC 中文版（xplane12）
+#### 《专业飞行模拟11（X-Plane 11）》v11.55r2 全DLC 中文版（xplane11）
+<section class="no-title-h4">
+
+#### 《专业飞行模拟12（X-Plane 12）》v12.4.0-r2 全DLC 中文版（xplane12）
+</section>
 
 夸克：https://pan.quark.cn/s/383baacb9dc3
 
