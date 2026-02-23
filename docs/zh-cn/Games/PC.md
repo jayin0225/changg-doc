@@ -62,6 +62,18 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。.
 
+#### 《超级鸡马（Ultimate Chicken Horse）》最新 中文 联机版
+
+夸克：https://pan.quark.cn/s/aec70d35e997
+
+#### 《揍击派对（Pummel Party）》最新 中文 联机版
+
+夸克：https://pan.quark.cn/s/698b03fc7ce8
+
+#### 《灵视异闻 FILE38 伊势人鱼物语》最新 中文版
+
+夸克：https://pan.quark.cn/s/f324cc3ab632
+
 #### 《暗黑破坏神2：重制版（Diablo II Resurrected）》 终极包 v3.0.91636 中文离线版
 
 夸克：https://pan.quark.cn/s/31c231863e7c
