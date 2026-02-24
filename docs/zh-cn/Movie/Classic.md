@@ -83,6 +83,10 @@
 
 夸克：https://pan.quark.cn/s/c3fcaeebe1be
 
+#### 《牧马人》（1982）1080P 中字
+
+夸克：https://pan.quark.cn/s/19fc4fe78295
+
 #### 《花束般的恋爱》（2021）4K 60帧 国日配音双版本
 
 夸克：https://pan.quark.cn/s/a09c77e3bce3

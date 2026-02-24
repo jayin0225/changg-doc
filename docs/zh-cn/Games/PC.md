@@ -17,11 +17,12 @@
 
 > [!note|style:callout|label:用户须知|iconVisibility:hidden]
 > 1、**求资源、求更新、链接失效、打不开等问题可以进群@群主 帮你解决**  
-> 2、不会解压看你下载文件夹中的 “[**《新手必看(解压、游戏问题解答).txt》点击查看**](/zh-cn/games/page)”  
+> 2、不会解压打开报错看你下载文件夹中的 “[**《新手必看(解压、游戏问题解答).txt》点击查看**](/zh-cn/games/page)”  
 > 3、怎么启动游戏、中文设置等，看 “**游戏启动说明（必看）.txt**”  
 > 4、游戏版本是指，包含了目前所有更新及DLC。**升级补丁是看当前版本从低到高的升级**  
 > 5、标题里带 **联机** 字样的是一定能**联机**的，出现汉化两个字的是汉化版，中文的是官方中文  
 > 6、大型游戏基本上都会做 **精简处理**（不影响游戏性能），降低占用硬盘的容量  
+> 7、游戏都是测试好才会上传的，不能玩是不会添加的，有问题读读第2条，99%能解决。
 
 > [!info|style:callout|label:信息|iconVisibility:hidden]所有游戏都亲测、无毒，不捆绑添加任何隐藏广告，绿色不安装，个别游戏会被防火墙阻挡，所以防火墙添加信任即可。
 
@@ -48,6 +49,22 @@
 ## 最新添加
 !> 新添加及更新的游戏链接里面如果没有文件，就是在上传中，等待上传完毕就会显示...
 
+#### 《南国盛宴（Feastopia）》v1.0.10.0 中文版
+
+夸克：https://pan.quark.cn/s/f150aa09b1cd
+
+#### 《英雄传说 闪之轨迹1 改 –Thors Military Academy 1204–》Build.16251270 全DLC 中文版
+<section class="no-title-h4">
+
+#### 《英雄传说 闪之轨迹2 改 -The Erebonian Civil War-》Build.16251088 全DLC 中文版
+
+#### 《英雄传说 闪之轨迹3（The Legend of Heroes Trails of Cold Steel III）豪华版》v1.0.6 全DLC 汉化版
+
+#### 《英雄传说 闪之轨迹4（The Legend of Heroes Trails of Cold Steel IV）豪华版》v1.2.1 全DLC 汉化版
+</section>
+
+夸克：https://pan.quark.cn/s/349ae69a1c46
+
 #### 《soulstice 豪华版》v1.1.0+219971 全DLC 中文版（灵魂之刃、灵界战魂、灵魂之魂）
 
 夸克：https://pan.quark.cn/s/f584678d169a
@@ -68,34 +85,6 @@
 
 夸克：https://pan.quark.cn/s/45fda4b54570
 
-#### 《奥术扳机（Arcane Trigger）》v1.009 中文版
-
-夸克：https://pan.quark.cn/s/2dabcbaccbee
-
-#### 《灵视异闻 FILE38 伊势人鱼物语》v2026.2.20 中文版
-
-夸克：https://pan.quark.cn/s/9c4c2e8c9432
-
-#### 《血色郁娇游戏（Menherarium）》v20260219 中文版
-
-夸克：https://pan.quark.cn/s/7eba25bcb2c8
-
-#### 《Seclusa》v1.0.3c 中文版（野生动物摄影师模拟器）
-
-夸克：https://pan.quark.cn/s/9618b8057dbe
-
-#### 《翻天喜地凑大钱（This Aint Even Poker Ya Joker）》v1.0.6a 中文版
-
-夸克：https://pan.quark.cn/s/2e81336beef1
-
-#### 《挪威 血誓（NORSE Oath of Blood）》v1.0.0 中文版
-
-夸克：https://pan.quark.cn/s/2bfdaf3f94b6
-
-#### 《生灵重塑（REANIMAL）》v2026.2.13 中文版（恐怖游戏）
-
-夸克：https://pan.quark.cn/s/fcef91158dcf
-
 ---
 
 ## 最近更新
@@ -113,21 +102,23 @@
 
 夸克：https://pan.quark.cn/s/79878124f832
 
-#### 《苍翼 混沌效应（BlazBlue Entropy Effect）》v1.0.8.139897.0 全DLC 中文版
+---
 
-夸克：https://pan.quark.cn/s/dffcc45a56c8
+## 顶置游戏
 
-迅雷：https://pan.xunlei.com/s/VNpuBMgpFJ9XqL05KHqG9sl2A1?pwd=v8sz#
+#### 《幻兽帕鲁（Palworld）》v0.7.2.87654 中文 联机版
 
-#### 《嗜血印（Bloody Spell）》Build.21842749 全DLC 中文 联机版
+夸克：https://pan.quark.cn/s/51d73c209195
 
-夸克：https://pan.quark.cn/s/faa73e068ff5
+迅雷：https://pan.xunlei.com/s/VNp0SUCCr5eTX9mGHVk9_BxsA1?pwd=3amh#
 
-迅雷：https://pan.xunlei.com/s/VNyVSlrOau3PZlvGHrm4ODIhA1?pwd=tipt#
+#### 《女神异闻录5 皇家版（Persona 5 Royal）》v1.04 中文版（PC版非模拟器版）
 
-#### 《毁灭战士 永恒（DOOM Eternal）豪华版》v2026.2.12 全DLC 中文版
+夸克：https://pan.quark.cn/s/550ed16aa7c9
 
-夸克：https://pan.quark.cn/s/5d002d83f9e0
+#### 《真三国无双 起源（Dynasty Warriors Origins）豪华版》v1.0.1.2 全DLC 中文配音版
+
+夸克：https://pan.quark.cn/s/346ee452b56d
 
 #### 《消逝的光芒2 装上阵版（Dying Light 2）豪华版》v1.27.1 全DLC 中文配音 联机版
 
@@ -137,20 +128,6 @@
 
 夸克：https://pan.quark.cn/s/bdfdcea387f0
 
-#### 《真三国无双 起源（Dynasty Warriors Origins）豪华版》v1.0.1.2 全DLC 中文配音版
-
-夸克：https://pan.quark.cn/s/346ee452b56d
-
-#### 《暗使 导演剪辑版（Dark Envoy）》v1.9.2.75237 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/b2330660a4a8
-
-#### 《幻兽帕鲁（Palworld）》v0.7.2.87654 中文 联机版
-
-夸克：https://pan.quark.cn/s/51d73c209195
-
-迅雷：https://pan.xunlei.com/s/VNp0SUCCr5eTX9mGHVk9_BxsA1?pwd=3amh#
-
 #### 《冰汽时代（Frostpunk）年度版》v1.6.1 全DLC 中文版
 <section class="no-title-h4">
 
@@ -158,45 +135,6 @@
 </section>
 
 夸克：https://pan.quark.cn/s/d1d00e8c72d5
-
-#### 《帝国时代2 决定版（Age of Empires II）》v101.103.38337.0 全DLC 中文 联机版
-<section class="no-title-h4">
-
-#### 《帝国时代3 决定版（Age of Empires III）》v100.15.59076.0 全DLC 中文版（可Radmin LAN联机）
-#### 《帝国时代4（Age of Empires IV）周年纪念版》v15.2.7445.0 全DLC 中文版
-</section>
-
-夸克：https://pan.quark.cn/s/0c0f7a82ce32
-
-迅雷：https://pan.xunlei.com/s/VNvkevNF72FLBsU58F3MKddHA1?pwd=yzp4#
-
-#### 《生化危机3 重制版（Resident Evil 3 Remake）豪华版》v20230925 全DLC 中文版
-<section class="no-title-h4">
-
-#### 《生化危机4 重制版（Resident Evil 4 Remake）豪华版》Build.21521672 全DLC 中文版（新）
-#### 《生化危机8 村庄（Resident Evil Village）》Build.21519280 全DLC 中文配音 黄金版
-#### 《生化危机 系列合集 10部》最新 黄金版 + 重制版 全DLC 中文版
-</section>
-
-夸克：https://pan.quark.cn/s/744a500cb67e
-
-迅雷：https://pan.xunlei.com/s/VO6CGYtzDE-Xj4knMXHABHLbA1?pwd=u98k#
-
-#### 《喵斯快跑（Muse Dash）》v6.0.1 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/84aed71b9812
-
-#### 《我在地府打麻将（Demonic Mahjong）》v0.2.37 中文版
-
-夸克：https://pan.quark.cn/s/d88da55c16aa
-
----
-
-## 顶置游戏
-
-#### 《女神异闻录5 皇家版（Persona 5 Royal）》v1.04 中文版（PC版非模拟器版）
-
-夸克：https://pan.quark.cn/s/550ed16aa7c9
 
 #### 《纪元1800（Anno 1800）最终纪念版》v18.4.1412158 全DLC 中文版
 
@@ -276,10 +214,6 @@
 
 夸克：https://pan.quark.cn/s/a763fdb76323
 
-#### 《时间旅者：重生曙光（Cronos The New Dawn）豪华版》v2025.9.23 中文版
-
-夸克：https://pan.quark.cn/s/7814edba170c
-
 #### 《赛博朋克2077（Cyberpunk 2077）终极版》v2.31 全DLC 中文配音版
 
 夸克：https://pan.quark.cn/s/270b43d38b1a
@@ -334,10 +268,6 @@
 
 迅雷：https://pan.xunlei.com/s/VNtgtBQJuAnx1itnVSKq35-iA1?pwd=jf8z#
 
-#### 《极限国度（Riders Republic）》v1.26.0 离线 中文版
-
-夸克：https://pan.quark.cn/s/8f167fa75ea3
-
 #### 《忍者龙剑传2 黑之章（NINJA GAIDEN 2 Black）》v1.0.7.0 中文版
 
 夸克：https://pan.quark.cn/s/b5d97094b4fe
@@ -364,13 +294,29 @@
 
 夸克：https://pan.quark.cn/s/7c6b8f30675c
 
-#### 《刀剑神域 碎梦边境（SWORD ART ONLINE Fractured Daydream）》v1.5.2.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/bb5134dcb570
-
 #### 《寂静岭F（SILENT HILL F）豪华版》v1.2.382755 全DLC 中文版（心理恐怖游戏）
 
 夸克：https://pan.quark.cn/s/90391fdabda9
+
+#### 《忍者龙剑传4（NINJA GAIDEN 4）豪华版》v1.0.3.0 中文版
+
+夸克：https://pan.quark.cn/s/e47e913a8da7
+
+---
+
+## 已有游戏
+
+#### 《时间旅者：重生曙光（Cronos The New Dawn）豪华版》v2025.9.23 中文版
+
+夸克：https://pan.quark.cn/s/7814edba170c
+
+#### 《极限国度（Riders Republic）》v1.26.0 离线 中文版
+
+夸克：https://pan.quark.cn/s/8f167fa75ea3
+
+#### 《刀剑神域 碎梦边境（SWORD ART ONLINE Fractured Daydream）》v1.5.2.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/bb5134dcb570
 
 #### 《天外世界2（The Outer Worlds 2）高级版》v1.0.6.0 中文版
 
@@ -380,10 +326,6 @@
 
 夸克：https://pan.quark.cn/s/1d8bcee97d85
 
-#### 《忍者龙剑传4（NINJA GAIDEN 4）豪华版》v1.0.3.0 中文版
-
-夸克：https://pan.quark.cn/s/e47e913a8da7
-
 #### 《失落之魂（Lost Soul Aside）豪华版》v1.101 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/254473ee08f7
@@ -392,9 +334,84 @@
 
 夸克：https://pan.quark.cn/s/dfabe34160e7
 
----
+#### 《苍翼 混沌效应（BlazBlue Entropy Effect）》v1.0.8.139897.0 全DLC 中文版
 
-## 已有游戏
+夸克：https://pan.quark.cn/s/dffcc45a56c8
+
+迅雷：https://pan.xunlei.com/s/VNpuBMgpFJ9XqL05KHqG9sl2A1?pwd=v8sz#
+
+#### 《嗜血印（Bloody Spell）》Build.21842749 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/faa73e068ff5
+
+迅雷：https://pan.xunlei.com/s/VNyVSlrOau3PZlvGHrm4ODIhA1?pwd=tipt#
+
+#### 《毁灭战士 永恒（DOOM Eternal）豪华版》v2026.2.12 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/5d002d83f9e0
+
+#### 《暗使 导演剪辑版（Dark Envoy）》v1.9.2.75237 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/b2330660a4a8
+
+#### 《帝国时代2 决定版（Age of Empires II）》v101.103.38337.0 全DLC 中文 联机版
+<section class="no-title-h4">
+
+#### 《帝国时代3 决定版（Age of Empires III）》v100.15.59076.0 全DLC 中文版（可Radmin LAN联机）
+#### 《帝国时代4（Age of Empires IV）周年纪念版》v15.2.7445.0 全DLC 中文版
+</section>
+
+夸克：https://pan.quark.cn/s/0c0f7a82ce32
+
+迅雷：https://pan.xunlei.com/s/VNvkevNF72FLBsU58F3MKddHA1?pwd=yzp4#
+
+#### 《生化危机3 重制版（Resident Evil 3 Remake）豪华版》v20230925 全DLC 中文版
+<section class="no-title-h4">
+
+#### 《生化危机4 重制版（Resident Evil 4 Remake）豪华版》Build.21521672 全DLC 中文版（新）
+#### 《生化危机8 村庄（Resident Evil Village）》Build.21519280 全DLC 中文配音 黄金版
+#### 《生化危机 系列合集 10部》最新 黄金版 + 重制版 全DLC 中文版
+</section>
+
+夸克：https://pan.quark.cn/s/744a500cb67e
+
+迅雷：https://pan.xunlei.com/s/VO6CGYtzDE-Xj4knMXHABHLbA1?pwd=u98k#
+
+#### 《喵斯快跑（Muse Dash）》v6.0.1 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/84aed71b9812
+
+#### 《我在地府打麻将（Demonic Mahjong）》v0.2.37 中文版
+
+夸克：https://pan.quark.cn/s/d88da55c16aa
+
+#### 《奥术扳机（Arcane Trigger）》v1.009 中文版
+
+夸克：https://pan.quark.cn/s/2dabcbaccbee
+
+#### 《灵视异闻 FILE38 伊势人鱼物语》v2026.2.20 中文版
+
+夸克：https://pan.quark.cn/s/9c4c2e8c9432
+
+#### 《血色郁娇游戏（Menherarium）》v20260219 中文版
+
+夸克：https://pan.quark.cn/s/7eba25bcb2c8
+
+#### 《Seclusa》v1.0.3c 中文版（野生动物摄影师模拟器）
+
+夸克：https://pan.quark.cn/s/9618b8057dbe
+
+#### 《翻天喜地凑大钱（This Aint Even Poker Ya Joker）》v1.0.6a 中文版
+
+夸克：https://pan.quark.cn/s/2e81336beef1
+
+#### 《挪威 血誓（NORSE Oath of Blood）》v1.0.0 中文版
+
+夸克：https://pan.quark.cn/s/2bfdaf3f94b6
+
+#### 《生灵重塑（REANIMAL）》v2026.2.13 中文版（恐怖游戏）
+
+夸克：https://pan.quark.cn/s/fcef91158dcf
 
 #### 《深矿防线（Hold The Mine）》v0.7.28 中文版
 
