@@ -136,10 +136,6 @@
 
 夸克：https://pan.quark.cn/s/d1d00e8c72d5
 
-#### 《纪元1800（Anno 1800）最终纪念版》v18.4.1412158 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/f98896ec6e2c
-
 #### 《侠盗猎车手5增强版（Grand Theft Auto V Enhanced》》v1013.29 中文版（GTA5增强版+纯净版+MOD版）
 
 夸克：https://pan.quark.cn/s/f27bd77aa030
@@ -206,10 +202,6 @@
 
 迅雷：https://pan.xunlei.com/s/VNqmp1LM5ed8XNX-HRSGTE3dA1?pwd=icd2#
 
-#### 《死亡岛2（Dead Island 2）黄金版》v7.0.0.1243375 全DLC 联机版
-
-夸克：https://pan.quark.cn/s/165489cfa06c
-
 #### 《匹诺曹的谎言（Lies of P Overture）豪华版》v1.12.0.0 全DLC 中文版（魂类游戏）
 
 夸克：https://pan.quark.cn/s/a763fdb76323
@@ -251,10 +243,6 @@
 #### 《漫威蜘蛛侠2（Marvels Spider-Man 2）》v1.526.0.0 全DLC 豪华中文版
 
 夸克：https://pan.quark.cn/s/6986a722ea37
-
-#### 《双影奇境（Split Fiction）》v2025.5.27 中文 联机版
-
-夸克：https://pan.quark.cn/s/7448c3c0ea81
 
 #### 《地平线：西之绝境（Horizon Forbidden West）》v1.5.80.0 全DLC 豪华中文版
 
@@ -305,6 +293,18 @@
 ---
 
 ## 已有游戏
+
+#### 《纪元1800（Anno 1800）最终纪念版》v18.4.1412158 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/f98896ec6e2c
+
+#### 《双影奇境（Split Fiction）》v2025.5.27 中文 联机版
+
+夸克：https://pan.quark.cn/s/7448c3c0ea81
+
+#### 《死亡岛2（Dead Island 2）黄金版》v7.0.0.1243375 全DLC 联机版
+
+夸克：https://pan.quark.cn/s/165489cfa06c
 
 #### 《时间旅者：重生曙光（Cronos The New Dawn）豪华版》v2025.9.23 中文版
 
