@@ -89,6 +89,14 @@
 
 ## 最近更新
 
+#### 《暗黑破坏神2 重制版（Diablo II Resurrected）地狱版》v3.0.91735 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/379c96e02b6c
+
+#### 《骑马与砍杀2 霸主（Mount Blade 2 Bannerlord）豪华版》v1.3.15.109330 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/2ce76d085b7c
+
 #### 《仁王3（Nioh 3）豪华版》v1.03.02 全DLC 中文 联机版版（新）
 <section class="no-title-h4">
 
@@ -1201,10 +1209,6 @@
 #### 《全面战争：三国（Total War Three Kingdoms）》v1.7.8 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/c6f9e205035b
-
-#### 《骑马与砍杀2：霸主（Mount Blade 2 Bannerlord）豪华版》v1.3.13.105726 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/2ce76d085b7c
 
 #### 《正当防卫3（Just Cause 3）XXL版》v20251217 全DLC 豪华中文版
 
@@ -6484,10 +6488,6 @@
 #### 《暗黑破坏神3（Diablo III）重制版》v2.0.1.22044 英文版
 
 夸克：https://pan.quark.cn/s/fcf525ab2905
-
-#### 《暗黑破坏神2 浴火重生（Diablo II Resurrected）重制版》v1.6.81914 中文版
-
-夸克：https://pan.quark.cn/s/379c96e02b6c
 
 #### 《见诡录 阴魂街 Haunting Record Phantom Street）》v1.102 中文版（恐怖游戏）
 
