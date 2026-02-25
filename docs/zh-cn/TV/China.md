@@ -139,6 +139,10 @@
 
 夸克：https://pan.quark.cn/s/86c0f59d7685
 
+#### 《遮云》（2025）4K 35集全
+
+夸克：https://pan.quark.cn/s/3cc8aebee69e
+
 #### 《金式森林》（2025）4K 国粤配音 25集全
 
 夸克：https://pan.quark.cn/s/eb95fef0f49e
