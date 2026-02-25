@@ -82,6 +82,10 @@
 
 阿里：https://www.aliyundrive.com/s/ZhH5CQQGG34
 
+#### 《超能敢死队》（1984-2024）1-5部合集 4K HDR 外挂中字
+
+夸克：https://pan.quark.cn/s/4f83d322585f
+
 #### 《安妮海瑟薇》系列电影合集
 
 夸克：https://pan.quark.cn/s/f0540c7a8c27
