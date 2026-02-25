@@ -49,9 +49,37 @@
 ## 最新添加
 !> 新添加及更新的游戏链接里面如果没有文件，就是在上传中，等待上传完毕就会显示...
 
+#### 《欢迎来到娃娃镇（Welcome to Doll Town）》v2026.2.24 中文版（恐怖游戏）
+
+夸克：https://pan.quark.cn/s/73913faca9f3
+
+#### 《魔法师世界Re;Try（WiZmans World ReTry）》Build.20692912 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/f00c70616ee0
+
+#### 《万千定数孤注破晓之刻（Wayblazer Dammerung）》v1.00.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/7589dfc3f562
+
+#### 《Dobbel Dungeon》v1.0.8 中文版（骰子地牢 双重地牢）
+
+夸克：https://pan.quark.cn/s/892bdc0667b6
+
 #### 《南国盛宴（Feastopia）》v1.0.10.0 中文版
 
 夸克：https://pan.quark.cn/s/f150aa09b1cd
+
+#### 《善良都市（Nice City）》v2026.2.23 中文版
+
+夸克：https://pan.quark.cn/s/0c2139d4a933
+
+#### 《Book Smugglers》v2026.2.23 中文版（书籍走私者）
+
+夸克：https://pan.quark.cn/s/cca561e7530e
+
+#### 《30XX 豪华版》v1.4.0 全DLC 中文版（街机感原始跳跃游戏）
+
+夸克：https://pan.quark.cn/s/aaefdc15288f
 
 #### 《英雄传说 闪之轨迹1 改 –Thors Military Academy 1204–》Build.16251270 全DLC 中文版
 <section class="no-title-h4">
@@ -96,6 +124,42 @@
 #### 《骑马与砍杀2 霸主（Mount Blade 2 Bannerlord）豪华版》v1.3.15.109330 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/2ce76d085b7c
+
+#### 《战锤40K 战区（Warhammer 40000 Battlesector）豪华版》v1.6.001 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/2cd1e90a428b
+
+#### 《驯牌师（Decktamer）》v1.3.5 中文版
+
+夸克：https://pan.quark.cn/s/45df40302c97
+
+#### 《恶土小队（Badlands Crew）》v31676 中文版
+
+夸克：https://pan.quark.cn/s/06836a32568f
+
+#### 《迷你舒适房间：Lo-Fi（Mini Cozy Room）》v1.05.01 中文版（桌面小游戏）
+
+夸克：https://pan.quark.cn/s/e32e7d7f1328
+
+#### 《喵喵的结合（Mewgenics）》v1.0.20695 汉化版
+
+夸克：https://pan.quark.cn/s/9754a267780a
+
+#### 《幻想生活i 转圈圈的龙和偷取时间的少女（FANTASY LIFE i）豪华版》v2.1.2 中文 联机版
+
+夸克：https://pan.quark.cn/s/e6b2b4cad601
+
+#### 《熊视眈眈（Out of Sight）》v1.0.89 中文版（类似小小梦魇恐怖解密）
+
+夸克：https://pan.quark.cn/s/d4b3d3aacfaf
+
+#### 《鳄鱼侦探布罗格（BROK the InvestiGator）》v1.5.5.1 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/34be69fe9932
+
+#### 《零号使者（Emissary Zero）》v1.2.10 中文 联机版
+
+夸克：https://pan.quark.cn/s/70d1d1e5c30d
 
 #### 《仁王3（Nioh 3）豪华版》v1.03.02 全DLC 中文 联机版版（新）
 <section class="no-title-h4">
@@ -429,10 +493,6 @@
 
 夸克：https://pan.quark.cn/s/599b0a66d277
 
-#### 《喵喵的结合（Mewgenics）》v1.0.20645 汉化版
-
-夸克：https://pan.quark.cn/s/9754a267780a
-
 #### 《环形帝国 2部（Circle Empires）》最新 中文版
 
 夸克：https://pan.quark.cn/s/0abff95600e6
@@ -508,10 +568,6 @@
 #### 《检疫区 最后一站（Quarantine Zone The Last Check）》v1.0.9.1397 中文版
 
 夸克：https://pan.quark.cn/s/51ec3310edca
-
-#### 《幻想生活i 转圈圈的龙和偷取时间的少女（FANTASY LIFE i）豪华版》v2.0.4 中文 联机版
-
-夸克：https://pan.quark.cn/s/e6b2b4cad601
 
 #### 《人渣（SCUM）豪华版》v1.2.0.6.104952 全DLC 中文 联机版
 
@@ -1372,10 +1428,6 @@
 
 夸克：https://pan.quark.cn/s/91f6468861e8
 
-#### 《鳄鱼侦探布罗格（BROK the InvestiGator）》v1.5.4.9 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/34be69fe9932
-
 #### 《沙石镇时光（My Time at Sandrock）》Build.18623106 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/49f38c7926bb
@@ -1465,10 +1517,6 @@
 #### 《鼠宝小镇（Whiskerwood）》v0.6.173.0 中文版（猫鼠对战城市建造）
 
 夸克：https://pan.quark.cn/s/9b516a2cf02e
-
-#### 《战锤40K：战区（Warhammer 40000 Battlesector）豪华版》v1.5.331 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/2cd1e90a428b
 
 #### 《模拟人生4（The Sims 4）豪华版》v1.119.109.1020 全DLC 中文 联机版 附联机教程
 
@@ -1886,10 +1934,6 @@
 
 夸克：https://pan.quark.cn/s/68d3e578b46a
 
-#### 《零号使者（Emissary Zero）》v2025.9.3 中文 联机版
-
-夸克：https://pan.quark.cn/s/70d1d1e5c30d
-
 #### 《我的小柯基（My Little Puppy）》v1.0.2517 中文版（关于死亡来世的温情故事游戏）
 
 夸克：https://pan.quark.cn/s/ae859e640ad1
@@ -2221,10 +2265,6 @@
 #### 《猫还在逃吗？（Still It Runs）》v1.0.2 中文版
 
 夸克：https://pan.quark.cn/s/72701e38b1cf
-
-#### 《驯牌师（Decktamer）》v1.0.21 中文版
-
-夸克：https://pan.quark.cn/s/45df40302c97
 
 #### 《麦迪逊（MADiSON）》v2.2.2 全DLC 中文版（恐怖游戏）
 
@@ -2851,10 +2891,6 @@
 #### 《要战便战（Diplomacy is Not an Option）》v1.0.81 中文版
 
 夸克：https://pan.quark.cn/s/d13054962c00
-
-#### 《熊视眈眈（Out of Sight）》v1.0.49 中文版（类似小小梦魇恐怖解密）
-
-夸克：https://pan.quark.cn/s/d4b3d3aacfaf
 
 #### 《机械制造者（Trailmakers）》v212.502.732.0 全DLC 中文版
 
@@ -4828,10 +4864,6 @@
 
 夸克：https://pan.quark.cn/s/ba04b2dfb63e
 
-#### 《恶土小队（Badlands Crew）》v20250609 中文版
-
-夸克：https://pan.quark.cn/s/06836a32568f
-
 #### 《改装机甲大战（CUSTOM MECH WARS）》v2024.2.2 中文 联机版
 
 夸克：https://pan.quark.cn/s/78654c30b260
@@ -6736,10 +6768,6 @@
 #### 《伯纳德索恩的信件（Letters of Bernard Thorne）》v2025.4.1 中文版（恐怖游戏）
 
 夸克：https://pan.quark.cn/s/3ade4a93c00a
-
-#### 《迷你舒适房间：Lo-Fi（Mini Cozy Room）》v1.00.00 中文版（桌面小游戏）
-
-夸克：https://pan.quark.cn/s/e32e7d7f1328
 
 #### 《伊娜雅：断世之光（Inayah Life after Gods）》v1.0.1 中文版
 
