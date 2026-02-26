@@ -49,6 +49,24 @@
 ## 最新添加
 !> 新添加及更新的游戏链接里面如果没有文件，就是在上传中，等待上传完毕就会显示...
 
+#### 《她那年98（SHE WAS 98）》v1.0.3 中文版（恐怖游戏）
+
+夸克：https://pan.quark.cn/s/e6f1b9bf2274
+
+迅雷：https://pan.xunlei.com/s/VOmO9UKDedmhebcQBCQv6p3dA1?pwd=dfqg#
+
+#### 《伪神的弃牌（The False Gods Fold）》v1.1.0b 中文版
+
+夸克：https://pan.quark.cn/s/160d7d82646d
+
+迅雷：https://pan.xunlei.com/s/VOmO2-2TB4hic0T83esD-6G1A1?pwd=strc#
+
+#### 《王权 巫师（Reigns The Witcher）》v1.0.3617 中文版
+
+夸克：https://pan.quark.cn/s/5141fd785b1a
+
+迅雷：https://pan.xunlei.com/s/VOmO0b99l0S_p-3YZHGTu_46A1?pwd=6jfi#
+
 #### 《欢迎来到娃娃镇（Welcome to Doll Town）》v2026.2.24 中文版（恐怖游戏）
 
 夸克：https://pan.quark.cn/s/73913faca9f3
@@ -124,6 +142,30 @@
 #### 《骑马与砍杀2 霸主（Mount Blade 2 Bannerlord）豪华版》v1.3.15.109330 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/2ce76d085b7c
+
+#### 《同舟共济（Ship of Fools）》v1.5.3 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/2ea5655a1138
+
+迅雷：https://pan.xunlei.com/s/VOmO5_CWuNyWGoD8c6cBYbBSA1?pwd=knf5#
+
+#### 《筑城记：中世纪（City Tales Medieval Era）》v1.0.0.8 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/448eca526561
+
+迅雷：https://pan.xunlei.com/s/VOmO3GVi1CzJGJEzkQQmMcqFA1?pwd=fnad#
+
+#### 《满庭芳：宋上繁华（Thriving City Song）豪华版》v1.8.5 中文版（附安卓版）
+
+夸克：https://pan.quark.cn/s/b50c765520ca
+
+迅雷：https://pan.xunlei.com/s/VO2PzE-FDmJg-0GgQhQUAGzxA1?pwd=bys5#
+
+#### 《工业巨头（Captain of Industry）支持者版》v0.7.9a 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/243d699415ff
+
+迅雷：https://pan.xunlei.com/s/VO-UqMA1q0RpLJvqr4VXytFnA1?pwd=eh5v#
 
 #### 《战锤40K 战区（Warhammer 40000 Battlesector）豪华版》v1.6.001 全DLC 中文版
 
@@ -4212,12 +4254,6 @@
 
 夸克：https://pan.quark.cn/s/0288f9229bf8
 
-#### 《满庭芳：宋上繁华（Thriving City Song）豪华版》v1.4.2 中文版（附安卓版）
-
-夸克：https://pan.quark.cn/s/b50c765520ca
-
-迅雷：https://pan.xunlei.com/s/VO2PzE-FDmJg-0GgQhQUAGzxA1?pwd=bys5#
-
 #### 《罪恶装备：奋战（GUILTY GEAR -STRIVE-）终极版》Build.19428907 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/e94c4d864e27
@@ -4773,12 +4809,6 @@
 夸克：https://pan.quark.cn/s/1ee10b6b0177
 
 迅雷：https://pan.xunlei.com/s/VNy6VAleusHrQf20JqcESyoTA1?pwd=q3kq#
-
-#### 《工业巨头（Captain of Industry）》v0.7.7 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/243d699415ff
-
-迅雷：https://pan.xunlei.com/s/VO-UqMA1q0RpLJvqr4VXytFnA1?pwd=eh5v#
 
 #### 《原始星球（primal planet）》v1.0 中文版
 
@@ -5619,10 +5649,6 @@
 
 夸克：https://pan.quark.cn/s/c6a2d23ff89e
 
-#### 《同舟共济（Ship of Fools）》v1.5.1 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/2ea5655a1138
-
 #### 《尼尔：人工生命（NieR Replicant ver1.22474487139）》v7396468 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/411c044dc2b6
@@ -5914,10 +5940,6 @@
 #### 《工人与资源：苏维埃共和国（Workers & Resources：Soviet Republic）》v1.1.0.7 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/761b9cd0cfa2
-
-#### 《筑城记：中世纪（City Tales - Medieval Era）》v0.1.13.6 中文版
-
-夸克：https://pan.quark.cn/s/448eca526561
 
 #### 《猎厨狂欢 绝品！亚洲料理冒险（SEDAP! A Culinary Adventure）》v1.0.2 中文版
 
