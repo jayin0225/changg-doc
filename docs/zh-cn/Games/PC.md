@@ -62,6 +62,30 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。.
 
+#### 《生化危机9：安魂曲（Resident Evil Requiem）》 豪华中文版 全DLC
+
+夸克：https://pan.quark.cn/s/c455f6928d3b
+
+#### 《她那年98（SHE WAS 98）》最新 中文版（恐怖游戏）
+
+夸克：https://pan.quark.cn/s/80f0cea73b60
+
+#### 《Dobbel Dungeon》最新 中文版（骰子地牢 双重地牢）
+
+夸克：https://pan.quark.cn/s/a3819ee619b6
+
+#### 《魔法师世界Re;Try（WiZmans World ReTry）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/29b9a4b4022d
+
+#### 《欢迎来到娃娃镇（Welcome to Doll Town）》最新 中文版（恐怖游戏）
+
+夸克：https://pan.quark.cn/s/c4451a339750
+
+#### 《专业飞行模拟 11+12（X-Plane）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/738ef472419f
+
 #### 《高能人生2（High On Life 2）》最新 全DLC 中文版（FPS游戏）
 
 夸克：https://pan.quark.cn/s/f91121eb8b2d
