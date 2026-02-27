@@ -103,6 +103,12 @@
 
 迅雷：https://pan.xunlei.com/s/VOmO0b99l0S_p-3YZHGTu_46A1?pwd=6jfi#
 
+#### 《巨匠眼（The Son of Art）》Build.21292032 中文版
+
+夸克：https://pan.quark.cn/s/cded8dfb23e9
+
+迅雷：https://pan.xunlei.com/s/VOmV9WmX2wuhRTB_R-pSDXCbA1?pwd=kqpe#
+
 #### 《欢迎来到娃娃镇（Welcome to Doll Town）》v2026.2.24 中文版（恐怖游戏）
 
 夸克：https://pan.quark.cn/s/73913faca9f3
