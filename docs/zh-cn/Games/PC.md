@@ -49,6 +49,30 @@
 ## 最新添加
 !> 新添加及更新的游戏链接里面如果没有文件，就是在上传中，等待上传完毕就会显示...
 
+#### 《传颂之物 斩（Utawarerumono ZAN）豪华版》v1.01 全DLC 中文版
+<section class="no-title-h4">
+
+#### 《传颂之物 斩2（Utawarerumono ZAN 2）》v1.0.0 全DLC 中文版
+</section>
+
+夸克：https://pan.quark.cn/s/9c59ad032218
+
+迅雷：https://pan.xunlei.com/s/VOmT_XDcqP8F9cbH2PvmbqoGA1?pwd=pstx#
+
+#### 《铁道公司（Railroad Corporation）完全收藏版》v1.1.13425 全DLC 中文 联机版
+<section class="no-title-h4">
+
+#### 《铁道公司2（Railroad Corporation 2）》v1.0.19116 全DLC 中文 联机版
+</section>
+
+夸克：https://pan.quark.cn/s/e7d14ce6636e
+
+#### 《指挥大师（Master of Command）》v1.2.3 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/2f4e6baf45ed
+
+迅雷：https://pan.xunlei.com/s/VOmSr-4oyVwrgMVFQrMKryNVA1?pwd=6crt#
+
 #### 《她那年98（SHE WAS 98）》v1.0.3 中文版（恐怖游戏）
 
 夸克：https://pan.quark.cn/s/e6f1b9bf2274
@@ -142,6 +166,24 @@
 #### 《骑马与砍杀2 霸主（Mount Blade 2 Bannerlord）豪华版》v1.3.15.109330 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/2ce76d085b7c
+
+#### 《中世纪王朝（Medieval Dynasty）终极版）》v2.5.1.2 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/32cb69fc196a
+
+迅雷：https://pan.xunlei.com/s/VO36_DlzI2PMsp3e2egTj-d0A1?pwd=icc2#
+
+#### 《心门守卫（Gatekeeper）》v1.2.0.10 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/cbe75ce96948
+
+迅雷：https://pan.xunlei.com/s/VOmSzY9iSV6SOGFfSwr84L82A1?pwd=y79t#
+
+#### 《最后一次突击（Phantom Squad）》v1.5.1 中文版
+
+夸克：https://pan.quark.cn/s/2735e475fa74
+
+迅雷：https://pan.xunlei.com/s/VOmSwr20e7bllM-hIq4V1MokA1?pwd=2bud#
 
 #### 《同舟共济（Ship of Fools）》v1.5.3 全DLC 中文 联机版
 
@@ -2554,12 +2596,6 @@
 
 夸克：https://pan.quark.cn/s/7dc7ceb24cb7
 
-#### 《中世纪王朝（Medieval Dynasty）终极版）》v2.4.1.3 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/32cb69fc196a
-
-迅雷：https://pan.xunlei.com/s/VO36_DlzI2PMsp3e2egTj-d0A1?pwd=icc2#
-
 #### 《欢欣森活（Mirthwood）》v1.0.94p3 中文版
 
 夸克：https://pan.quark.cn/s/37e861d2401c
@@ -2615,10 +2651,6 @@
 #### 《幻灵降世录 女巫的面纱（Lost Eidolons Veil of the Witch）》v1.0.11 中文版
 
 夸克：https://pan.quark.cn/s/e12bc6f40d9b
-
-#### 《铁道公司（Railroad Corporation）完全收藏版》v1.1.13425 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/e7d14ce6636e
 
 #### 《球比伦战记（BALL x PIT）》v2025.10.16 中文版
 
@@ -3075,10 +3107,6 @@
 #### 《王之凝视（The King is Watching）》v1.0.6 中文版（塔防游戏）
 
 夸克：https://pan.quark.cn/s/b2a5af81441b
-
-#### 《最后一次突击（Phantom Squad）》v1.3.0 中文版
-
-夸克：https://pan.quark.cn/s/2735e475fa74
 
 #### 《Keep Driving》v1.3.1.0с 中文版（公路旅行游戏）
 
@@ -4751,10 +4779,6 @@
 #### 《弑神者的战棋（Lost in Prayer）》v2025.8.2 中文版
 
 夸克：https://pan.quark.cn/s/95d6fa09936e
-
-#### 《心门守卫（Gatekeeper）》v1.0.0 中文版
-
-夸克：https://pan.quark.cn/s/cbe75ce96948
 
 #### 《间谍密令（Spy Drops）》v1.00.0806 中文版
 
