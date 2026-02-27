@@ -49,6 +49,14 @@
 ## 最新添加
 !> 新添加及更新的游戏链接里面如果没有文件，就是在上传中，等待上传完毕就会显示...
 
+#### 《生化危机9》虚拟机绕过D保护游玩补丁（附单独 2DLC 豪华版DLC 和 格蕾丝服饰：天启dlc）
+
+夸克：https://pan.quark.cn/s/bd8babd4aaf1
+
+#### 《绯夜传奇 复刻版（Tales of Berseria Remastered）豪华版》v1.0.2 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/ae94d79246eb
+
 #### 《传颂之物 斩（Utawarerumono ZAN）豪华版》v1.01 全DLC 中文版
 <section class="no-title-h4">
 
@@ -58,6 +66,10 @@
 夸克：https://pan.quark.cn/s/9c59ad032218
 
 迅雷：https://pan.xunlei.com/s/VOmT_XDcqP8F9cbH2PvmbqoGA1?pwd=pstx#
+
+#### 《龙与地下城 黑暗联盟（Dungeons Dragons Dark Alliance）豪华版》v1.21.3891 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/a52ea41277b8
 
 #### 《铁道公司（Railroad Corporation）完全收藏版》v1.1.13425 全DLC 中文 联机版
 <section class="no-title-h4">
@@ -102,58 +114,6 @@
 #### 《万千定数孤注破晓之刻（Wayblazer Dammerung）》v1.00.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/7589dfc3f562
-
-#### 《Dobbel Dungeon》v1.0.8 中文版（骰子地牢 双重地牢）
-
-夸克：https://pan.quark.cn/s/892bdc0667b6
-
-#### 《南国盛宴（Feastopia）》v1.0.10.0 中文版
-
-夸克：https://pan.quark.cn/s/f150aa09b1cd
-
-#### 《善良都市（Nice City）》v2026.2.23 中文版
-
-夸克：https://pan.quark.cn/s/0c2139d4a933
-
-#### 《Book Smugglers》v2026.2.23 中文版（书籍走私者）
-
-夸克：https://pan.quark.cn/s/cca561e7530e
-
-#### 《30XX 豪华版》v1.4.0 全DLC 中文版（街机感原始跳跃游戏）
-
-夸克：https://pan.quark.cn/s/aaefdc15288f
-
-#### 《英雄传说 闪之轨迹1 改 –Thors Military Academy 1204–》Build.16251270 全DLC 中文版
-<section class="no-title-h4">
-
-#### 《英雄传说 闪之轨迹2 改 -The Erebonian Civil War-》Build.16251088 全DLC 中文版
-
-#### 《英雄传说 闪之轨迹3（The Legend of Heroes Trails of Cold Steel III）豪华版》v1.0.6 全DLC 汉化版
-
-#### 《英雄传说 闪之轨迹4（The Legend of Heroes Trails of Cold Steel IV）豪华版》v1.2.1 全DLC 汉化版
-</section>
-
-夸克：https://pan.quark.cn/s/349ae69a1c46
-
-#### 《soulstice 豪华版》v1.1.0+219971 全DLC 中文版（灵魂之刃、灵界战魂、灵魂之魂）
-
-夸克：https://pan.quark.cn/s/f584678d169a
-
-#### 《高能人生2（High On Life 2）》v2026.2.20 全DLC 中文版（FPS游戏）
-
-夸克：https://pan.quark.cn/s/75206d28a97a
-
-#### 《专业飞行模拟11（X-Plane 11）》v11.55r2 全DLC 中文版（xplane11）
-<section class="no-title-h4">
-
-#### 《专业飞行模拟12（X-Plane 12）》v12.4.0-r2 全DLC 中文版（xplane12）
-</section>
-
-夸克：https://pan.quark.cn/s/383baacb9dc3
-
-#### 《乡间拾趣夏日谈（Natsu no Sagashimono）》v1.06 汉化版（寻找夏日的宝物）
-
-夸克：https://pan.quark.cn/s/45fda4b54570
 
 ---
 
@@ -209,41 +169,31 @@
 
 迅雷：https://pan.xunlei.com/s/VO-UqMA1q0RpLJvqr4VXytFnA1?pwd=eh5v#
 
-#### 《战锤40K 战区（Warhammer 40000 Battlesector）豪华版》v1.6.001 全DLC 中文版
+#### 《德军总部：旧血脉（Wolfenstein The Old Blood）》v1.0 汉化版
+<section class="no-title-h4">
 
-夸克：https://pan.quark.cn/s/2cd1e90a428b
+#### 《德军总部：新秩序（Wolfenstein The New Order）》v1.0.0.2 hotfix 全DLC 中文版
+#### 《德军总部：新血脉（Wolfenstein Youngblood）豪华版》Build.11991189 全DLC 中文版
+#### 《德军总部2：新巨像（Wolfenstein II The New Colossus）》v6.5.0.1331 全DLC 中文版
+</section>
 
-#### 《驯牌师（Decktamer）》v1.3.5 中文版
+夸克：https://pan.quark.cn/s/7ea4d708c9a0
 
-夸克：https://pan.quark.cn/s/45df40302c97
+#### 《DMC：鬼泣（DmC Devil May Cry）》v2025.7.9 全DLC 汉化中文版
+<section class="no-title-h4">
 
-#### 《恶土小队（Badlands Crew）》v31676 中文版
+#### 《鬼泣 HD合集（Devil May Cry HD Collection）》v1.0 中文版（游戏是HD优化后的1-3部合集版）
+#### 《鬼泣4（Devil May Cry 4）特别版》v21360 全DLC 汉化版
+#### 《鬼泣5（Devil May Cry 5）豪华版》v11025947 全DLC 中文版
+</section>
 
-夸克：https://pan.quark.cn/s/06836a32568f
+夸克：https://pan.quark.cn/s/05e4251ad1ad
 
-#### 《迷你舒适房间：Lo-Fi（Mini Cozy Room）》v1.05.01 中文版（桌面小游戏）
+迅雷：https://pan.xunlei.com/s/VNoGVueT01wjzVeaRUJnlx7dA1?pwd=evdy#
 
-夸克：https://pan.quark.cn/s/e32e7d7f1328
+---
 
-#### 《喵喵的结合（Mewgenics）》v1.0.20695 汉化版
-
-夸克：https://pan.quark.cn/s/9754a267780a
-
-#### 《幻想生活i 转圈圈的龙和偷取时间的少女（FANTASY LIFE i）豪华版》v2.1.2 中文 联机版
-
-夸克：https://pan.quark.cn/s/e6b2b4cad601
-
-#### 《熊视眈眈（Out of Sight）》v1.0.89 中文版（类似小小梦魇恐怖解密）
-
-夸克：https://pan.quark.cn/s/d4b3d3aacfaf
-
-#### 《鳄鱼侦探布罗格（BROK the InvestiGator）》v1.5.5.1 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/34be69fe9932
-
-#### 《零号使者（Emissary Zero）》v1.2.10 中文 联机版
-
-夸克：https://pan.quark.cn/s/70d1d1e5c30d
+## 顶置游戏
 
 #### 《仁王3（Nioh 3）豪华版》v1.03.02 全DLC 中文 联机版版（新）
 <section class="no-title-h4">
@@ -257,10 +207,6 @@
 #### 《最终幻想7 重制版Intergrade（Final Fantasy VII Remake Intergrade）》v1.007 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/79878124f832
-
----
-
-## 顶置游戏
 
 #### 《幻兽帕鲁（Palworld）》v0.7.2.87654 中文 联机版
 
@@ -449,6 +395,94 @@
 ---
 
 ## 已有游戏
+
+#### 《Dobbel Dungeon》v1.0.8 中文版（骰子地牢 双重地牢）
+
+夸克：https://pan.quark.cn/s/892bdc0667b6
+
+#### 《南国盛宴（Feastopia）》v1.0.10.0 中文版
+
+夸克：https://pan.quark.cn/s/f150aa09b1cd
+
+#### 《善良都市（Nice City）》v2026.2.23 中文版
+
+夸克：https://pan.quark.cn/s/0c2139d4a933
+
+#### 《Book Smugglers》v2026.2.23 中文版（书籍走私者）
+
+夸克：https://pan.quark.cn/s/cca561e7530e
+
+#### 《30XX 豪华版》v1.4.0 全DLC 中文版（街机感原始跳跃游戏）
+
+夸克：https://pan.quark.cn/s/aaefdc15288f
+
+#### 《英雄传说 闪之轨迹1 改 –Thors Military Academy 1204–》Build.16251270 全DLC 中文版
+<section class="no-title-h4">
+
+#### 《英雄传说 闪之轨迹2 改 -The Erebonian Civil War-》Build.16251088 全DLC 中文版
+
+#### 《英雄传说 闪之轨迹3（The Legend of Heroes Trails of Cold Steel III）豪华版》v1.0.6 全DLC 汉化版
+
+#### 《英雄传说 闪之轨迹4（The Legend of Heroes Trails of Cold Steel IV）豪华版》v1.2.1 全DLC 汉化版
+</section>
+
+夸克：https://pan.quark.cn/s/349ae69a1c46
+
+#### 《soulstice 豪华版》v1.1.0+219971 全DLC 中文版（灵魂之刃、灵界战魂、灵魂之魂）
+
+夸克：https://pan.quark.cn/s/f584678d169a
+
+#### 《高能人生2（High On Life 2）》v2026.2.20 全DLC 中文版（FPS游戏）
+
+夸克：https://pan.quark.cn/s/75206d28a97a
+
+#### 《专业飞行模拟11（X-Plane 11）》v11.55r2 全DLC 中文版（xplane11）
+<section class="no-title-h4">
+
+#### 《专业飞行模拟12（X-Plane 12）》v12.4.0-r2 全DLC 中文版（xplane12）
+</section>
+
+夸克：https://pan.quark.cn/s/383baacb9dc3
+
+#### 《乡间拾趣夏日谈（Natsu no Sagashimono）》v1.06 汉化版（寻找夏日的宝物）
+
+夸克：https://pan.quark.cn/s/45fda4b54570
+
+#### 《战锤40K 战区（Warhammer 40000 Battlesector）豪华版》v1.6.001 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/2cd1e90a428b
+
+#### 《驯牌师（Decktamer）》v1.3.5 中文版
+
+夸克：https://pan.quark.cn/s/45df40302c97
+
+#### 《恶土小队（Badlands Crew）》v31676 中文版
+
+夸克：https://pan.quark.cn/s/06836a32568f
+
+#### 《迷你舒适房间：Lo-Fi（Mini Cozy Room）》v1.05.01 中文版（桌面小游戏）
+
+夸克：https://pan.quark.cn/s/e32e7d7f1328
+
+#### 《喵喵的结合（Mewgenics）》v1.0.20695 汉化版
+
+夸克：https://pan.quark.cn/s/9754a267780a
+
+#### 《幻想生活i 转圈圈的龙和偷取时间的少女（FANTASY LIFE i）豪华版》v2.1.2 中文 联机版
+
+夸克：https://pan.quark.cn/s/e6b2b4cad601
+
+#### 《熊视眈眈（Out of Sight）》v1.0.89 中文版（类似小小梦魇恐怖解密）
+
+夸克：https://pan.quark.cn/s/d4b3d3aacfaf
+
+#### 《鳄鱼侦探布罗格（BROK the InvestiGator）》v1.5.5.1 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/34be69fe9932
+
+#### 《零号使者（Emissary Zero）》v1.2.10 中文 联机版
+
+夸克：https://pan.quark.cn/s/70d1d1e5c30d
 
 #### 《纪元1800（Anno 1800）最终纪念版》v18.4.1412158 全DLC 中文版
 
@@ -7575,10 +7609,6 @@
 
 夸克：https://pan.quark.cn/s/728f71e7af8f
 
-#### 《DMC：鬼泣（DmC Devil May Cry）》v1.1 全DLC 汉化中文版
-
-夸克：https://pan.quark.cn/s/05e4251ad1ad
-
 #### 《青天井（Aotenjo Infinite Hands）》v0.2.1.5 中文版
 
 夸克：https://pan.quark.cn/s/fce54fe885cc
@@ -7936,12 +7966,6 @@
 夸克：https://pan.quark.cn/s/655f1d3ffc87
 
 迅雷：https://pan.xunlei.com/s/VNyZXhK1tSi1OfyfyqsiTteiA1?pwd=umja#
-
-#### 《鬼泣5（Devil May Cry 5）》v11025947 全DLC 豪华 中文版
-
-夸克：https://pan.quark.cn/s/4b833d3a839e
-
-迅雷：https://pan.xunlei.com/s/VNoGVueT01wjzVeaRUJnlx7dA1?pwd=evdy#
 
 #### 《车祸英雄（Turbo Dismount）》v1.33.0 英文版
 
@@ -8622,10 +8646,6 @@
 #### 《狂热运输2（Transport Fever 2）》v35915 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/d6841b33efbc
-
-#### 《德军总部2：新巨像（Wolfenstein II The New Colossus）》v6.5.0.1331 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/7ea4d708c9a0
 
 #### 《芭比友谊计划（Barbie Project Friendship）》v1.16 中文版
 
@@ -9430,14 +9450,6 @@
 夸克：https://pan.quark.cn/s/72f691e67857
 
 迅雷：https://pan.xunlei.com/s/VO5ehgfv-hqXKRA7UNDlPNXLA1?pwd=zjvh#
-
-#### 《鬼泣4 特别版（Devil May Cry 4 Special Edition）》v21360 汉化中文版
-
-夸克：https://pan.quark.cn/s/00ea0006f63d
-
-#### 《鬼泣 HD合集（Devil May Cry HD Collection）》v1.0 中文版（游戏是HD优化后的 1-3部合集版）
-
-夸克：https://pan.quark.cn/s/243810dbd5dc
 
 #### 《超级鸡马（Ultimate Chicken Horse）》v1.11.01 中文 联机版
 
