@@ -62,6 +62,10 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。.
 
+#### 《龙与地下城：黑暗联盟（Dungeons Dragons Dark Alliance）豪华版》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/c24ff9b5068a
+
 #### 《生化危机9：安魂曲（Resident Evil Requiem）》 豪华中文版 全DLC
 
 夸克：https://pan.quark.cn/s/c455f6928d3b
@@ -106,43 +110,13 @@
 
 夸克：https://pan.quark.cn/s/f324cc3ab632
 
-#### 《暗黑破坏神2：重制版（Diablo II Resurrected）》 终极包 v3.0.91636 中文离线版
-
-夸克：https://pan.quark.cn/s/31c231863e7c
-
-#### 《挪威：血誓（NORSE Oath of Blood）》最新 豪华中文版 全DLC
-
-夸克：https://pan.quark.cn/s/abada3cfb6ca
-
-#### 《Pure Pool Pro》v1605 中文版（8K画质终极台球模拟）
-
-夸克：https://pan.quark.cn/s/bffe7391046b
-
-#### 《上古卷轴5天际（The Elder Scrolls V Skyrim）》周年纪念版+全DLC+绝伦V6
-
-夸克：https://pan.quark.cn/s/55d258e4abe1
-
-#### 《极速骑行（RIDE6）》 v2026.2.12 中文版
-
-夸克：https://pan.quark.cn/s/d56196ee2554
-
-#### 《生灵重塑（Reanimal）》 v2026.2.13 豪华中文版 全DLC
-
-夸克：https://pan.quark.cn/s/ffba5e6000c3
-
-#### 《仁王3（Nioh 3）豪华版》v1.02.02 全DLC 中文版（新）
-#### 《仁王2（Nioh 2）完全版》v1.28.08 中文 联机版
-#### 《仁王（Nioh）完全版》v1.24.08 中文版
-
-夸克：https://pan.quark.cn/s/9dad8dce13d5
-
-#### 《咖啡店主理人模拟器（Cafe Market Simulator）》 v1.0.3 中文版
-
-夸克：https://pan.quark.cn/s/1654572f7165
-
 ---
 
 ## 最近更新
+
+#### 《暗黑破坏神2 重制版（Diablo II Resurrected）地狱版》v3.0.91735 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/31c231863e7c
 
 #### 《劫盗惊魂夜（Dark Hours）》v1.0.24687 中文 联机版
 
@@ -190,6 +164,40 @@
 ---
 
 ## 已有游戏
+
+#### 《暗黑破坏神2 重制版（Diablo II Resurrected）地狱版》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/31c231863e7c
+
+#### 《挪威：血誓（NORSE Oath of Blood）》最新 豪华中文版 全DLC
+
+夸克：https://pan.quark.cn/s/abada3cfb6ca
+
+#### 《Pure Pool Pro》v1605 中文版（8K画质终极台球模拟）
+
+夸克：https://pan.quark.cn/s/bffe7391046b
+
+#### 《上古卷轴5天际（The Elder Scrolls V Skyrim）》周年纪念版+全DLC+绝伦V6
+
+夸克：https://pan.quark.cn/s/55d258e4abe1
+
+#### 《极速骑行（RIDE6）》 v2026.2.12 中文版
+
+夸克：https://pan.quark.cn/s/d56196ee2554
+
+#### 《生灵重塑（Reanimal）》 v2026.2.13 豪华中文版 全DLC
+
+夸克：https://pan.quark.cn/s/ffba5e6000c3
+
+#### 《仁王3（Nioh 3）豪华版》v1.02.02 全DLC 中文版（新）
+#### 《仁王2（Nioh 2）完全版》v1.28.08 中文 联机版
+#### 《仁王（Nioh）完全版》v1.24.08 中文版
+
+夸克：https://pan.quark.cn/s/9dad8dce13d5
+
+#### 《咖啡店主理人模拟器（Cafe Market Simulator）》 v1.0.3 中文版
+
+夸克：https://pan.quark.cn/s/1654572f7165
 
 #### 《孤胆枪手2：新纪元（Alien Shooter 2  New Era）》完整版 汉化版
 
