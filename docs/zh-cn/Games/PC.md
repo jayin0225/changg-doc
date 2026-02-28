@@ -53,6 +53,10 @@
 
 夸克：https://pan.quark.cn/s/bd8babd4aaf1
 
+#### 《Towerborne》v5.6.1 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/d85c3cbd470e
+
 #### 《绯夜传奇 复刻版（Tales of Berseria Remastered）豪华版》v1.0.2 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/ae94d79246eb
@@ -129,9 +133,23 @@
 
 夸克：https://pan.quark.cn/s/379c96e02b6c
 
+#### 《饿狼传说 群狼之城（FATAL FURY City of the Wolves）》v1.8.0 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/8edad4bbd88e
+
 #### 《骑马与砍杀2 霸主（Mount Blade 2 Bannerlord）豪华版》v1.3.15.109330 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/2ce76d085b7c
+
+#### 《海权（Sea Power Naval Combat in the Missile Age）》v0.7.2 中文版
+
+夸克：https://pan.quark.cn/s/af33faba8ec6
+
+#### 《嗜血印（Bloody Spell）》Build.22069271 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/faa73e068ff5
+
+迅雷：https://pan.xunlei.com/s/VNyVSlrOau3PZlvGHrm4ODIhA1?pwd=tipt#
 
 #### 《中世纪王朝（Medieval Dynasty）终极版）》v2.5.1.2 全DLC 中文 联机版
 
@@ -201,7 +219,7 @@
 
 ## 顶置游戏
 
-#### 《仁王3（Nioh 3）豪华版》v1.03.02 全DLC 中文 联机版版（新）
+#### 《仁王3（Nioh 3）豪华版》v1.03.02 全DLC 中文 联机版（新）
 <section class="no-title-h4">
 
 #### 《仁王2（Nioh 2）完全版》v1.28.08 中文 联机版
@@ -535,12 +553,6 @@
 夸克：https://pan.quark.cn/s/dffcc45a56c8
 
 迅雷：https://pan.xunlei.com/s/VNpuBMgpFJ9XqL05KHqG9sl2A1?pwd=v8sz#
-
-#### 《嗜血印（Bloody Spell）》Build.21842749 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/faa73e068ff5
-
-迅雷：https://pan.xunlei.com/s/VNyVSlrOau3PZlvGHrm4ODIhA1?pwd=tipt#
 
 #### 《毁灭战士 永恒（DOOM Eternal）豪华版》v2026.2.12 全DLC 中文版
 
@@ -1057,10 +1069,6 @@
 #### 《破碎怪谈 切勿直视（BrokenLore DONT WATCH）》v2025.5.17 中文版（恐怖游戏）
 
 夸克：https://pan.quark.cn/s/01033339d945
-
-#### 《海权（Sea Power Naval Combat in the Missile Age）》Build.21510592 中文版
-
-夸克：https://pan.quark.cn/s/af33faba8ec6
 
 #### 《Super Woden Rally Edge》v1.0.2 中文版（可多人分屏的赛车小游戏）
 
@@ -2145,10 +2153,6 @@
 #### 《致命公司（Lethal Company）》v73-v69-v56-v50-v49-v47-v45.2 汉化 联机版
 
 夸克：https://pan.quark.cn/s/6773317c1364
-
-#### 《饿狼传说：群狼之城（FATAL FURY City of the Wolves）》v1.5.0 中文 联机版
-
-夸克：https://pan.quark.cn/s/8edad4bbd88e
 
 #### 《受折磨的灵魂2（Tormented Souls 2）豪华版》v1.3.0 全DLC 中文版（生存恐怖游戏）
 
@@ -10973,7 +10977,7 @@
 
 迅雷：https://pan.xunlei.com/s/VNq3kZYl9dh83vEbcVItEr4eA1?pwd=p8p5#
 
-#### 《觅长生》v1.0.038 中文版
+#### 《觅长生（Looking For Longevity）》最新 中文版
 
 夸克：https://pan.quark.cn/s/57d91651889a
 
@@ -11091,7 +11095,7 @@
 
 迅雷：https://pan.xunlei.com/s/VNsMzfsX0mMVz408-K2silgDA1?pwd=wyvj#
 
-#### 《只狼：影逝二度》v1.06 豪华中文版
+#### 《只狼：影逝二度（Sekiro Shadows Die Twice）黄金版》v1.06 中文版
 
 夸克：https://pan.quark.cn/s/177f42895b5b
 
