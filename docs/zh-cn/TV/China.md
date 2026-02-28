@@ -23,17 +23,23 @@
 
 迅雷：https://pan.xunlei.com/s/VOm4gv3dedmhebcQBCQijeMSA1?pwd=64qx#
 
-#### 《生命树》（2026）4K 40集更新中...（胡歌新剧）
+#### 《成何体统 剧版》（2026）4K 32集全
+
+夸克：和谐
+
+迅雷：https://pan.xunlei.com/s/VOmZyRvZi_ArXorEpBBGrybqA1?pwd=7rqd#
+
+#### 《生命树》（2026）4K 40集全（胡歌新剧）
 
 夸克：https://pan.quark.cn/s/a97ef3607989
 
-#### 《太平年》（2026）4K 48集更新中...
+#### 《太平年》（2026）4K 48集全...
 
 夸克：和谐
 
 迅雷：https://pan.xunlei.com/s/VOlUiVM7A0Pv_ye6rtM-jKRpA1?pwd=5fmu#
 
-#### 《年少有为》（2026）4K 24集更新中..
+#### 《年少有为》（2026）4K 24集全..
 
 夸克：https://pan.quark.cn/s/09da3624455d
 
