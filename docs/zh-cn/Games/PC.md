@@ -129,6 +129,10 @@
 
 ## 最近更新
 
+#### 《模拟人生4（The Sims 4）豪华版》v1.121.372.1020 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/844d489a7abd
+
 #### 《暗黑破坏神2 重制版（Diablo II Resurrected）地狱版》v3.0.91735 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/379c96e02b6c
@@ -1649,10 +1653,6 @@
 #### 《鼠宝小镇（Whiskerwood）》v0.6.173.0 中文版（猫鼠对战城市建造）
 
 夸克：https://pan.quark.cn/s/9b516a2cf02e
-
-#### 《模拟人生4（The Sims 4）豪华版》v1.119.109.1020 全DLC 中文 联机版 附联机教程
-
-夸克：https://pan.quark.cn/s/844d489a7abd
 
 #### 《月球任务（ROUTINE）》v1.7.0.0 中文版（科幻恐怖游戏）
 
