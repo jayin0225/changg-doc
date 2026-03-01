@@ -151,9 +151,9 @@
 
 迅雷：https://pan.xunlei.com/s/VNllDJkGHlS3r8eJulOvjKWlA1?pwd=vcgz#
 
-#### 《斗罗大陆2 绝世唐门》 4K 周六 更新中..（附第一部 4K）
+#### 《斗罗大陆2 绝世唐门》4K 周六 更新中..（附第一部 4K）
 
-夸克：https://pan.quark.cn/s/a947eab73ff9
+夸克：https://pan.quark.cn/s/cfa063d555b9
 
 迅雷：https://pan.xunlei.com/s/VNlbNf2226IuEY5n_XEDN2lcA1?pwd=k8b9#
 
