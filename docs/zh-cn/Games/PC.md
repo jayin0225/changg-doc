@@ -62,6 +62,10 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。
 
+#### 《阿蛋等什么（While Waiting）》最新 中文版
+
+夸克：https://pan.quark.cn/s/7ded7a0cdc71
+
 #### 《龙与地下城：黑暗联盟（Dungeons Dragons Dark Alliance）豪华版》最新 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/c24ff9b5068a
