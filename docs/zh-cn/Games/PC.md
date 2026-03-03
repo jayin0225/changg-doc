@@ -129,6 +129,10 @@
 
 ## 最近更新
 
+#### 《刺客信条：幻景（Assassins Creed Mirage）》v1.11 全DLC 豪华中文版
+
+夸克：https://pan.quark.cn/s/2677d84177be
+
 #### 《模拟人生4（The Sims 4）豪华版》v1.121.372.1020 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/844d489a7abd
@@ -397,10 +401,6 @@
 #### 《龙之信条2（Dragons Dogma 2）》v1.0.0.1 中文版
 
 夸克：https://pan.quark.cn/s/9f4ed4309376
-
-#### 《刺客信条：幻景（Assassins Creed Mirage）》v1.06 全DLC 豪华中文版
-
-夸克：https://pan.quark.cn/s/2677d84177be
 
 #### 《荒野大镖客2（Red Dead Redemption 2）》v1491.50 全DLC 中文 终极版
 
