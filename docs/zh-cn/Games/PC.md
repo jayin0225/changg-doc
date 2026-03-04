@@ -53,6 +53,10 @@
 
 夸克：https://pan.quark.cn/s/bd8babd4aaf1
 
+#### 《HORSES》v1.0.16500 中文版（心理暗示恐怖游戏）
+
+夸克：https://pan.quark.cn/s/8d168831c0c3
+
 #### 《Towerborne》v5.6.1 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/d85c3cbd470e
@@ -71,60 +75,6 @@
 
 迅雷：https://pan.xunlei.com/s/VOmT_XDcqP8F9cbH2PvmbqoGA1?pwd=pstx#
 
-#### 《龙与地下城 黑暗联盟（Dungeons Dragons Dark Alliance）豪华版》v1.21.3891 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/a52ea41277b8
-
-#### 《铁道公司（Railroad Corporation）完全收藏版》v1.1.13425 全DLC 中文 联机版
-<section class="no-title-h4">
-
-#### 《铁道公司2（Railroad Corporation 2）》v1.0.19116 全DLC 中文 联机版
-</section>
-
-夸克：https://pan.quark.cn/s/e7d14ce6636e
-
-#### 《指挥大师（Master of Command）》v1.2.3 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/2f4e6baf45ed
-
-迅雷：https://pan.xunlei.com/s/VOmSr-4oyVwrgMVFQrMKryNVA1?pwd=6crt#
-
-#### 《她那年98（SHE WAS 98）》v1.0.3 中文版（恐怖游戏）
-
-夸克：https://pan.quark.cn/s/e6f1b9bf2274
-
-迅雷：https://pan.xunlei.com/s/VOmO9UKDedmhebcQBCQv6p3dA1?pwd=dfqg#
-
-#### 《伪神的弃牌（The False Gods Fold）》v1.1.0b 中文版
-
-夸克：https://pan.quark.cn/s/160d7d82646d
-
-迅雷：https://pan.xunlei.com/s/VOmO2-2TB4hic0T83esD-6G1A1?pwd=strc#
-
-#### 《王权 巫师（Reigns The Witcher）》v1.0.3617 中文版
-
-夸克：https://pan.quark.cn/s/5141fd785b1a
-
-迅雷：https://pan.xunlei.com/s/VOmO0b99l0S_p-3YZHGTu_46A1?pwd=6jfi#
-
-#### 《巨匠眼（The Son of Art）》Build.21292032 中文版
-
-夸克：https://pan.quark.cn/s/cded8dfb23e9
-
-迅雷：https://pan.xunlei.com/s/VOmV9WmX2wuhRTB_R-pSDXCbA1?pwd=kqpe#
-
-#### 《欢迎来到娃娃镇（Welcome to Doll Town）》v2026.2.24 中文版（恐怖游戏）
-
-夸克：https://pan.quark.cn/s/73913faca9f3
-
-#### 《魔法师世界Re;Try（WiZmans World ReTry）》Build.20692912 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/f00c70616ee0
-
-#### 《万千定数孤注破晓之刻（Wayblazer Dammerung）》v1.00.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/7589dfc3f562
-
 ---
 
 ## 最近更新
@@ -132,6 +82,10 @@
 #### 《刺客信条：幻景（Assassins Creed Mirage）》v1.11 全DLC 豪华中文版
 
 夸克：https://pan.quark.cn/s/2677d84177be
+
+#### 《失落城堡2（Lost Castle 2）》v0.9.3.8 中文 联机版
+
+夸克：https://pan.quark.cn/s/f391be81e520
 
 #### 《模拟人生4（The Sims 4）豪华版》v1.121.372.1020 全DLC 中文 联机版
 
@@ -148,80 +102,6 @@
 #### 《骑马与砍杀2 霸主（Mount Blade 2 Bannerlord）豪华版》v1.3.15.109330 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/2ce76d085b7c
-
-#### 《海权（Sea Power Naval Combat in the Missile Age）》v0.7.2 中文版
-
-夸克：https://pan.quark.cn/s/af33faba8ec6
-
-#### 《嗜血印（Bloody Spell）》Build.22069271 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/faa73e068ff5
-
-迅雷：https://pan.xunlei.com/s/VNyVSlrOau3PZlvGHrm4ODIhA1?pwd=tipt#
-
-#### 《中世纪王朝（Medieval Dynasty）终极版）》v2.5.1.2 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/32cb69fc196a
-
-迅雷：https://pan.xunlei.com/s/VO36_DlzI2PMsp3e2egTj-d0A1?pwd=icc2#
-
-#### 《心门守卫（Gatekeeper）》v1.2.0.10 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/cbe75ce96948
-
-迅雷：https://pan.xunlei.com/s/VOmSzY9iSV6SOGFfSwr84L82A1?pwd=y79t#
-
-#### 《最后一次突击（Phantom Squad）》v1.5.1 中文版
-
-夸克：https://pan.quark.cn/s/2735e475fa74
-
-迅雷：https://pan.xunlei.com/s/VOmSwr20e7bllM-hIq4V1MokA1?pwd=2bud#
-
-#### 《同舟共济（Ship of Fools）》v1.5.3 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/2ea5655a1138
-
-迅雷：https://pan.xunlei.com/s/VOmO5_CWuNyWGoD8c6cBYbBSA1?pwd=knf5#
-
-#### 《筑城记：中世纪（City Tales Medieval Era）》v1.0.0.8 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/448eca526561
-
-迅雷：https://pan.xunlei.com/s/VOmO3GVi1CzJGJEzkQQmMcqFA1?pwd=fnad#
-
-#### 《满庭芳：宋上繁华（Thriving City Song）豪华版》v1.8.5 中文版（附安卓版）
-
-夸克：https://pan.quark.cn/s/b50c765520ca
-
-迅雷：https://pan.xunlei.com/s/VO2PzE-FDmJg-0GgQhQUAGzxA1?pwd=bys5#
-
-#### 《工业巨头（Captain of Industry）支持者版》v0.7.9a 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/243d699415ff
-
-迅雷：https://pan.xunlei.com/s/VO-UqMA1q0RpLJvqr4VXytFnA1?pwd=eh5v#
-
-#### 《德军总部：旧血脉（Wolfenstein The Old Blood）》v1.0 汉化版
-<section class="no-title-h4">
-
-#### 《德军总部：新秩序（Wolfenstein The New Order）》v1.0.0.2 hotfix 全DLC 中文版
-#### 《德军总部：新血脉（Wolfenstein Youngblood）豪华版》Build.11991189 全DLC 中文版
-#### 《德军总部2：新巨像（Wolfenstein II The New Colossus）》v6.5.0.1331 全DLC 中文版
-</section>
-
-夸克：https://pan.quark.cn/s/7ea4d708c9a0
-
-#### 《DMC：鬼泣（DmC Devil May Cry）》v2025.7.9 全DLC 汉化中文版
-<section class="no-title-h4">
-
-#### 《鬼泣 HD合集（Devil May Cry HD Collection）》v1.0 中文版（游戏是HD优化后的1-3部合集版）
-#### 《鬼泣4（Devil May Cry 4）特别版》v21360 全DLC 汉化版
-#### 《鬼泣5（Devil May Cry 5）豪华版》v11025947 全DLC 中文版
-</section>
-
-夸克：https://pan.quark.cn/s/05e4251ad1ad
-
-迅雷：https://pan.xunlei.com/s/VNoGVueT01wjzVeaRUJnlx7dA1?pwd=evdy#
 
 ---
 
@@ -423,6 +303,134 @@
 ---
 
 ## 已有游戏
+
+#### 《龙与地下城 黑暗联盟（Dungeons Dragons Dark Alliance）豪华版》v1.21.3891 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/a52ea41277b8
+
+#### 《铁道公司（Railroad Corporation）完全收藏版》v1.1.13425 全DLC 中文 联机版
+<section class="no-title-h4">
+
+#### 《铁道公司2（Railroad Corporation 2）》v1.0.19116 全DLC 中文 联机版
+</section>
+
+夸克：https://pan.quark.cn/s/e7d14ce6636e
+
+#### 《指挥大师（Master of Command）》v1.2.3 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/2f4e6baf45ed
+
+迅雷：https://pan.xunlei.com/s/VOmSr-4oyVwrgMVFQrMKryNVA1?pwd=6crt#
+
+#### 《她那年98（SHE WAS 98）》v1.0.3 中文版（恐怖游戏）
+
+夸克：https://pan.quark.cn/s/e6f1b9bf2274
+
+迅雷：https://pan.xunlei.com/s/VOmO9UKDedmhebcQBCQv6p3dA1?pwd=dfqg#
+
+#### 《伪神的弃牌（The False Gods Fold）》v1.1.0b 中文版
+
+夸克：https://pan.quark.cn/s/160d7d82646d
+
+迅雷：https://pan.xunlei.com/s/VOmO2-2TB4hic0T83esD-6G1A1?pwd=strc#
+
+#### 《王权 巫师（Reigns The Witcher）》v1.0.3617 中文版
+
+夸克：https://pan.quark.cn/s/5141fd785b1a
+
+迅雷：https://pan.xunlei.com/s/VOmO0b99l0S_p-3YZHGTu_46A1?pwd=6jfi#
+
+#### 《巨匠眼（The Son of Art）》Build.21292032 中文版
+
+夸克：https://pan.quark.cn/s/cded8dfb23e9
+
+迅雷：https://pan.xunlei.com/s/VOmV9WmX2wuhRTB_R-pSDXCbA1?pwd=kqpe#
+
+#### 《欢迎来到娃娃镇（Welcome to Doll Town）》v2026.2.24 中文版（恐怖游戏）
+
+夸克：https://pan.quark.cn/s/73913faca9f3
+
+#### 《魔法师世界Re;Try（WiZmans World ReTry）》Build.20692912 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/f00c70616ee0
+
+#### 《万千定数孤注破晓之刻（Wayblazer Dammerung）》v1.00.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/7589dfc3f562
+
+#### 《海权（Sea Power Naval Combat in the Missile Age）》v0.7.2 中文版
+
+夸克：https://pan.quark.cn/s/af33faba8ec6
+
+#### 《嗜血印（Bloody Spell）》Build.22069271 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/faa73e068ff5
+
+迅雷：https://pan.xunlei.com/s/VNyVSlrOau3PZlvGHrm4ODIhA1?pwd=tipt#
+
+#### 《中世纪王朝（Medieval Dynasty）终极版）》v2.5.1.2 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/32cb69fc196a
+
+迅雷：https://pan.xunlei.com/s/VO36_DlzI2PMsp3e2egTj-d0A1?pwd=icc2#
+
+#### 《心门守卫（Gatekeeper）》v1.2.0.10 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/cbe75ce96948
+
+迅雷：https://pan.xunlei.com/s/VOmSzY9iSV6SOGFfSwr84L82A1?pwd=y79t#
+
+#### 《最后一次突击（Phantom Squad）》v1.5.1 中文版
+
+夸克：https://pan.quark.cn/s/2735e475fa74
+
+迅雷：https://pan.xunlei.com/s/VOmSwr20e7bllM-hIq4V1MokA1?pwd=2bud#
+
+#### 《同舟共济（Ship of Fools）》v1.5.3 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/2ea5655a1138
+
+迅雷：https://pan.xunlei.com/s/VOmO5_CWuNyWGoD8c6cBYbBSA1?pwd=knf5#
+
+#### 《筑城记：中世纪（City Tales Medieval Era）》v1.0.0.8 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/448eca526561
+
+迅雷：https://pan.xunlei.com/s/VOmO3GVi1CzJGJEzkQQmMcqFA1?pwd=fnad#
+
+#### 《满庭芳：宋上繁华（Thriving City Song）豪华版》v1.8.5 中文版（附安卓版）
+
+夸克：https://pan.quark.cn/s/b50c765520ca
+
+迅雷：https://pan.xunlei.com/s/VO2PzE-FDmJg-0GgQhQUAGzxA1?pwd=bys5#
+
+#### 《工业巨头（Captain of Industry）支持者版》v0.7.9a 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/243d699415ff
+
+迅雷：https://pan.xunlei.com/s/VO-UqMA1q0RpLJvqr4VXytFnA1?pwd=eh5v#
+
+#### 《德军总部：旧血脉（Wolfenstein The Old Blood）》v1.0 汉化版
+<section class="no-title-h4">
+
+#### 《德军总部：新秩序（Wolfenstein The New Order）》v1.0.0.2 hotfix 全DLC 中文版
+#### 《德军总部：新血脉（Wolfenstein Youngblood）豪华版》Build.11991189 全DLC 中文版
+#### 《德军总部2：新巨像（Wolfenstein II The New Colossus）》v6.5.0.1331 全DLC 中文版
+</section>
+
+夸克：https://pan.quark.cn/s/7ea4d708c9a0
+
+#### 《DMC：鬼泣（DmC Devil May Cry）》v2025.7.9 全DLC 汉化中文版
+<section class="no-title-h4">
+
+#### 《鬼泣 HD合集（Devil May Cry HD Collection）》v1.0 中文版（游戏是HD优化后的1-3部合集版）
+#### 《鬼泣4（Devil May Cry 4）特别版》v21360 全DLC 汉化版
+#### 《鬼泣5（Devil May Cry 5）豪华版》v11025947 全DLC 中文版
+</section>
+
+夸克：https://pan.quark.cn/s/05e4251ad1ad
+
+迅雷：https://pan.xunlei.com/s/VNoGVueT01wjzVeaRUJnlx7dA1?pwd=evdy#
 
 #### 《Dobbel Dungeon》v1.0.8 中文版（骰子地牢 双重地牢）
 
@@ -1227,10 +1235,6 @@
 #### 《古农庄（Ancient Farm）》v1.0.8 中文版
 
 夸克：https://pan.quark.cn/s/55cc53a60b54
-
-#### 《失落城堡2（Lost Castle 2）》v0.9.2.4.4 中文 联机版
-
-夸克：https://pan.quark.cn/s/f391be81e520
 
 #### 《犯罪模拟器（Crime Simulator）》v1.32 中文 联机版
 
