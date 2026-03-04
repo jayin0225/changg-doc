@@ -83,9 +83,17 @@
 
 ## 最近更新
 
+#### 《忍者龙剑传4（NINJA GAIDEN 4）豪华版》v1.0.4.0 全DLC 中文版（新增DLC）
+
+夸克：https://pan.quark.cn/s/e47e913a8da7
+
 #### 《刺客信条：幻景（Assassins Creed Mirage）》v1.11 全DLC 豪华中文版
 
 夸克：https://pan.quark.cn/s/2677d84177be
+
+#### 《污痕圣杯：阿瓦隆的陨落（Tainted Grail The Fall of Avalon）》v1.20 全DLC 中文版（魂游）
+
+夸克：https://pan.quark.cn/s/f45144acd21e
 
 #### 《失落城堡2（Lost Castle 2）》v0.9.3.8 中文 联机版
 
@@ -196,10 +204,6 @@
 
 夸克：https://pan.quark.cn/s/ac1e0683f780
 
-#### 《污痕圣杯：阿瓦隆的陨落（Tainted Grail The Fall of Avalon）》v1.15c 全DLC 中文版（魂游）
-
-夸克：https://pan.quark.cn/s/f45144acd21e
-
 #### 《浪人崛起（Rise of the Ronin）》v1.09.0.5 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/810a70e3cf63
@@ -299,10 +303,6 @@
 #### 《寂静岭F（SILENT HILL F）豪华版》v1.2.382755 全DLC 中文版（心理恐怖游戏）
 
 夸克：https://pan.quark.cn/s/90391fdabda9
-
-#### 《忍者龙剑传4（NINJA GAIDEN 4）豪华版》v1.0.3.0 中文版
-
-夸克：https://pan.quark.cn/s/e47e913a8da7
 
 ---
 
