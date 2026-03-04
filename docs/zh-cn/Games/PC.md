@@ -53,6 +53,10 @@
 
 夸克：https://pan.quark.cn/s/bd8babd4aaf1
 
+#### 《The Legend of Khiimori》v0.5.0 中文版（古蒙古开放世界、养马、送信）
+
+夸克：https://pan.quark.cn/s/68a5c2635a39
+
 #### 《HORSES》v1.0.16500 中文版（心理暗示恐怖游戏）
 
 夸克：https://pan.quark.cn/s/8d168831c0c3
