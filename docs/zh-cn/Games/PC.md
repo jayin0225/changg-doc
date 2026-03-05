@@ -53,6 +53,18 @@
 
 夸克：https://pan.quark.cn/s/bd8babd4aaf1
 
+#### 《歪小子斯科特（Scott Pilgrim EX）》最新 中文版（轻动作冒险）
+
+夸克：https://pan.quark.cn/s/637a84201b57
+
+迅雷：https://pan.xunlei.com/s/VOmy2DnTfW9BP1aa5I0Q3cL1A1?pwd=fj2c#
+
+#### 《Forgotlings》v1.0.10 中文版（遗忘之物 遗忘之灵）
+
+夸克：https://pan.quark.cn/s/9e8b4e99c225
+
+迅雷：https://pan.xunlei.com/s/VOmy-wR7ZV-w7eoHmU6igqCjA1?pwd=yfzx#
+
 #### 《炎姬（Homura Hime）》v2026.3.4 中文版
 
 夸克：https://pan.quark.cn/s/68f43dacae6d
@@ -95,6 +107,10 @@
 
 夸克：https://pan.quark.cn/s/e47e913a8da7
 
+#### 《地球不屈（Terra Invicta）》v1.0.32 中文版
+
+夸克：https://pan.quark.cn/s/9ca7438200cb
+
 #### 《喵喵的结合（Mewgenics）》v1.0.20763 汉化版
 
 夸克：https://pan.quark.cn/s/9754a267780a
@@ -132,6 +148,12 @@
 #### 《骑马与砍杀2 霸主（Mount Blade 2 Bannerlord）豪华版》v1.3.15.109330 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/2ce76d085b7c
+
+#### 《边缘世界（Rimworld）》v1.6.4739a 全DLC 中文 联机版（附447个MOD）环世界
+
+夸克：https://pan.quark.cn/s/1ee10b6b0177
+
+迅雷：https://pan.xunlei.com/s/VNy6VAleusHrQf20JqcESyoTA1?pwd=q3kq#
 
 ---
 
@@ -2630,10 +2652,6 @@
 
 夸克：https://pan.quark.cn/s/47a7b2d1708b
 
-#### 《地球不屈（Terra Invicta）》v0.4.105 中文版
-
-夸克：https://pan.quark.cn/s/9ca7438200cb
-
 #### 《KeepUp Survival》v2025.10.15 全DLC 中文版（维持生存）
 
 夸克：https://pan.quark.cn/s/96ca98db61cf
@@ -4889,12 +4907,6 @@
 #### 《埃里克斯霍姆：被偷走的梦（Eriksholm The Stolen Dream）》v1.3 中文版
 
 夸克：https://pan.quark.cn/s/a00432a08a88
-
-#### 《边缘世界（Rimworld）》v1.6.4535 全DLC 中文 联机版（附447个MOD）环世界
-
-夸克：https://pan.quark.cn/s/1ee10b6b0177
-
-迅雷：https://pan.xunlei.com/s/VNy6VAleusHrQf20JqcESyoTA1?pwd=q3kq#
 
 #### 《原始星球（primal planet）》v1.0 中文版
 
