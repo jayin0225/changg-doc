@@ -53,7 +53,7 @@
 
 夸克：https://pan.quark.cn/s/bd8babd4aaf1
 
-#### 《歪小子斯科特（Scott Pilgrim EX）》最新 中文版（轻动作冒险）
+#### 《歪小子斯科特（Scott Pilgrim EX）》v1.0.0.13995 中文版（轻动作冒险）
 
 夸克：https://pan.quark.cn/s/637a84201b57
 
