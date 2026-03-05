@@ -260,7 +260,7 @@
 
 夸克：https://pan.quark.cn/s/601a22c5b461
 
-#### 《文明7》v1.3.2 NS整合 全DLC 中文版
+#### 《文明7》v1.3.2.1 NS整合 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/dc3b513887ff
 

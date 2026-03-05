@@ -17,7 +17,13 @@
 
 ## 正在更新中的...
 
-#### 《唐宫奇案之青雾风鸣》（2026）4K 更新中..
+#### 《岁月有情时》（2026）4K 30集全
+
+夸克：https://pan.quark.cn/s/e5a97cdfbd02
+
+迅雷：https://pan.xunlei.com/s/VOmxZNB4fW9BP1aa5I0PhsL2A1?pwd=55u3#
+
+#### 《唐宫奇案之青雾风鸣》（2026）4K 34集全
 
 夸克：https://pan.quark.cn/s/5788d35ddd83
 
@@ -35,7 +41,7 @@
 
 #### 《太平年》（2026）4K 48集全...
 
-夸克：和谐
+夸克：https://pan.quark.cn/s/0abcfa8cd8a8
 
 迅雷：https://pan.xunlei.com/s/VOlUiVM7A0Pv_ye6rtM-jKRpA1?pwd=5fmu#
 

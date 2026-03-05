@@ -53,6 +53,10 @@
 
 夸克：https://pan.quark.cn/s/bd8babd4aaf1
 
+#### 《连接 内心的噩梦（Connection The Nightmare Within）》v2026.3.5 中文版（恐怖解密）
+
+夸克：https://pan.quark.cn/s/ba4e0f565b98
+
 #### 《The Legend of Khiimori》v0.5.0 中文版（古蒙古开放世界、养马、送信）
 
 夸克：https://pan.quark.cn/s/68a5c2635a39
@@ -87,6 +91,10 @@
 
 夸克：https://pan.quark.cn/s/e47e913a8da7
 
+#### 《喵喵的结合（Mewgenics）》v1.0.20763 汉化版
+
+夸克：https://pan.quark.cn/s/9754a267780a
+
 #### 《刺客信条：幻景（Assassins Creed Mirage）》v1.11 全DLC 豪华中文版
 
 夸克：https://pan.quark.cn/s/2677d84177be
@@ -102,6 +110,10 @@
 #### 《模拟人生4（The Sims 4）豪华版》v1.121.372.1020 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/844d489a7abd
+
+#### 《星际裂变（StarRupture）支持者版》v0.1.3.114046-S 中文 联机版
+
+夸克：https://pan.quark.cn/s/83e2a97e0727
 
 #### 《暗黑破坏神2 重制版（Diablo II Resurrected）地狱版》v3.0.91735 全DLC 中文版
 
@@ -503,10 +515,6 @@
 #### 《迷你舒适房间：Lo-Fi（Mini Cozy Room）》v1.05.01 中文版（桌面小游戏）
 
 夸克：https://pan.quark.cn/s/e32e7d7f1328
-
-#### 《喵喵的结合（Mewgenics）》v1.0.20695 汉化版
-
-夸克：https://pan.quark.cn/s/9754a267780a
 
 #### 《幻想生活i 转圈圈的龙和偷取时间的少女（FANTASY LIFE i）豪华版》v2.1.2 中文 联机版
 
@@ -1297,10 +1305,6 @@
 #### 《洇客（Inked A Tale of Love）》Build.21146346 中文版
 
 夸克：https://pan.quark.cn/s/cf5a309c46c8
-
-#### 《星际裂变（StarRupture）》v0.1.0.112462-S 中文 联机版
-
-夸克：https://pan.quark.cn/s/83e2a97e0727
 
 #### 《DuneCrawl》v1.0.1 中文 联机版
 
