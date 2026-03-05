@@ -17,6 +17,12 @@
 
 ## 正在更新中的...
 
+#### 《江湖夜雨十年灯》（2026）4K 37集 更新中..
+
+夸克：https://pan.quark.cn/s/88e14ec40942
+
+迅雷：https://pan.xunlei.com/s/VOmyGVxhTwgD42nobbkbcxMJA1?pwd=e3ci#
+
 #### 《岁月有情时》（2026）4K 30集全
 
 夸克：https://pan.quark.cn/s/e5a97cdfbd02

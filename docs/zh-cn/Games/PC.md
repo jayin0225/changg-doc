@@ -155,6 +155,18 @@
 
 迅雷：https://pan.xunlei.com/s/VNy6VAleusHrQf20JqcESyoTA1?pwd=q3kq#
 
+#### 《零世代（Generation Zero）》v2921874 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/bf2664f019fa
+
+#### 《地球防卫军5（Earth Defense Force 5）》v1.0 全DLC 中文配音版
+<section class="no-title-h4">
+
+#### 《地球防卫军6（EARTH DEFENSE FORCE 6）》v2025.1.25 中文 联机版
+</section>
+
+夸克：https://pan.quark.cn/s/9e1dffbf5c9c
+
 ---
 
 ## 顶置游戏
@@ -7665,10 +7677,6 @@
 
 夸克：https://pan.quark.cn/s/1a6929cae1a2
 
-#### 《地球防卫军6（EARTH DEFENSE FORCE 6）》v2025.1.25 中文 联机版
-
-夸克：https://pan.quark.cn/s/9e1dffbf5c9c
-
 #### 《佣兵哀歌 巫女与七煞星（Mercenaries Lament Requiem of the Silver Wolf）》v2025.1.25 中文版
 
 夸克：https://pan.quark.cn/s/cc98612a9df1
@@ -9340,10 +9348,6 @@
 #### 《新星漂移（Nova Drift）》 v1.0.131 中文版
 
 夸克：https://pan.quark.cn/s/dc5d9df4a43e
-
-#### 《零世代（Generation Zero）》v2825950 全DLC 豪华中文版
-
-夸克：https://pan.quark.cn/s/bf2664f019fa
 
 #### 《星界边境（Starbound）》v1.4.4 中文 联机版（通过Radmin LAN联机）
 
