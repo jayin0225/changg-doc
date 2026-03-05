@@ -53,6 +53,10 @@
 
 夸克：https://pan.quark.cn/s/bd8babd4aaf1
 
+#### 《炎姬（Homura Hime）》v2026.3.4 中文版
+
+夸克：https://pan.quark.cn/s/68f43dacae6d
+
 #### 《连接 内心的噩梦（Connection The Nightmare Within）》v2026.3.5 中文版（恐怖解密）
 
 夸克：https://pan.quark.cn/s/ba4e0f565b98
@@ -94,6 +98,8 @@
 #### 《喵喵的结合（Mewgenics）》v1.0.20763 汉化版
 
 夸克：https://pan.quark.cn/s/9754a267780a
+
+迅雷：https://pan.xunlei.com/s/VOmxhVUr1fSgQpCdJjFlzXWTA1?pwd=h2gc#
 
 #### 《刺客信条：幻景（Assassins Creed Mirage）》v1.11 全DLC 豪华中文版
 
