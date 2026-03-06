@@ -53,6 +53,10 @@
 
 夸克：https://pan.quark.cn/s/bd8babd4aaf1
 
+#### 《圣战群英传 统治（Disciples Domination）豪华版》v1.5.0.3413 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/7dd4f4d5fc5a
+
 #### 《杀戮尖塔2（Slay the Spire 2 》v0.98.0 中文 联机版（附第一部）
 
 夸克：https://pan.quark.cn/s/4a575dc211fc
@@ -152,6 +156,10 @@
 #### 《忍者龙剑传4（NINJA GAIDEN 4）豪华版》v1.0.4.0 全DLC 中文版（新增DLC）
 
 夸克：https://pan.quark.cn/s/e47e913a8da7
+
+#### 《星砂岛（StarSand Island）豪华版》v1.0.0.6982 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/4e45aaaed917
 
 #### 《永恒天空（Forever Skies）豪华版》v1.2.2 全DLC 中文 联机版
 
@@ -778,10 +786,6 @@
 #### 《HumanitZ》v1.0XZ 中文 联机版（丧尸生存游戏）
 
 夸克：https://pan.quark.cn/s/0fcd0ac081da
-
-#### 《星砂岛（StarSand Island 》v1.0.0.6359 中文版
-
-夸克：https://pan.quark.cn/s/4e45aaaed917
 
 #### 《桃源村日志（Halcyon Days at Taoyuan 》v1.0.7 全DLC 中文版
 
