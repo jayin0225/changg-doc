@@ -31,13 +31,7 @@
 
 夸克：https://pan.quark.cn/s/05b592559999
 
-#### 《陆地键仙》（2024）4K 每周一四 更新中..
-
-夸克：https://pan.quark.cn/s/1484538be9e4
-
-迅雷：https://pan.xunlei.com/s/VO0rzBePyNZ-1lF1HAlnIlaoA1?pwd=8v2s#
-
-----
+---
 
 ## 周二
 
@@ -47,6 +41,12 @@
 
 迅雷：https://pan.xunlei.com/s/VNlbtym7EZ_QMc4gjpiw4ijKA1?pwd=i5sw#
 
+#### 《百炼成神》（2022-2026）4K 第3季 周二 更新中 （附1-2季全）
+
+夸克：https://pan.quark.cn/s/843dfbaa3338
+
+迅雷：https://pan.xunlei.com/s/VNyGBGY-qwfi6xY7eyt6uu69A1?pwd=nbdd#
+
 #### 《炼气十万年》 1080P 周二、六 更新中..
 
 夸克：https://pan.quark.cn/s/6386d48eece8
@@ -55,17 +55,7 @@
 
 阿里：<https://www.aliyundrive.com/s/r1G6hvSKquu>
 
-#### 《丹道至尊》4K 第二季 每周二、五更新中..（附第一季）
-
-夸克：https://pan.quark.cn/s/7e7266c5cf85
-
-迅雷：https://pan.xunlei.com/s/VO81PYHm8Dw1hvdP6dNWoPoPA1?pwd=k8ck#
-
-#### 《无上神帝》（2020-2025）4K 周二周六更新中...
-
-夸克：https://pan.quark.cn/s/188c6997cbc5
-
-----
+---
 
 ## 周三
 
@@ -83,7 +73,7 @@
 
 夸克：https://pan.quark.cn/s/7915edbcba01
 
-----
+---
 
 ## 周四
 
@@ -105,31 +95,15 @@
 
 迅雷：https://pan.xunlei.com/s/VNm9axELHxKie2GFFXpIfxiUA1?pwd=rg86#
 
-#### 《诛仙》（2022-2025）4K 第3季 更新中..（附1-2季 4K 52集全）
-
-夸克：https://pan.quark.cn/s/c1ad42314f24
-
-迅雷：https://pan.xunlei.com/s/VNv3-1U53KF0Ir94-IdLypI6A1?pwd=4gbr#
-
-----
+---
 
 ## 周五
-
-#### 《沧元图》（2023-2024）4K 第二季 周五更新中（附第1季+番外）
-
-夸克：https://pan.quark.cn/s/9a3b4053e721
-
-迅雷：https://pan.xunlei.com/s/VNlYsvPLkg8YO95zddRZU7szA1?pwd=hk3r#
 
 #### 《完美世界》（2024）4K 周五 更新中..
 
 夸克：https://pan.quark.cn/s/4cc4be466f22
 
 迅雷：https://pan.xunlei.com/s/VNl7gMz6RajsUgWO5aRp45iYA1?pwd=8yf3#
-
-#### 《苍兰诀》4K 第二季  周五 更新中..（附第一季）
-
-夸克：https://pan.quark.cn/s/587ba6452488
 
 #### 《神墓》（2025）4K 周五 更新中..
 
@@ -157,9 +131,9 @@
 
 迅雷：https://pan.xunlei.com/s/VNlbNf2226IuEY5n_XEDN2lcA1?pwd=k8b9#
 
-#### 《云深不知梦》（2025）4K 周六 26集更新中..
+#### 《择天记》（2026）4K 周六 更新中..
 
-夸克：https://pan.quark.cn/s/c14c0832190a
+夸克：https://pan.quark.cn/s/40c180924fe3
 
 ---
 
@@ -175,15 +149,45 @@
 
 夸克：https://pan.quark.cn/s/817fe07b45ff
 
+#### 《光阴之外》（2026）4K 周日 更新中..
+
+夸克：https://pan.quark.cn/s/04be3106ee7b
+
 #### 《仙王的日常生活》（2020-2025）4K 第五季更新中..（附1-4季）
 
 夸克：https://pan.quark.cn/s/2c0d0f31a1a3
 
 迅雷：<https://pan.xunlei.com/s/VNlqUdpI7vRpuPY2FKkeEsYvA1>
 
-----
+---
 
 ## 暂时完结
+
+#### 《诛仙》（2022-2025）4K 1-3季全
+
+夸克：https://pan.quark.cn/s/c1ad42314f24
+
+迅雷：https://pan.xunlei.com/s/VNv3-1U53KF0Ir94-IdLypI6A1?pwd=4gbr#
+
+#### 《陆地键仙》（2024）4K 150集全
+
+夸克：https://pan.quark.cn/s/1484538be9e4
+
+迅雷：https://pan.xunlei.com/s/VO0rzBePyNZ-1lF1HAlnIlaoA1?pwd=8v2s#
+
+#### 《苍兰诀 动画版》（2022-2025）4K 1-2季全
+
+夸克：https://pan.quark.cn/s/587ba6452488
+
+#### 《沧元图》（2023-2024）4K 1-2季全+番外
+
+夸克：https://pan.quark.cn/s/9a3b4053e721
+
+迅雷：https://pan.xunlei.com/s/VNlYsvPLkg8YO95zddRZU7szA1?pwd=hk3r#
+
+#### 《云深不知梦》（2025）4K 周六 26集全
+
+夸克：https://pan.quark.cn/s/c14c0832190a
 
 #### 《龙族》（2022-2025）4K 1-2季全 （附小说全集）
 
@@ -337,12 +341,6 @@
 
 迅雷：https://pan.xunlei.com/s/VNz8IVTDQ-MpJASXv8g5pEbjA1?pwd=43qp#
 
-#### 《百炼成神》（2022-2023）4K 1-2季全
-
-夸克：https://pan.quark.cn/s/8e81f3b9399a
-
-迅雷：https://pan.xunlei.com/s/VNyGBGY-qwfi6xY7eyt6uu69A1?pwd=nbdd#
-
 #### 《大主宰》（2023）4K 52集全
 
 夸克：https://pan.quark.cn/s/ee63e9c958fb
@@ -427,7 +425,7 @@
 
 迅雷：https://pan.xunlei.com/s/VNlYw6EyCA9xSF_4MmmD6b26A1?pwd=uy8h#
 
-#### 《从红月开始》（2023）16集全
+#### 《从红月开始》（2023）1080P 16集全
 
 夸克：https://pan.quark.cn/s/1b63011e5ea7
 
