@@ -135,6 +135,15 @@
 
 迅雷：https://pan.xunlei.com/s/VOmT_XDcqP8F9cbH2PvmbqoGA1?pwd=pstx#
 
+#### 《毁灭战士2 增强合集版（DOOM plus DOOM II Enhanced 》v2025.4.173 中文版
+<section class="no-title-h4">
+
+#### 《毁灭战士4（DOOM 2016）》v20240321f 全DLC 中文版
+#### 《毁灭战士 永恒（DOOM Eternal）豪华版》v2026.2.12 全DLC 中文版
+</section>
+
+夸克：https://pan.quark.cn/s/5d002d83f9e0
+
 ---
 
 ## 最近更新
@@ -695,10 +704,6 @@
 夸克：https://pan.quark.cn/s/dffcc45a56c8
 
 迅雷：https://pan.xunlei.com/s/VNpuBMgpFJ9XqL05KHqG9sl2A1?pwd=v8sz#
-
-#### 《毁灭战士 永恒（DOOM Eternal）豪华版》v2026.2.12 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/5d002d83f9e0
 
 #### 《暗使 导演剪辑版（Dark Envoy 》v1.9.2.75237 全DLC 中文版
 
@@ -4327,10 +4332,6 @@
 #### 《City Defense Z》v2025.8.26 中文版（末世丧尸防御、策略塔防游戏）
 
 夸克：https://pan.quark.cn/s/73495eb5b55a
-
-#### 《毁灭战士2 增强合集版（DOOM plus DOOM II Enhanced 》v2025.4.173 中文版
-
-夸克：https://pan.quark.cn/s/4ada98d22bbc
 
 #### 《Lapin》v1.9.2.0 中文版（2D平台跳跃游戏）
 
