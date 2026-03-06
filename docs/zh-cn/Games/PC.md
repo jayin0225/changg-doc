@@ -67,6 +67,12 @@
 
 夸克：https://pan.quark.cn/s/1ccf61a07d10
 
+#### 《不寐之境 女巫与魔咒（Never Grave）豪华版》v1.2c 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/6197ef9535ca
+
+迅雷：https://pan.xunlei.com/s/VOn1x_9ygSripejYRyVIkvOhA1?pwd=r4ga#
+
 #### 《杀戮空间2（Killing Floor 2）》v1150 全DLC 中文 联机版
 <section class="no-title-h4">
 
@@ -142,6 +148,24 @@
 #### 《忍者龙剑传4（NINJA GAIDEN 4）豪华版》v1.0.4.0 全DLC 中文版（新增DLC）
 
 夸克：https://pan.quark.cn/s/e47e913a8da7
+
+#### 《永恒天空（Forever Skies）豪华版》v1.2.2 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/13bbd841c5dd
+
+#### 《欧陆风云5（Europa Universalis V）高级版》v1.1.9 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/4cb951396b5f
+
+#### 《北境之地（Northgard）豪华版》v4.0.19.43315 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/b9d16fda4a89
+
+迅雷：https://pan.xunlei.com/s/VOn2-Al7p7pepL7c2qU8TN3HA1?pwd=knc3#
+
+#### 《月球任务（ROUTINE）》v2.1.0.0 中文版（科幻恐怖游戏）
+
+夸克：https://pan.quark.cn/s/199d7e6f3ab3
 
 #### 《地球不屈（Terra Invicta）》v1.0.32 中文版
 
@@ -1108,10 +1132,6 @@
 
 夸克：https://pan.quark.cn/s/4912658febe6
 
-#### 《欧陆风云5（Europa Universalis V）高级版》v1.0.11 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/4cb951396b5f
-
 #### 《黄金像凶杀案再起（The Rise of the Golden Idol）》v1.0.2 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/b903b4d498ba
@@ -1748,10 +1768,6 @@
 
 夸克：https://pan.quark.cn/s/9b516a2cf02e
 
-#### 《月球任务（ROUTINE）》v1.7.0.0 中文版（科幻恐怖游戏）
-
-夸克：https://pan.quark.cn/s/199d7e6f3ab3
-
 #### 《异形：火力精英（Aliens Fireteam Elite）》v1.0.5.114949 全DLC 中文 联机版（异形：精英小队）
 
 夸克：https://pan.quark.cn/s/4566be55e147
@@ -2375,10 +2391,6 @@
 #### 《太太！我喜欢你！（Sensei I Like You So Much）》v1.0.0.1028 中文版
 
 夸克：https://pan.quark.cn/s/a64a7ae50f98
-
-#### 《永恒天空（Forever Skies）豪华版》v1.1.0 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/13bbd841c5dd
 
 #### 《CONERU -DIMENSION GIRL-》v2025.10.24 中文版（可爱捏次元少女科涅鲁2D动作）
 
@@ -3517,10 +3529,6 @@
 #### 《活体脑细胞（SOMA）》v2025.9.22 中文版（科幻恐怖）
 
 夸克：https://pan.quark.cn/s/0b4ab975b7a3
-
-#### 《北境之地（Northgard）》v3.7.52.42509 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/b9d16fda4a89
 
 #### 《最终幻想起源：天堂的陌生人(Stranger of Paradise Final Fantasy Origin)》v1.32 全DLC 中文 联机版
 
