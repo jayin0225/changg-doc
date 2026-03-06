@@ -386,7 +386,7 @@
 
 夸克：https://pan.quark.cn/s/a790722c6760
 
-迅雷：https://pan.xunlei.com/s/vNr9wvG_C3DWufWRhvGfh-hdA1?pwd=zwkw#
+迅雷：https://pan.xunlei.com/s/VNrANXUqoXh0FhgZXKSMSQKKA1?pwd=ww8t#
 
 #### 《航天模拟器（Spaceflight Simulator ）》v1.5.10.2 安卓 汉化版
 

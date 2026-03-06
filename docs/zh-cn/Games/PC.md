@@ -57,6 +57,24 @@
 
 夸克：https://pan.quark.cn/s/4a575dc211fc
 
+迅雷：https://pan.xunlei.com/s/VOn16_QKz4Jp1DEcW0xhiiCHA1?pwd=7vj7#
+
+#### 《拉娜之星2（Planet of Lana 2）》v1.0.13 全DLC 中文版
+<section class="no-title-h4">
+
+#### 《拉娜之星（Planet of Lana）》v1.1.0.0 中文版
+</section>
+
+夸克：https://pan.quark.cn/s/1ccf61a07d10
+
+#### 《杀戮空间2（Killing Floor 2）》v1150 全DLC 中文 联机版
+<section class="no-title-h4">
+
+#### 《杀戮空间3（Killing Floor 3）》Build.19273238 全DLC 中文版（恐怖射击）
+</section>
+
+夸克：https://pan.quark.cn/s/02ab4ad5f5ea
+
 #### 《歪小子斯科特（Scott Pilgrim EX）》v1.0.0.13995 中文版（轻动作冒险）
 
 夸克：https://pan.quark.cn/s/637a84201b57
@@ -107,6 +125,20 @@
 
 ## 最近更新
 
+#### 《王国保卫战5 联盟（Kingdom Rush 5 Alliance TD）》v7.00.36 全DLC 中文版（新增巨龙战争DLC）
+<section class="no-title-h4">
+
+#### 《王国保卫战 传奇（Legends of Kingdom Rush）》Build 9031157 中文版（外传 回合制）
+#### 《王国保卫战 复仇（Kingdom Rush Vengeance）》v1.16.3.16 全DLC 中文版
+#### 《王国保卫战 起源（Kingdom Rush Origins）》v4.2.15 中文版
+#### 《王国保卫战 前线（Kingdom Rush Frontiers）》v5.4.07 中文版
+#### 《王国保卫战 初代（Kingdom Rush）》v5.6.12 中文版
+</section>
+
+夸克：https://pan.quark.cn/s/6ebbd43de752
+
+迅雷：https://pan.xunlei.com/s/VNrANXUqoXh0FhgZXKSMSQKKA1?pwd=ww8t#
+
 #### 《忍者龙剑传4（NINJA GAIDEN 4）豪华版》v1.0.4.0 全DLC 中文版（新增DLC）
 
 夸克：https://pan.quark.cn/s/e47e913a8da7
@@ -114,6 +146,12 @@
 #### 《地球不屈（Terra Invicta）》v1.0.32 中文版
 
 夸克：https://pan.quark.cn/s/9ca7438200cb
+
+#### 《动物迷城（Back to the Dawn）支持者版》v2.0.0.31 中文版
+
+夸克：https://pan.quark.cn/s/1b93e06b30f9
+
+迅雷：https://pan.xunlei.com/s/VOn1Ee7dTwgD42nobbkdz65HA1?pwd=cckz#
 
 #### 《喵喵的结合（Mewgenics）》v1.0.20763 汉化版
 
@@ -4366,10 +4404,6 @@
 
 夸克：https://pan.quark.cn/s/15d5e510ec67
 
-#### 《动物迷城（Back to the Dawn）》v2.0.0.27 中文版
-
-夸克：https://pan.quark.cn/s/1b93e06b30f9
-
 #### 《异形战机最终版2（R-Type Final 2）》v2.0.4 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/3d88af851101
@@ -4907,10 +4941,6 @@
 #### 《指环王：夏尔传说（Tales of the Shire A The Lord of The Rings Game）》v2025.7.30 中文版（种田钓鱼做饭）
 
 夸克：https://pan.quark.cn/s/791504d6fd8b
-
-#### 《杀戮空间3（Killing Floor 3）》Build.19273238 全DLC 中文版（恐怖射击）
-
-夸克：https://pan.quark.cn/s/02ab4ad5f5ea
 
 #### 《战锤40K：角斗士之战争圣器（Warhammer 40000 Gladius Relics of War）》v1.16.2 全DLC 中文版
 
@@ -10823,10 +10853,6 @@
 
 迅雷：https://pan.xunlei.com/s/VNwLRohlSlj_nWHTYlOLDsBBA1?pwd=zb66#
 
-#### 《拉娜之星》最新 中文版
-
-夸克：https://pan.quark.cn/s/1ccf61a07d10
-
 #### 《吞噬者：被猎杀的灵魂》最新 中文联机版
 
 夸克：https://pan.quark.cn/s/43b0d9a8edbc
@@ -11421,12 +11447,6 @@
 #### 《正当防卫 系列合集（Just Cause）豪华版》3部 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/79965ca81c2b
-
-#### 《王国保卫战 系列合集（Kingdom Rush）6部》v2025.9.26 全DLC 中文版（电脑版）新增DLC
-
-夸克：https://pan.quark.cn/s/6ebbd43de752
-
-迅雷：https://pan.xunlei.com/s/VNrANXUqoXh0FhgZXKSMSQKKA1?pwd=ww8t#
 
 #### 《黑道圣徒 系列合集（Saints Row）》5部 最新 全DLC 汉化 联机版
 
