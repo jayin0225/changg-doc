@@ -53,6 +53,10 @@
 
 夸克：https://pan.quark.cn/s/bd8babd4aaf1
 
+#### 《杀戮尖塔2（Slay the Spire 2）》v0.98.0 中文 联机版（附第一部）
+
+夸克：https://pan.quark.cn/s/4a575dc211fc
+
 #### 《歪小子斯科特（Scott Pilgrim EX）》v1.0.0.13995 中文版（轻动作冒险）
 
 夸克：https://pan.quark.cn/s/637a84201b57
@@ -162,7 +166,7 @@
 #### 《地球防卫军5（Earth Defense Force 5）》v1.0 全DLC 中文配音版
 <section class="no-title-h4">
 
-#### 《地球防卫军6（EARTH DEFENSE FORCE 6）》v2025.1.25 中文 联机版
+#### 《地球防卫军6（Earth Defense Force 6）》v2025.1.25 中文 联机版
 </section>
 
 夸克：https://pan.quark.cn/s/9e1dffbf5c9c
@@ -6090,10 +6094,6 @@
 #### 《泰坦之旅：不朽王座 周年纪念版（Titan Quest Anniversary Edition）》Build.16405061 中文版
 
 夸克：https://pan.quark.cn/s/09119e378b8c
-
-#### 《杀戮尖塔（Slay the Spire）》v2.3.4 中文版 + MOD整合版
-
-夸克：https://pan.quark.cn/s/4a575dc211fc
 
 #### 《火影忍者：究极忍者风暴3 完全爆发HD》v1.0.7 汉化版（支持键盘）
 
