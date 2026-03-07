@@ -117,6 +117,10 @@
 
 夸克：https://pan.quark.cn/s/d85c3cbd470e
 
+#### 《灵墟（Lingxu）》v1.0.0.7 中文版
+
+夸克：https://pan.quark.cn/s/d52a94350a3b
+
 #### 《辐射谷物语（Atomicrops）豪华版》v1.7.0f3 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/5651b6ecb8e6
