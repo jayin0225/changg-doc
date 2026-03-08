@@ -170,6 +170,10 @@
 
 ## 最近更新
 
+#### 《天国拯救2（Kingdom Come Deliverance II）黄金版》v1.5.3 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/7c6b8f30675c
+
 #### 《王国保卫战5 联盟（Kingdom Rush 5 Alliance TD 》v7.00.36 全DLC 中文版（新增巨龙战争DLC）
 <section class="no-title-h4">
 
@@ -393,10 +397,6 @@
 夸克：https://pan.quark.cn/s/a8016e2149c5
 
 迅雷：https://pan.xunlei.com/s/VNoGSO4FQkxnHiGPS-X13LkSA1?pwd=5j2h#
-
-#### 《天国拯救2（Kingdom Come Deliverance II）黄金版》v1.5.2 全DLC 中文版（新增修院迷踪DLC）
-
-夸克：https://pan.quark.cn/s/7c6b8f30675c
 
 #### 《寂静岭F（SILENT HILL F）豪华版》v1.2.382755 全DLC 中文版（心理恐怖游戏）
 
