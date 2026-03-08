@@ -217,6 +217,16 @@
 
 夸克：https://pan.quark.cn/s/8b77ccfd6a7f
 
+#### 《战地1、战地2 支持联机、战地3、战地4、战地5》
+<section class="no-title-h4">
+
+#### 《战地风云6（Battlefield 6 》v1.1.2.0 全DLC 中文版
+</section>
+
+夸克：https://pan.quark.cn/s/11019cbca2fb
+
+迅雷：https://pan.xunlei.com/s/VNy6N7_VqN1TCTRT3obX19KWA1?pwd=z8ac#
+
 ---
 
 ## 顶置游戏
@@ -297,10 +307,6 @@
 #### 《光与影：33号远征队（Clair Obscur Expedition 33）豪华版》v61711 中文版
 
 夸克：https://pan.quark.cn/s/32c452be1479
-
-#### 《战地风云6（Battlefield 6 》v1.1.2.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/11019cbca2fb
 
 #### 《末日的回声（Echoes of the End）增强版》v2.0.3 中文版（魂类游戏）
 
@@ -11051,14 +11057,6 @@
 夸克：https://pan.quark.cn/s/f618becc1c8f
 
 迅雷：https://pan.xunlei.com/s/VNy6LAsi4eAnQARlG4R_5SlpA1?pwd=tbu9#
-
-#### 《战地5》附历代作品
-
-夸克：https://pan.quark.cn/s/b4c8f92bef6d
-
-#### 《战地3》最新 中文版
-
-迅雷：https://pan.xunlei.com/s/VNy6N7_VqN1TCTRT3obX19KWA1?pwd=z8ac#
 
 #### 《剑士》kenshi v1.0.59b(53777) 中文版 附 修改器
 
