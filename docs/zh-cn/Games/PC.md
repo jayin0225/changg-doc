@@ -92,6 +92,10 @@
 迅雷：https://pan.xunlei.com/s/VOn1x_9ygSripejYRyVIkvOhA1?pwd=r4ga#
 
 #### 《崛起2 黑暗水域（Risen 2 Dark Waters）》v1.0.1210 全DLC 汉化版
+<section class="no-title-h4">
+
+#### 《崛起3：泰坦之王（Risen 3 Titan Lords）》v1.2ee 全DLC 汉化版
+</section>
 
 夸克：https://pan.quark.cn/s/b459c82f9841
 
@@ -211,6 +215,7 @@
 #### 《龙腾世纪2（Dragon Age 2）终极版》v1.04 全DLC 汉化版
 <section class="no-title-h4">
 
+#### 《龙腾世纪 起源（Dragon Age Origins）终极版》v1.05 全DLC 汉化版
 #### 《龙腾世纪3：审判（Dragon Age Inquisition）年度版》v2025.12.31 全DLC 汉化版
 #### 《龙腾世纪：影障守护者（Dragon Age The Veilguard）豪华版》v1.0.0.0 全DLC 中文版
 </section>
