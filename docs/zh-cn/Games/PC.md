@@ -63,6 +63,16 @@
 
 迅雷：https://pan.xunlei.com/s/VOn16_QKz4Jp1DEcW0xhiiCHA1?pwd=7vj7#
 
+#### 《圆木骑士（Log Riders）》v1.071 中文 联机版
+
+夸克：https://pan.quark.cn/s/01176b681821
+
+迅雷：https://pan.xunlei.com/s/VOnD0hYeAwYhSvLvw5WqCVWxA1?pwd=a9i2
+
+#### 《探案法 加拿大档案（Methods The Canada Files）》v1.0 中文版
+
+夸克：https://pan.quark.cn/s/aeba75d104bf
+
 #### 《拉娜之星2（Planet of Lana 2 》v1.0.13 全DLC 中文版
 <section class="no-title-h4">
 
@@ -71,11 +81,19 @@
 
 夸克：https://pan.quark.cn/s/1ccf61a07d10
 
+#### 《蛮荒计划（Ferocious）》v1.06 中文版
+
+夸克：https://pan.quark.cn/s/2f2a7280d767
+
 #### 《不寐之境 女巫与魔咒（Never Grave）豪华版》v1.2c 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/6197ef9535ca
 
 迅雷：https://pan.xunlei.com/s/VOn1x_9ygSripejYRyVIkvOhA1?pwd=r4ga#
+
+#### 《崛起2 黑暗水域（Risen 2 Dark Waters）》v1.0.1210 全DLC 汉化版
+
+夸克：https://pan.quark.cn/s/b459c82f9841
 
 #### 《杀戮空间2（Killing Floor 2 》v1150 全DLC 中文 联机版
 <section class="no-title-h4">
@@ -182,81 +200,18 @@
 
 夸克：https://pan.quark.cn/s/4cb951396b5f
 
-#### 《北境之地（Northgard）豪华版》v4.0.19.43315 全DLC 中文 联机版
+#### 《虐杀熔炉（KIBORG 》V2026.3.2 全DLC 中文版
 
-夸克：https://pan.quark.cn/s/b9d16fda4a89
+夸克：https://pan.quark.cn/s/d590ba9f9318
 
-迅雷：https://pan.xunlei.com/s/VOn2-Al7p7pepL7c2qU8TN3HA1?pwd=knc3#
-
-#### 《月球任务（ROUTINE 》v2.1.0.0 中文版（科幻恐怖游戏）
-
-夸克：https://pan.quark.cn/s/199d7e6f3ab3
-
-#### 《地球不屈（Terra Invicta 》v1.0.32 中文版
-
-夸克：https://pan.quark.cn/s/9ca7438200cb
-
-#### 《动物迷城（Back to the Dawn）支持者版》v2.0.0.31 中文版
-
-夸克：https://pan.quark.cn/s/1b93e06b30f9
-
-迅雷：https://pan.xunlei.com/s/VOn1Ee7dTwgD42nobbkdz65HA1?pwd=cckz#
-
-#### 《喵喵的结合（Mewgenics 》v1.0.20763 汉化版
-
-夸克：https://pan.quark.cn/s/9754a267780a
-
-迅雷：https://pan.xunlei.com/s/VOmxhVUr1fSgQpCdJjFlzXWTA1?pwd=h2gc#
-
-#### 《刺客信条：幻景（Assassins Creed Mirage 》v1.11 全DLC 豪华中文版
-
-夸克：https://pan.quark.cn/s/2677d84177be
-
-#### 《污痕圣杯：阿瓦隆的陨落（Tainted Grail The Fall of Avalon 》v1.20 全DLC 中文版（魂游）
-
-夸克：https://pan.quark.cn/s/f45144acd21e
-
-#### 《失落城堡2（Lost Castle 2 》v0.9.3.8 中文 联机版
-
-夸克：https://pan.quark.cn/s/f391be81e520
-
-#### 《模拟人生4（The Sims 4）豪华版》v1.121.372.1020 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/844d489a7abd
-
-#### 《星际裂变（StarRupture）支持者版》v0.1.3.114046-S 中文 联机版
-
-夸克：https://pan.quark.cn/s/83e2a97e0727
-
-#### 《暗黑破坏神2 重制版（Diablo II Resurrected）地狱版》v3.0.91735 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/379c96e02b6c
-
-#### 《饿狼传说 群狼之城（FATAL FURY City of the Wolves 》v1.8.0 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/8edad4bbd88e
-
-#### 《骑马与砍杀2 霸主（Mount Blade 2 Bannerlord）豪华版》v1.3.15.109330 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/2ce76d085b7c
-
-#### 《边缘世界（Rimworld 》v1.6.4739a 全DLC 中文 联机版（附447个MOD）环世界
-
-夸克：https://pan.quark.cn/s/1ee10b6b0177
-
-迅雷：https://pan.xunlei.com/s/VNy6VAleusHrQf20JqcESyoTA1?pwd=q3kq#
-
-#### 《零世代（Generation Zero 》v2921874 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/bf2664f019fa
-
-#### 《地球防卫军5（Earth Defense Force 5 》v1.0 全DLC 中文配音版
+#### 《龙腾世纪2（Dragon Age 2）终极版》v1.04 全DLC 汉化版
 <section class="no-title-h4">
 
-#### 《地球防卫军6（Earth Defense Force 6 》v2025.1.25 中文 联机版
+#### 《龙腾世纪3：审判（Dragon Age Inquisition）年度版》v2025.12.31 全DLC 汉化版
+#### 《龙腾世纪：影障守护者（Dragon Age The Veilguard）豪华版》v1.0.0.0 全DLC 中文版
 </section>
 
-夸克：https://pan.quark.cn/s/9e1dffbf5c9c
+夸克：https://pan.quark.cn/s/8b77ccfd6a7f
 
 ---
 
@@ -450,6 +405,83 @@
 ---
 
 ## 已有游戏
+
+
+#### 《北境之地（Northgard）豪华版》v4.0.19.43315 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/b9d16fda4a89
+
+迅雷：https://pan.xunlei.com/s/VOn2-Al7p7pepL7c2qU8TN3HA1?pwd=knc3#
+
+#### 《月球任务（ROUTINE 》v2.1.0.0 中文版（科幻恐怖游戏）
+
+夸克：https://pan.quark.cn/s/199d7e6f3ab3
+
+#### 《地球不屈（Terra Invicta 》v1.0.32 中文版
+
+夸克：https://pan.quark.cn/s/9ca7438200cb
+
+#### 《动物迷城（Back to the Dawn）支持者版》v2.0.0.31 中文版
+
+夸克：https://pan.quark.cn/s/1b93e06b30f9
+
+迅雷：https://pan.xunlei.com/s/VOn1Ee7dTwgD42nobbkdz65HA1?pwd=cckz#
+
+#### 《喵喵的结合（Mewgenics 》v1.0.20763 汉化版
+
+夸克：https://pan.quark.cn/s/9754a267780a
+
+迅雷：https://pan.xunlei.com/s/VOmxhVUr1fSgQpCdJjFlzXWTA1?pwd=h2gc#
+
+#### 《刺客信条：幻景（Assassins Creed Mirage 》v1.11 全DLC 豪华中文版
+
+夸克：https://pan.quark.cn/s/2677d84177be
+
+#### 《污痕圣杯：阿瓦隆的陨落（Tainted Grail The Fall of Avalon 》v1.20 全DLC 中文版（魂游）
+
+夸克：https://pan.quark.cn/s/f45144acd21e
+
+#### 《失落城堡2（Lost Castle 2 》v0.9.3.8 中文 联机版
+
+夸克：https://pan.quark.cn/s/f391be81e520
+
+#### 《模拟人生4（The Sims 4）豪华版》v1.121.372.1020 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/844d489a7abd
+
+#### 《星际裂变（StarRupture）支持者版》v0.1.3.114046-S 中文 联机版
+
+夸克：https://pan.quark.cn/s/83e2a97e0727
+
+#### 《暗黑破坏神2 重制版（Diablo II Resurrected）地狱版》v3.0.91735 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/379c96e02b6c
+
+#### 《饿狼传说 群狼之城（FATAL FURY City of the Wolves 》v1.8.0 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/8edad4bbd88e
+
+#### 《骑马与砍杀2 霸主（Mount Blade 2 Bannerlord）豪华版》v1.3.15.109330 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/2ce76d085b7c
+
+#### 《边缘世界（Rimworld 》v1.6.4739a 全DLC 中文 联机版（附447个MOD）环世界
+
+夸克：https://pan.quark.cn/s/1ee10b6b0177
+
+迅雷：https://pan.xunlei.com/s/VNy6VAleusHrQf20JqcESyoTA1?pwd=q3kq#
+
+#### 《零世代（Generation Zero 》v2921874 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/bf2664f019fa
+
+#### 《地球防卫军5（Earth Defense Force 5 》v1.0 全DLC 中文配音版
+<section class="no-title-h4">
+
+#### 《地球防卫军6（Earth Defense Force 6 》v2025.1.25 中文 联机版
+</section>
+
+夸克：https://pan.quark.cn/s/9e1dffbf5c9c
 
 #### 《龙与地下城 黑暗联盟（Dungeons Dragons Dark Alliance）豪华版》v1.21.3891 全DLC 中文版
 
@@ -698,10 +730,6 @@
 #### 《失落之魂（Lost Soul Aside）豪华版》v1.101 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/254473ee08f7
-
-#### 《龙腾世纪3：审判（Dragon Age Inquisition）年度版》v2025.12.31 全DLC 汉化版
-
-夸克：https://pan.quark.cn/s/dfabe34160e7
 
 #### 《苍翼 混沌效应（BlazBlue Entropy Effect 》v1.0.8.139897.0 全DLC 中文版
 
@@ -1242,10 +1270,6 @@
 #### 《超英派遣中心（Dispatch）豪华版》v1.0.16598 全DLC 中文版（完整版）
 
 夸克：https://pan.quark.cn/s/afd55c48d634
-
-#### 《虐杀熔炉（KIBORG 》V2021.1.15 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/d590ba9f9318
 
 #### 《费卢杰六日（Six Days in Fallujah 》v0.5.0.0 中文 联机版
 
@@ -6659,10 +6683,6 @@
 #### 《木偶往事（Once Upon A Puppet 》v2.14.4.1 中文版（冒险解密）
 
 夸克：https://pan.quark.cn/s/36c5e5027ad2
-
-#### 《龙腾世纪：影障守护者（Dragon Age The Veilguard 》v1.0.0.0 全DLC 豪华中文版
-
-夸克：https://pan.quark.cn/s/8b77ccfd6a7f
 
 #### 《神界原罪2（Divinity Original Sin 2）最终版》v3.6.117.3735 全DLC 中文 联机版
 
