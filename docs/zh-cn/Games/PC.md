@@ -94,7 +94,7 @@
 #### 《崛起2 黑暗水域（Risen 2 Dark Waters）》v1.0.1210 全DLC 汉化版
 <section class="no-title-h4">
 
-#### 《崛起3：泰坦之王（Risen 3 Titan Lords）》v1.2ee 全DLC 汉化版
+#### 《崛起3 泰坦之王（Risen 3 Titan Lords）》v1.2ee 全DLC 汉化版
 </section>
 
 夸克：https://pan.quark.cn/s/b459c82f9841
