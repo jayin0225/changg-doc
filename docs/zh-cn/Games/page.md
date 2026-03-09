@@ -24,8 +24,7 @@
 
     2.1 安装微软运行库即可解决，新手和不懂的建议全部安装即可 (安装好后要重启电脑)  
         夸克：https://pan.quark.cn/s/05181b7ac791  
-        迅雷：https://pan.xunlei.com/s/VNobUDzBi27vywiLpZN_NLGXA1?pwd=2skw#
-
+        迅雷：https://pan.xunlei.com/s/VNobUDzBi27vywiLpZN_NLGXA1?pwd=2skw#  
     2.2 游戏存放路径文件夹有中文字符，比如 D:\游戏\ABC，带有中文。必须全是英文，如：D:\youxi\ABC  
     2.3 更新显卡驱动，即使是最新（用官方软件更新，别用第三方）  
     2.4 不是完整的系统，如精简版和ghost版等系统，建议安装纯净系统专业版，很多游戏不能玩就是因为这个原因。  
