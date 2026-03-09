@@ -553,7 +553,7 @@
             nameLink: '/',          // 点击标题后的跳转地址
             noEmoji: true,          // 禁用emoji
             mergeNavbar: true,      // 导航栏将与较小屏幕上的侧边栏合并
-            topMargin: 90,          // 内容滚动到指定锚点时，距离页面顶部有一定空间。当你使用固定页头布局时这个选项很有用，可以让锚点对齐标题栏
+            topMargin: 120,         // 增加顶部边距，确保锚点跳转后标题不被导航栏遮挡
             externalLinkTarget: '_blank',   // 以打开右上角的外部链接。默认（新窗口/选项卡）'_blank' 和 _self
             themeColor: '#18256d',          // 替换主题色。利用 CSS3 支持变量的特性，对于老的浏览器有 polyfill 处理。
             routerMode: 'hash',  // 使用 hash 模式，减少服务器请求
@@ -829,6 +829,64 @@
         } else {
             window.addEventListener("load", updateSiteTime);
         }
+    </script>
+
+    <!-- 标题高亮样式 -->
+    <style>
+        /* 当前活动的标题高亮样式 */
+        .active-heading {
+            background-color: rgba(24, 37, 109, 0.1) !important;
+            border-left: 4px solid #18256d !important;
+            padding-left: 12px !important;
+            transition: all 0.3s ease !important;
+        }
+        
+        /* 平滑滚动 */
+        html {
+            scroll-behavior: smooth;
+        }
+    </style>
+
+    <!-- 标题高亮脚本 -->
+    <script>
+        // 监听滚动事件，高亮当前可见的标题
+        function highlightCurrentHeading() {
+            const headings = document.querySelectorAll('h1, h2, h3, h4, h5, h6');
+            const scrollPos = window.scrollY + 150; // 偏移量，考虑顶部导航栏
+            
+            let currentHeading = null;
+            
+            // 找到当前可见的标题
+            for (let i = 0; i < headings.length; i++) {
+                const heading = headings[i];
+                const headingTop = heading.offsetTop;
+                
+                if (headingTop <= scrollPos) {
+                    currentHeading = heading;
+                } else {
+                    break;
+                }
+            }
+            
+            // 移除所有高亮
+            headings.forEach(h => h.classList.remove('active-heading'));
+            
+            // 添加高亮到当前标题
+            if (currentHeading) {
+                currentHeading.classList.add('active-heading');
+            }
+        }
+        
+        // 监听滚动事件
+        window.addEventListener('scroll', highlightCurrentHeading);
+        
+        // 页面加载完成后执行一次
+        window.addEventListener('load', highlightCurrentHeading);
+        
+        // 监听hash变化（锚点跳转）
+        window.addEventListener('hashchange', function() {
+            setTimeout(highlightCurrentHeading, 100);
+        });
     </script>
 
 </body>
