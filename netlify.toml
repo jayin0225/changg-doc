@@ -1,19 +1,28 @@
 [build]
-  publish = "docs"  # 指定发布目录为 docs 文件夹
+  publish = "docs"
 
 [[headers]]
   for = "/*"
   [headers.values]
-    Cache-Control = "public, max-age=86400, s-maxage=604800"  # 浏览器缓存1天，CDN缓存7天
+    Cache-Control = "public, max-age=86400, s-maxage=604800"
     X-Frame-Options = "DENY"
     X-Content-Type-Options = "nosniff"
+    X-XSS-Protection = "1; mode=block"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Access-Control-Allow-Origin = "*"
 
 [[headers]]
   for = "/*.html"
   [headers.values]
-    Cache-Control = "public, max-age=0, must-revalidate"  # HTML 文件不缓存，确保内容及时更新
+    Cache-Control = "public, max-age=0, must-revalidate"
 
 [[headers]]
   for = "/assets/*"
   [headers.values]
-    Cache-Control = "public, max-age=31536000, immutable"  # 静态资源缓存1年
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+  conditions = {Role = ["admin"]}

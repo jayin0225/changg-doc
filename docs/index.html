@@ -26,11 +26,13 @@
     <link rel="dns-prefetch" href="//unpkg.com">
     <link rel="dns-prefetch" href="//cravatar.cn">
     <link rel="preconnect" href="https://unpkg.com" crossorigin>
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+    <link rel="dns-prefetch" href="https://unpkg.com">
+    <link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
     <link rel="preconnect" href="https://cravatar.cn" crossorigin>
 
-    <!-- 规范链接 & Sitemap -->
+    <!-- 规范链接 -->
     <link rel="canonical" href="https://www.haozy.top/">
-    <link rel="sitemap" type="application/xml" href="sitemap.xml">
     <link rel="icon" href="./favicon.ico" type="image/x-icon">
     <link rel="apple-touch-icon" href="./favicon.ico">
 
@@ -47,9 +49,6 @@
     <noscript>
         <link rel="stylesheet" href="./assets/css/docsify-vite-coverpage.css" />
     </noscript>
-
-    <!-- Algolia验证 -->
-    <meta name="algolia-site-verification" content="709B5D5776F5B91C" />
 
     <!-- 自定义主题样式 -->
     <style>
@@ -553,7 +552,7 @@
             nameLink: '/',          // 点击标题后的跳转地址
             noEmoji: true,          // 禁用emoji
             mergeNavbar: true,      // 导航栏将与较小屏幕上的侧边栏合并
-            topMargin: 120,         // 增加顶部边距，确保锚点跳转后标题不被导航栏遮挡
+            topMargin: 20,          // 顶部边距，让标题显示在页面顶部
             externalLinkTarget: '_blank',   // 以打开右上角的外部链接。默认（新窗口/选项卡）'_blank' 和 _self
             themeColor: '#18256d',          // 替换主题色。利用 CSS3 支持变量的特性，对于老的浏览器有 polyfill 处理。
             routerMode: 'hash',  // 使用 hash 模式，减少服务器请求
@@ -577,11 +576,10 @@
                 target: 'h2',
                 ignoreHeaders: [/^ignore.*/i]
             },
-            // 搜索配置
+            // Service Worker缓存配置（使用固定版本号，避免缓存累积）
             serviceWorker: {
-                update: true,                                   // 强制检测更新
-                cacheName: 'docsify-' + Date.now(),             // 每次页面加载都会生成新缓存名
-                // 缓存策略优化
+                update: true,
+                cacheName: 'docsify-cache-v1',
                 cacheFiles: [
                     '/',
                     '/index.html',
@@ -595,7 +593,7 @@
                     '/assets/js/docsify-plugin-toc.min.js'
                 ]
             },
-            search: {
+            // 搜索配置
                 paths: '/zh-cn',                                // 指定搜索路径   默认值'auto',全文搜索
                 maxAge: 600000,                                  // 将缓存时间延长至7天,过期时间86400000，单位毫秒，默认一天
                 placeholder: '请输入关键词“搜索”',
@@ -624,68 +622,226 @@
             },
         }
     </script>
-    <!-- docsify的js依赖 - 关键脚本 -->
-    <script src="https://unpkg.com/docsify@latest/lib/docsify.min.js"></script>
-    <!-- 全文搜索 - 关键脚本 -->
-    <script src="https://unpkg.com/docsify@latest/lib/plugins/search.min.js"></script>
-    <!-- 侧边栏目录折叠 -->
-    <script src="https://unpkg.com/docsify-sidebar-collapse@latest/dist/docsify-sidebar-collapse.js"></script>
-    <!-- 选项卡插件 -->
-    <script src="https://unpkg.com/docsify-tabs@latest/dist/docsify-tabs.min.js"></script>
-    <!-- 外链脚本插件 可以在.md中引用 - 关键脚本 -->
-    <script src="https://unpkg.com/docsify@latest/lib/plugins/external-script.js"></script>
+    <!-- CDN备用加载机制 - 带超时控制 -->
+    <script>
+        (function() {
+            var CDN_TIMEOUT = 5000;
+            var cdnStatus = { primary: 'unpkg', fallback: 'jsdelivr' };
+            
+            function loadScriptWithTimeout(src, fallbackSrc, timeout) {
+                return new Promise(function(resolve, reject) {
+                    var loaded = false;
+                    var script = document.createElement('script');
+                    script.src = src;
+                    
+                    var timer = setTimeout(function() {
+                        if (!loaded && fallbackSrc) {
+                            console.log('[CDN] 主CDN超时，切换备用: ' + fallbackSrc);
+                            document.body.removeChild(script);
+                            loadFallback(fallbackSrc, resolve, reject);
+                        }
+                    }, timeout || CDN_TIMEOUT);
+                    
+                    script.onload = function() {
+                        loaded = true;
+                        clearTimeout(timer);
+                        resolve();
+                    };
+                    
+                    script.onerror = function() {
+                        loaded = true;
+                        clearTimeout(timer);
+                        if (fallbackSrc) {
+                            console.log('[CDN] 主CDN失败，切换备用: ' + fallbackSrc);
+                            loadFallback(fallbackSrc, resolve, reject);
+                        } else {
+                            reject();
+                        }
+                    };
+                    
+                    document.body.appendChild(script);
+                });
+            }
+            
+            function loadFallback(src, resolve, reject) {
+                var script = document.createElement('script');
+                script.src = src;
+                script.onload = resolve;
+                script.onerror = reject;
+                document.body.appendChild(script);
+            }
+            
+            function loadStyleWithTimeout(href, fallbackHref, timeout) {
+                var loaded = false;
+                var link = document.createElement('link');
+                link.rel = 'stylesheet';
+                link.href = href;
+                
+                var timer = setTimeout(function() {
+                    if (!loaded && fallbackHref) {
+                        console.log('[CDN] CSS主CDN超时，切换备用: ' + fallbackHref);
+                        link.href = fallbackHref;
+                    }
+                }, timeout || CDN_TIMEOUT);
+                
+                link.onload = function() {
+                    loaded = true;
+                    clearTimeout(timer);
+                };
+                
+                link.onerror = function() {
+                    loaded = true;
+                    clearTimeout(timer);
+                    if (fallbackHref) {
+                        console.log('[CDN] CSS主CDN失败，切换备用: ' + fallbackHref);
+                        link.href = fallbackHref;
+                    }
+                };
+                
+                document.head.appendChild(link);
+            }
+            
+            window.cdnLoader = {
+                script: loadScriptWithTimeout,
+                style: loadStyleWithTimeout,
+                timeout: CDN_TIMEOUT
+            };
+        })();
+    </script>
+    
+    <!-- 关键脚本 - 同步加载 -->
+    <script>
+        (function() {
+            var scripts = [
+                { src: 'https://unpkg.com/docsify@latest/lib/docsify.min.js', fallback: 'https://cdn.jsdelivr.net/npm/docsify@latest/lib/docsify.min.js' },
+                { src: 'https://unpkg.com/docsify@latest/lib/plugins/search.min.js', fallback: 'https://cdn.jsdelivr.net/npm/docsify@latest/lib/plugins/search.min.js' },
+                { src: 'https://unpkg.com/docsify-sidebar-collapse@latest/dist/docsify-sidebar-collapse.js', fallback: 'https://cdn.jsdelivr.net/npm/docsify-sidebar-collapse@latest/dist/docsify-sidebar-collapse.js' },
+                { src: 'https://unpkg.com/docsify-tabs@latest/dist/docsify-tabs.min.js', fallback: 'https://cdn.jsdelivr.net/npm/docsify-tabs@latest/dist/docsify-tabs.min.js' },
+                { src: 'https://unpkg.com/docsify@latest/lib/plugins/external-script.js', fallback: 'https://cdn.jsdelivr.net/npm/docsify@latest/lib/plugins/external-script.js' }
+            ];
+            
+            scripts.forEach(function(item) {
+                var script = document.createElement('script');
+                script.src = item.src;
+                script.setAttribute('data-fallback', item.fallback);
+                
+                var loaded = false;
+                var timer = setTimeout(function() {
+                    if (!loaded) {
+                        console.log('[CDN] 超时切换: ' + item.fallback);
+                        script.src = item.fallback;
+                    }
+                }, 5000);
+                
+                script.onload = function() { loaded = true; clearTimeout(timer); };
+                script.onerror = function() { 
+                    loaded = true; 
+                    clearTimeout(timer);
+                    script.src = item.fallback;
+                };
+                
+                document.body.appendChild(script);
+            });
+        })();
+    </script>
 
     <!-- 非关键脚本 - 使用defer -->
     <!-- 页面右侧 TOC插件 -->
     <script src="./assets/js/docsify-plugin-toc.min.js" defer></script>
-    <link rel="preload" href="https://unpkg.com/docsify-plugin-toc@latest/dist/light.css" as="style"
-        onload="this.onload=null;this.rel='stylesheet'" />
-    <noscript>
-        <link rel="stylesheet" href="https://unpkg.com/docsify-plugin-toc@latest/dist/light.css" />
-    </noscript>
+    <link rel="stylesheet" href="https://unpkg.com/docsify-plugin-toc@latest/dist/light.css" 
+        onerror="this.href='https://cdn.jsdelivr.net/npm/docsify-plugin-toc@latest/dist/light.css'" />
     <!-- 页脚信息 -->
     <script src="./assets/js/docsify-footer.min.js" defer></script>
     <!--留言板插件 -->
-    <script src="https://unpkg.com/valine@latest" defer></script>
-    <script src="https://unpkg.com/docsify-valine@latest" defer></script>
-    <!-- Docsify手风琴插件 -->
-    <link rel="preload" href="https://unpkg.com/docsify-accordion@latest/src/style.css" as="style"
-        onload="this.onload=null;this.rel='stylesheet'" />
-    <noscript>
-        <link rel="stylesheet" href="https://unpkg.com/docsify-accordion@latest/src/style.css" />
-    </noscript>
-    <script src="https://unpkg.com/docsify-accordion@latest/src/index.js" defer></script>
+    <script>
+        setTimeout(function() {
+            var script1 = document.createElement('script');
+            script1.src = 'https://unpkg.com/valine@latest';
+            script1.onerror = function() { this.src = 'https://cdn.jsdelivr.net/npm/valine@latest'; };
+            document.body.appendChild(script1);
+            
+            var script2 = document.createElement('script');
+            script2.src = 'https://unpkg.com/docsify-valine@latest';
+            script2.onerror = function() { this.src = 'https://cdn.jsdelivr.net/npm/docsify-valine@latest'; };
+            document.body.appendChild(script2);
+        }, 100);
+    </script>
     <!-- 图片缩放 -->
-    <script src="https://unpkg.com/docsify@latest/lib/plugins/zoom-image.min.js" defer></script>
+    <script>
+        setTimeout(function() {
+            var script = document.createElement('script');
+            script.src = 'https://unpkg.com/docsify@latest/lib/plugins/zoom-image.min.js';
+            script.onerror = function() { this.src = 'https://cdn.jsdelivr.net/npm/docsify@latest/lib/plugins/zoom-image.min.js'; };
+            document.body.appendChild(script);
+        }, 100);
+    </script>
     <!-- 谷歌分析 -->
-    <script src="https://unpkg.com/docsify@latest/lib/plugins/ga.js" defer></script>
-    <!-- 小心心插件 -->
-    <script src="https://unpkg.com/clickheart@latest/index.js" defer></script>
-    <!-- 警报类型 -->
-    <script src="https://unpkg.com/docsify-plugin-flexible-alerts@latest/dist/docsify-plugin-flexible-alerts.min.js"
-        defer></script>
+    <script>
+        setTimeout(function() {
+            var script = document.createElement('script');
+            script.src = 'https://unpkg.com/docsify@latest/lib/plugins/ga.js';
+            script.onerror = function() { this.src = 'https://cdn.jsdelivr.net/npm/docsify@latest/lib/plugins/ga.js'; };
+            document.body.appendChild(script);
+        }, 100);
+    </script>
 
-    <!-- 音乐插件 - 延迟加载 -->
+    <!-- 音乐插件 - 页面完全加载后加载 -->
     <script defer>
-        // 延迟加载音乐插件
-        window.addEventListener('DOMContentLoaded', function () {
-            // 动态加载APlayer CSS
-            const aplayerCss = document.createElement('link');
-            aplayerCss.rel = 'stylesheet';
-            aplayerCss.href = 'https://unpkg.com/aplayer@1.10.1/dist/APlayer.min.css';
-            document.head.appendChild(aplayerCss);
+        (function() {
+            var CDN_TIMEOUT = 5000;
+            
+            function loadWithTimeout(element, fallbackSrc) {
+                var loaded = false;
+                var timer = setTimeout(function() {
+                    if (!loaded && fallbackSrc) {
+                        console.log('[CDN] 音乐插件超时切换: ' + fallbackSrc);
+                        if (element.href) element.href = fallbackSrc;
+                        else if (element.src) element.src = fallbackSrc;
+                    }
+                }, CDN_TIMEOUT);
+                
+                element.onload = function() { loaded = true; clearTimeout(timer); };
+                element.onerror = function() { 
+                    loaded = true; 
+                    clearTimeout(timer);
+                    if (fallbackSrc) {
+                        if (element.href) element.href = fallbackSrc;
+                        else if (element.src) element.src = fallbackSrc;
+                    }
+                };
+                
+                return element;
+            }
+            
+            // 使用 load 事件，确保页面完全加载后再加载音乐插件
+            window.addEventListener('load', function () {
+                // 延迟3秒加载音乐插件，确保页面稳定
+                setTimeout(function() {
+                    var aplayerCss = loadWithTimeout(
+                        document.createElement('link'),
+                        'https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css'
+                    );
+                    aplayerCss.rel = 'stylesheet';
+                    aplayerCss.href = 'https://unpkg.com/aplayer@1.10.1/dist/APlayer.min.css';
+                    document.head.appendChild(aplayerCss);
 
-            // 动态加载APlayer JS
-            const aplayerScript = document.createElement('script');
-            aplayerScript.src = 'https://unpkg.com/aplayer@latest/dist/APlayer.min.js';
-            aplayerScript.onload = function () {
-                // 加载MetingJS
-                const metingScript = document.createElement('script');
-                metingScript.src = 'https://unpkg.com/meting@latest/dist/Meting.min.js';
-                document.body.appendChild(metingScript);
-            };
-            document.body.appendChild(aplayerScript);
-        });
+                    var aplayerScript = loadWithTimeout(
+                        document.createElement('script'),
+                        'https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js'
+                    );
+                    aplayerScript.src = 'https://unpkg.com/aplayer@latest/dist/APlayer.min.js';
+                    aplayerScript.onload = function () {
+                        var metingScript = loadWithTimeout(
+                            document.createElement('script'),
+                            'https://cdn.jsdelivr.net/npm/meting@latest/dist/Meting.min.js'
+                        );
+                        metingScript.src = 'https://unpkg.com/meting@latest/dist/Meting.min.js';
+                        document.body.appendChild(metingScript);
+                    };
+                    document.body.appendChild(aplayerScript);
+                }, 3000);
+            });
+        })();
     </script>
 
     <!-- 音乐插件 配置 -->
@@ -829,64 +985,6 @@
         } else {
             window.addEventListener("load", updateSiteTime);
         }
-    </script>
-
-    <!-- 标题高亮样式 -->
-    <style>
-        /* 当前活动的标题高亮样式 */
-        .active-heading {
-            background-color: rgba(24, 37, 109, 0.1) !important;
-            border-left: 4px solid #18256d !important;
-            padding-left: 12px !important;
-            transition: all 0.3s ease !important;
-        }
-        
-        /* 平滑滚动 */
-        html {
-            scroll-behavior: smooth;
-        }
-    </style>
-
-    <!-- 标题高亮脚本 -->
-    <script>
-        // 监听滚动事件，高亮当前可见的标题
-        function highlightCurrentHeading() {
-            const headings = document.querySelectorAll('h1, h2, h3, h4, h5, h6');
-            const scrollPos = window.scrollY + 150; // 偏移量，考虑顶部导航栏
-            
-            let currentHeading = null;
-            
-            // 找到当前可见的标题
-            for (let i = 0; i < headings.length; i++) {
-                const heading = headings[i];
-                const headingTop = heading.offsetTop;
-                
-                if (headingTop <= scrollPos) {
-                    currentHeading = heading;
-                } else {
-                    break;
-                }
-            }
-            
-            // 移除所有高亮
-            headings.forEach(h => h.classList.remove('active-heading'));
-            
-            // 添加高亮到当前标题
-            if (currentHeading) {
-                currentHeading.classList.add('active-heading');
-            }
-        }
-        
-        // 监听滚动事件
-        window.addEventListener('scroll', highlightCurrentHeading);
-        
-        // 页面加载完成后执行一次
-        window.addEventListener('load', highlightCurrentHeading);
-        
-        // 监听hash变化（锚点跳转）
-        window.addEventListener('hashchange', function() {
-            setTimeout(highlightCurrentHeading, 100);
-        });
     </script>
 
 </body>
