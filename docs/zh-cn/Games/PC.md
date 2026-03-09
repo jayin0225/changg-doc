@@ -59,6 +59,18 @@
 
 迅雷：https://pan.xunlei.com/s/VOnHb7UJp7pepL7c2qUJfp13A1?pwd=8nr4
 
+#### 《人工智能的选择（Heart of the Machine）》v1.000.2 中文版
+
+夸克：https://pan.quark.cn/s/f56bb8afdf88
+
+迅雷：https://pan.xunlei.com/s/VOnHnr6mW8J627XW_gZPgLuIA1?pwd=djxw
+
+#### 《Machine Mind》v1.0.1 中文版（废土生存与实时战略）
+
+夸克：https://pan.quark.cn/s/2f98b9a047a2
+
+迅雷：https://pan.xunlei.com/s/VOnHcwu3EeyaFESWurf3Iq96A1?pwd=g67e
+
 #### 《机器塔 2984（Machine Tower 2984）》v1.0.2 中文版
 
 夸克：https://pan.quark.cn/s/3bcc92c52923
