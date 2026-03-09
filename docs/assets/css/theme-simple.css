@@ -567,109 +567,11 @@ pre[data-lang] {
 .markdown-section kbd + kbd {
   margin-left: -0.15em;
 }
-.markdown-section table {
-  display: block;
-  overflow: auto;
-  margin: 1rem 0;
-  border-spacing: 0;
-  border-collapse: collapse;
-}
-.markdown-section th,
-.markdown-section td {
-  padding: var(--table-cell-padding);
-}
-.markdown-section th:not([align]) {
-  text-align: left;
-}
-.markdown-section thead {
-  border-color: var(--table-head-border-color);
-  border-style: solid;
-  border-width: var(--table-head-border-width, 0);
-  background: var(--table-head-background);
-}
-.markdown-section th {
-  font-weight: var(--table-head-font-weight);
-  color: var(--strong-color);
-}
-.markdown-section td {
-  border-color: var(--table-cell-border-color);
-  border-style: solid;
-  border-width: var(--table-cell-border-width, 0);
-}
-.markdown-section tbody {
-  border-color: var(--table-body-border-color);
-  border-style: solid;
-  border-width: var(--table-body-border-width, 0);
-}
-.markdown-section tbody tr:nth-child(odd) {
-  background: var(--table-row-odd-background);
-}
-.markdown-section tbody tr:nth-child(even) {
-  background: var(--table-row-even-background);
-}
 .markdown-section > ul .task-list-item {
   margin-left: -1.25em;
 }
 .markdown-section > ul .task-list-item .task-list-item {
   margin-left: 0;
-}
-.markdown-section .table-wrapper {
-  overflow-x: auto;
-}
-.markdown-section .table-wrapper table {
-  display: table;
-  width: 100%;
-}
-.markdown-section .table-wrapper td::before {
-  display: none;
-}
-@media (max-width: 30em) {
-  .markdown-section .table-wrapper tbody,
-  .markdown-section .table-wrapper tr,
-  .markdown-section .table-wrapper td {
-    display: block;
-  }
-  .markdown-section .table-wrapper th,
-  .markdown-section .table-wrapper td {
-    border: none;
-  }
-  .markdown-section .table-wrapper thead {
-    display: none;
-  }
-  .markdown-section .table-wrapper tr {
-    border-color: var(--table-cell-border-color);
-    border-style: solid;
-    border-width: var(--table-cell-border-width, 0);
-    padding: var(--table-cell-padding);
-  }
-  .markdown-section .table-wrapper tr:not(:last-child) {
-    border-bottom: 0;
-  }
-  .markdown-section .table-wrapper td {
-    padding: 0.15em 0 0.15em 8em;
-  }
-/* 修复后的传统方案 */
-.markdown-section .table-wrapper td {
-  position: relative;
-  padding-left: 8em;
-}
-.markdown-section .table-wrapper td::before {
-  position: absolute;
-  left: 0;
-  width: 8em;
-  font-weight: bold;
-  text-align: left;
-}
-
-/* 或者更现代的 Flexbox 方案 */
-.markdown-section .table-wrapper td {
-  display: flex;
-  flex-wrap: wrap;
-}
-.markdown-section .table-wrapper td::before {
-  flex: 0 0 8em;
-  font-weight: bold;
-}
 }
 .markdown-section .tip,
 .markdown-section .warn {
