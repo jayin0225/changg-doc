@@ -594,6 +594,7 @@
                 ]
             },
             // 搜索配置
+            search: {
                 paths: '/zh-cn',                                // 指定搜索路径   默认值'auto',全文搜索
                 maxAge: 600000,                                  // 将缓存时间延长至7天,过期时间86400000，单位毫秒，默认一天
                 placeholder: '请输入关键词“搜索”',
@@ -611,14 +612,14 @@
                 el: '#vcomment',
                 appId: 'c07LQPl4kvoHe374MmKvqP9C-gzGzoHsz',
                 appKey: 'tNZelts8Qg0wzGjBBlUFHX7y',
-                placeholder: "资源链接失效、想要新资源，留言吧！！！游戏安装问题可进群@群主为你解答...",
-                avatar: 'wavatar',//(''/mp/identicon/monsterid/wavatar/robohash/retro/hide)头像设置https://valine.js.org/avatar.html,
-                avatar_cdn: 'https://cravatar.cn/avatar/',// 自定义avatar cdn
-                pageSize: '7',                 //评论列表分页，每页条数。
+                placeholder: '资源链接失效、想要新资源，留言吧！！！游戏安装问题可进群@群主为你解答...',
+                avatar: 'wavatar',
+                avatar_cdn: 'https://cravatar.cn/avatar/',
+                pageSize: 7,
                 meta: ['nick', 'mail'],
-                requiredFields: ['nick'],//必须填写昵称才能评论
-                recordIP: 'false',
-                enableQQ: 'true',
+                requiredFields: ['nick'],
+                recordIP: false,
+                enableQQ: true
             },
         }
     </script>
