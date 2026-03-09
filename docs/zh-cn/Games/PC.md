@@ -53,6 +53,24 @@
 
 夸克：https://pan.quark.cn/s/bd8babd4aaf1
 
+#### 《卡牌修仙传（Card Cultivation）》v2.1.0.8 中文版
+
+夸克：https://pan.quark.cn/s/cb91eda9d166
+
+迅雷：https://pan.xunlei.com/s/VOnHb7UJp7pepL7c2qUJfp13A1?pwd=8nr4
+
+#### 《机器塔 2984（Machine Tower 2984）》v1.0.2 中文版
+
+夸克：https://pan.quark.cn/s/3bcc92c52923
+
+迅雷：https://pan.xunlei.com/s/VOnH_Vj4JdTzIQM5cxzLOWI1A1?pwd=sur4
+
+#### 《失物招领有限公司（Lost and Found Co）》V1.0.0 中文版
+
+夸克：https://pan.quark.cn/s/6d557f50639a
+
+迅雷：https://pan.xunlei.com/s/VOnHZ7bGY4OfhpqRhWYk1xKdA1?pwd=jwa6
+
 #### 《圣战群英传 统治（Disciples Domination）豪华版》v1.5.0.3413 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/7dd4f4d5fc5a
@@ -91,85 +109,6 @@
 
 迅雷：https://pan.xunlei.com/s/VOn1x_9ygSripejYRyVIkvOhA1?pwd=r4ga#
 
-#### 《崛起2 黑暗水域（Risen 2 Dark Waters）》v1.0.1210 全DLC 汉化版
-<section class="no-title-h4">
-
-#### 《崛起3 泰坦之王（Risen 3 Titan Lords）》v1.2ee 全DLC 汉化版
-</section>
-
-夸克：https://pan.quark.cn/s/b459c82f9841
-
-#### 《杀戮空间2（Killing Floor 2 》v1150 全DLC 中文 联机版
-<section class="no-title-h4">
-
-#### 《杀戮空间3（Killing Floor 3 》Build.19273238 全DLC 中文版（恐怖射击）
-</section>
-
-夸克：https://pan.quark.cn/s/02ab4ad5f5ea
-
-#### 《歪小子斯科特（Scott Pilgrim EX 》v1.0.0.13995 中文版（轻动作冒险）
-
-夸克：https://pan.quark.cn/s/637a84201b57
-
-迅雷：https://pan.xunlei.com/s/VOmy2DnTfW9BP1aa5I0Q3cL1A1?pwd=fj2c#
-
-#### 《Forgotlings》v1.0.10 中文版（遗忘之物 遗忘之灵）
-
-夸克：https://pan.quark.cn/s/9e8b4e99c225
-
-迅雷：https://pan.xunlei.com/s/VOmy-wR7ZV-w7eoHmU6igqCjA1?pwd=yfzx#
-
-#### 《炎姬（Homura Hime 》v2026.3.4 中文版
-
-夸克：https://pan.quark.cn/s/68f43dacae6d
-
-#### 《连接 内心的噩梦（Connection The Nightmare Within 》v2026.3.5 中文版（恐怖解密）
-
-夸克：https://pan.quark.cn/s/ba4e0f565b98
-
-#### 《The Legend of Khiimori》v0.5.0 中文版（古蒙古开放世界、养马、送信）
-
-夸克：https://pan.quark.cn/s/68a5c2635a39
-
-#### 《HORSES》v1.0.16500 中文版（心理暗示恐怖游戏）
-
-夸克：https://pan.quark.cn/s/8d168831c0c3
-
-#### 《Towerborne》v5.6.1 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/d85c3cbd470e
-
-#### 《灵墟（Lingxu）》v1.0.0.7 中文版
-
-夸克：https://pan.quark.cn/s/d52a94350a3b
-
-#### 《辐射谷物语（Atomicrops）豪华版》v1.7.0f3 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/5651b6ecb8e6
-
-#### 《绯夜传奇 复刻版（Tales of Berseria Remastered）豪华版》v1.0.2 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/ae94d79246eb
-
-#### 《传颂之物 斩（Utawarerumono ZAN）豪华版》v1.01 全DLC 中文版
-<section class="no-title-h4">
-
-#### 《传颂之物 斩2（Utawarerumono ZAN 2 》v1.0.0 全DLC 中文版
-</section>
-
-夸克：https://pan.quark.cn/s/9c59ad032218
-
-迅雷：https://pan.xunlei.com/s/VOmT_XDcqP8F9cbH2PvmbqoGA1?pwd=pstx#
-
-#### 《毁灭战士2 增强合集版（DOOM plus DOOM II Enhanced 》v2025.4.173 中文版
-<section class="no-title-h4">
-
-#### 《毁灭战士4（DOOM 2016）》v20240321f 全DLC 中文版
-#### 《毁灭战士 永恒（DOOM Eternal）豪华版》v2026.2.12 全DLC 中文版
-</section>
-
-夸克：https://pan.quark.cn/s/5d002d83f9e0
-
 ---
 
 ## 最近更新
@@ -177,6 +116,16 @@
 #### 《天国拯救2（Kingdom Come Deliverance II）黄金版》v1.5.3 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/7c6b8f30675c
+
+#### 《静默恐惧 老灯塔十五夜（Static Dread 》v2026.3.6 全DLC 中文版（恐怖解密）
+
+夸克：https://pan.quark.cn/s/6deca0e36190
+
+迅雷：https://pan.xunlei.com/s/VOnHWAHd5FqS2M3NKcjRiaBJA1?pwd=kx4v
+
+#### 《夏日口袋 流光蓝（Summer Pockets REFLECTION BLUE 》v1.4.2.1 中文版（视觉小说）
+
+夸克：https://pan.quark.cn/s/c2b1316245c1
 
 #### 《王国保卫战5 联盟（Kingdom Rush 5 Alliance TD 》v7.00.36 全DLC 中文版（新增巨龙战争DLC）
 <section class="no-title-h4">
@@ -417,6 +366,84 @@
 
 ## 已有游戏
 
+#### 《崛起2 黑暗水域（Risen 2 Dark Waters）》v1.0.1210 全DLC 汉化版
+<section class="no-title-h4">
+
+#### 《崛起3 泰坦之王（Risen 3 Titan Lords）》v1.2ee 全DLC 汉化版
+</section>
+
+夸克：https://pan.quark.cn/s/b459c82f9841
+
+#### 《杀戮空间2（Killing Floor 2 》v1150 全DLC 中文 联机版
+<section class="no-title-h4">
+
+#### 《杀戮空间3（Killing Floor 3 》Build.19273238 全DLC 中文版（恐怖射击）
+</section>
+
+夸克：https://pan.quark.cn/s/02ab4ad5f5ea
+
+#### 《歪小子斯科特（Scott Pilgrim EX 》v1.0.0.13995 中文版（轻动作冒险）
+
+夸克：https://pan.quark.cn/s/637a84201b57
+
+迅雷：https://pan.xunlei.com/s/VOmy2DnTfW9BP1aa5I0Q3cL1A1?pwd=fj2c#
+
+#### 《Forgotlings》v1.0.10 中文版（遗忘之物 遗忘之灵）
+
+夸克：https://pan.quark.cn/s/9e8b4e99c225
+
+迅雷：https://pan.xunlei.com/s/VOmy-wR7ZV-w7eoHmU6igqCjA1?pwd=yfzx#
+
+#### 《炎姬（Homura Hime 》v2026.3.4 中文版
+
+夸克：https://pan.quark.cn/s/68f43dacae6d
+
+#### 《连接 内心的噩梦（Connection The Nightmare Within 》v2026.3.5 中文版（恐怖解密）
+
+夸克：https://pan.quark.cn/s/ba4e0f565b98
+
+#### 《The Legend of Khiimori》v0.5.0 中文版（古蒙古开放世界、养马、送信）
+
+夸克：https://pan.quark.cn/s/68a5c2635a39
+
+#### 《HORSES》v1.0.16500 中文版（心理暗示恐怖游戏）
+
+夸克：https://pan.quark.cn/s/8d168831c0c3
+
+#### 《Towerborne》v5.6.1 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/d85c3cbd470e
+
+#### 《灵墟（Lingxu）》v1.0.0.7 中文版
+
+夸克：https://pan.quark.cn/s/d52a94350a3b
+
+#### 《辐射谷物语（Atomicrops）豪华版》v1.7.0f3 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/5651b6ecb8e6
+
+#### 《绯夜传奇 复刻版（Tales of Berseria Remastered）豪华版》v1.0.2 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/ae94d79246eb
+
+#### 《传颂之物 斩（Utawarerumono ZAN）豪华版》v1.01 全DLC 中文版
+<section class="no-title-h4">
+
+#### 《传颂之物 斩2（Utawarerumono ZAN 2 》v1.0.0 全DLC 中文版
+</section>
+
+夸克：https://pan.quark.cn/s/9c59ad032218
+
+迅雷：https://pan.xunlei.com/s/VOmT_XDcqP8F9cbH2PvmbqoGA1?pwd=pstx#
+
+#### 《毁灭战士2 增强合集版（DOOM plus DOOM II Enhanced 》v2025.4.173 中文版
+<section class="no-title-h4">
+
+#### 《毁灭战士4（DOOM 2016）》v20240321f 全DLC 中文版
+#### 《毁灭战士 永恒（DOOM Eternal）豪华版》v2026.2.12 全DLC 中文版
+</section>
+
+夸克：https://pan.quark.cn/s/5d002d83f9e0
 
 #### 《北境之地（Northgard）豪华版》v4.0.19.43315 全DLC 中文 联机版
 
@@ -3222,10 +3249,6 @@
 
 夸克：https://pan.quark.cn/s/1a87818f0b0f
 
-#### 《静默恐惧：老灯塔十五夜（Static Dread 》v1.1.1 全DLC 中文版（恐怖解密）
-
-夸克：https://pan.quark.cn/s/6deca0e36190
-
 #### 《最终幻想7：核心危机重聚（CRISIS CORE FINAL FANTASY VII REUNION）豪华版》v1.0.3 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/79878124f832
@@ -3665,10 +3688,6 @@
 #### 《胡闹厨房 全都好吃（Overcooked! All You Can Eat) 》v1173 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/90ad780a2681
-
-#### 《夏日口袋：流光蓝（Summer Pockets REFLECTION BLUE 》v1.3.2.1 中文版（视觉小说）
-
-夸克：https://pan.quark.cn/s/c2b1316245c1
 
 #### 《触手回春（Do No Harm 》v1.2.0 中文版
 
