@@ -87,7 +87,7 @@
 
 夸克：https://pan.quark.cn/s/7dd4f4d5fc5a
 
-#### 《杀戮尖塔2（Slay the Spire 2 》v0.98.0 中文 联机版（附第一部）
+#### 《杀戮尖塔2（Slay the Spire 2）》v0.98.0 中文 联机版（附第一部）
 
 夸克：https://pan.quark.cn/s/4a575dc211fc
 

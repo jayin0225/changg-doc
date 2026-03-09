@@ -204,7 +204,7 @@
 
 夸克：https://pan.quark.cn/s/b32006386e8b
 
-#### 《机甲战魔（Daemon X Machina）》v1.4.2 N整合 中文版（恶魔X机甲）
+#### 《机甲战魔（Daemon X Machina）》v1.4.2 NS整合 中文版（恶魔X机甲）
 
 夸克：https://pan.quark.cn/s/011a7d490189
 
@@ -314,7 +314,7 @@
 
 夸克：https://pan.quark.cn/s/b10806552aa5
 
-夸克：https://pan.xunlei.com/s/VNtqZeazTXVAZexRrfNzy2eWA1?pwd=4he6#
+迅雷：https://pan.xunlei.com/s/VNtqZeazTXVAZexRrfNzy2eWA1?pwd=4he6#
 
 #### 《星之卡比 系列6部》最新 NS整合 全DLC 中文版
 <section class="no-title-h4">
@@ -509,7 +509,7 @@
 
 夸克：https://pan.quark.cn/s/7f35c3efdd20
 
-#### 《异度之刃X：终极版》v1.0.1 NS整合版
+#### 《异度之刃X：终极版》v1.0.1 NS整合 中文版
 
 夸克：https://pan.quark.cn/s/eec02cf4fecd
 
