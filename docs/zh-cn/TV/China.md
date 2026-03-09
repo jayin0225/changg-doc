@@ -19,7 +19,7 @@
 
 #### 《江湖夜雨十年灯》（2026）4K 37集 更新中..
 
-夸克：https://pan.quark.cn/s/88e14ec40942
+夸克：https://pan.quark.cn/s/f0071a1a8ab5
 
 迅雷：https://pan.xunlei.com/s/VOmyGVxhTwgD42nobbkbcxMJA1?pwd=e3ci#
 
@@ -45,15 +45,24 @@
 
 夸克：https://pan.quark.cn/s/a97ef3607989
 
-#### 《太平年》（2026）4K 48集全...
+#### 《太平年》（2026）4K 48集全
 
 夸克：https://pan.quark.cn/s/0abcfa8cd8a8
 
 迅雷：https://pan.xunlei.com/s/VOlUiVM7A0Pv_ye6rtM-jKRpA1?pwd=5fmu#
 
-#### 《年少有为》（2026）4K 24集全..
+#### 《年少有为》（2026）4K 24集全
 
 夸克：https://pan.quark.cn/s/09da3624455d
+
+#### 《除恶》（2026）4K 60帧 16集全
+
+夸克：https://pan.quark.cn/s/7429f76f1860
+
+---
+
+## 已完结的...
+
 
 #### 《有罪之身》（2026）4K 14集全
 
@@ -86,10 +95,6 @@
 #### 《唐诡奇谭》（2025）4K 21集全（唐朝诡事录4）
 
 夸克：https://pan.quark.cn/s/f00bd661f7c0
-
----
-
-## 已完结的...
 
 #### 《六姊妹》（2025）4K 38集全
 

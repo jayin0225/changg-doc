@@ -22,6 +22,12 @@
     <meta property="og:locale" content="zh_CN">
 
 
+    <!-- DNS预解析和预连接 -->
+    <link rel="dns-prefetch" href="//unpkg.com">
+    <link rel="dns-prefetch" href="//cravatar.cn">
+    <link rel="preconnect" href="https://unpkg.com" crossorigin>
+    <link rel="preconnect" href="https://cravatar.cn" crossorigin>
+
     <!-- 规范链接 & Sitemap -->
     <link rel="canonical" href="https://www.haozy.top/">
     <link rel="sitemap" type="application/xml" href="sitemap.xml">
@@ -29,10 +35,12 @@
     <link rel="apple-touch-icon" href="./favicon.ico">
 
     <!-- 主题样式---->
-    <link rel="stylesheet" href="./assets/css/theme-simple.css" />
+    <link rel="preload" href="./assets/css/theme-simple.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+    <noscript><link rel="stylesheet" href="./assets/css/theme-simple.css" /></noscript>
 
     <!-- 封面样式 ---->
-    <link rel="stylesheet" href="./assets/css/docsify-vite-coverpage.css" />
+    <link rel="preload" href="./assets/css/docsify-vite-coverpage.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+    <noscript><link rel="stylesheet" href="./assets/css/docsify-vite-coverpage.css" /></noscript>
 
     <!-- Algolia验证 -->
     <meta name="algolia-site-verification" content="709B5D5776F5B91C" />
@@ -59,35 +67,14 @@
             --heading-color: var(--primary-color);
         }
 
-        /* 浮动猫咪元素 */
-        .floating-cat {
-            position: fixed;
-            top: 220px;
-            right: calc(50% - 560px);
-            /* 基于内容宽度的动态定位 */
-            width: 200px;
-            height: auto;
-            z-index: 1000;
-            transform: translatey(0px);
-            filter: drop-shadow(0px 5px 15px rgba(0, 0, 0, 0.6));
-            animation: float 6s ease-in-out infinite;
-            will-change: transform, filter;
-            /* 提示浏览器优化这些属性的动画 */
+        /* 图片懒加载 */
+        .lazy-load {
+            opacity: 0;
+            transition: opacity 0.3s ease-in-out;
         }
 
-        /* 浮动动画关键帧 */
-        @keyframes float {
-
-            0%,
-            100% {
-                transform: translatey(0px);
-                filter: drop-shadow(0px 5px 5px rgba(0, 0, 0, 0.6));
-            }
-
-            50% {
-                transform: translatey(-20px);
-                filter: drop-shadow(0px 25px 10px rgba(0, 0, 0, 0.2));
-            }
+        .lazy-load.loaded {
+            opacity: 1;
         }
 
 
@@ -113,11 +100,6 @@
             #main {
                 margin-top: 23px;
                 padding: 1rem;
-            }
-
-            /* 隐藏浮动元素 */
-            .floating-cat {
-                display: none !important;
             }
         }
 
@@ -555,7 +537,7 @@
             el: '#app',             // 加载动画
             loadSidebar: true,      // 开启侧边栏，需要目录下有_sidebar.md文件
             autoHeader: false,      // 自动为每个页面增加标题。
-            subMaxLevel: 1,         // 标题H1一下才会被渲染
+            subMaxLevel: 2,         // 减少侧边栏层级，提高渲染速度
             maxLevel: 3,            // 最大支持渲染的标题层级
             auto2top: true,         // 切换页面后自动到顶部
             coverpage: true,        // 启用封面页 默认值: false 开启后是加载 _coverpage.md 文件
@@ -568,6 +550,14 @@
             topMargin: 90,          // 内容滚动到指定锚点时，距离页面顶部有一定空间。当你使用固定页头布局时这个选项很有用，可以让锚点对齐标题栏
             externalLinkTarget: '_blank',   // 以打开右上角的外部链接。默认（新窗口/选项卡）'_blank' 和 _self
             themeColor: '#18256d',          // 替换主题色。利用 CSS3 支持变量的特性，对于老的浏览器有 polyfill 处理。
+            routerMode: 'hash',  // 使用 hash 模式，减少服务器请求
+            
+            // 复制代码功能
+            copyCode: {
+              buttonText: '复制',
+              errorText: '错误',
+              successText: '已复制'
+            },
 
             // 缓存1天，浏览器或 CDN 会根据缓存资源，1天内重复请求会直接使用本地缓存，减少服务器负载
             requestHeaders: { 'Cache-Control': 'public, max-age=86400' },
@@ -591,7 +581,20 @@
             // 搜索配置
             serviceWorker: {
                 update: true,                                   // 强制检测更新
-                cacheName: 'docsify-' + Date.now()              // 每次页面加载都会生成新缓存名
+                cacheName: 'docsify-' + Date.now(),             // 每次页面加载都会生成新缓存名
+                // 缓存策略优化
+                cacheFiles: [
+                    '/',
+                    '/index.html',
+                    '/home.md',
+                    '/_sidebar.md',
+                    '/_navbar.md',
+                    '/_coverpage.md',
+                    '/assets/css/theme-simple.css',
+                    '/assets/css/docsify-vite-coverpage.css',
+                    '/assets/js/docsify-footer.min.js',
+                    '/assets/js/docsify-plugin-toc.min.js'
+                ]
             },
             search: {
                 paths: '/zh-cn',                                // 指定搜索路径   默认值'auto',全文搜索
@@ -622,26 +625,32 @@
             },
         }
     </script>
-    <!-- docsify的js依赖 -->
+    <!-- docsify的js依赖 - 关键脚本 -->
     <script src="https://unpkg.com/docsify@latest/lib/docsify.min.js"></script>
-    <!-- 全文搜索  -->
+    <!-- 全文搜索 - 关键脚本 -->
     <script src="https://unpkg.com/docsify@latest/lib/plugins/search.min.js"></script>
     <!-- 侧边栏目录折叠 -->
     <script src="https://unpkg.com/docsify-sidebar-collapse@latest/dist/docsify-sidebar-collapse.js"></script>
     <!-- 选项卡插件 -->
     <script src="https://unpkg.com/docsify-tabs@latest/dist/docsify-tabs.min.js"></script>
+    <!-- 复制代码插件 -->
+    <script src="https://unpkg.com/docsify-copy-code@latest"></script>
+    <!-- 外链脚本插件 可以在.md中引用 - 关键脚本 -->
+    <script src="https://unpkg.com/docsify@latest/lib/plugins/external-script.js"></script>
+    
+    <!-- 非关键脚本 - 使用defer -->
     <!-- 页面右侧 TOC插件 -->
     <script src="./assets/js/docsify-plugin-toc.min.js" defer></script>
-    <link rel="stylesheet" href="https://unpkg.com/docsify-plugin-toc@latest/dist/light.css" />
-    <!-- 外链脚本插件 可以在.md中引用 -->
-    <script src="https://unpkg.com/docsify@latest/lib/plugins/external-script.js"></script>
+    <link rel="preload" href="https://unpkg.com/docsify-plugin-toc@latest/dist/light.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+    <noscript><link rel="stylesheet" href="https://unpkg.com/docsify-plugin-toc@latest/dist/light.css" /></noscript>
     <!-- 页脚信息 -->
     <script src="./assets/js/docsify-footer.min.js" defer></script>
     <!--留言板插件 -->
-    <script src="https://unpkg.com/valine@latest"></script>
-    <script src="https://unpkg.com/docsify-valine@latest"></script>
+    <script src="https://unpkg.com/valine@latest" defer></script>
+    <script src="https://unpkg.com/docsify-valine@latest" defer></script>
     <!-- Docsify手风琴插件 -->
-    <link rel="stylesheet" href="https://unpkg.com/docsify-accordion@latest/src/style.css" />
+    <link rel="preload" href="https://unpkg.com/docsify-accordion@latest/src/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+    <noscript><link rel="stylesheet" href="https://unpkg.com/docsify-accordion@latest/src/style.css" /></noscript>
     <script src="https://unpkg.com/docsify-accordion@latest/src/index.js" defer></script>
     <!-- 图片缩放 -->
     <script src="https://unpkg.com/docsify@latest/lib/plugins/zoom-image.min.js" defer></script>
@@ -650,15 +659,30 @@
     <!-- 小心心插件 -->
     <script src="https://unpkg.com/clickheart@latest/index.js" defer></script>
     <!-- 警报类型 -->
-    <script src="https://unpkg.com/docsify-plugin-flexible-alerts@latest/dist/docsify-plugin-flexible-alerts.min.js"
-        defer></script>
-
-    <!--音乐插件-->
-    <!-- 1. 加载APlayer核心库 -->
-    <link rel="stylesheet" href="https://unpkg.com/aplayer@1.10.1/dist/APlayer.min.css" />
-    <script src="https://unpkg.com/aplayer@latest/dist/APlayer.min.js" defer></script>
-    <!-- 2. 加载MetingJS配置文件 -->
-    <script src="https://unpkg.com/meting@latest/dist/Meting.min.js" defer></script>
+    <script src="https://unpkg.com/docsify-plugin-flexible-alerts@latest/dist/docsify-plugin-flexible-alerts.min.js" defer></script>
+    
+    <!-- 音乐插件 - 延迟加载 -->
+    <script defer>
+        // 延迟加载音乐插件
+        window.addEventListener('DOMContentLoaded', function() {
+            // 动态加载APlayer CSS
+            const aplayerCss = document.createElement('link');
+            aplayerCss.rel = 'stylesheet';
+            aplayerCss.href = 'https://unpkg.com/aplayer@1.10.1/dist/APlayer.min.css';
+            document.head.appendChild(aplayerCss);
+            
+            // 动态加载APlayer JS
+            const aplayerScript = document.createElement('script');
+            aplayerScript.src = 'https://unpkg.com/aplayer@latest/dist/APlayer.min.js';
+            aplayerScript.onload = function() {
+                // 加载MetingJS
+                const metingScript = document.createElement('script');
+                metingScript.src = 'https://unpkg.com/meting@latest/dist/Meting.min.js';
+                document.body.appendChild(metingScript);
+            };
+            document.body.appendChild(aplayerScript);
+        });
+    </script>
 
     <!-- 音乐插件 配置 -->
     <!-- 播放器配置说明：
@@ -674,12 +698,89 @@
     - mutex: 是否互斥：true（阻止多个播放器同时播放）、false（允许多个播放器播放）
     - lrc-type: 歌词显示模式：0（不显示）、1（LRC格式）、2（JS解析）、3（外部文件）
     - preload: 预加载：none（不预加载）、metadata（仅元数据）、auto（自动加载）
-    - list-folded: <!-- 是否默认折叠播放列表：true（折叠）、false（展开）
+    - list-folded: 是否默认折叠播放列表：true（折叠）、false（展开）
     -->
-    <meting-js id="8925762343" server="netease" type="playlist" fixed="true" autoplay="false" theme="#b7daff"
-        loop="none" order="random" volume="0.6" mutex="true" lrc-type="1" preload="none" list-folded="true">
-    </meting-js>
-
+    <div id="music-player"></div>
+    
+    <script defer>
+        // 页面加载完成后执行的初始化函数
+        function initPage() {
+            // 初始化音乐播放器
+            initMusicPlayer();
+            
+            // 初始化图片懒加载
+            initLazyLoad();
+        }
+        
+        // 延迟初始化音乐播放器
+        function initMusicPlayer() {
+            if (window.APlayer && window.MetingJS) {
+                // 创建播放器
+                const player = new MetingJS({
+                    id: "8925762343",
+                    server: "netease",
+                    type: "playlist",
+                    fixed: true,
+                    autoplay: false,
+                    theme: "#b7daff",
+                    loop: "none",
+                    order: "random",
+                    volume: 0.6,
+                    mutex: true,
+                    lrcType: 1,
+                    preload: "none",
+                    listFolded: true,
+                    container: "#music-player"
+                });
+            } else {
+                // 等待插件加载
+                setTimeout(initMusicPlayer, 100);
+            }
+        }
+        
+        // 初始化图片懒加载
+        function initLazyLoad() {
+            const lazyImages = document.querySelectorAll('.lazy-load');
+            
+            if ('IntersectionObserver' in window) {
+                const imageObserver = new IntersectionObserver(function(entries, observer) {
+                    entries.forEach(function(entry) {
+                        if (entry.isIntersecting) {
+                            const image = entry.target;
+                            image.src = image.dataset.src;
+                            image.classList.add('loaded');
+                            imageObserver.unobserve(image);
+                        }
+                    });
+                });
+                
+                lazyImages.forEach(function(image) {
+                    imageObserver.observe(image);
+                });
+            } else {
+                // 降级方案
+                lazyImages.forEach(function(image) {
+                    image.src = image.dataset.src;
+                    image.classList.add('loaded');
+                });
+            }
+        }
+        
+        // 性能监控
+        function initPerformanceMonitoring() {
+            if ('performance' in window && 'measure' in window.performance) {
+                const loadTime = window.performance.timing.loadEventEnd - window.performance.timing.navigationStart;
+                console.log('页面加载时间:', loadTime, 'ms');
+            }
+        }
+        
+        // 页面加载完成后初始化
+        window.addEventListener('load', function() {
+            initPage();
+            initPerformanceMonitoring();
+        });
+    </script>
+    
     <script type="text/javascript">
         // 更精确的时间计算函数
         function calculateRunTime() {
@@ -717,8 +818,6 @@
             // 使用requestAnimationFrame优化性能
             requestAnimationFrame(updateSiteTime);
         }
-        // 每秒更新一次
-        setTimeout(updateSiteTime, 1000);
 
         // 页面加载完成后启动
         if (document.readyState === "complete") {

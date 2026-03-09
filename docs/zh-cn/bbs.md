@@ -139,9 +139,3 @@
     text-decoration: underline;
 }
 </style>
-<!-- 悬浮小猫 -->
-<div class="/docsify-example-panels">
-  <div class="/docsify-example-panels floating-cat">
-    <img src="/assets/img/floating-cat.png">
-  </div>
-</div>
