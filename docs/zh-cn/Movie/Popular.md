@@ -1,11 +1,11 @@
-
+﻿
 ## 热门电影（近期电影）
 
 <div class="game-nav">
-  <a href="#/zh-cn/movie/popular" class="game-nav-btn">热门电影</a>
-  <a href="#/zh-cn/movie/classic" class="game-nav-btn">经典电影</a>
-  <a href="#/zh-cn/movie/series" class="game-nav-btn">系列电影</a>
-  <a href="#/zh-cn/movie/animefilms" class="game-nav-btn">动画电影</a>
+  <a href="/zh-cn/movie/popular" class="game-nav-btn">热门电影</a>
+  <a href="/zh-cn/movie/classic" class="game-nav-btn">经典电影</a>
+  <a href="/zh-cn/movie/series" class="game-nav-btn">系列电影</a>
+  <a href="/zh-cn/movie/animefilms" class="game-nav-btn">动画电影</a>
 </div>
 
 ---
@@ -16,7 +16,7 @@
 > 4.只分享无水印，无广告的资源。如有发现那个文件携带，请留言告知  
 > 5.高评分电影可以搜 **豆瓣TOP250** 或 **IMDBtop250** 一般都在里面有  
 > 6.漫威电影可以搜索 漫威宇宙电影合集，DC的电影请搜索 DC宇宙电影合集  
-> 7.链接失效、求电影可以 [留言](#/zh-cn/bbs) 或者进Q群@群主
+> 7.链接失效、求电影可以 [留言](/zh-cn/bbs) 或者进Q群@群主
 
 ---
 

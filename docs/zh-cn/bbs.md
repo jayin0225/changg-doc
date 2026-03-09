@@ -1,4 +1,3 @@
-
 > [!TIP|style:callout|label:用户需知|iconVisibility:hidden]
     1、电影院还在**上映**的电影是没有资源的，站长也不会分享电影院里的录制版本（TC版）污眼睛  
     2、影视资源都可以保存到自己的网盘后**在线观看**，当然在**电视上安装TV版APP**也可以在线播放  
@@ -11,11 +10,11 @@
 <p align="center"><b><font color="red">如果留言板没打开，多等一会儿或按一下F5刷新</font></b></p>
 
 ## 留言板：
-<div id="vcomment"></div>
+<div id="waline"></div>
 
 <style>
-/* 基础容器样式 */
-#vcomment {
+/* Waline 基础容器样式 */
+#waline {
     font-family: 'Helvetica Neue', Arial, sans-serif;
     color: #333;
     line-height: 1.5;
@@ -25,34 +24,23 @@
     backdrop-filter: blur(2px);
 }
 
-/* 评论输入区域 */
-#vcomment .vheader {
-    background: rgba(255, 255, 255, 0.8);
-    padding: 15px;
-    border-radius: 6px;
-    margin-bottom: 15px;
-    border: 1px dashed rgba(92, 124, 250, 0.2);
-}
-
-/* 输入框样式 */
-#vcomment .vedit .vinput {
+/* Waline 输入框样式 */
+.waline-wrapper .wl-input {
     border: 1px solid #e1e4e8;
     border-radius: 4px;
     padding: 8px 12px;
     font-size: 14px;
     transition: all 0.2s ease;
     background: #fff;
-    margin-bottom: 8px;
 }
 
-#vcomment .vedit .vinput:focus {
+.waline-wrapper .wl-input:focus {
     border-color: #5c7cfa;
     box-shadow: 0 0 0 2px rgba(92, 124, 250, 0.1);
-    outline: none;
 }
 
-/* 提交按钮 */
-#vcomment .vbtn {
+/* Waline 提交按钮 */
+.waline-wrapper .wl-btn {
     background: #5c7cfa;
     color: white;
     border: none;
@@ -64,18 +52,18 @@
     transition: all 0.2s ease;
 }
 
-#vcomment .vbtn:hover {
+.waline-wrapper .wl-btn:hover {
     background: #4c6ef5;
     transform: translateY(-1px);
 }
 
-/* 评论列表 */
-#vcomment .vlist {
+/* Waline 评论列表 */
+.waline-wrapper .wl-list {
     padding-top: 10px;
 }
 
-/* 单个评论卡片 */
-#vcomment .vcard {
+/* Waline 单个评论卡片 */
+.waline-wrapper .wl-card {
     padding: 12px;
     margin-bottom: 15px;
     background: rgba(255, 255, 255, 0.9);
@@ -85,33 +73,13 @@
     position: relative;
 }
 
-#vcomment .vcard:hover {
+.waline-wrapper .wl-card:hover {
     border-color: rgba(92, 124, 250, 0.6);
     box-shadow: 0 2px 8px rgba(92, 124, 250, 0.1);
 }
 
-/* 卡片左上角小装饰 */
-#vcomment .vcard::before {
-    content: "";
-    position: absolute;
-    top: -2px;
-    left: -2px;
-    width: 13px;
-    height: 13px;
-    border-top: 2px solid #5c7cfa;
-    border-left: 2px solid #5c7cfa;
-    border-radius: 3px 0 0 0;
-}
-
-/* 评论元信息 */
-#vcomment .vcard .vmeta {
-    display: flex;
-    align-items: center;
-    margin-bottom: 8px;
-}
-
-/* 用户头像 */
-#vcomment .vcard .vimg {
+/* Waline 用户头像 */
+.waline-wrapper .wl-avatar {
     width: 36px;
     height: 36px;
     border-radius: 50%;
@@ -119,22 +87,22 @@
     border: 2px solid rgba(92, 124, 250, 0.2);
 }
 
-/* 评论内容 */
-#vcomment .vcard .vcontent {
+/* Waline 评论内容 */
+.waline-wrapper .wl-content {
     padding-left: 46px;
     font-size: 14px;
     line-height: 1.5;
 }
 
-/* 回复按钮 */
-#vcomment .vcard .vat {
+/* Waline 回复按钮 */
+.waline-wrapper .wl-reply {
     color: #5c7cfa;
     font-size: 12px;
     font-weight: 500;
     transition: color 0.2s ease;
 }
 
-#vcomment .vcard .vat:hover {
+.waline-wrapper .wl-reply:hover {
     color: #3a5bd9;
     text-decoration: underline;
 }

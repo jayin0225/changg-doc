@@ -1,16 +1,16 @@
-
+﻿
 ## 国产动漫
 
 <div class="game-nav">
-  <a href="#/zh-cn/animetv/gcdm" class="game-nav-btn">国产动漫</a>
-  <a href="#/zh-cn/animetv/rbdm" class="game-nav-btn">日本动漫</a>
-  <a href="#/zh-cn/animetv/omdm" class="game-nav-btn">欧美动漫</a>
-  <a href="#/zh-cn/animetv/xpy" class="game-nav-btn">小朋友动画</a>
+  <a href="/zh-cn/animetv/gcdm" class="game-nav-btn">国产动漫</a>
+  <a href="/zh-cn/animetv/rbdm" class="game-nav-btn">日本动漫</a>
+  <a href="/zh-cn/animetv/omdm" class="game-nav-btn">欧美动漫</a>
+  <a href="/zh-cn/animetv/xpy" class="game-nav-btn">小朋友动画</a>
 </div>
 
 ---
 
-> 链接失效、求电影可以 [留言](#/zh-cn/bbs) 或者进 Q群@群主
+> 链接失效、求电影可以 [留言](/zh-cn/bbs) 或者进 Q群@群主
 
 ### 《国产动画 总目录》如果下面的动漫被和谐，请访问总目录
 

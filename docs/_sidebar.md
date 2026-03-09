@@ -1,4 +1,4 @@
-<!-- docs/_sidebar.md -->
+﻿<!-- docs/_sidebar.md -->
 - [🏠 首 页](home)
 - [🎮 游 戏](/zh-cn/games/page)
   - [💻 电脑游戏](/zh-cn/games/pc)
