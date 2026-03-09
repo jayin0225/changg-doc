@@ -21,6 +21,7 @@
   迅雷：https://pan.xunlei.com/s/VNpUQ4hwI5ZAuglOSAaMw6n3A1?pwd=necc#
 
 + 2、打开游戏出现闪退、卡加载、报错，提示C++，缺少##.dll等文件 +
+
     2.1 安装微软运行库即可解决，新手和不懂的建议全部安装即可 (安装好后要重启电脑)  
         夸克：https://pan.quark.cn/s/05181b7ac791  
         迅雷：https://pan.xunlei.com/s/VNobUDzBi27vywiLpZN_NLGXA1?pwd=2skw#
