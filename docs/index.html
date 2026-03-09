@@ -54,190 +54,88 @@
 
     <!-- 自定义主题样式 -->
     <style>
-        /* 全局变量定义 */
+        /* ========================================
+           1. CSS变量定义
+           ======================================== */
         :root {
-            /* 字体与尺寸 */
             --base-font-size: 15px;
             --content-max-width: 56em;
             --sidebar-width: 20.5rem;
             --sidebar-nav-margin: 1rem 0.1rem 0.1rem;
-
-            /* 颜色系统 */
             --primary-color: #4155c4;
             --secondary-color: #5e72e4;
             --accent-color: #fed24a;
             --shadow-color: rgba(50, 50, 93, 0.1);
-
-            /* 组件样式 */
             --docsifytabs-border-color: #ededed;
             --docsifytabs-tab-highlight-color: purple;
             --heading-color: var(--primary-color);
         }
 
-        /* 图片懒加载 */
+        /* ========================================
+           2. 图片懒加载
+           ======================================== */
         .lazy-load {
             opacity: 0;
             transition: opacity 0.3s ease-in-out;
         }
-
         .lazy-load.loaded {
             opacity: 1;
         }
 
-
-        /* 移动端响应式调整 */
-        @media screen and (max-width: 768px) {
-
-            /* 标题字体调整 */
-            h1 {
-                font-size: 18px !important;
-            }
-
-            h2,
-            h3 {
-                font-size: 16px !important;
-            }
-
-            h4,
-            p {
-                font-size: 13px !important;
-            }
-
-            /* 主内容区调整 */
-            #main {
-                margin-top: 23px;
-                padding: 1rem;
-            }
-        }
-
-        /* 加载动画容器 */
+        /* ========================================
+           3. 页面加载动画
+           ======================================== */
         #app {
             display: flex;
             align-items: center;
             justify-content: center;
             min-height: 100vh;
-            /* 改为视窗高度单位 */
             font-size: clamp(24px, 8vw, 38px);
-            /* 响应式字体大小 */
         }
-
-        /* 点状动画关键帧 */
         @keyframes dot-animation {
-
-            0%,
-            50% {
-                opacity: 0.2;
-            }
-
-            25%,
-            75% {
-                opacity: 1;
-            }
-
-            100% {
-                opacity: 0.2;
-            }
+            0%, 50% { opacity: 0.2; }
+            25%, 75% { opacity: 1; }
+            100% { opacity: 0.2; }
         }
-
-        /* 加载文本样式 */
         .loading-text {
             display: inline-block;
             font-weight: bold;
         }
-
-        /* 点状动画实现 */
         .loading-text span {
             display: inline-block;
             animation: dot-animation 1.5s infinite ease-in-out;
             margin: 0 2px;
         }
+        .loading-text span:nth-child(1) { animation-delay: 0.1s; }
+        .loading-text span:nth-child(2) { animation-delay: 0.3s; }
+        .loading-text span:nth-child(3) { animation-delay: 0.5s; }
+        .loading-text span:nth-child(4) { animation-delay: 0.7s; }
 
-        .loading-text span:nth-child(1) {
-            animation-delay: 0.1s;
-        }
-
-        .loading-text span:nth-child(2) {
-            animation-delay: 0.3s;
-        }
-
-        .loading-text span:nth-child(3) {
-            animation-delay: 0.5s;
-        }
-
-        .loading-text span:nth-child(4) {
-            animation-delay: 0.7s;
-        }
-
-        /* 移动端专属优化 (≤768px) */
-        @media (max-width: 768px) {
-            #app {
-                min-height: 50vh;
-                /* 移动端减少高度 */
-                font-size: clamp(18px, 6vw, 24px);
-            }
-
-            .loading-text span {
-                animation-duration: 1.2s;
-                margin: 0 1px;
-            }
-        }
-
-        /* 标题目录栏 */
-        article>ul {
-            padding: 10px;
-            border: none;
-            box-shadow: 0 20px 55px var(--shadow-color),
-                0 0 1px rgba(0, 0, 0, 0.07);
-        }
-
-        /* 侧边栏阴影样式 */
+        /* ========================================
+           4. 侧边栏样式
+           ======================================== */
         aside.sidebar {
             border: none;
-            box-shadow: 0 15px 35px var(--shadow-color),
-                0 5px 15px rgba(0, 0, 0, 0.07);
+            box-shadow: 0 15px 35px var(--shadow-color), 0 5px 15px rgba(0, 0, 0, 0.07);
         }
-
-        /* 侧边栏按钮样式 */
-        .sidebar-toggle .sidebar-toggle-button {
-            width: 4.1rem;
-            color: #530daf;
-            background: rgba(196, 8, 8, 0.27);
-            border-radius: 0 8px 8px 0;
-            box-shadow: 0 0.155rem 0.25rem rgba(12, 14, 4, 0.075);
-            transition: all 0.1s ease;
-        }
-
-        /* 侧边栏导航列表结构 */
         aside.sidebar li {
             margin: 0;
             position: relative;
             max-width: 900px;
         }
-
-        /* 三级菜单缩进 */
-        .sidebar-nav>ul>li>ul>li>ul {
-            margin-left: 16px;
-        }
-
-        /* 侧边栏文本样式 */
         aside.sidebar li p {
             padding-left: 22px;
             font-size: 22px;
             font-weight: normal;
         }
-
         aside.sidebar li a {
             padding: 3px 0 3px 22px;
             font-size: var(--base-font-size);
             line-height: 33px;
         }
-
-        /* 侧边栏激活字体大小 */
         aside.sidebar li.active>a {
             font-size: 22px;
         }
-
-        /* 侧边栏a:before效果 */
         aside.sidebar ul li.active>a:before {
             content: '' !important;
             position: absolute !important;
@@ -250,52 +148,70 @@
             border-radius: 50% !important;
             box-shadow: 0 0 0 3px rgba(254, 210, 74, 0.4) !important;
         }
-
-        /* 主内容区域 */
-        #main {
-            padding-top: 20px;
-            box-shadow: 0 15px 300px 20px var(--shadow-color),
-                0 10px 15px rgba(0, 0, 0, 0.07);
+        .sidebar-nav>ul>li>ul>li>ul {
+            margin-left: 16px;
         }
 
-        /* 提示框样式 */
-        p.tip,
-        blockquote {
+        /* ========================================
+           5. 侧边栏菜单按钮
+           ======================================== */
+        .sidebar-toggle .sidebar-toggle-button {
+            width: 4.1rem;
+            color: #530daf;
+            background: rgba(196, 8, 8, 0.27);
+            border-radius: 0 8px 8px 0;
+            box-shadow: 0 0.155rem 0.25rem rgba(12, 14, 4, 0.075);
+            transition: all 0.1s ease;
+        }
+        .sidebar-toggle-button {
+            position: fixed;
+            top: 10px;
+            left: 10px;
+            width: auto;
+            height: auto;
+            background: none;
+            border: none;
+            padding: 10px 15px;
+            cursor: pointer;
+            z-index: 99;
+        }
+        .sidebar-toggle-button span {
+            display: none;
+        }
+        .sidebar-toggle-button::after {
+            content: "菜 单";
+            color: #d12a32;
+            font-size: 12px;
+            font-weight: bold;
+            transition: all 0.3s ease;
+        }
+        .sidebar-toggle-button:hover::after {
+            color: #251ab6;
+            text-decoration: underline;
+        }
+        body.close .sidebar-toggle-button::after {
+            content: "菜 单";
+        }
+
+        /* ========================================
+           6. 主内容区域
+           ======================================== */
+        #main {
+            padding-top: 20px;
+            box-shadow: 0 15px 300px 20px var(--shadow-color), 0 10px 15px rgba(0, 0, 0, 0.07);
+        }
+        article>ul {
+            padding: 10px;
+            border: none;
+            box-shadow: 0 20px 55px var(--shadow-color), 0 0 1px rgba(0, 0, 0, 0.07);
+        }
+        p.tip, blockquote {
             border-radius: 1px !important;
         }
 
-        /* 链接样式 */
-        .markdown-section p a,
-        .markdown-section ul a,
-        #edit-history a {
-            position: relative;
-            color: var(--theme-color) !important;
-            text-decoration: none !important;
-        }
-
-        /* 链接下划线动画 */
-        .markdown-section p a:before,
-        .markdown-section ul a:before,
-        #edit-history a:before {
-            content: "";
-            position: absolute;
-            bottom: 0;
-            left: 0;
-            width: 100%;
-            height: 1px;
-            background-color: var(--secondary-color);
-            transform: scaleX(0);
-            transition: transform 0.8s ease;
-            backface-visibility: hidden;
-        }
-
-        .markdown-section p a:hover:before,
-        .markdown-section ul a:hover:before,
-        #edit-history a:hover:before {
-            transform: scaleX(1);
-        }
-
-        /* 标题样式 */
+        /* ========================================
+           7. 标题样式
+           ======================================== */
         .markdown-section h1,
         .markdown-section h2,
         .markdown-section h3,
@@ -304,39 +220,22 @@
             padding: 0;
             border: none;
         }
-
-        .markdown-section h1,
-        .markdown-section h2,
-        .markdown-section h3 {
+        .markdown-section h1, .markdown-section h2, .markdown-section h3 {
             font-weight: 545;
         }
-
         .markdown-section h4 {
             padding-top: 1.8rem;
             color: #0064ff;
         }
-
-        /* 多标题 padding-top等于0.5*/
         .no-title-h4 h4 {
             padding-top: 0.5rem;
         }
-
-        @media (max-width: 768px) {
-            .no-title-h4 h4 {
-                padding-top: 0.3rem;
-                /* 移动端更小的间距 */
-            }
-        }
-
-        /* 隐藏标题链接 */
         .markdown-section h1 a,
         .markdown-section h2 a,
         .markdown-section h3 a,
         .markdown-section h4 a {
             text-decoration: none !important;
         }
-
-        /* 标题装饰条 */
         .markdown-section h1:after,
         .markdown-section h2:after,
         .markdown-section h3:after,
@@ -351,30 +250,44 @@
             opacity: 0.25;
             pointer-events: none;
         }
+        .markdown-section h1:after { width: 45px; height: 13px; }
+        .markdown-section h2:after { width: 40px; height: 9px; }
+        .markdown-section h3:after { width: 30px; height: 7px; }
+        .markdown-section h4:after { width: 70px; height: 2px; background: #f1bcbc; opacity: 1; }
 
-        .markdown-section h1:after {
-            width: 45px;
-            height: 13px;
+        /* ========================================
+           8. 链接样式
+           ======================================== */
+        .markdown-section p a,
+        .markdown-section ul a,
+        #edit-history a {
+            position: relative;
+            color: var(--theme-color) !important;
+            text-decoration: none !important;
+        }
+        .markdown-section p a:before,
+        .markdown-section ul a:before,
+        #edit-history a:before {
+            content: "";
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 1px;
+            background-color: var(--secondary-color);
+            transform: scaleX(0);
+            transition: transform 0.8s ease;
+            backface-visibility: hidden;
+        }
+        .markdown-section p a:hover:before,
+        .markdown-section ul a:hover:before,
+        #edit-history a:hover:before {
+            transform: scaleX(1);
         }
 
-        .markdown-section h2:after {
-            width: 40px;
-            height: 9px;
-        }
-
-        .markdown-section h3:after {
-            width: 30px;
-            height: 7px;
-        }
-
-        .markdown-section h4:after {
-            width: 70px;
-            height: 2px;
-            background: #f1bcbc;
-            opacity: 1;
-        }
-
-        /* 极简动态醒目搜索框 */
+        /* ========================================
+           9. 搜索框样式
+           ======================================== */
         .search input {
             width: 100%;
             padding: 12px 20px;
@@ -384,147 +297,90 @@
             outline: none;
             animation: pulseBorder 2s infinite;
         }
-
         @keyframes pulseBorder {
-            0% {
-                box-shadow: 0 0 0 0 rgba(4, 47, 236, 0.7);
-            }
-
-            70% {
-                box-shadow: 0 0 0 10px rgba(66, 185, 131, 0);
-            }
-
-            100% {
-                box-shadow: 0 0 0 0 rgba(66, 185, 131, 0);
-            }
+            0% { box-shadow: 0 0 0 0 rgba(4, 47, 236, 0.7); }
+            70% { box-shadow: 0 0 0 10px rgba(66, 185, 131, 0); }
+            100% { box-shadow: 0 0 0 0 rgba(66, 185, 131, 0); }
         }
-
         .search input:focus {
             animation: none;
             border-color: #267c58;
             box-shadow: 0 0 0 3px rgba(66, 185, 131, 0.5);
         }
-
-        /* 侧边栏重置按钮样式 */
-        .sidebar-toggle-button {
-            position: fixed;
-            top: 10px;
-            left: 10px;
-            width: auto;
-            height: auto;
-            background: none;
-            border: none;
-            padding: 10px 15px;
-            cursor: pointer;
-            z-index: 99;
+        .matching-post p {
+            display: none !important;
         }
 
-        /* 隐藏默认图标 */
-        .sidebar-toggle-button span {
-            display: none;
-        }
-
-        /* 添加"菜单"文字 */
-        .sidebar-toggle-button::after {
-            content: "菜 单";
-            color: #d12a32;
-            font-size: 12px;
-            font-weight: bold;
-            transition: all 0.3s ease;
-        }
-
-        /* 悬停效果 */
-        .sidebar-toggle-button:hover::after {
-            color: #251ab6;
-            text-decoration: underline;
-        }
-
-        /* 侧边栏打开时的样式 */
-        body.close .sidebar-toggle-button::after {
-            content: "菜 单";
-        }
-
-        /* .MD里面的导航条样式 - 响应式设计 */
+        /* ========================================
+           10. MD文件内导航按钮
+           ======================================== */
         .markdown-section .game-nav {
             display: flex;
             gap: 15px;
             margin: 25px 0;
             flex-wrap: wrap;
         }
-
-        /* 导航按钮基础样式 */
         .markdown-section .game-nav-btn {
-            /* 布局 */
             padding: 10px 20px;
             box-sizing: border-box;
-
-            /* 视觉样式 */
             background: #f0f3f9;
             color: #240e9e;
             text-decoration: none;
             border-radius: 6px;
             border: 1px solid #d0d7de;
-
-            /* 文字 */
             font-weight: 600;
             font-size: 14px;
-
-            /* 交互 */
-            transition:
-                background-color 0.2s ease,
-                border-color 0.2s ease;
-
-            /* 移动端优化 */
+            transition: background-color 0.2s ease, border-color 0.2s ease;
             white-space: nowrap;
         }
-
-        /* 悬停状态 */
         .markdown-section .game-nav-btn:hover {
             background: #e1e7ed;
             border-color: #afb8c1;
         }
 
-        /* 移动端适配 (≤768px) */
-        @media (max-width: 768px) {
+        /* ========================================
+           11. 移动端响应式适配
+           ======================================== */
+        @media screen and (max-width: 768px) {
+            h1 { font-size: 18px !important; }
+            h2, h3 { font-size: 16px !important; }
+            h4, p { font-size: 13px !important; }
+            #main {
+                margin-top: 23px;
+                padding: 1rem;
+            }
+            #app {
+                min-height: 50vh;
+                font-size: clamp(18px, 6vw, 24px);
+            }
+            .loading-text span {
+                animation-duration: 1.2s;
+                margin: 0 1px;
+            }
+            .no-title-h4 h4 {
+                padding-top: 0.3rem;
+            }
             .markdown-section .game-nav {
                 gap: 10px;
                 margin: 15px 0;
                 overflow-x: auto;
                 padding-bottom: 8px;
-                /* 为滚动条留空间 */
                 scroll-snap-type: x proximity;
-                /* 已废弃但iOS仍需 */
             }
-
             .markdown-section .game-nav-btn {
                 padding: 8px 12px;
                 font-size: 13px;
                 scroll-snap-align: start;
                 flex: 0 0 auto;
-                /* 禁止伸缩 */
             }
-
-            /* 隐藏滚动条 (无警告方案) */
             .markdown-section .game-nav::-webkit-scrollbar {
                 width: 0;
                 height: 0;
             }
         }
-
-        /* 超小屏幕优化 (≤480px) */
         @media (max-width: 480px) {
-            .markdown-section .game-nav {
-                gap: 8px;
-            }
-
-            .markdown-section .game-nav-btn {
-                padding: 8px 10px;
-            }
-        }
-
-        /* 隐藏搜索结果中的P标签，即链接 */
-        .matching-post p {
-            display: none !important;
+            .markdown-section .game-nav { gap: 8px; }
+            .markdown-section .game-nav-btn { padding: 8px 10px; }
         }
     </style>
 </head>
