@@ -382,6 +382,22 @@
             .markdown-section .game-nav { gap: 8px; }
             .markdown-section .game-nav-btn { padding: 8px 10px; }
         }
+        
+        /* ========================================           14. 隐藏 Waline 订阅按钮和RSS图标           ======================================== */
+        #waline .waline-subscribe,
+        #waline .wl-subscribe,
+        #waline .waline-rss,
+        #waline .wl-rss,
+        #waline .wl-footer .wl-rss,
+        .waline-subscribe,
+        .wl-subscribe,
+        .waline-rss,
+        .wl-rss,
+        .wl-footer .wl-rss {
+            display: none !important;
+            visibility: hidden !important;
+            opacity: 0 !important;
+        }
     </style>
 </head>
 
@@ -446,9 +462,7 @@
                     '/_navbar.md',
                     '/_coverpage.md',
                     '/assets/css/theme-simple.css',
-                    '/assets/css/docsify-vite-coverpage.css',
-                    '/assets/js/docsify-footer.min.js',
-                    '/assets/js/docsify-plugin-toc.min.js'
+                    '/assets/css/docsify-vite-coverpage.css'
                 ]
             },
             search: {
@@ -464,11 +478,6 @@
                 path: '/zh-cn',
             },
 
-            // Waline 评论系统配置
-            // 详细配置在下方 Waline.init 中
-            waline: {
-                serverURL: 'https://waline.haozy.top',
-            },
         }
     </script>
     <!-- docsify核心 - 同步加载，带备用CDN -->
@@ -557,6 +566,9 @@
                         
                         // 关闭搜索功能
                         search: false,
+                        
+                        // 关闭 RSS 功能
+                        rss: false,
                         
                         // 是否记录IP地址
                         recordIP: false,
