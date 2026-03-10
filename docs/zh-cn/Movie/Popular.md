@@ -1,11 +1,11 @@
-﻿
+
 ## 热门电影（近期电影）
 
 <div class="game-nav">
-  <a href="/zh-cn/movie/popular" class="game-nav-btn">热门电影</a>
-  <a href="/zh-cn/movie/classic" class="game-nav-btn">经典电影</a>
-  <a href="/zh-cn/movie/series" class="game-nav-btn">系列电影</a>
-  <a href="/zh-cn/movie/animefilms" class="game-nav-btn">动画电影</a>
+  <a href="#/zh-cn/movie/popular" class="game-nav-btn">热门电影</a>
+  <a href="#/zh-cn/movie/classic" class="game-nav-btn">经典电影</a>
+  <a href="#/zh-cn/movie/series" class="game-nav-btn">系列电影</a>
+  <a href="#/zh-cn/movie/animefilms" class="game-nav-btn">动画电影</a>
 </div>
 
 ---

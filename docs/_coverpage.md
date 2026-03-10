@@ -1,4 +1,4 @@
-﻿<!-- 电脑游戏每日更新 | 全网最新最全的PC单机游戏免费下载 - 对酒当歌分享 -->
+<!-- 电脑游戏每日更新 | 全网最新最全的PC单机游戏免费下载 - 对酒当歌分享 -->
 <!-- _coverpage.md -->
 <div class="cover-content">
   <div class="video-container">

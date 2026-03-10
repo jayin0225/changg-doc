@@ -1,4 +1,4 @@
-﻿## Switch游戏 PC/安卓
+## Switch游戏 PC/安卓
 
 <div class="game-nav">
   <a href="/zh-cn/games/pc" class="game-nav-btn">电脑游戏</a>

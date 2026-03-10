@@ -1,4 +1,4 @@
-﻿## 电脑游戏
+## 电脑游戏
 
 <div class="game-nav">
   <a href="/zh-cn/games/pc" class="game-nav-btn">电脑游戏</a>
