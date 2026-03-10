@@ -107,6 +107,10 @@
 
 迅雷：https://pan.xunlei.com/s/VOnD0hYeAwYhSvLvw5WqCVWxA1?pwd=a9i2
 
+#### 《永恒之柱II 亡焰（Pillars of Eternity 2 Deadfire）黑曜石版》v5.0.0.0040 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/972d32516d5b
+
 #### 《探案法 加拿大档案（Methods The Canada Files）》v1.0 中文版
 
 夸克：https://pan.quark.cn/s/aeba75d104bf
