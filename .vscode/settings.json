@@ -4,6 +4,9 @@
     "liveServer.settings.port": 5500,
     "liveServer.settings.host": "localhost",
     "liveServer.settings.NoBrowser": false,
+    // Git 自动暂存配置
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
     // 忽略的文件变化
     "liveServer.settings.ignoreFiles": [
         ".vscode/**",
