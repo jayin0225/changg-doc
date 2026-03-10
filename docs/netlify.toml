@@ -1,2 +1,10 @@
 [build]
   publish = "."
+
+# 所有请求转发到 index.html
+# force = false 表示：如果文件存在，直接返回文件；如果不存在，才 rewrite 到 index.html
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+  force = false
