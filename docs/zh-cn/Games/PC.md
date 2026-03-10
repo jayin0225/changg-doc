@@ -53,6 +53,14 @@
 
 夸克：https://pan.quark.cn/s/bd8babd4aaf1
 
+#### 《镇邪2（hexbreaker 2）》v2026.3.10 中文版
+<section class="no-title-h4">
+
+#### 《镇邪（Zhenxie》v2023.1.28 中文版
+</section>
+
+夸克：https://pan.quark.cn/s/86026658bd09
+
 #### 《卡牌修仙传（Card Cultivation）》v2.1.0.8 中文版
 
 夸克：https://pan.quark.cn/s/cb91eda9d166
@@ -125,6 +133,14 @@
 
 ## 最近更新
 
+#### 《翼星求生（ICARUS 》v3.0.0.150086 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/d6f92efcdb54
+
+#### 《梦幻主义（Onirism）》build.21313783 中文 联机版（奇幻动作冒险）
+
+夸克：https://pan.quark.cn/s/0dc0e9840bcf
+
 #### 《天国拯救2（Kingdom Come Deliverance II）黄金版》v1.5.3 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/7c6b8f30675c
@@ -138,6 +154,21 @@
 #### 《夏日口袋 流光蓝（Summer Pockets REFLECTION BLUE 》v1.4.2.1 中文版（视觉小说）
 
 夸克：https://pan.quark.cn/s/c2b1316245c1
+
+#### 《勇者斗恶龙1+2 HD-2D 重制版（DRAGON QUEST III HD 2D Remake）》v1.0.2.0 中文版
+<section class="no-title-h4">
+
+#### 《勇者斗恶龙3 HD-2D 重制版（DRAGON QUEST III HD 2D Remake 》v1.2.1.0 中文版
+#### 《勇者斗恶龙11S：寻觅逝去的时光》v1.0 全DLC 中文 终结版
+#### 《无限神速斩 勇者斗恶龙 达伊的大冒险》1.0.3 中文版 PC版
+#### 《勇者斗恶龙 寻宝探险团 蓝色眼眸与天空罗盘》全DLC 豪华中文版 PC版
+#### 《勇者斗恶龙 创世小玩家2（Dragon Quest Builders 2 》v1.7.3d 全DLC 中文 联机版
+#### 《勇者斗恶龙 创世小玩家 阿雷夫加尔德复兴记（Dragon Quest Builders）》 v1.0.1 中文版
+</section>
+
+夸克：https://pan.quark.cn/s/8ac0b6c43877
+
+迅雷：https://pan.xunlei.com/s/VNv2sfgPQ5xpw3hvX3vP88lTA1?pwd=vzp2#
 
 #### 《王国保卫战5 联盟（Kingdom Rush 5 Alliance TD 》v7.00.36 全DLC 中文版（新增巨龙战争DLC）
 <section class="no-title-h4">
@@ -1008,7 +1039,7 @@
 
 #### 《孤山独影（cairn 》v1.0.303s 全DLC 中文版（生存攀岩游戏）
 
-链接：https://pan.quark.cn/s/d565f18acf15
+夸克：https://pan.quark.cn/s/d565f18acf15
 
 #### 《符文工厂3豪华版（Rune Factory 3 Special 》v1.0.4 全DLC 中文版（附第五部）
 
@@ -1594,10 +1625,6 @@
 #### 《CyberCorp》v1.36 中文 联机版（赛博巨头、赛博公司？）
 
 夸克：https://pan.quark.cn/s/7e18b53c27fb
-
-#### 《梦幻主义（Onirism 》build.21313783 中文 联机版（奇幻动作冒险）
-
-夸克：https://pan.quark.cn/s/0dc0e9840bcf
 
 #### 《PEAK》v1.51.a 中文 联机版（多人联机爬山）
 
@@ -2559,9 +2586,7 @@
 
 夸克：https://pan.quark.cn/s/db29fa67fa52
 
-#### 《勇者斗恶龙3 HD-2D 重制版（DRAGON QUEST III HD 2D Remake 》v1.2.1.0 中文版
 
-夸克：https://pan.quark.cn/s/7bec59cb28a0
 
 #### 《魔王的迷宫（Labyrinth Of The Demon King 》v2025.10.27 中文版
 
@@ -3040,12 +3065,6 @@
 #### 《巴别塔：垂直国度（STARIO Haven Tower 》v0.2.12.4110 中文版
 
 夸克：https://pan.quark.cn/s/cdaa63cf783d
-
-#### 《勇者斗恶龙 创世小玩家2 破坏神席德与空荡岛（Dragon Quest Builders 2 》v1.7.3d 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/35a07d7183e8
-
-迅雷：https://pan.xunlei.com/s/VNtedJfEj846VJQ5OdDj8k6JA1?pwd=4av2#
 
 #### 《林间小世界（Tiny Glade 》v1.14.3 全DLC 中文版
 
@@ -5104,10 +5123,6 @@
 #### 《全面冲突：抵抗（Total Conflict Resistance 》v1.00.0 中文版（战略指挥游戏）
 
 夸克：https://pan.quark.cn/s/bb69e0d360ae
-
-#### 《翼星求生（ICARUS 》v2.3.1.140342 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/d6f92efcdb54
 
 #### 《贸易之路（Let Them Trade 》v1.0.0 中文版
 
@@ -7577,10 +7592,6 @@
 #### 《放置殖民地（Idle Colony 》v1.0.06 英文版
 
 夸克：https://pan.quark.cn/s/9d5140138ffe
-
-#### 《镇邪（Zhenxie 》v2023.1.28 中文版
-
-夸克：https://pan.quark.cn/s/86026658bd09
 
 #### 《切尔诺贝利清算人（Chornobyl Liquidators 》v1.1.31 全DLC 中文版
 
@@ -11287,28 +11298,6 @@
 夸克：https://pan.quark.cn/s/c8be5c5ea7ab
 
 迅雷：https://pan.xunlei.com/s/VNttNSKhTXVAZexRrfO-fkKIA1?pwd=kkc5#
-
-#### 《勇者斗恶龙 创世小玩家 阿雷夫加尔德复兴记（Dragon Quest Builders 》 v1.0.1 中文版
-
-夸克：https://pan.quark.cn/s/bc7362bd4c7b
-
-#### 《无限神速斩 勇者斗恶龙 达伊的大冒险》最新 中文版 PC版
-
-夸克：https://pan.quark.cn/s/9afe5265dcd8
-
-迅雷：https://pan.xunlei.com/s/VNuhL5Nwn1yRRTmaNOK5oJlrA1?pwd=gs8x#
-
-#### 《勇者斗恶龙 寻宝探险团 蓝色眼眸与天空罗盘》全DLC 豪华中文版 PC版
-
-夸克：https://pan.quark.cn/s/a9927f89b95a
-
-迅雷：https://pan.xunlei.com/s/VNuhN-7aEfRzwNZvHCyDuUnzA1?pwd=2tnc#
-
-#### 《勇者斗恶龙11S：寻觅逝去的时光》v1.0 全DLC 中文 终结版
-
-夸克：https://pan.quark.cn/s/8ac0b6c43877
-
-迅雷：https://pan.xunlei.com/s/VNv2sfgPQ5xpw3hvX3vP88lTA1?pwd=vzp2#
 
 ---
 ## 互动影游
