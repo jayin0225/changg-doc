@@ -569,6 +569,23 @@
             },
 
         }
+
+        // 404 处理插件 - 检测是否返回了 HTML 而不是 Markdown
+        window.$docsify.plugins = [].concat(window.$docsify.plugins || [], function(hook, vm) {
+            hook.beforeEach(function(content, next) {
+                // 如果内容以 <!DOCTYPE 或 <html 开头，说明返回了 HTML 而不是 Markdown
+                if (content && (content.trim().startsWith('<!DOCTYPE') || content.trim().startsWith('<html'))) {
+                    console.log('[404] 页面不存在，返回了 HTML');
+                    // 加载 404.md 内容
+                    fetch('/404.md')
+                        .then(response => response.text())
+                        .then(text => next(text))
+                        .catch(() => next('# 404 - 页面未找到\n\n抱歉，您访问的页面不存在。\n\n[返回首页](/)'));
+                } else {
+                    next(content);
+                }
+            });
+        })
     </script>
     <!-- docsify核心 -->
     <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"
