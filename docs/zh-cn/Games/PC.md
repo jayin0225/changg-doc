@@ -67,6 +67,12 @@
 
 迅雷：https://pan.xunlei.com/s/VOnHb7UJp7pepL7c2qUJfp13A1?pwd=8nr4
 
+#### 《十三州行动 三国搜打撤》v1.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/3320dc96d358
+
+迅雷：https://pan.xunlei.com/s/VOnObO02k0OlL2xck1zcMotqA1?pwd=4fda
+
 #### 《人工智能的选择（Heart of the Machine）》v1.000.2 中文版
 
 夸克：https://pan.quark.cn/s/f56bb8afdf88
@@ -158,6 +164,16 @@
 #### 《夏日口袋 流光蓝（Summer Pockets REFLECTION BLUE 》v1.4.2.1 中文版（视觉小说）
 
 夸克：https://pan.quark.cn/s/c2b1316245c1
+
+#### 《下一站江湖2（Next Jianghu II 》v1.1.51(92) 全DLC 中文版（附第一部）
+
+夸克：https://pan.quark.cn/s/c42507f81cff
+
+迅雷：https://pan.xunlei.com/s/VNw04l4vfz6guXqO8J148A1-A1?pwd=h5v6#
+
+#### 《开拓者：正义之怒（Pathfinder Wrath of the Righteous）神话版》v2.7.0x全DLC 中文版
+
+夸克：https://pan.quark.cn/s/27a9461af361
 
 #### 《勇者斗恶龙1+2 HD-2D 重制版（DRAGON QUEST III HD 2D Remake）》v1.0.2.0 中文版
 <section class="no-title-h4">
@@ -1139,12 +1155,6 @@
 夸克：https://pan.quark.cn/s/cf680d575749
 
 迅雷：https://pan.xunlei.com/s/VNtKlm0t9Cfpnuk-BzvaR45OA1?pwd=g3qz#
-
-#### 《下一站江湖2（Next Jianghu II 》v1.1.51(91) 全DLC 中文版（附第一部）
-
-夸克：https://pan.quark.cn/s/c42507f81cff
-
-迅雷：https://pan.xunlei.com/s/VNw04l4vfz6guXqO8J148A1-A1?pwd=h5v6#
 
 #### 《风暴崛起（Tempest Rising 》v1.6.0.53840 全DLC 中文 联机版
 
@@ -6490,10 +6500,6 @@
 #### 《雨中冒险2（Risk of Rain 2 》v1.3.8506 全DLC 豪华中文 联机版
 
 夸克：https://pan.quark.cn/s/631a25844e2b
-
-#### 《开拓者：正义之怒（Pathfinder Wrath of the Righteous）神话版》v2.7.0W 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/27a9461af361
 
 #### 《EvilSlayer》v2025.5.6 中文版（女仆打丧尸）
 
