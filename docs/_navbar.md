@@ -1,6 +1,6 @@
 <!-- _navbar.md -->
 
-<!--
+
 - [🏠 首 页](home)
 - 🎮 游 戏
   - [💻 电脑游戏](/zh-cn/games/pc)
@@ -26,6 +26,6 @@
 - [🎓 教学课件](/zh-cn/instruction)
 - [🎵 音乐+MV](/zh-cn/music)
 - [✨ 其 他](/zh-cn/additional)
--->
+
 
 

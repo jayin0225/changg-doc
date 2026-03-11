@@ -1,4 +1,4 @@
-> [!TIP|style:callout|label:用户需知|iconVisibility:hidden]
+> [!TIP|style:callout|label:用户须知|iconVisibility:hidden]
     1、电影院还在**上映**的电影是没有资源的，站长也不会分享电影院里的录制版本（TC版）污眼睛  
     2、影视资源都可以保存到自己的网盘后**在线观看**，当然在**电视上安装TV版APP**也可以在线播放  
     3、高评分电影可以搜 **豆瓣TOP250** 或 **IMDB top250** 一般里面都有  

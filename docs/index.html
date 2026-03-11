@@ -262,7 +262,7 @@
         }
 
         .markdown-section h4 {
-            padding-top: 1.8rem;
+            padding-top: 1.25rem;
             color: #0064ff;
         }
 
@@ -499,7 +499,7 @@
             homepage: 'home.md', //设置主页
             notFoundPage: '404.md',
             loadFooter: '_footer.md',           // 页脚信息插件
-            loadNavbar: true,                   // 加载自定义导航栏,需要目录下有_navbar.md文件
+            loadNavbar: false,                   // 加载自定义导航栏,需要目录下有_navbar.md文件
             ga: 'G-291R66VCRB',     // 谷歌分析ID
             repo: '',
             el: '#app',             // 加载动画
@@ -508,7 +508,7 @@
             subMaxLevel: 0,         // 不自动生成子目录，完全按照 _sidebar.md 显示
             maxLevel: 3,            // 最大支持渲染的标题层级
             auto2top: true,         // 切换页面后自动到顶部
-            coverpage: true,        // 启用封面页 默认值: false 开启后是加载 _coverpage.md 文件
+            coverpage: false,        // 启用封面页 默认值: false 开启后是加载 _coverpage.md 文件
             onlyCover: false,       // 只在访问主页时加载封面，并让封面能下拉显示
             logo: '',               // 侧边栏左侧的logo
             name: '对酒当歌分享',     // 侧边栏顶部的标题
@@ -570,22 +570,6 @@
 
         }
 
-        // 404 处理插件 - 检测是否返回了 HTML 而不是 Markdown
-        window.$docsify.plugins = [].concat(window.$docsify.plugins || [], function(hook, vm) {
-            hook.beforeEach(function(content, next) {
-                // 如果内容以 <!DOCTYPE 或 <html 开头，说明返回了 HTML 而不是 Markdown
-                if (content && (content.trim().startsWith('<!DOCTYPE') || content.trim().startsWith('<html'))) {
-                    console.log('[404] 页面不存在，返回了 HTML');
-                    // 加载 404.md 内容
-                    fetch('/404.md')
-                        .then(response => response.text())
-                        .then(text => next(text))
-                        .catch(() => next('# 404 - 页面未找到\n\n抱歉，您访问的页面不存在。\n\n[返回首页](/)'));
-                } else {
-                    next(content);
-                }
-            });
-        })
     </script>
     <!-- docsify核心 -->
     <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"
@@ -700,19 +684,7 @@
             });
         });
 
-        // 404 页面处理插件
-        window.$docsify.plugins.push(function (hook, vm) {
-            hook.beforeEach(function (content, next) {
-                // 检查是否是 404 页面（内容为空或包含特定标记）
-                if (!content || content.trim() === '') {
-                    console.log('[404] 页面不存在，显示 404 内容');
-                    // 返回 404 页面内容
-                    next('# 404 - 页面未找到\n\n抱歉，您访问的页面不存在。\n\n[返回首页](/)');
-                } else {
-                    next(content);
-                }
-            });
-        });
+
     </script>
     <!-- Docsify手风琴 -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-accordion/src/style.css"
@@ -742,53 +714,18 @@
                 aplayerCss.rel = 'stylesheet';
                 aplayerCss.href = 'https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.css';
                 document.head.appendChild(aplayerCss);
-                console.log('[音乐] APlayer CSS 已加载');
 
                 // 加载APlayer JS
                 var aplayerScript = document.createElement('script');
                 aplayerScript.src = 'https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.js';
                 aplayerScript.onload = function () {
-                    console.log('[音乐] APlayer JS 加载成功');
                     // 加载Meting JS
                     var metingScript = document.createElement('script');
                     metingScript.src = 'https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js';
                     metingScript.onload = function () {
-                        console.log('[音乐] Meting JS 加载成功');
                         initMusicPlayer();
                     };
-                    metingScript.onerror = function () {
-                        console.log('[音乐] Meting 主CDN失败，尝试备用...');
-                        var fallback = document.createElement('script');
-                        fallback.src = 'https://unpkg.com/meting@2/dist/Meting.min.js';
-                        fallback.onload = function () {
-                            console.log('[音乐] Meting 备用CDN加载成功');
-                            initMusicPlayer();
-                        };
-                        document.body.appendChild(fallback);
-                    };
                     document.body.appendChild(metingScript);
-                };
-                aplayerScript.onerror = function () {
-                    console.log('[音乐] APlayer 主CDN失败，尝试备用...');
-                    var fallback = document.createElement('script');
-                    fallback.src = 'https://unpkg.com/aplayer@1/dist/APlayer.min.js';
-                    fallback.onload = function () {
-                        console.log('[音乐] APlayer 备用CDN加载成功');
-                        var metingScript = document.createElement('script');
-                        metingScript.src = 'https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js';
-                        metingScript.onload = function () {
-                            console.log('[音乐] Meting JS 加载成功');
-                            initMusicPlayer();
-                        };
-                        metingScript.onerror = function () {
-                            var fb = document.createElement('script');
-                            fb.src = 'https://unpkg.com/meting@2/dist/Meting.min.js';
-                            fb.onload = initMusicPlayer;
-                            document.body.appendChild(fb);
-                        };
-                        document.body.appendChild(metingScript);
-                    };
-                    document.body.appendChild(fallback);
                 };
                 document.body.appendChild(aplayerScript);
             }, 5000);
@@ -846,48 +783,7 @@
         }
     </script>
 
-    <script>
-        // 初始化图片懒加载
-        function initLazyLoad() {
-            var lazyImages = document.querySelectorAll('.lazy-load');
 
-            if ('IntersectionObserver' in window) {
-                var imageObserver = new IntersectionObserver(function (entries, observer) {
-                    entries.forEach(function (entry) {
-                        if (entry.isIntersecting) {
-                            var image = entry.target;
-                            image.src = image.dataset.src;
-                            image.classList.add('loaded');
-                            imageObserver.unobserve(image);
-                        }
-                    });
-                });
-
-                lazyImages.forEach(function (image) {
-                    imageObserver.observe(image);
-                });
-            } else {
-                lazyImages.forEach(function (image) {
-                    image.src = image.dataset.src;
-                    image.classList.add('loaded');
-                });
-            }
-        }
-
-        // 性能监控
-        function initPerformanceMonitoring() {
-            if ('performance' in window && 'measure' in window.performance) {
-                var loadTime = window.performance.timing.loadEventEnd - window.performance.timing.navigationStart;
-                console.log('页面加载时间:', loadTime, 'ms');
-            }
-        }
-
-        // 页面加载完成后初始化
-        window.addEventListener('load', function () {
-            initLazyLoad();
-            initPerformanceMonitoring();
-        });
-    </script>
 
     <script type="text/javascript">
         // 更精确的时间计算函数

@@ -17,6 +17,12 @@
 
 ## 正在更新中的...
 
+#### 《逐玉》（2026）4K 40集 更新中..
+
+夸克：https://pan.quark.cn/s/5a65ee530e03
+
+迅雷：https://pan.xunlei.com/s/VOnPkzWFrwgR_qCbkCBd5wyOA1?pwd=hnnv
+
 #### 《江湖夜雨十年灯》（2026）4K 37集 更新中..
 
 夸克：https://pan.quark.cn/s/f0071a1a8ab5

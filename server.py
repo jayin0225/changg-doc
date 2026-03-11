@@ -68,10 +68,17 @@ class MyHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
         else:
             self.send_error(404)
 
+print("Starting server...")
 os.chdir('docs')
 print(f"Working directory: {os.getcwd()}")
-with socketserver.TCPServer(('', 7000), MyHTTPRequestHandler) as httpd:
-    print('Serving at http://localhost:7000/')
-    print('SPA fallback enabled for history mode')
-    print('IMPORTANT: .md 404 errors will trigger docsify notFoundPage')
-    httpd.serve_forever()
+try:
+    with socketserver.TCPServer(('', 8090), MyHTTPRequestHandler) as httpd:
+        print('Serving at http://localhost:8090/')
+        print('SPA fallback enabled for history mode')
+        print('IMPORTANT: .md 404 errors will trigger docsify notFoundPage')
+        print('Server started successfully!')
+        httpd.serve_forever()
+except Exception as e:
+    print(f"Error starting server: {e}")
+    import traceback
+    traceback.print_exc()

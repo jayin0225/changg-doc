@@ -53,7 +53,7 @@
 
 夸克：https://pan.quark.cn/s/bd8babd4aaf1
 
-#### 《镇邪2（hexbreaker 2）》v2026.3.10 中文版
+#### 《镇邪2（hexbreaker 2）》v2026.3.10 中文 联机版
 <section class="no-title-h4">
 
 #### 《镇邪（Zhenxie》v2023.1.28 中文版
@@ -73,75 +73,19 @@
 
 迅雷：https://pan.xunlei.com/s/VOnObO02k0OlL2xck1zcMotqA1?pwd=4fda
 
-#### 《人工智能的选择（Heart of the Machine）》v1.000.2 中文版
+---
 
-夸克：https://pan.quark.cn/s/f56bb8afdf88
+## 最近更新
 
-迅雷：https://pan.xunlei.com/s/VOnHnr6mW8J627XW_gZPgLuIA1?pwd=djxw
-
-#### 《Machine Mind》v1.0.1 中文版（废土生存与实时战略）
-
-夸克：https://pan.quark.cn/s/2f98b9a047a2
-
-迅雷：https://pan.xunlei.com/s/VOnHcwu3EeyaFESWurf3Iq96A1?pwd=g67e
-
-#### 《机器塔 2984（Machine Tower 2984）》v1.0.2 中文版
-
-夸克：https://pan.quark.cn/s/3bcc92c52923
-
-迅雷：https://pan.xunlei.com/s/VOnH_Vj4JdTzIQM5cxzLOWI1A1?pwd=sur4
-
-#### 《失物招领有限公司（Lost and Found Co）》V1.0.0 中文版
-
-夸克：https://pan.quark.cn/s/6d557f50639a
-
-迅雷：https://pan.xunlei.com/s/VOnHZ7bGY4OfhpqRhWYk1xKdA1?pwd=jwa6
-
-#### 《圣战群英传 统治（Disciples Domination）豪华版》v1.5.0.3413 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/7dd4f4d5fc5a
-
-#### 《杀戮尖塔2（Slay the Spire 2）》v0.98.0 中文 联机版（附第一部）
+#### 《杀戮尖塔2（Slay the Spire 2）》v0.98.3 中文 联机版（附第一部）
 
 夸克：https://pan.quark.cn/s/4a575dc211fc
 
 迅雷：https://pan.xunlei.com/s/VOn16_QKz4Jp1DEcW0xhiiCHA1?pwd=7vj7#
 
-#### 《圆木骑士（Log Riders）》v1.071 中文 联机版
+#### 《犯罪模拟器（Crime Simulator 》v1.42 中文 联机版
 
-夸克：https://pan.quark.cn/s/01176b681821
-
-迅雷：https://pan.xunlei.com/s/VOnD0hYeAwYhSvLvw5WqCVWxA1?pwd=a9i2
-
-#### 《永恒之柱II 亡焰（Pillars of Eternity 2 Deadfire）黑曜石版》v5.0.0.0040 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/972d32516d5b
-
-#### 《探案法 加拿大档案（Methods The Canada Files）》v1.0 中文版
-
-夸克：https://pan.quark.cn/s/aeba75d104bf
-
-#### 《拉娜之星2（Planet of Lana 2 》v1.0.13 全DLC 中文版
-<section class="no-title-h4">
-
-#### 《拉娜之星（Planet of Lana 》v1.1.0.0 中文版
-</section>
-
-夸克：https://pan.quark.cn/s/1ccf61a07d10
-
-#### 《蛮荒计划（Ferocious）》v1.06 中文版
-
-夸克：https://pan.quark.cn/s/2f2a7280d767
-
-#### 《不寐之境 女巫与魔咒（Never Grave）豪华版》v1.2c 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/6197ef9535ca
-
-迅雷：https://pan.xunlei.com/s/VOn1x_9ygSripejYRyVIkvOhA1?pwd=r4ga#
-
----
-
-## 最近更新
+夸克：https://pan.quark.cn/s/98518c51a604
 
 #### 《翼星求生（ICARUS 》v3.0.0.150086 全DLC 中文 联机版
 
@@ -171,7 +115,7 @@
 
 迅雷：https://pan.xunlei.com/s/VNw04l4vfz6guXqO8J148A1-A1?pwd=h5v6#
 
-#### 《开拓者：正义之怒（Pathfinder Wrath of the Righteous）神话版》v2.7.0x全DLC 中文版
+#### 《开拓者：正义之怒（Pathfinder Wrath of the Righteous）神话版》v2.7.0x 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/27a9461af361
 
@@ -189,60 +133,6 @@
 夸克：https://pan.quark.cn/s/8ac0b6c43877
 
 迅雷：https://pan.xunlei.com/s/VNv2sfgPQ5xpw3hvX3vP88lTA1?pwd=vzp2#
-
-#### 《王国保卫战5 联盟（Kingdom Rush 5 Alliance TD 》v7.00.36 全DLC 中文版（新增巨龙战争DLC）
-<section class="no-title-h4">
-
-#### 《王国保卫战 传奇（Legends of Kingdom Rush 》Build 9031157 中文版（外传 回合制）
-#### 《王国保卫战 复仇（Kingdom Rush Vengeance 》v1.16.3.16 全DLC 中文版
-#### 《王国保卫战 起源（Kingdom Rush Origins 》v4.2.15 中文版
-#### 《王国保卫战 前线（Kingdom Rush Frontiers 》v5.4.07 中文版
-#### 《王国保卫战 初代（Kingdom Rush 》v5.6.12 中文版
-</section>
-
-夸克：https://pan.quark.cn/s/6ebbd43de752
-
-迅雷：https://pan.xunlei.com/s/VNrANXUqoXh0FhgZXKSMSQKKA1?pwd=ww8t#
-
-#### 《忍者龙剑传4（NINJA GAIDEN 4）豪华版》v1.0.4.0 全DLC 中文版（新增DLC）
-
-夸克：https://pan.quark.cn/s/e47e913a8da7
-
-#### 《星砂岛（StarSand Island）豪华版》v1.0.0.6982 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/4e45aaaed917
-
-#### 《永恒天空（Forever Skies）豪华版》v1.2.2 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/13bbd841c5dd
-
-#### 《欧陆风云5（Europa Universalis V）高级版》v1.1.9 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/4cb951396b5f
-
-#### 《虐杀熔炉（KIBORG 》V2026.3.2 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/d590ba9f9318
-
-#### 《龙腾世纪2（Dragon Age 2）终极版》v1.04 全DLC 汉化版
-<section class="no-title-h4">
-
-#### 《龙腾世纪 起源（Dragon Age Origins）终极版》v1.05 全DLC 汉化版
-#### 《龙腾世纪3：审判（Dragon Age Inquisition）年度版》v2025.12.31 全DLC 汉化版
-#### 《龙腾世纪：影障守护者（Dragon Age The Veilguard）豪华版》v1.0.0.0 全DLC 中文版
-</section>
-
-夸克：https://pan.quark.cn/s/8b77ccfd6a7f
-
-#### 《战地1、战地2 支持联机、战地3、战地4、战地5》
-<section class="no-title-h4">
-
-#### 《战地风云6（Battlefield 6 》v1.1.2.0 全DLC 中文版
-</section>
-
-夸克：https://pan.quark.cn/s/11019cbca2fb
-
-迅雷：https://pan.xunlei.com/s/VNy6N7_VqN1TCTRT3obX19KWA1?pwd=z8ac#
 
 ---
 
@@ -270,6 +160,10 @@
 #### 《女神异闻录5 皇家版（Persona 5 Royal 》v1.04 中文版（PC版非模拟器版）
 
 夸克：https://pan.quark.cn/s/550ed16aa7c9
+
+#### 《忍者龙剑传4（NINJA GAIDEN 4）豪华版》v1.0.4.0 全DLC 中文版（新增DLC）
+
+夸克：https://pan.quark.cn/s/e47e913a8da7
 
 #### 《真三国无双 起源（Dynasty Warriors Origins）豪华版》v1.0.1.2 全DLC 中文配音版
 
@@ -428,6 +322,116 @@
 ---
 
 ## 已有游戏
+
+#### 《王国保卫战5 联盟（Kingdom Rush 5 Alliance TD 》v7.00.36 全DLC 中文版（新增巨龙战争DLC）
+<section class="no-title-h4">
+
+#### 《王国保卫战 传奇（Legends of Kingdom Rush 》Build 9031157 中文版（外传 回合制）
+#### 《王国保卫战 复仇（Kingdom Rush Vengeance 》v1.16.3.16 全DLC 中文版
+#### 《王国保卫战 起源（Kingdom Rush Origins 》v4.2.15 中文版
+#### 《王国保卫战 前线（Kingdom Rush Frontiers 》v5.4.07 中文版
+#### 《王国保卫战 初代（Kingdom Rush 》v5.6.12 中文版
+</section>
+
+夸克：https://pan.quark.cn/s/6ebbd43de752
+
+迅雷：https://pan.xunlei.com/s/VNrANXUqoXh0FhgZXKSMSQKKA1?pwd=ww8t#
+
+#### 《星砂岛（StarSand Island）豪华版》v1.0.0.6982 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/4e45aaaed917
+
+#### 《永恒天空（Forever Skies）豪华版》v1.2.2 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/13bbd841c5dd
+
+#### 《欧陆风云5（Europa Universalis V）高级版》v1.1.9 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/4cb951396b5f
+
+#### 《虐杀熔炉（KIBORG 》V2026.3.2 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/d590ba9f9318
+
+#### 《龙腾世纪2（Dragon Age 2）终极版》v1.04 全DLC 汉化版
+<section class="no-title-h4">
+
+#### 《龙腾世纪 起源（Dragon Age Origins）终极版》v1.05 全DLC 汉化版
+#### 《龙腾世纪3：审判（Dragon Age Inquisition）年度版》v2025.12.31 全DLC 汉化版
+#### 《龙腾世纪：影障守护者（Dragon Age The Veilguard）豪华版》v1.0.0.0 全DLC 中文版
+</section>
+
+夸克：https://pan.quark.cn/s/8b77ccfd6a7f
+
+#### 《战地1、战地2 支持联机、战地3、战地4、战地5》
+<section class="no-title-h4">
+
+#### 《战地风云6（Battlefield 6 》v1.1.2.0 全DLC 中文版
+</section>
+
+夸克：https://pan.quark.cn/s/11019cbca2fb
+
+迅雷：https://pan.xunlei.com/s/VNy6N7_VqN1TCTRT3obX19KWA1?pwd=z8ac#
+
+#### 《人工智能的选择（Heart of the Machine）》v1.000.2 中文版
+
+夸克：https://pan.quark.cn/s/f56bb8afdf88
+
+迅雷：https://pan.xunlei.com/s/VOnHnr6mW8J627XW_gZPgLuIA1?pwd=djxw
+
+#### 《Machine Mind》v1.0.1 中文版（废土生存与实时战略）
+
+夸克：https://pan.quark.cn/s/2f98b9a047a2
+
+迅雷：https://pan.xunlei.com/s/VOnHcwu3EeyaFESWurf3Iq96A1?pwd=g67e
+
+#### 《机器塔 2984（Machine Tower 2984）》v1.0.2 中文版
+
+夸克：https://pan.quark.cn/s/3bcc92c52923
+
+迅雷：https://pan.xunlei.com/s/VOnH_Vj4JdTzIQM5cxzLOWI1A1?pwd=sur4
+
+#### 《失物招领有限公司（Lost and Found Co）》V1.0.0 中文版
+
+夸克：https://pan.quark.cn/s/6d557f50639a
+
+迅雷：https://pan.xunlei.com/s/VOnHZ7bGY4OfhpqRhWYk1xKdA1?pwd=jwa6
+
+#### 《圣战群英传 统治（Disciples Domination）豪华版》v1.5.0.3413 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/7dd4f4d5fc5a
+
+#### 《圆木骑士（Log Riders）》v1.071 中文 联机版
+
+夸克：https://pan.quark.cn/s/01176b681821
+
+迅雷：https://pan.xunlei.com/s/VOnD0hYeAwYhSvLvw5WqCVWxA1?pwd=a9i2
+
+#### 《永恒之柱II 亡焰（Pillars of Eternity 2 Deadfire）黑曜石版》v5.0.0.0040 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/972d32516d5b
+
+#### 《探案法 加拿大档案（Methods The Canada Files）》v1.0 中文版
+
+夸克：https://pan.quark.cn/s/aeba75d104bf
+
+#### 《拉娜之星2（Planet of Lana 2 》v1.0.13 全DLC 中文版
+<section class="no-title-h4">
+
+#### 《拉娜之星（Planet of Lana 》v1.1.0.0 中文版
+</section>
+
+夸克：https://pan.quark.cn/s/1ccf61a07d10
+
+#### 《蛮荒计划（Ferocious）》v1.06 中文版
+
+夸克：https://pan.quark.cn/s/2f2a7280d767
+
+#### 《不寐之境 女巫与魔咒（Never Grave）豪华版》v1.2c 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/6197ef9535ca
+
+迅雷：https://pan.xunlei.com/s/VOn1x_9ygSripejYRyVIkvOhA1?pwd=r4ga#
 
 #### 《崛起2 黑暗水域（Risen 2 Dark Waters）》v1.0.1210 全DLC 汉化版
 <section class="no-title-h4">
@@ -1485,10 +1489,6 @@
 #### 《古农庄（Ancient Farm 》v1.0.8 中文版
 
 夸克：https://pan.quark.cn/s/55cc53a60b54
-
-#### 《犯罪模拟器（Crime Simulator 》v1.32 中文 联机版
-
-夸克：https://pan.quark.cn/s/98518c51a604
 
 #### 《Morsels》v0.33.4 中文版（肉鸽怪兽收集）
 
