@@ -53,6 +53,10 @@
 
 夸克：https://pan.quark.cn/s/bd8babd4aaf1
 
+#### 《TheoTown》v1.12.47b 中文版（建设和管理你的梦想城市）
+
+夸克：https://pan.quark.cn/s/cdf7564fd99f
+
 #### 《镇邪2（hexbreaker 2）》v2026.3.10 中文 联机版
 <section class="no-title-h4">
 
