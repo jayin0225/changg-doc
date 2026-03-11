@@ -134,6 +134,16 @@
 
 迅雷：https://pan.xunlei.com/s/VNv2sfgPQ5xpw3hvX3vP88lTA1?pwd=vzp2#
 
+#### 《伊苏8（Ys VIII Lacrimosa of DANA）数字限定版》v2023.4.2 全DLC 中文版
+<section class="no-title-h4">
+
+#### 《伊苏X -诺曼荣光-（Ys X：Proud Nordics 》v1.0.1 全DLC 中文版
+#### 《伊苏X -北境历险-（Ys X：Nordics 》v2.0.0 全DLC 中文版
+#### 《伊苏9：怪人之夜（Ys IX Monstrum Nox）豪华版》v1.1.4 全DLC 中文版
+</section>
+
+夸克：https://pan.quark.cn/s/0626602d9725
+
 ---
 
 ## 顶置游戏
@@ -2618,10 +2628,6 @@
 
 夸克：https://pan.quark.cn/s/fa20bd28f40c
 
-#### 《伊苏9：怪人之夜（Ys IX Monstrum Nox）豪华版》v1.1.4 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/0626602d9725
-
 #### 《刀剑神域：夺命凶弹（Sword Art Online Fatal Bullet）完整版》v1.7.0 全DLC 中文版（win11无法运行）
 
 夸克：https://pan.quark.cn/s/1e0075299eec
@@ -4048,10 +4054,6 @@
 
 夸克：https://pan.quark.cn/s/f974a596610e
 
-#### 《伊苏X -诺曼荣光-（Ys X：Proud Nordics 》v1.0.1 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/c8f68d315e6c
-
 #### 《幸福工厂（Satisfactory 》v1.1.1.4 中文 联机版
 
 夸克：https://pan.quark.cn/s/84e5889663ed
@@ -4515,10 +4517,6 @@
 #### 《渡神纪 芬尼斯崛起（Immortals Fenyx Rising）黄金版》v1.3.4 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/9d817203d18f
-
-#### 《伊苏X -北境历险-（Ys X：Nordics 》v2.0.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/4dac4b255c67
 
 #### 《TCG卡牌商店模拟器（TCG Card Shop Simulator 》v0.60.1 中文版
 
