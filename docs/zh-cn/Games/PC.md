@@ -49,6 +49,10 @@
 ## 最新添加
 !> 新添加及更新的游戏链接里面如果没有文件，就是在上传中，等待上传完毕就会显示...
 
+#### 《零红蝶 重制版（FATAL FRAME II Crimson Butterfly REMAK）豪华版》v1.02.01 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/aeefdbc4c143
+
 #### 《生化危机9》虚拟机绕过D保护游玩补丁（附单独 2DLC 豪华版DLC 和 格蕾丝服饰：天启dlc）
 
 夸克：https://pan.quark.cn/s/bd8babd4aaf1
@@ -56,6 +60,8 @@
 #### 《TheoTown》v1.12.47b 中文版（建设和管理你的梦想城市）
 
 夸克：https://pan.quark.cn/s/cdf7564fd99f
+
+迅雷：https://pan.xunlei.com/s/VOnX-JZ-tYOZ1jAQ_1QhnQ4sA1?pwd=76jb
 
 #### 《镇邪2（hexbreaker 2）》v2026.3.10 中文 联机版
 <section class="no-title-h4">
@@ -76,6 +82,12 @@
 夸克：https://pan.quark.cn/s/3320dc96d358
 
 迅雷：https://pan.xunlei.com/s/VOnObO02k0OlL2xck1zcMotqA1?pwd=4fda
+
+#### 《火星 战争日志（Mars War Logs）》v1.1736 汉化版
+
+夸克：https://pan.quark.cn/s/ffa5dd538cd0
+
+迅雷：https://pan.xunlei.com/s/VOnWzlzhsJRTnLXvW6uQZ7IcA1?pwd=esur
 
 ---
 
@@ -119,6 +131,12 @@
 
 迅雷：https://pan.xunlei.com/s/VNw04l4vfz6guXqO8J148A1-A1?pwd=h5v6#
 
+#### 《逸剑风云决（Wandering Sword 》v1.24.32 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/8d8811096a2d
+
+迅雷：https://pan.xunlei.com/s/VNwToxIX7LwoqSAV5JVulXakA1?pwd=dt2s#
+
 #### 《开拓者：正义之怒（Pathfinder Wrath of the Righteous）神话版》v2.7.0x 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/27a9461af361
@@ -147,6 +165,16 @@
 </section>
 
 夸克：https://pan.quark.cn/s/0626602d9725
+
+#### 《刀剑神域 彼岸游境（SWORD ART ONLINE Alicization Lycoris）》最新 全DLC 中文版
+<section class="no-title-h4">
+
+#### 《刀剑神域 虚空幻界（Sword Art Online Hollow Realization）豪华版》最新 全DLC 中文版
+#### 《刀剑神域 夺命凶弹（Sword Art Online Fatal Bullet）完整版》v1.7.0 全DLC 中文版
+#### 《刀剑神域 碎梦边境（SWORD ART ONLINE Fractured Daydream 》v1.5.2.0 全DLC 中文版
+</section>
+
+夸克：https://pan.quark.cn/s/bb5134dcb570
 
 ---
 
@@ -833,10 +861,6 @@
 #### 《极限国度（Riders Republic 》v1.26.0 离线 中文版
 
 夸克：https://pan.quark.cn/s/8f167fa75ea3
-
-#### 《刀剑神域 碎梦边境（SWORD ART ONLINE Fractured Daydream 》v1.5.2.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/bb5134dcb570
 
 #### 《天外世界2（The Outer Worlds 2）高级版》v1.0.6.0 中文版
 
@@ -2632,9 +2656,6 @@
 
 夸克：https://pan.quark.cn/s/fa20bd28f40c
 
-#### 《刀剑神域：夺命凶弹（Sword Art Online Fatal Bullet）完整版》v1.7.0 全DLC 中文版（win11无法运行）
-
-夸克：https://pan.quark.cn/s/1e0075299eec
 
 #### 《猫还在逃吗？（Still It Runs 》v1.0.2 中文版
 
@@ -4025,12 +4046,6 @@
 #### 《超灵秘法社（Mind Over Magic 》v1.0.546 中文版
 
 夸克：https://pan.quark.cn/s/74f6370ffdf1
-
-#### 《逸剑风云决（Wandering Sword 》v1.24.30 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/8d8811096a2d
-
-迅雷：https://pan.xunlei.com/s/VNwToxIX7LwoqSAV5JVulXakA1?pwd=dt2s#
 
 #### 《妖之乡（Yaoling Mythical Journey 》v1.1.1 全DLC 中文版
 
