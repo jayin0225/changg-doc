@@ -231,9 +231,19 @@
                     },
                     highlighter: false,
                     texRenderer: false,
-                    // 回复时不自动添加 @用户名
+                    // 回复时不自动添加 @用户名前缀
                     onReply: (comment) => {
-                        return '';
+                        return { content: '' };
+                    },
+                    // 自定义评论内容渲染，移除回复时的 @用户名
+                    onCommentLoaded: (comments) => {
+                        comments.forEach(comment => {
+                            if (comment.content && comment.content.startsWith('@')) {
+                                // 移除 @用户名: 前缀
+                                comment.content = comment.content.replace(/^@[^:]+:\s*/, '');
+                            }
+                        });
+                        return comments;
                     },
                 });
                 console.log('[Waline] 初始化成功');

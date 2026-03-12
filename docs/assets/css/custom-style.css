@@ -431,42 +431,94 @@ blockquote {
 /* 隐藏 Markdown 按钮 */
 #waline .wl-editor-tools .wl-markdown,
 #waline .wl-toolbar .wl-markdown,
+#waline .wl-header .wl-markdown,
 .wl-editor-tools .wl-markdown,
-.wl-toolbar .wl-markdown {
+.wl-toolbar .wl-markdown,
+.wl-header .wl-markdown {
     display: none !important;
 }
 
-/* 隐藏图片上传按钮 */
+/* 隐藏图片上传按钮 - 所有可能的选择器 */
 #waline .wl-editor-tools .wl-image,
 #waline .wl-toolbar .wl-image,
+#waline .wl-header .wl-image,
+#waline .wl-editor .wl-image,
+#waline .wl-panel .wl-image,
+#waline .wl-action .wl-image,
+#waline .wl-action-icon.wl-image,
+#waline .wl-action svg[class*="image"],
+#waline .wl-action svg[class*="picture"],
+#waline .wl-action-icon svg[class*="image"],
 .wl-editor-tools .wl-image,
-.wl-toolbar .wl-image {
+.wl-toolbar .wl-image,
+.wl-header .wl-image,
+.wl-editor .wl-image,
+.wl-panel .wl-image,
+.wl-action .wl-image,
+.wl-action-icon.wl-image {
     display: none !important;
 }
 
 /* 隐藏 GIF 按钮 */
 #waline .wl-editor-tools .wl-gif,
 #waline .wl-toolbar .wl-gif,
+#waline .wl-header .wl-gif,
+#waline .wl-editor .wl-gif,
+#waline .wl-panel .wl-gif,
+#waline .wl-action .wl-gif,
+#waline .wl-action-icon.wl-gif,
 .wl-editor-tools .wl-gif,
-.wl-toolbar .wl-gif {
+.wl-toolbar .wl-gif,
+.wl-header .wl-gif,
+.wl-editor .wl-gif,
+.wl-panel .wl-gif,
+.wl-action .wl-gif,
+.wl-action-icon.wl-gif {
     display: none !important;
 }
 
 /* 隐藏预览按钮 */
 #waline .wl-editor-tools .wl-preview,
 #waline .wl-toolbar .wl-preview,
+#waline .wl-header .wl-preview,
+#waline .wl-editor .wl-preview,
+#waline .wl-panel .wl-preview,
+#waline .wl-action .wl-preview,
+#waline .wl-action-icon.wl-preview,
+#waline .wl-btn.wl-preview,
 .wl-editor-tools .wl-preview,
-.wl-toolbar .wl-preview {
+.wl-toolbar .wl-preview,
+.wl-header .wl-preview,
+.wl-editor .wl-preview,
+.wl-panel .wl-preview,
+.wl-action .wl-preview,
+.wl-action-icon.wl-preview,
+.wl-btn.wl-preview {
     display: none !important;
 }
 
-/* 隐藏表情按钮（如果需要） */
-#waline .wl-editor-tools .wl-emoji,
-#waline .wl-toolbar .wl-emoji,
-.wl-editor-tools .wl-emoji,
-.wl-toolbar .wl-emoji {
-    /* display: none !important; */
+/* 隐藏整个图片上传相关区域 */
+#waline .wl-panel .wl-action,
+#waline .wl-panel .wl-action-icon,
+#waline .wl-editor .wl-action,
+#waline .wl-editor .wl-action-icon,
+.wl-panel .wl-action,
+.wl-panel .wl-action-icon,
+.wl-editor .wl-action,
+.wl-editor .wl-action-icon {
+    display: none !important;
 }
+
+/* 隐藏文件上传输入框 */
+#waline input[type="file"],
+#waline .wl-upload,
+#waline .wl-upload-input,
+.wl-upload,
+.wl-upload-input {
+    display: none !important;
+}
+
+
 
 /* =================== 14. 隐藏评论中的 @用户名 高亮 =================== */
 #waline .wl-content .wl-at,
