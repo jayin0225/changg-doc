@@ -83,6 +83,10 @@
 
 迅雷：https://pan.xunlei.com/s/VOnObO02k0OlL2xck1zcMotqA1?pwd=4fda
 
+#### 《Echoes of the Living》0.1e 英文版（幸存者的回声 生者回声）
+
+夸克：https://pan.quark.cn/s/b3e9b95be2eb
+
 #### 《火星 战争日志（Mars War Logs）》v1.1736 汉化版
 
 夸克：https://pan.quark.cn/s/ffa5dd538cd0
@@ -98,6 +102,22 @@
 夸克：https://pan.quark.cn/s/4a575dc211fc
 
 迅雷：https://pan.xunlei.com/s/VOn16_QKz4Jp1DEcW0xhiiCHA1?pwd=7vj7#
+
+#### 《暗黑破坏神2 重制版（Diablo II Resurrected）地狱版》v3.0.91923 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/379c96e02b6c
+
+#### 《熊视眈眈（Out of Sight 》v1.1.93 中文版（类似小小梦魇恐怖解密）
+
+夸克：https://pan.quark.cn/s/d4b3d3aacfaf
+
+#### 《钢铁雄心4（Hearts of Iron 4）终结版》v1.17.4.1 全DLC 中文 联机版（新增DLC）
+
+夸克：https://pan.quark.cn/s/f87f94e17c31
+
+#### 《要战便战（Diplomacy is Not an Option 》v1.0.130 中文版
+
+夸克：https://pan.quark.cn/s/d13054962c00
 
 #### 《犯罪模拟器（Crime Simulator 》v1.42 中文 联机版
 
@@ -600,10 +620,6 @@
 
 夸克：https://pan.quark.cn/s/83e2a97e0727
 
-#### 《暗黑破坏神2 重制版（Diablo II Resurrected）地狱版》v3.0.91735 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/379c96e02b6c
-
 #### 《饿狼传说 群狼之城（FATAL FURY City of the Wolves 》v1.8.0 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/8edad4bbd88e
@@ -829,10 +845,6 @@
 #### 《幻想生活i 转圈圈的龙和偷取时间的少女（FANTASY LIFE i）豪华版》v2.1.2 中文 联机版
 
 夸克：https://pan.quark.cn/s/e6b2b4cad601
-
-#### 《熊视眈眈（Out of Sight 》v1.0.89 中文版（类似小小梦魇恐怖解密）
-
-夸克：https://pan.quark.cn/s/d4b3d3aacfaf
 
 #### 《鳄鱼侦探布罗格（BROK the InvestiGator 》v1.5.5.1 全DLC 中文版
 
@@ -2066,10 +2078,6 @@
 
 夸克：https://pan.quark.cn/s/57af60e7c9f7
 
-#### 《钢铁雄心4（Hearts of Iron 4）终结版》v1.17.0.1 全DLC 中文 联机版（新增DLC）
-
-夸克：https://pan.quark.cn/s/f87f94e17c31
-
 #### 《缺氧（Oxygen Not Included）完整版》vU56-700386 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/608fc7dd1539
@@ -3262,10 +3270,6 @@
 #### 《深海迷航：冰点之下（Subnautica Below Zero）终极收藏版》v53872 中文版
 
 夸克：https://pan.quark.cn/s/c1be0a9e8f67
-
-#### 《要战便战（Diplomacy is Not an Option 》v1.0.81 中文版
-
-夸克：https://pan.quark.cn/s/d13054962c00
 
 #### 《机械制造者（Trailmakers 》v212.502.732.0 全DLC 中文版
 

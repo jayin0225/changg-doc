@@ -9,8 +9,8 @@
 
     <!-- 网站描述+基础SEO优化 -->
     <title>对酒当歌分享 - 海量免费资源分享</title>
-    <meta name="description" content="对酒当歌分享 - 一个分享免费资源文档网站，有游戏、电影、电视剧、动漫等等" />
-    <meta name="keywords" content="一个分享资源的文档网站，有游戏、电影、电视剧、动漫等等" />
+    <meta name="description" content="对酒当歌分享 - 一个免费分享资源的文档网站，有游戏、电影、电视剧、动漫等等" />
+    <meta name="keywords" content="一个免费分享资源的文档网站，有游戏、电影、电视剧、动漫等等" />
     <meta name="robots" content="index,follow,max-image-preview:large">
 
     <!-- 社交媒体优化 -->
@@ -29,6 +29,10 @@
     <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
     <link rel="preconnect" href="https://unpkg.com" crossorigin>
     <link rel="preconnect" href="https://cravatar.cn" crossorigin>
+
+    <!-- 关键JS预加载 -->
+    <link rel="preload" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js" as="script">
+    <link rel="preload" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js" as="script">
 
     <!-- 规范链接 -->
     <link rel="canonical" href="https://www.haozy.top/">
@@ -53,441 +57,11 @@
     <meta name="algolia-site-verification" content="709B5D5776F5B91C" />
 
     <!-- 自定义主题样式 -->
-    <style>
-        /* =================== 1. CSS变量定义 =================== */
-        :root {
-            --base-font-size: 15px;
-            --content-max-width: 56em;
-            --sidebar-width: 20.5rem;
-            --sidebar-nav-margin: 1rem 0.1rem 0.1rem;
-            --primary-color: #4155c4;
-            --secondary-color: #5e72e4;
-            --accent-color: #fed24a;
-            --shadow-color: rgba(50, 50, 93, 0.1);
-            --docsifytabs-border-color: #ededed;
-            --docsifytabs-tab-highlight-color: purple;
-            --heading-color: var(--primary-color);
-
-            /* Content - 内容区域主内容区的边距和最大宽度 */
-            --content-margin-inline: 20px;
-            /* 内容区最大宽度 */
-            --content-max-width: 110ch;
-
-        }
-
-        /* =================== 2. 图片懒加载 =================== */
-        .lazy-load {
-            opacity: 0;
-            transition: opacity 0.3s ease-in-out;
-        }
-
-        .lazy-load.loaded {
-            opacity: 1;
-        }
-
-        /* =================== 3. 页面加载动画 =================== */
-        #app {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            min-height: 100vh;
-            font-size: clamp(24px, 8vw, 38px);
-        }
-
-        @keyframes dot-animation {
-
-            0%,
-            50% {
-                opacity: 0.2;
-            }
-
-            25%,
-            75% {
-                opacity: 1;
-            }
-
-            100% {
-                opacity: 0.2;
-            }
-        }
-
-        .loading-text {
-            display: inline-block;
-            font-weight: bold;
-        }
-
-        .loading-text span {
-            display: inline-block;
-            animation: dot-animation 1.5s infinite ease-in-out;
-            margin: 0 2px;
-        }
-
-        .loading-text span:nth-child(1) {
-            animation-delay: 0.1s;
-        }
-
-        .loading-text span:nth-child(2) {
-            animation-delay: 0.3s;
-        }
-
-        .loading-text span:nth-child(3) {
-            animation-delay: 0.5s;
-        }
-
-        .loading-text span:nth-child(4) {
-            animation-delay: 0.7s;
-        }
-
-        /* =================== 4. 侧边栏样式 =================== */
-        aside.sidebar {
-            border: none;
-            box-shadow: 0 15px 35px var(--shadow-color), 0 5px 15px rgba(0, 0, 0, 0.07);
-        }
-
-        aside.sidebar li {
-            margin: 0;
-            position: relative;
-            max-width: 900px;
-        }
-
-        aside.sidebar li p {
-            padding-left: 22px;
-            font-size: 22px;
-            font-weight: normal;
-        }
-
-        aside.sidebar li a {
-            padding: 3px 0 3px 22px;
-            font-size: var(--base-font-size);
-            line-height: 33px;
-        }
-
-        aside.sidebar li.active>a {
-            font-size: 22px;
-        }
-
-        aside.sidebar ul li.active>a:before {
-            content: '' !important;
-            position: absolute !important;
-            top: 15px !important;
-            left: 0 !important;
-            width: 10px !important;
-            height: 10px !important;
-            margin: 0 !important;
-            background-color: var(--accent-color);
-            border-radius: 50% !important;
-            box-shadow: 0 0 0 3px rgba(254, 210, 74, 0.4) !important;
-        }
-
-        .sidebar-nav>ul>li>ul>li>ul {
-            margin-left: 16px;
-        }
-
-        /* =================== 5. 侧边栏菜单按钮 =================== */
-        .sidebar-toggle .sidebar-toggle-button {
-            width: 4.1rem;
-            color: #530daf;
-            background: rgba(196, 8, 8, 0.27);
-            border-radius: 0 8px 8px 0;
-            box-shadow: 0 0.155rem 0.25rem rgba(12, 14, 4, 0.075);
-            transition: all 0.1s ease;
-        }
-
-        .sidebar-toggle-button {
-            position: fixed;
-            top: 10px;
-            left: 10px;
-            width: auto;
-            height: auto;
-            background: none;
-            border: none;
-            padding: 10px 15px;
-            cursor: pointer;
-            z-index: 99;
-        }
-
-        .sidebar-toggle-button span {
-            display: none;
-        }
-
-        .sidebar-toggle-button::after {
-            content: "菜 单";
-            color: #d12a32;
-            font-size: 12px;
-            font-weight: bold;
-            transition: all 0.3s ease;
-        }
-
-        .sidebar-toggle-button:hover::after {
-            color: #251ab6;
-            text-decoration: underline;
-        }
-
-        body.close .sidebar-toggle-button::after {
-            content: "菜 单";
-        }
-
-        /* =================== 6. 主内容区域 =================== */
-
-        #main {
-            padding-top: 20px;
-            box-shadow: 0 15px 300px 20px var(--shadow-color), 0 10px 15px rgba(0, 0, 0, 0.07);
-        }
-
-        article>ul {
-            padding: 10px;
-            border: none;
-            box-shadow: 0 20px 55px var(--shadow-color), 0 0 1px rgba(0, 0, 0, 0.07);
-        }
-
-        p.tip,
-        blockquote {
-            border-radius: 1px !important;
-        }
-
-        /* =================== 7. 标题样式 =================== */
-        .markdown-section h1,
-        .markdown-section h2,
-        .markdown-section h3,
-        .markdown-section h4 {
-            position: relative;
-            padding: 0;
-            border: none;
-        }
-
-        .markdown-section h1,
-        .markdown-section h2,
-        .markdown-section h3 {
-            font-weight: 545;
-        }
-
-        .markdown-section h4 {
-            padding-top: 1.25rem;
-            color: #0064ff;
-        }
-
-        .no-title-h4 h4 {
-            padding-top: 0.5rem;
-        }
-
-        .markdown-section h1 a,
-        .markdown-section h2 a,
-        .markdown-section h3 a,
-        .markdown-section h4 a {
-            text-decoration: none !important;
-        }
-
-        .markdown-section h1:after,
-        .markdown-section h2:after,
-        .markdown-section h3:after,
-        .markdown-section h4:after {
-            content: "";
-            position: absolute;
-            bottom: 0;
-            left: -3px;
-            display: block;
-            border-radius: 15px;
-            background: var(--secondary-color);
-            opacity: 0.25;
-            pointer-events: none;
-        }
-
-        .markdown-section h1:after {
-            width: 45px;
-            height: 13px;
-        }
-
-        .markdown-section h2:after {
-            width: 40px;
-            height: 9px;
-        }
-
-        .markdown-section h3:after {
-            width: 30px;
-            height: 7px;
-        }
-
-        .markdown-section h4:after {
-            width: 70px;
-            height: 2px;
-            background: #f1bcbc;
-            opacity: 1;
-        }
-
-        /* =================== 8. 链接样式 =================== */
-        .markdown-section p a,
-        .markdown-section ul a,
-        #edit-history a {
-            position: relative;
-            color: var(--theme-color) !important;
-            text-decoration: none !important;
-        }
-
-        .markdown-section p a:before,
-        .markdown-section ul a:before,
-        #edit-history a:before {
-            content: "";
-            position: absolute;
-            bottom: 0;
-            left: 0;
-            width: 100%;
-            height: 1px;
-            background-color: var(--secondary-color);
-            transform: scaleX(0);
-            transition: transform 0.8s ease;
-            backface-visibility: hidden;
-        }
-
-        .markdown-section p a:hover:before,
-        .markdown-section ul a:hover:before,
-        #edit-history a:hover:before {
-            transform: scaleX(1);
-        }
-
-        /* =================== 9. 搜索框样式 =================== */
-        .search input {
-            width: 100%;
-            padding: 12px 20px;
-            font-size: 16px;
-            border: 2px solid #42b983;
-            border-radius: 8px;
-            outline: none;
-            animation: pulseBorder 2s infinite;
-        }
-
-        @keyframes pulseBorder {
-            0% {
-                box-shadow: 0 0 0 0 rgba(4, 47, 236, 0.7);
-            }
-
-            70% {
-                box-shadow: 0 0 0 10px rgba(66, 185, 131, 0);
-            }
-
-            100% {
-                box-shadow: 0 0 0 0 rgba(66, 185, 131, 0);
-            }
-        }
-
-        .search input:focus {
-            animation: none;
-            border-color: #267c58;
-            box-shadow: 0 0 0 3px rgba(66, 185, 131, 0.5);
-        }
-
-        .matching-post p {
-            display: none !important;
-        }
-
-        /* =================== 10. MD文件内导航按钮 =================== */
-        .markdown-section .game-nav {
-            display: flex;
-            gap: 15px;
-            margin: 25px 0;
-            flex-wrap: wrap;
-        }
-
-        .markdown-section .game-nav-btn {
-            padding: 10px 20px;
-            box-sizing: border-box;
-            background: #f0f3f9;
-            color: #240e9e;
-            text-decoration: none;
-            border-radius: 6px;
-            border: 1px solid #d0d7de;
-            font-weight: 600;
-            font-size: 14px;
-            transition: background-color 0.2s ease, border-color 0.2s ease;
-            white-space: nowrap;
-        }
-
-        .markdown-section .game-nav-btn:hover {
-            background: #e1e7ed;
-            border-color: #afb8c1;
-        }
-
-        /* =================== 11. 移动端响应式适配 =================== */
-        @media screen and (max-width: 768px) {
-            h1 {
-                font-size: 18px !important;
-            }
-
-            h2,
-            h3 {
-                font-size: 16px !important;
-            }
-
-            h4,
-            p {
-                font-size: 13px !important;
-            }
-
-            #main {
-                margin-top: 23px;
-                padding: 1rem;
-            }
-
-            #app {
-                min-height: 50vh;
-                font-size: clamp(18px, 6vw, 24px);
-            }
-
-            .loading-text span {
-                animation-duration: 1.2s;
-                margin: 0 1px;
-            }
-
-            .no-title-h4 h4 {
-                padding-top: 0.3rem;
-            }
-
-            .markdown-section .game-nav {
-                gap: 10px;
-                margin: 15px 0;
-                overflow-x: auto;
-                padding-bottom: 8px;
-                scroll-snap-type: x proximity;
-            }
-
-            .markdown-section .game-nav-btn {
-                padding: 8px 12px;
-                font-size: 13px;
-                scroll-snap-align: start;
-                flex: 0 0 auto;
-            }
-
-            .markdown-section .game-nav::-webkit-scrollbar {
-                width: 0;
-                height: 0;
-            }
-        }
-
-        @media (max-width: 480px) {
-            .markdown-section .game-nav {
-                gap: 8px;
-            }
-
-            .markdown-section .game-nav-btn {
-                padding: 8px 10px;
-            }
-        }
-
-        /* =================== 12. 隐藏 Waline 订阅按钮和RSS图标 =================== */
-        #waline .waline-subscribe,
-        #waline .wl-subscribe,
-        #waline .waline-rss,
-        #waline .wl-rss,
-        #waline .wl-footer .wl-rss,
-        .waline-subscribe,
-        .wl-subscribe,
-        .waline-rss,
-        .wl-rss,
-        .wl-footer .wl-rss {
-            display: none !important;
-            visibility: hidden !important;
-            opacity: 0 !important;
-        }
-    </style>
+    <link rel="preload" href="/assets/css/custom-style.css" as="style"
+        onload="this.onload=null;this.rel='stylesheet'" />
+    <noscript>
+        <link rel="stylesheet" href="/assets/css/custom-style.css" />
+    </noscript>
 </head>
 
 <body>
@@ -577,18 +151,18 @@
     <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"
         onerror="this.src='https://unpkg.com/docsify@4/lib/plugins/search.min.js'"></script>
     <!-- 侧边栏折叠 -->
-    <script src="https://cdn.jsdelivr.net/npm/docsify-sidebar-collapse@1/dist/docsify-sidebar-collapse.js"
+    <script src="https://cdn.jsdelivr.net/npm/docsify-sidebar-collapse@1/dist/docsify-sidebar-collapse.js" defer
         onerror="this.src='https://unpkg.com/docsify-sidebar-collapse@1/dist/docsify-sidebar-collapse.js'"></script>
     <!-- 选项卡 -->
-    <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1/dist/docsify-tabs.min.js"
+    <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1/dist/docsify-tabs.min.js" defer
         onerror="this.src='https://unpkg.com/docsify-tabs@1/dist/docsify-tabs.min.js'"></script>
     <!-- 外链脚本 -->
-    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/external-script.js"
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/external-script.js" defer
         onerror="this.src='https://unpkg.com/docsify@4/lib/plugins/external-script.js'"></script>
     <!-- TOC菜单 -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-plugin-toc@1/dist/light.css"
         onerror="this.href='https://unpkg.com/docsify-plugin-toc@1/dist/light.css'" />
-    <script src="https://cdn.jsdelivr.net/npm/docsify-plugin-toc@1/dist/docsify-plugin-toc.min.js"
+    <script src="https://cdn.jsdelivr.net/npm/docsify-plugin-toc@1/dist/docsify-plugin-toc.min.js" defer
         onerror="this.src='https://unpkg.com/docsify-plugin-toc@1/dist/docsify-plugin-toc.min.js'"></script>
     <!-- 页脚 -->
     <script src="https://cdn.jsdelivr.net/npm/@alertbox/docsify-footer@1.0.0-0/dist/docsify-footer.min.js" defer
@@ -596,83 +170,108 @@
     <!-- 留言板Waline -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@waline/client@3/dist/waline.css"
         onerror="this.href='https://unpkg.com/@waline/client@3/dist/waline.css'" />
-    <script src="https://cdn.jsdelivr.net/npm/@waline/client@3/dist/waline.umd.js"
+    <script src="https://cdn.jsdelivr.net/npm/@waline/client@3/dist/waline.umd.js" defer
         onerror="this.src='https://unpkg.com/@waline/client@3/dist/waline.umd.js'"></script>
     <script>
+        // Waline 实例缓存
+        let walineInstance = null;
+
         // 定义 Waline 初始化函数
         function initWaline() {
             // 检查是否存在 waline 容器元素
-            if (document.getElementById('waline')) {
-                try {
-                    Waline.init({
-                        serverURL: 'https://waline.haozy.top', // 你的服务端地址
-                        el: '#waline', // 评论区容器
-                        lang: 'zh-CN', // 语言
-                        path: '/zh-cn/bbs', // 评论区分页路径
-                        lazyload: true, // 开启懒加载（核心提速）
-                        meta: ['nick'], // 仅展示「昵称」输入框
-                        requiredMeta: ['nick'], // 仅昵称必填
-                        avatar: 'wavatar', // 头像样式
-                        avatarCDN: 'https://cravatar.cn/avatar/', // 头像 CDN
-                        pageSize: 8, // 每页评论数（提速）
-                        commentSorting: 'latest', // 最新评论优先
-                        uploadImage: false, // 关闭图片上传
-                        login: 'disable', // 禁用登录，直接留言
-                        reaction: false, // 关闭评论互动
-                        recordIP: false, // 不记录 IP
-                        pageview: false, // 关闭访问量统计
-                        emoji: [
-                            {
-                                name: '微博表情',
-                                path: 'https://cdn.jsdelivr.net/npm/@waline/emojis@1.1.0/weibo/',
-                                items: ['吃瓜', '加油', '汗', '捂脸', '泪', '馋', '怒', '酷', '哼', '笑', '可爱', '害羞', '睡觉', '生病', '亲亲', '飞吻', '翻白眼', '疑问', '拜拜', '黑线', '抓狂', '委屈', '吐', '哈欠', '鄙视', '衰', '骷髅', '敲打', '再见', '庆祝', '给力', '浮云', '互粉', '威武', '奥特曼', '礼物', '发红包', '求关注', '求抱抱', '点赞', '钱', '单身狗', '开车', '干杯', '小仙女', '锦鲤', '旺柴', '666', '让我看看', '社会社会', '狗头', '抱拳', '比心', '爱心', '心碎', '蛋糕', '火箭', '炸弹', '便便', '月亮', '太阳', '咖啡', '啤酒', '篮球', '乒乓球', '羽毛球', '红包', '福', '猪头', '猫咪', '旺财', '青蛙', '锦鲤', '玫瑰', '凋谢']
-                            },
-                            {
-                                name: 'B站表情',
-                                path: 'https://cdn.jsdelivr.net/npm/@waline/emojis@1.1.0/bilibili/',
-                                items: ['妙啊', '草', '给你一拳', '汗', '无语', '害羞', '傲娇', '欺负', '点赞', '硬币', '收藏', '关注', '干杯', '哭', '笑', '馋', '气', '睡', '歪头', '疑惑', '大佬', '抱抱', '贴贴', '嫌弃', '吃瓜', '狗头', 'OK', '加油', '好运', '中奖', '可爱', '爱了', 'AWSL', '打call', '干杯2', '害羞2', '笑2', '哭2', '生气', '思考', '傲娇2']
-                            }
-                        ],
-                        locale: { // 仅保留必要的提示语（删除无用项）
-                            commentTooFast: '评论太快了，请稍后再试',
-                            commentTooLong: '评论字数过多',
-                            nickEmpty: '昵称不能为空', // 仅昵称必填提示
-                            placeholder: '留言请提供资源类型，否则不知道是什么...',
-                            submit: '提交',
-                            reply: '回复',
-                            cancelReply: '取消回复',
-                            loading: '加载中...',
-                            more: '加载更多...',
-                            emoji: '表情',
-                            seconds: '秒前',
-                            minutes: '分钟前',
-                            hours: '小时前',
-                            days: '天前',
-                            now: '刚刚',
-                        },
-                        highlighter: false, // 关闭代码高亮
-                        texRenderer: false, // 关闭数学公式渲染
-                    });
-                    console.log('[Waline] 初始化成功');
-                } catch (e) {
-                    console.error('[Waline] 初始化失败:', e);
-                }
-            } else {
+            const walineEl = document.getElementById('waline');
+            if (!walineEl) {
                 console.log('[Waline] 未找到 waline 元素');
+                return;
+            }
+
+            // 如果已存在实例，先销毁
+            if (walineInstance) {
+                walineInstance.destroy();
+                walineInstance = null;
+            }
+
+            try {
+                walineInstance = Waline.init({
+                    serverURL: 'https://waline.haozy.top',
+                    el: '#waline',
+                    lang: 'zh-CN',
+                    path: location.pathname,
+                    lazyload: true,
+                    meta: ['nick', 'mail'],
+                    requiredMeta: ['nick', 'mail'],
+                    avatar: 'wavatar',
+                    avatarCDN: 'https://cravatar.cn/avatar/',
+                    pageSize: 5,
+                    commentSorting: 'latest',
+                    uploadImage: false,
+                    search: false,
+                    login: 'disable',
+                    reaction: false,
+                    recordIP: false,
+                    pageview: false,
+                    emoji: [
+                        'https://cdn.jsdelivr.net/npm/@waline/emojis@1.1.0/weibo',
+                        'https://cdn.jsdelivr.net/npm/@waline/emojis@1.1.0/bilibili'
+                    ],
+                    locale: {
+                        placeholder: '留言请提供资源类型...',
+                        submit: '提交',
+                        reply: '回复',
+                        cancelReply: '取消回复',
+                        loading: '加载中...',
+                        more: '加载更多...',
+                        emoji: '表情',
+                        seconds: '秒前',
+                        minutes: '分钟前',
+                        hours: '小时前',
+                        days: '天前',
+                        now: '刚刚',
+                    },
+                    highlighter: false,
+                    texRenderer: false,
+                    // 回复时不自动添加 @用户名
+                    onReply: (comment) => {
+                        return '';
+                    },
+                });
+                console.log('[Waline] 初始化成功');
+            } catch (e) {
+                console.error('[Waline] 初始化失败:', e);
             }
         }
 
-        // 1. 页面加载完成后初始化 Waline
-        window.addEventListener('load', initWaline);
+        // 使用 IntersectionObserver 实现真正的懒加载
+        let walineObserver = null;
+        function observeWaline() {
+            const walineEl = document.getElementById('waline');
+            if (!walineEl) return;
 
-        // 2. docsify 页面切换后重新初始化 Waline
+            if (walineObserver) {
+                walineObserver.disconnect();
+            }
+
+            walineObserver = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        initWaline();
+                        walineObserver.disconnect();
+                    }
+                });
+            }, { rootMargin: '100px' });
+
+            walineObserver.observe(walineEl);
+        }
+
+        // 页面加载完成后观察 Waline 容器
+        window.addEventListener('load', observeWaline);
+
+        // docsify 页面切换后重新观察
         window.$docsify = window.$docsify || {};
         window.$docsify.plugins = window.$docsify.plugins || [];
         window.$docsify.plugins.push(function (hook, vm) {
             hook.doneEach(function () {
-                console.log('[Waline] docsify 页面切换，重新初始化...');
-                // 延迟执行，确保 DOM 已更新
-                setTimeout(initWaline, 100);
+                observeWaline();
             });
         });
     </script>
