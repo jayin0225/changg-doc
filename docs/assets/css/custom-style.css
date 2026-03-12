@@ -426,3 +426,56 @@ blockquote {
     visibility: hidden !important;
     opacity: 0 !important;
 }
+
+/* =================== 13. 隐藏 Waline 编辑器工具栏按钮 =================== */
+/* 隐藏 Markdown 按钮 */
+#waline .wl-editor-tools .wl-markdown,
+#waline .wl-toolbar .wl-markdown,
+.wl-editor-tools .wl-markdown,
+.wl-toolbar .wl-markdown {
+    display: none !important;
+}
+
+/* 隐藏图片上传按钮 */
+#waline .wl-editor-tools .wl-image,
+#waline .wl-toolbar .wl-image,
+.wl-editor-tools .wl-image,
+.wl-toolbar .wl-image {
+    display: none !important;
+}
+
+/* 隐藏 GIF 按钮 */
+#waline .wl-editor-tools .wl-gif,
+#waline .wl-toolbar .wl-gif,
+.wl-editor-tools .wl-gif,
+.wl-toolbar .wl-gif {
+    display: none !important;
+}
+
+/* 隐藏预览按钮 */
+#waline .wl-editor-tools .wl-preview,
+#waline .wl-toolbar .wl-preview,
+.wl-editor-tools .wl-preview,
+.wl-toolbar .wl-preview {
+    display: none !important;
+}
+
+/* 隐藏表情按钮（如果需要） */
+#waline .wl-editor-tools .wl-emoji,
+#waline .wl-toolbar .wl-emoji,
+.wl-editor-tools .wl-emoji,
+.wl-toolbar .wl-emoji {
+    /* display: none !important; */
+}
+
+/* =================== 14. 隐藏评论中的 @用户名 高亮 =================== */
+#waline .wl-content .wl-at,
+#waline .wl-content a[href^="#"],
+.wl-content .wl-at,
+.wl-content a[href^="#"] {
+    color: inherit !important;
+    background: none !important;
+    padding: 0 !important;
+    border-radius: 0 !important;
+    text-decoration: none !important;
+}

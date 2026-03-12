@@ -457,25 +457,62 @@
             setTimeout(function () {
                 console.log('[音乐] 开始加载音乐插件...');
 
-                // 加载APlayer CSS
+                // 带超时的脚本加载函数
+                function loadScriptWithTimeout(url, backupUrl, timeout) {
+                    return new Promise(function(resolve, reject) {
+                        var script = document.createElement('script');
+                        var timer = setTimeout(function() {
+                            console.log('[音乐] 加载超时，切换到备用CDN...');
+                            script.src = backupUrl;
+                        }, timeout);
+
+                        script.onload = function() {
+                            clearTimeout(timer);
+                            resolve(script);
+                        };
+                        script.onerror = function() {
+                            clearTimeout(timer);
+                            if (script.src !== backupUrl) {
+                                console.log('[音乐] 主CDN失败，切换到备用...');
+                                script.src = backupUrl;
+                            } else {
+                                reject(new Error('主备CDN都失败'));
+                            }
+                        };
+                        script.src = url;
+                        document.body.appendChild(script);
+                    });
+                }
+
+                // 加载APlayer CSS (带备用CDN)
                 var aplayerCss = document.createElement('link');
                 aplayerCss.rel = 'stylesheet';
                 aplayerCss.href = 'https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.css';
+                aplayerCss.onerror = function() {
+                    console.log('[音乐] APlayer CSS 主CDN失败，切换到备用...');
+                    this.href = 'https://unpkg.com/aplayer@1/dist/APlayer.min.css';
+                };
                 document.head.appendChild(aplayerCss);
 
-                // 加载APlayer JS
-                var aplayerScript = document.createElement('script');
-                aplayerScript.src = 'https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.js';
-                aplayerScript.onload = function () {
-                    // 加载Meting JS
-                    var metingScript = document.createElement('script');
-                    metingScript.src = 'https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js';
-                    metingScript.onload = function () {
-                        initMusicPlayer();
-                    };
-                    document.body.appendChild(metingScript);
-                };
-                document.body.appendChild(aplayerScript);
+                // 加载APlayer JS (5秒超时)
+                loadScriptWithTimeout(
+                    'https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.js',
+                    'https://unpkg.com/aplayer@1/dist/APlayer.min.js',
+                    5000
+                ).then(function() {
+                    console.log('[音乐] APlayer 加载成功');
+                    // 加载Meting JS (5秒超时)
+                    return loadScriptWithTimeout(
+                        'https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js',
+                        'https://unpkg.com/meting@2/dist/Meting.min.js',
+                        5000
+                    );
+                }).then(function() {
+                    console.log('[音乐] Meting 加载成功');
+                    initMusicPlayer();
+                }).catch(function(err) {
+                    console.error('[音乐] 加载失败:', err);
+                });
             }, 5000);
         });
     </script>
