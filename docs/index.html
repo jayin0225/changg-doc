@@ -36,6 +36,7 @@
 
     <!-- 规范链接 -->
     <link rel="canonical" href="https://www.haozy.top/">
+    <link rel="sitemap" type="application/xml" href="/sitemap.xml">
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
     <link rel="apple-touch-icon" href="/favicon.ico">
 
@@ -274,6 +275,164 @@
                 observeWaline();
             });
         });
+    </script>
+    <!-- 动态SEO - 根据页面更新meta description -->
+    <script>
+        (function() {
+            var pageMeta = {
+                '/': {
+                    title: '对酒当歌分享 - 海量免费资源分享',
+                    description: '对酒当歌分享 - 免费分享游戏、电影、电视剧、动漫、纪录片等海量资源，每日更新，快速下载'
+                },
+                '/home': {
+                    title: '对酒当歌分享 - 海量免费资源分享',
+                    description: '对酒当歌分享 - 免费分享游戏、电影、电视剧、动漫、纪录片等海量资源，每日更新，快速下载'
+                },
+                '/zh-cn/games/pc': {
+                    title: 'PC电脑游戏下载 - 对酒当歌分享',
+                    description: '免费PC电脑游戏下载，包含热门单机游戏、联机游戏、汉化版游戏资源，支持夸克网盘、迅雷下载'
+                },
+                '/zh-cn/games/switch': {
+                    title: 'Switch游戏下载 - 对酒当歌分享',
+                    description: '免费Nintendo Switch游戏下载，包含热门Switch游戏ROM、XCI/NSP格式资源，支持模拟器运行'
+                },
+                '/zh-cn/games/android': {
+                    title: '安卓游戏下载 - 对酒当歌分享',
+                    description: '免费安卓手机游戏下载，包含热门手游APK、安卓移植游戏资源，免费下载安装'
+                },
+                '/zh-cn/games/page': {
+                    title: '游戏资源导航 - 对酒当歌分享',
+                    description: '游戏资源分类导航，包含PC游戏、Switch游戏、安卓游戏等，快速找到你想要的游戏资源'
+                },
+                '/zh-cn/movie/popular': {
+                    title: '热门电影下载 - 对酒当歌分享',
+                    description: '最新热门电影下载，高清电影资源，包含国内外大片、院线电影，支持夸克网盘下载'
+                },
+                '/zh-cn/movie/classic': {
+                    title: '经典电影下载 - 对酒当歌分享',
+                    description: '经典电影资源下载，高分电影、获奖影片、怀旧老电影，高清画质资源分享'
+                },
+                '/zh-cn/movie/series': {
+                    title: '系列电影下载 - 对酒当歌分享',
+                    description: '系列电影合集下载，漫威系列、DC系列、哈利波特系列等完整电影合集资源'
+                },
+                '/zh-cn/movie/animefilms': {
+                    title: '动画电影下载 - 对酒当歌分享',
+                    description: '动画电影资源下载，宫崎骏作品、迪士尼动画、皮克斯动画等高清动画电影'
+                },
+                '/zh-cn/movie/page': {
+                    title: '电影资源导航 - 对酒当歌分享',
+                    description: '电影资源分类导航，热门电影、经典电影、系列电影、动画电影等分类'
+                },
+                '/zh-cn/tv/china': {
+                    title: '国产电视剧下载 - 对酒当歌分享',
+                    description: '国产电视剧下载，最新国产剧、热播电视剧、经典国产剧资源，高清完整版'
+                },
+                '/zh-cn/tv/occident': {
+                    title: '欧美剧下载 - 对酒当歌分享',
+                    description: '欧美电视剧下载，美剧、英剧资源，包含HBO、Netflix热门剧集，中英字幕'
+                },
+                '/zh-cn/tv/jpandsk': {
+                    title: '日韩剧下载 - 对酒当歌分享',
+                    description: '日剧、韩剧下载资源，最新日韩电视剧、经典日剧韩剧，高清中字版本'
+                },
+                '/zh-cn/tv/page': {
+                    title: '电视剧资源导航 - 对酒当歌分享',
+                    description: '电视剧资源分类导航，国产剧、欧美剧、日韩剧等分类，快速找到想看的剧集'
+                },
+                '/zh-cn/animetv/gcdm': {
+                    title: '国产动漫下载 - 对酒当歌分享',
+                    description: '国产动漫下载，国漫资源、国产动画番剧，斗罗大陆、完美世界等热门国漫'
+                },
+                '/zh-cn/animetv/rbdm': {
+                    title: '日本动漫下载 - 对酒当歌分享',
+                    description: '日本动漫下载，新番动画、经典动漫资源，海贼王、火影忍者等热门日漫'
+                },
+                '/zh-cn/animetv/omdm': {
+                    title: '欧美动漫下载 - 对酒当歌分享',
+                    description: '欧美动漫下载，美漫资源、欧美动画剧集，高清中英字幕版本'
+                },
+                '/zh-cn/animetv/page': {
+                    title: '动漫资源导航 - 对酒当歌分享',
+                    description: '动漫资源分类导航，国产动漫、日本动漫、欧美动漫等分类'
+                },
+                '/zh-cn/documentary': {
+                    title: '纪录片下载 - 对酒当歌分享',
+                    description: '纪录片资源下载，BBC纪录片、国家地理、历史纪录片等高清资源'
+                },
+                '/zh-cn/realitytv': {
+                    title: '综艺节目下载 - 对酒当歌分享',
+                    description: '综艺节目下载，国内综艺、韩国综艺、真人秀节目资源，高清完整版'
+                },
+                '/zh-cn/books': {
+                    title: '书籍漫画下载 - 对酒当歌分享',
+                    description: '电子书下载，漫画资源、有声读物、小说、技术书籍等免费资源分享'
+                },
+                '/zh-cn/instruction': {
+                    title: '教学课件下载 - 对酒当歌分享',
+                    description: '教学资源下载，学习课件、教程视频、技能培训资源，免费学习资料'
+                },
+                '/zh-cn/music': {
+                    title: '音乐MV下载 - 对酒当歌分享',
+                    description: '音乐资源下载，热门歌曲、MV视频、无损音乐、专辑合集资源'
+                },
+                '/zh-cn/additional': {
+                    title: '其他资源 - 对酒当歌分享',
+                    description: '其他资源分享，软件工具、素材资源、实用工具等免费下载'
+                },
+                '/zh-cn/bbs': {
+                    title: '留言板 - 对酒当歌分享',
+                    description: '对酒当歌分享留言板，资源求档、问题反馈、交流互动'
+                },
+                '/zh-cn/dashang': {
+                    title: '打赏支持 - 对酒当歌分享',
+                    description: '支持站长，打赏捐赠，帮助网站持续运营'
+                }
+            };
+
+            function updateMeta(path) {
+                var meta = pageMeta[path];
+                if (!meta) {
+                    var matched = false;
+                    for (var key in pageMeta) {
+                        if (path.indexOf(key) === 0 && key !== '/' && key !== '/home') {
+                            meta = pageMeta[key];
+                            matched = true;
+                            break;
+                        }
+                    }
+                    if (!matched) {
+                        meta = pageMeta['/'];
+                    }
+                }
+
+                document.title = meta.title;
+
+                var descMeta = document.querySelector('meta[name="description"]');
+                if (descMeta) {
+                    descMeta.setAttribute('content', meta.description);
+                }
+
+                var ogTitle = document.querySelector('meta[property="og:title"]');
+                if (ogTitle) {
+                    ogTitle.setAttribute('content', meta.title);
+                }
+
+                var ogDesc = document.querySelector('meta[property="og:description"]');
+                if (ogDesc) {
+                    ogDesc.setAttribute('content', meta.description);
+                }
+            }
+
+            window.$docsify = window.$docsify || {};
+            window.$docsify.plugins = window.$docsify.plugins || [];
+            window.$docsify.plugins.push(function(hook, vm) {
+                hook.doneEach(function() {
+                    var path = vm.route.path;
+                    updateMeta(path);
+                });
+            });
+        })();
     </script>
     <!-- Docsify手风琴 -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-accordion/src/style.css"
