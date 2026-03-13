@@ -823,11 +823,15 @@
             text-align: center;
         }
 
-        /* 子菜单位置 - 默认居中，由JS动态调整 */
-        .mobile-nav-submenu {
-            left: 50%;
-            transform: translateX(-50%);
-        }
+        /* 子菜单位置 - 根据底部导航栏按钮位置精确定位 */
+        /* 游戏按钮在第2个位置 (约21.4%) */
+        #submenu-games { left: 21.4%; margin-left: -70px; }
+        /* 电影按钮在第3个位置 (约35.7%) */
+        #submenu-movie { left: 35.7%; margin-left: -70px; }
+        /* 剧集按钮在第5个位置 (约64.3%) */
+        #submenu-tv { left: 64.3%; margin-left: -70px; }
+        /* 动漫按钮在第6个位置 (约78.6%) */
+        #submenu-animetv { left: 78.6%; margin-left: -70px; }
 
         /* 搜索遮罩层 */
         .mobile-search-overlay {
@@ -1178,56 +1182,58 @@
                 <span>更多</span>
             </div>
         </div>
-        <!-- 搜索遮罩和弹窗 -->
-        <div class="mobile-search-overlay" id="mobileSearchOverlay">
-            <div class="mobile-search-container">
-                <div class="mobile-search-box">
-                    <input type="text" class="mobile-search-input" id="mobileSearchInput" placeholder="搜索内容...">
-                    <button class="mobile-search-btn" id="mobileSearchBtn"><i class="fas fa-search"></i></button>
-                </div>
-                <!-- 搜索结果显示区域 -->
-                <div class="mobile-search-results" id="mobileSearchResults"></div>
-            </div>
-            <div class="mobile-search-close" id="mobileSearchClose"><i class="fas fa-times"></i></div>
-        </div>
-        <!-- 游戏子菜单 -->
-        <div class="mobile-nav-submenu" id="submenu-games">
-            <a href="/zh-cn/games/pc" class="mobile-nav-submenu-item"><i class="fas fa-desktop"></i> 电脑游戏</a>
-            <a href="/zh-cn/games/switch" class="mobile-nav-submenu-item"><i class="fas fa-gamepad"></i> Switch游戏</a>
-            <a href="/zh-cn/games/android" class="mobile-nav-submenu-item"><i class="fas fa-mobile-alt"></i> 安卓游戏</a>
-        </div>
-        <!-- 电影子菜单 -->
-        <div class="mobile-nav-submenu" id="submenu-movie">
-            <a href="/zh-cn/movie/popular" class="mobile-nav-submenu-item"><i class="fas fa-fire"></i> 热门电影</a>
-            <a href="/zh-cn/movie/classic" class="mobile-nav-submenu-item"><i class="fas fa-star"></i> 经典电影</a>
-            <a href="/zh-cn/movie/series" class="mobile-nav-submenu-item"><i class="fas fa-film"></i> 系列电影</a>
-            <a href="/zh-cn/movie/animefilms" class="mobile-nav-submenu-item"><i class="fas fa-magic"></i> 动画电影</a>
-        </div>
-        <!-- 电视剧子菜单 -->
-        <div class="mobile-nav-submenu" id="submenu-tv">
-            <a href="/zh-cn/tv/china" class="mobile-nav-submenu-item"><i class="fas fa-flag"></i> 国产剧</a>
-            <a href="/zh-cn/tv/occident" class="mobile-nav-submenu-item"><i class="fas fa-globe-americas"></i> 欧美剧</a>
-            <a href="/zh-cn/tv/jpandsk" class="mobile-nav-submenu-item"><i class="fas fa-yin-yang"></i> 日韩剧</a>
-        </div>
-        <!-- 动漫子菜单 -->
-        <div class="mobile-nav-submenu" id="submenu-animetv">
-            <a href="/zh-cn/animetv/gcdm" class="mobile-nav-submenu-item"><i class="fas fa-dragon"></i> 国产动漫</a>
-            <a href="/zh-cn/animetv/rbdm" class="mobile-nav-submenu-item"><i class="fas fa-fan"></i> 日本动漫</a>
-            <a href="/zh-cn/animetv/omdm" class="mobile-nav-submenu-item"><i class="fas fa-horse-head"></i> 欧美动漫</a>
-            <a href="/zh-cn/animetv/xpy" class="mobile-nav-submenu-item"><i class="fas fa-baby"></i> 小朋友动画</a>
-        </div>
-        <!-- 更多菜单 -->
-        <div class="mobile-nav-more-popup" id="mobileNavPopup">
-            <a href="/zh-cn/documentary" class="mobile-nav-more-item"><i class="fas fa-video"></i> 纪录片</a>
-            <a href="/zh-cn/realitytv" class="mobile-nav-more-item"><i class="fas fa-microphone"></i> 综艺</a>
-            <a href="/zh-cn/books" class="mobile-nav-more-item"><i class="fas fa-book"></i> 书籍漫画</a>
-            <a href="/zh-cn/instruction" class="mobile-nav-more-item"><i class="fas fa-graduation-cap"></i> 教学课件</a>
-            <a href="/zh-cn/music" class="mobile-nav-more-item"><i class="fas fa-music"></i> 音乐MV</a>
-            <a href="/zh-cn/additional" class="mobile-nav-more-item"><i class="fas fa-plus-circle"></i> 其他</a>
-            <a href="/zh-cn/bbs" class="mobile-nav-more-item"><i class="fas fa-comments"></i> 留言板</a>
-            <a href="/zh-cn/dashang" class="mobile-nav-more-item"><i class="fas fa-gift"></i> 打赏</a>
-        </div>
     </nav>
+
+    <!-- 搜索遮罩和弹窗 -->
+    <div class="mobile-search-overlay" id="mobileSearchOverlay">
+        <div class="mobile-search-container">
+            <div class="mobile-search-box">
+                <input type="text" class="mobile-search-input" id="mobileSearchInput" placeholder="搜索内容...">
+                <button class="mobile-search-btn" id="mobileSearchBtn"><i class="fas fa-search"></i></button>
+            </div>
+            <!-- 搜索结果显示区域 -->
+            <div class="mobile-search-results" id="mobileSearchResults"></div>
+        </div>
+        <div class="mobile-search-close" id="mobileSearchClose"><i class="fas fa-times"></i></div>
+    </div>
+
+    <!-- 游戏子菜单 -->
+    <div class="mobile-nav-submenu" id="submenu-games">
+        <a href="/zh-cn/games/pc" class="mobile-nav-submenu-item"><i class="fas fa-desktop"></i> 电脑游戏</a>
+        <a href="/zh-cn/games/switch" class="mobile-nav-submenu-item"><i class="fas fa-gamepad"></i> Switch游戏</a>
+        <a href="/zh-cn/games/android" class="mobile-nav-submenu-item"><i class="fas fa-mobile-alt"></i> 安卓游戏</a>
+    </div>
+    <!-- 电影子菜单 -->
+    <div class="mobile-nav-submenu" id="submenu-movie">
+        <a href="/zh-cn/movie/popular" class="mobile-nav-submenu-item"><i class="fas fa-fire"></i> 热门电影</a>
+        <a href="/zh-cn/movie/classic" class="mobile-nav-submenu-item"><i class="fas fa-star"></i> 经典电影</a>
+        <a href="/zh-cn/movie/series" class="mobile-nav-submenu-item"><i class="fas fa-film"></i> 系列电影</a>
+        <a href="/zh-cn/movie/animefilms" class="mobile-nav-submenu-item"><i class="fas fa-magic"></i> 动画电影</a>
+    </div>
+    <!-- 电视剧子菜单 -->
+    <div class="mobile-nav-submenu" id="submenu-tv">
+        <a href="/zh-cn/tv/china" class="mobile-nav-submenu-item"><i class="fas fa-flag"></i> 国产剧</a>
+        <a href="/zh-cn/tv/occident" class="mobile-nav-submenu-item"><i class="fas fa-globe-americas"></i> 欧美剧</a>
+        <a href="/zh-cn/tv/jpandsk" class="mobile-nav-submenu-item"><i class="fas fa-yin-yang"></i> 日韩剧</a>
+    </div>
+    <!-- 动漫子菜单 -->
+    <div class="mobile-nav-submenu" id="submenu-animetv">
+        <a href="/zh-cn/animetv/gcdm" class="mobile-nav-submenu-item"><i class="fas fa-dragon"></i> 国产动漫</a>
+        <a href="/zh-cn/animetv/rbdm" class="mobile-nav-submenu-item"><i class="fas fa-fan"></i> 日本动漫</a>
+        <a href="/zh-cn/animetv/omdm" class="mobile-nav-submenu-item"><i class="fas fa-horse-head"></i> 欧美动漫</a>
+        <a href="/zh-cn/animetv/xpy" class="mobile-nav-submenu-item"><i class="fas fa-baby"></i> 小朋友动画</a>
+    </div>
+    <!-- 更多菜单 -->
+    <div class="mobile-nav-more-popup" id="mobileNavPopup">
+        <a href="/zh-cn/documentary" class="mobile-nav-more-item"><i class="fas fa-video"></i> 纪录片</a>
+        <a href="/zh-cn/realitytv" class="mobile-nav-more-item"><i class="fas fa-microphone"></i> 综艺</a>
+        <a href="/zh-cn/books" class="mobile-nav-more-item"><i class="fas fa-book"></i> 书籍漫画</a>
+        <a href="/zh-cn/instruction" class="mobile-nav-more-item"><i class="fas fa-graduation-cap"></i> 教学课件</a>
+        <a href="/zh-cn/music" class="mobile-nav-more-item"><i class="fas fa-music"></i> 音乐MV</a>
+        <a href="/zh-cn/additional" class="mobile-nav-more-item"><i class="fas fa-plus-circle"></i> 其他</a>
+        <a href="/zh-cn/bbs" class="mobile-nav-more-item"><i class="fas fa-comments"></i> 留言板</a>
+        <a href="/zh-cn/dashang" class="mobile-nav-more-item"><i class="fas fa-gift"></i> 打赏</a>
+    </div>
 
     <!-- =================== docsify JS配置文件 =================== -->
     <script>
@@ -1834,27 +1840,6 @@
                                 menu.classList.remove('show');
                             }
                         });
-
-                        // 计算子菜单位置
-                        var itemRect = item.getBoundingClientRect();
-                        var submenuWidth = submenu.offsetWidth || 140;
-                        var windowWidth = window.innerWidth;
-
-                        // 计算居中位置
-                        var centerLeft = itemRect.left + itemRect.width / 2;
-                        var submenuLeft = centerLeft;
-
-                        // 确保不超出屏幕边界
-                        if (submenuLeft - submenuWidth / 2 < 10) {
-                            submenuLeft = submenuWidth / 2 + 10;
-                        } else if (submenuLeft + submenuWidth / 2 > windowWidth - 10) {
-                            submenuLeft = windowWidth - submenuWidth / 2 - 10;
-                        }
-
-                        // 设置位置
-                        submenu.style.left = submenuLeft + 'px';
-                        submenu.style.transform = 'translateX(-50%)';
-
                         // 切换当前菜单
                         submenu.classList.toggle('show');
                     }
