@@ -54,6 +54,10 @@
         <link rel="stylesheet" href="/assets/css/docsify-vite-coverpage.css" />
     </noscript>
 
+    <!-- docsify核心 JS预加载 -->
+    <link rel="preload" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js" as="script">
+    <link rel="preload" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js" as="script">
+
     <!-- TOC菜单 -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-plugin-toc@1/dist/light.css"
         onerror="this.href='https://unpkg.com/docsify-plugin-toc@1/dist/light.css'" />
@@ -90,20 +94,6 @@
             /* 内容内边距 */
             --content-max-width: 110ch;
             /* 内容最大宽度 */
-
-            /* Waline 评论系统样式变量 */
-            --waline-border: none;
-            /* Waline 边框样式，设置为无边框 */
-            --waline-box-shadow: 0 12px 40px rgb(134 151 168 / 25%);
-            /* Waline 阴影效果，使用柔和的灰色阴影 */
-        }
-
-        /* 暗色模式适配 */
-        @media (prefers-color-scheme: dark) {
-            body {
-                --waline-box-shadow: 0 12px 40px #0f0e0d;
-                /* 暗色模式下 Waline 使用深色阴影 */
-            }
         }
 
         /* =================== 2. 图片懒加载 =================== */
@@ -640,37 +630,6 @@
             }
         }
     </style>
-
-    <!-- =================== 外部CSS样式 =================== -->
-    <!-- 主题样式--->
-    <link rel="preload" href="/assets/css/theme-simple.css" as="style"
-        onload="this.onload=null;this.rel='stylesheet'" />
-    <noscript>
-        <link rel="stylesheet" href="/assets/css/theme-simple.css" />
-    </noscript>
-
-    <!-- 封面样式 --->
-    <link rel="preload" href="/assets/css/docsify-vite-coverpage.css" as="style"
-        onload="this.onload=null;this.rel='stylesheet'" />
-    <noscript>
-        <link rel="stylesheet" href="/assets/css/docsify-vite-coverpage.css" />
-    </noscript>
-
-    <!-- TOC菜单 -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-plugin-toc@1/dist/light.css"
-        onerror="this.href='https://unpkg.com/docsify-plugin-toc@1/dist/light.css'" />
-
-    <!-- Docsify手风琴 -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-accordion/src/style.css"
-        onerror="this.href='https://unpkg.com/docsify-accordion/src/style.css'" />
-
-    <!-- 关键JS预加载 -->
-    <link rel="preload" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js" as="script">
-    <link rel="preload" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js" as="script">
-    
-    <!-- 预加载 Waline 资源 -->
-    <link rel="preload" href="https://cdn.jsdelivr.net/npm/@waline/client@3/dist/waline.css" as="style">
-    <link rel="preload" href="https://cdn.jsdelivr.net/npm/@waline/client@3/dist/waline.umd.js" as="script">
 </head>
 
 <body>
@@ -703,7 +662,7 @@
             topMargin: 0,          // 顶部边距，让搜索结果跳转后标题显示在页面第一位
             externalLinkTarget: '_blank',   // 以打开右上角的外部链接。默认（新窗口/选项卡）'_blank' 和 _self
             themeColor: '#18256d',          // 替换主题色。利用 CSS3 支持变量的特性，对于老的浏览器有 polyfill 处理。
-            routerMode: 'history',  // 使用 history 模式
+            routerMode: 'history',  // 使用 history 路由模式
             relativePath: false,    // 禁用相对路径，使用绝对路径
 
             // 缓存1天，浏览器或 CDN 会根据缓存资源，1天内重复请求会直接使用本地缓存，减少服务器负载
@@ -756,150 +715,158 @@
     </script>
 
     <!-- =================== 核心JS文件 =================== -->
-    <!-- docsify核心 -->
+    <!-- docsify核心 - 主CDN: jsdelivr, 备用CDN: unpkg -->
     <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"
         onerror="this.src='https://unpkg.com/docsify@4/lib/docsify.min.js'"></script>
 
-    <!-- 搜索 -->
+    <!-- 搜索 - 主CDN: jsdelivr, 备用CDN: unpkg -->
     <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"
         onerror="this.src='https://unpkg.com/docsify@4/lib/plugins/search.min.js'"></script>
 
     <!-- =================== 插件JS文件 =================== -->
-    <!-- 侧边栏折叠 -->
-    <script src="https://cdn.jsdelivr.net/npm/docsify-sidebar-collapse@1/dist/docsify-sidebar-collapse.js" defer
+    <!-- 侧边栏折叠 - 主CDN: jsdelivr, 备用CDN: unpkg -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify-sidebar-collapse@1/dist/docsify-sidebar-collapse.js"
         onerror="this.src='https://unpkg.com/docsify-sidebar-collapse@1/dist/docsify-sidebar-collapse.js'"></script>
 
-    <!-- 选项卡 -->
-    <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1/dist/docsify-tabs.min.js" defer
+    <!-- 选项卡 - 主CDN: jsdelivr, 备用CDN: unpkg -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1/dist/docsify-tabs.min.js"
         onerror="this.src='https://unpkg.com/docsify-tabs@1/dist/docsify-tabs.min.js'"></script>
 
-    <!-- 外链脚本 -->
-    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/external-script.js" defer
+    <!-- 外链脚本 - 主CDN: jsdelivr, 备用CDN: unpkg -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/external-script.js"
         onerror="this.src='https://unpkg.com/docsify@4/lib/plugins/external-script.js'"></script>
 
-    <!-- TOC菜单 -->
-    <script src="https://cdn.jsdelivr.net/npm/docsify-plugin-toc@1/dist/docsify-plugin-toc.min.js" defer
+    <!-- TOC菜单 - 主CDN: jsdelivr, 备用CDN: unpkg -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify-plugin-toc@1/dist/docsify-plugin-toc.min.js"
         onerror="this.src='https://unpkg.com/docsify-plugin-toc@1/dist/docsify-plugin-toc.min.js'"></script>
 
-    <!-- 页脚 -->
-    <script src="https://cdn.jsdelivr.net/npm/@alertbox/docsify-footer@1.0.0-0/dist/docsify-footer.min.js" defer
+    <!-- 页脚 - 主CDN: jsdelivr, 备用CDN: unpkg -->
+    <script src="https://cdn.jsdelivr.net/npm/@alertbox/docsify-footer@1.0.0-0/dist/docsify-footer.min.js"
         onerror="this.src='https://unpkg.com/@alertbox/docsify-footer@1.0.0-0/dist/docsify-footer.min.js'"></script>
 
-    <!-- Docsify手风琴 -->
-    <script src="https://cdn.jsdelivr.net/npm/docsify-accordion/src/index.js" defer
+    <!-- Docsify手风琴 - 主CDN: jsdelivr, 备用CDN: unpkg -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify-accordion/src/index.js"
         onerror="this.src='https://unpkg.com/docsify-accordion/src/index.js'"></script>
 
-    <!-- 图片缩放 -->
-    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js" defer
+    <!-- 图片缩放 - 主CDN: jsdelivr, 备用CDN: unpkg -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"
         onerror="this.src='https://unpkg.com/docsify@4/lib/plugins/zoom-image.min.js'"></script>
 
-    <!-- 谷歌分析 -->
-    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/ga.js" defer
+    <!-- 谷歌分析 - 主CDN: jsdelivr, 备用CDN: unpkg -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/ga.js"
         onerror="this.src='https://unpkg.com/docsify@4/lib/plugins/ga.js'"></script>
 
-    <!-- 警报图标样式 -->
-    <script
-        src="https://cdn.jsdelivr.net/npm/docsify-plugin-flexible-alerts@1/dist/docsify-plugin-flexible-alerts.min.js"
-        defer
-        onerror="this.src='https://unpkg.com/docsify-plugin-flexible-alerts@1/dist/docsify-plugin-flexible-alerts.min.js'"></script>
+    <!-- 警报图标样式 - 主CDN: jsdelivr, 备用CDN: unpkg -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify-plugin-flexible-alerts"
+        onerror="this.src='https://unpkg.com/docsify-plugin-flexible-alerts'"></script>
 
     <!-- =================== 功能JS脚本 =================== -->
-    <!-- 留言板Waline -->
+    <!-- 留言板Waline - 主用jsdelivr，备用unpkg -->
     <!-- 官方文档: https://waline.js.org/guide/get-started.html -->
-    <!-- 延迟加载 Waline 评论系统，提高页面加载速度 -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@waline/client@3/dist/waline.css"
+          onerror="this.href='https://unpkg.com/@waline/client@v3/dist/waline.css'" />
+    <script src="https://unpkg.com/@waline/client@v3/dist/waline.umd.js"></script>
     <script>
-        // 检查是否在留言板页面
-        const currentPath = window.location.pathname;
-        const isBbsPage = currentPath.includes('/zh-cn/bbs') || currentPath === '/bbs';
+        // Waline初始化函数
+        function initWaline() {
+            console.log('[Waline] 尝试初始化...');
 
-        console.log('[Waline] 当前路径:', currentPath);
-        console.log('[Waline] 是否为留言板页面:', isBbsPage);
+            const currentPath = window.location.pathname;
+            console.log('[Waline] 当前路径:', currentPath);
 
-        if (isBbsPage) {
-            console.log('[Waline] 开始加载 Waline...');
+            const isBbsPage = currentPath.includes('/zh-cn/bbs') || currentPath.includes('/bbs') || currentPath === '/bbs.html';
+            console.log('[Waline] 是否是留言板页面:', isBbsPage);
 
-            // 动态创建并加载 Waline CSS
-            const walineCSS = document.createElement('link');
-            walineCSS.rel = 'stylesheet';
-            walineCSS.href = 'https://cdn.jsdelivr.net/npm/@waline/client@3/dist/waline.css';
-            walineCSS.onerror = function () {
-                console.log('[Waline] CSS 主CDN失败，切换到备用...');
-                this.href = 'https://unpkg.com/@waline/client@3/dist/waline.css';
-            };
-            walineCSS.onload = function () {
-                console.log('[Waline] CSS 加载成功');
-            };
-            document.head.appendChild(walineCSS);
+            if (!isBbsPage) {
+                console.log('[Waline] 不是留言板页面，跳过');
+                return;
+            }
 
-            // 动态创建并加载 Waline JS
-            const walineJS = document.createElement('script');
-            walineJS.src = 'https://cdn.jsdelivr.net/npm/@waline/client@3/dist/waline.umd.js';
-            walineJS.async = true;
-            walineJS.onerror = function () {
-                console.log('[Waline] JS 主CDN失败，切换到备用...');
-                this.src = 'https://unpkg.com/@waline/client@3/dist/waline.umd.js';
-            };
-            walineJS.onload = function () {
-                console.log('[Waline] JS 加载成功，开始初始化...');
+            if (typeof Waline === 'undefined') {
+                console.log('[Waline] Waline对象未定义，跳过');
+                return;
+            }
 
-                // 直接初始化 Waline，不等待 DOMContentLoaded（因为脚本加载时 DOM 通常已就绪）
-                if (typeof Waline !== 'undefined') {
-                    try {
-                        // 检查容器是否存在
-                        const walineContainer = document.querySelector('#waline');
-                        if (!walineContainer) {
-                            console.error('[Waline] 未找到 #waline 容器元素');
-                            return;
-                        }
-                        console.log('[Waline] 找到容器元素，开始初始化...');
+            const container = document.querySelector('#waline');
+            console.log('[Waline] #waline容器:', container);
 
-                        Waline.init({
-                            el: '#waline', // 评论容器元素选择器
-                            serverURL: 'https://waline.haozy.top', // Waline 服务端地址
-                            lang: 'zh', // 界面语言设置为中文
-                            path: location.pathname, // 评论路径，使用当前页面路径作为唯一标识
-                            meta: ['nick', 'mail'], // 只保留昵称，移除邮箱（提高加载速度）
-                            requiredMeta: ['nick'], // 必填字段：昵称为必填
-                            avatar: 'none', // 禁用头像（大幅提高加载速度）
-                            pageSize: 5, // 减少每页评论数量（提高加载速度）
-                            commentSorting: 'latest', // 评论排序方式：latest（最新）、top（最热）
-                            imageUploader: false, // 禁用图片上传功能
-                            noCopyright: false, // 显示版权信息
-                            search: false, // 禁用表情搜索功能
-                            login: 'disable', // 禁用登录功能，允许匿名评论
-                            reaction: false, // 禁用点赞表情功能
-                            recordIP: false, // 禁用 IP 记录功能
-                            pageview: false, // 禁用页面浏览量统计
-                            emoji: [], // 禁用表情包（提高加载速度）
-                            locale: { // 界面文本本地化配置
-                                placeholder: '留言请提供资源类型...', // 输入框占位符
-                                submit: '提交', // 提交按钮文字
-                                reply: '回复', // 回复按钮文字
-                                cancelReply: '取消回复', // 取消回复按钮文字
-                                loading: '加载中...', // 加载状态文字
-                                more: '加载更多...', // 加载更多按钮文字
-                                emoji: '表情', // 表情按钮文字
-                                seconds: '秒前', // 秒前时间显示
-                                minutes: '分钟前', // 分钟前时间显示
-                                hours: '小时前', // 小时前时间显示
-                                days: '天前', // 天前时间显示
-                                now: '刚刚', // 刚刚时间显示
-                            },
-                            highlighter: false, // 禁用代码高亮功能（提高加载速度）
-                            texRenderer: false, // 禁用 LaTeX 数学公式渲染（提高加载速度）
-                        });
-                        console.log('[Waline] 初始化成功');
-                    } catch (error) {
-                        console.error('[Waline] 初始化失败:', error);
-                    }
-                } else {
-                    console.error('[Waline] Waline 对象未定义，加载失败');
-                }
-            };
-            document.head.appendChild(walineJS);
-        } else {
-            console.log('[Waline] 当前不是留言板页面，跳过加载');
+            if (!container) {
+                console.log('[Waline] 未找到#waline容器，跳过');
+                return;
+            }
+
+            // 检查是否已初始化
+            if (container.hasAttribute('data-waline-initialized')) {
+                console.log('[Waline] 已经初始化过，跳过');
+                return;
+            }
+
+            try {
+                Waline.init({
+                    el: '#waline',
+                    serverURL: 'https://waline.haozy.top',
+                    lang: 'zh',
+                    path: location.pathname,
+                    meta: ['nick', 'mail'],
+                    requiredMeta: ['nick'],
+                    avatar: 'none',
+                    pageSize: 6,
+                    commentSorting: 'latest',
+                    imageUploader: false,
+                    noCopyright: false,
+                    search: false,
+                    login: 'disable',
+                    reaction: false,
+                    recordIP: false,
+                    pageview: false,
+                    emoji: [
+                        'https://cdn.jsdelivr.net/npm/@waline/emojis@1.4.0/qq',
+                        'https://cdn.jsdelivr.net/npm/@waline/emojis@1.4.0/bilibili',
+                    ],
+                    locale: {
+                        placeholder: '留言请提供资源类型...',
+                        submit: '提交',
+                        reply: '回复',
+                        cancelReply: '取消回复',
+                        loading: '加载中...',
+                        more: '加载更多...',
+                        emoji: '表情',
+                        seconds: '秒前',
+                        minutes: '分钟前',
+                        hours: '小时前',
+                        days: '天前',
+                        now: '刚刚',
+                    },
+                    highlighter: false,
+                    texRenderer: false,
+                });
+                container.setAttribute('data-waline-initialized', 'true');
+                console.log('[Waline] 初始化成功');
+            } catch (error) {
+                console.error('[Waline] 初始化失败:', error);
+            }
         }
+
+        // 延迟初始化，确保Docsify和DOM都准备好了
+        function delayedInit() {
+            setTimeout(initWaline, 100);
+        }
+
+        // Docsify页面加载完成后初始化Waline
+        if (typeof docsify !== 'undefined' && docsify.hooks) {
+            docsify.hooks.doneEach(delayedInit);
+        }
+
+        // 首次加载也尝试初始化
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', delayedInit);
+        } else {
+            delayedInit();
+        }
+
+        // 额外：路由变化时也尝试初始化
+        window.addEventListener('hashchange', delayedInit);
+        window.addEventListener('popstate', delayedInit);
     </script>
 
     <!-- 动态SEO - 根据页面更新meta description -->
@@ -1067,33 +1034,6 @@
             setTimeout(function () {
                 console.log('[音乐] 开始加载音乐插件...');
 
-                // 带超时的脚本加载函数
-                function loadScriptWithTimeout(url, backupUrl, timeout) {
-                    return new Promise(function (resolve, reject) {
-                        var script = document.createElement('script');
-                        var timer = setTimeout(function () {
-                            console.log('[音乐] 加载超时，切换到备用CDN...');
-                            script.src = backupUrl;
-                        }, timeout);
-
-                        script.onload = function () {
-                            clearTimeout(timer);
-                            resolve(script);
-                        };
-                        script.onerror = function () {
-                            clearTimeout(timer);
-                            if (script.src !== backupUrl) {
-                                console.log('[音乐] 主CDN失败，切换到备用...');
-                                script.src = backupUrl;
-                            } else {
-                                reject(new Error('主备CDN都失败'));
-                            }
-                        };
-                        script.src = url;
-                        document.body.appendChild(script);
-                    });
-                }
-
                 // 加载APlayer CSS (带备用CDN)
                 var aplayerCss = document.createElement('link');
                 aplayerCss.rel = 'stylesheet';
@@ -1104,25 +1044,29 @@
                 };
                 document.head.appendChild(aplayerCss);
 
-                // 加载APlayer JS (5秒超时)
-                loadScriptWithTimeout(
-                    'https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.js',
-                    'https://unpkg.com/aplayer@1/dist/APlayer.min.js',
-                    5000
-                ).then(function () {
+                // 加载APlayer JS (带备用CDN)
+                var aplayerJs = document.createElement('script');
+                aplayerJs.src = 'https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.js';
+                aplayerJs.onload = function () {
                     console.log('[音乐] APlayer 加载成功');
-                    // 加载Meting JS (5秒超时)
-                    return loadScriptWithTimeout(
-                        'https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js',
-                        'https://unpkg.com/meting@2/dist/Meting.min.js',
-                        5000
-                    );
-                }).then(function () {
-                    console.log('[音乐] Meting 加载成功');
-                    initMusicPlayer();
-                }).catch(function (err) {
-                    console.error('[音乐] 加载失败:', err);
-                });
+                    // 加载Meting JS (带备用CDN)
+                    var metingJs = document.createElement('script');
+                    metingJs.src = 'https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js';
+                    metingJs.onload = function () {
+                        console.log('[音乐] Meting 加载成功');
+                        initMusicPlayer();
+                    };
+                    metingJs.onerror = function () {
+                        console.log('[音乐] Meting JS 主CDN失败，切换到备用...');
+                        this.src = 'https://unpkg.com/meting@2/dist/Meting.min.js';
+                    };
+                    document.body.appendChild(metingJs);
+                };
+                aplayerJs.onerror = function () {
+                    console.log('[音乐] APlayer JS 主CDN失败，切换到备用...');
+                    this.src = 'https://unpkg.com/aplayer@1/dist/APlayer.min.js';
+                };
+                document.body.appendChild(aplayerJs);
             }, 5000);
         });
     </script>
