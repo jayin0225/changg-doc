@@ -1310,6 +1310,16 @@
                 pathNamespaces: ['/zh-cn'],
                 path: '/zh-cn',
             },
+            plugins: [
+                function(hook, vm) {
+                    hook.doneEach(function() {
+                        // 页面加载完成后初始化Waline
+                        if (typeof initWaline === 'function') {
+                            initWaline();
+                        }
+                    });
+                }
+            ]
         }
     </script>
 
@@ -1476,26 +1486,7 @@
             }
         }
 
-        // 延迟初始化，确保Docsify和DOM都准备好了
-        function delayedInit() {
-            setTimeout(initWaline, 100);
-        }
-
-        // Docsify页面加载完成后初始化Waline
-        if (typeof docsify !== 'undefined' && docsify.hooks) {
-            docsify.hooks.doneEach(delayedInit);
-        }
-
-        // 首次加载也尝试初始化
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', delayedInit);
-        } else {
-            delayedInit();
-        }
-
-        // 额外：路由变化时也尝试初始化
-        window.addEventListener('hashchange', delayedInit);
-        window.addEventListener('popstate', delayedInit);
+        // Waline初始化由docsify插件系统调用
     </script>
 
     <!-- 手机端底部导航栏交互 -->
