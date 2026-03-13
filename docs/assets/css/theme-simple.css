@@ -323,7 +323,6 @@ pre[data-lang] {
   padding-top: 5.8rem;
 }
 .markdown-section figure,
-.markdown-section p,
 .markdown-section ol,
 .markdown-section ul {
   margin: 0.6em 0;
@@ -338,34 +337,6 @@ pre[data-lang] {
 .markdown-section ul ul {
   margin-top: 0.15rem;
   margin-bottom: 0.15rem;
-}
-.markdown-section a {
-  border-bottom: var(--link-border-bottom);
-  color: var(--link-color);
-  -webkit-text-decoration: var(--link-text-decoration);
-  text-decoration: var(--link-text-decoration);
-  -webkit-text-decoration-color: var(--link-text-decoration-color);
-  text-decoration-color: var(--link-text-decoration-color);
-}
-.markdown-section a:hover {
-  border-bottom: var(--link-border-bottom--hover, var(--link-border-bottom, 0));
-  color: var(--link-color--hover, var(--link-color));
-  -webkit-text-decoration: var(
-    --link-text-decoration--hover,
-    var(--link-text-decoration)
-  );
-  text-decoration: var(
-    --link-text-decoration--hover,
-    var(--link-text-decoration)
-  );
-  -webkit-text-decoration-color: var(
-    --link-text-decoration-color--hover,
-    var(--link-text-decoration-color)
-  );
-  text-decoration-color: var(
-    --link-text-decoration-color--hover,
-    var(--link-text-decoration-color)
-  );
 }
 .markdown-section a.anchor {
   border-bottom: 0;
@@ -498,28 +469,6 @@ pre[data-lang] {
   font-weight: var(--heading-h2-font-weight, var(--heading-font-weight));
   line-height: var(--base-line-height);
   color: var(--heading-h2-color, var(--heading-color));
-}
-.markdown-section h3 {
-  margin: var(--heading-h3-margin, var(--heading-margin));
-  padding: var(--heading-h3-padding, var(--heading-padding));
-  border-width: var(--heading-h3-border-width, 0);
-  border-style: var(--heading-h3-border-style);
-  border-color: var(--heading-h3-border-color);
-  font-family: var(--heading-h3-font-family, var(--heading-font-family));
-  font-size: var(--heading-h3-font-size);
-  font-weight: var(--heading-h3-font-weight, var(--heading-font-weight));
-  color: var(--heading-h3-color, var(--heading-color));
-}
-.markdown-section h4 {
-  margin: var(--heading-h4-margin, var(--heading-margin));
-  padding: var(--heading-h4-padding, var(--heading-padding));
-  border-width: var(--heading-h4-border-width, 0);
-  border-style: var(--heading-h4-border-style);
-  border-color: var(--heading-h4-border-color);
-  font-family: var(--heading-h4-font-family, var(--heading-font-family));
-  font-size: var(--heading-h4-font-size);
-  font-weight: var(--heading-h4-font-weight, var(--heading-font-weight));
-  color: var(--heading-h4-color, var(--heading-color));
 }
 .markdown-section h5 {
   margin: var(--heading-h5-margin, var(--heading-margin));

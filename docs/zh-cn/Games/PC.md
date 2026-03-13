@@ -53,6 +53,12 @@
 
 夸克：https://pan.quark.cn/s/aeefdbc4c143
 
+#### 《说谎公主与盲眼王子（The Liar Princess and the Blind Prince）》v2026.3.13 中文版 (手绘2D冒险)
+
+夸克：https://pan.quark.cn/s/50e9a55e47bd
+
+迅雷：https://pan.xunlei.com/s/VOnbsrpxueVLyWnHzai5x6yIA1?pwd=6adk
+
 #### 《寻宝岛（Collectors Cove）》v1.0.2.7666 中文版
 
 夸克：https://pan.quark.cn/s/c03100cab5c9

@@ -39,6 +39,29 @@
     <!-- Algolia验证 -->
     <meta name="algolia-site-verification" content="709B5D5776F5B91C" />
 
+    <!-- =================== 外部CSS样式 =================== -->
+    <!-- 主题样式--->
+    <link rel="preload" href="/assets/css/theme-simple.css" as="style"
+        onload="this.onload=null;this.rel='stylesheet'" />
+    <noscript>
+        <link rel="stylesheet" href="/assets/css/theme-simple.css" />
+    </noscript>
+
+    <!-- 封面样式 --->
+    <link rel="preload" href="/assets/css/docsify-vite-coverpage.css" as="style"
+        onload="this.onload=null;this.rel='stylesheet'" />
+    <noscript>
+        <link rel="stylesheet" href="/assets/css/docsify-vite-coverpage.css" />
+    </noscript>
+
+    <!-- TOC菜单 -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-plugin-toc@1/dist/light.css"
+        onerror="this.href='https://unpkg.com/docsify-plugin-toc@1/dist/light.css'" />
+
+    <!-- Docsify手风琴 -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-accordion/src/style.css"
+        onerror="this.href='https://unpkg.com/docsify-accordion/src/style.css'" />
+
     <!-- =================== 内联CSS样式 =================== -->
     <style>
         /* =================== 1. CSS变量定义 =================== */
@@ -315,30 +338,38 @@
         .markdown-section h2,
         .markdown-section h3,
         .markdown-section h4 {
-            position: relative;
+            position: relative !important;
             /* 相对定位 */
-            padding: 0;
+            padding: 0 !important;
             /* 无内边距 */
-            border: none;
+            border: none !important;
             /* 无边框 */
         }
 
         .markdown-section h1,
         .markdown-section h2,
         .markdown-section h3 {
-            font-weight: 545;
+            font-weight: 545 !important;
             /* 字重 */
         }
 
+        .markdown-section h3 {
+            margin: 1.5em 0 0.8em !important;
+            font-size: 18px !important;
+            color: #222 !important;
+        }
+
         .markdown-section h4 {
-            padding-top: 1.25rem;
-            /* 顶部内边距 */
-            color: #0064ff;
+            margin: 1.2em 0 0.6em !important;
+            padding-top: 1.22rem !important;
+            font-size: 16px !important;
+            color: #0064ff !important;
             /* 字体颜色 */
         }
 
         .no-title-h4 h4 {
-            padding-top: 0.5rem;
+            padding-top: 0rem !important;
+            margin-top: 0rem !important;
             /* 特殊情况的顶部内边距 */
         }
 
@@ -355,53 +386,65 @@
         .markdown-section h2:after,
         .markdown-section h3:after,
         .markdown-section h4:after {
-            content: "";
-            position: absolute;
-            bottom: 0;
-            left: -3px;
-            display: block;
-            border-radius: 15px;
-            background: var(--secondary-color);
+            content: "" !important;
+            position: absolute !important;
+            bottom: 0 !important;
+            left: -3px !important;
+            display: block !important;
+            border-radius: 15px !important;
+            background: #5e72e4 !important;
             /* 装饰线颜色 */
-            opacity: 0.25;
+            opacity: 0.5 !important;
             /* 透明度 */
-            pointer-events: none;
+            pointer-events: none !important;
             /* 不响应鼠标事件 */
         }
 
         .markdown-section h1:after {
-            width: 45px;
-            height: 13px;
+            width: 45px !important;
+            height: 13px !important;
         }
 
         .markdown-section h2:after {
-            width: 40px;
-            height: 9px;
+            width: 40px !important;
+            height: 9px !important;
         }
 
         .markdown-section h3:after {
-            width: 30px;
-            height: 7px;
+            width: 30px !important;
+            height: 7px !important;
         }
 
         .markdown-section h4:after {
-            width: 70px;
-            height: 2px;
-            background: #f1bcbc;
+            width: 70px !important;
+            height: 2px !important;
+            background: #f1bcbc !important;
             /* h4使用不同颜色 */
-            opacity: 1;
+            opacity: 1 !important;
             /* h4不透明 */
         }
 
-        /* =================== 8. 链接样式 =================== */
+        /* =================== 8. 段落样式 =================== */
+        .markdown-section p {
+            margin: 0.8em 0;
+            line-height: 1.6;
+            font-size: 16px;
+            color: #333;
+        }
+
+        /* =================== 9. 链接样式 =================== */
         .markdown-section p a,
         .markdown-section ul a,
         #edit-history a {
             position: relative;
-            color: var(--theme-color) !important;
+            color: #0066cc;
             /* 链接颜色 */
-            text-decoration: none !important;
+            text-decoration: none;
             /* 无下划线 */
+        }
+
+        .markdown-section a:hover {
+            color: #004499;
         }
 
         /* 链接下方的下划线动画 */
@@ -624,6 +667,10 @@
     <!-- 关键JS预加载 -->
     <link rel="preload" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js" as="script">
     <link rel="preload" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js" as="script">
+    
+    <!-- 预加载 Waline 资源 -->
+    <link rel="preload" href="https://cdn.jsdelivr.net/npm/@waline/client@3/dist/waline.css" as="style">
+    <link rel="preload" href="https://cdn.jsdelivr.net/npm/@waline/client@3/dist/waline.umd.js" as="script">
 </head>
 
 <body>
@@ -807,40 +854,23 @@
                         console.log('[Waline] 找到容器元素，开始初始化...');
 
                         Waline.init({
-                            // =================== 基本配置 ===================
                             el: '#waline', // 评论容器元素选择器
                             serverURL: 'https://waline.haozy.top', // Waline 服务端地址
                             lang: 'zh', // 界面语言设置为中文
                             path: location.pathname, // 评论路径，使用当前页面路径作为唯一标识
-
-                            // =================== 用户信息 ===================
-                            meta: ['nick', 'mail'], // 评论者信息字段：昵称和邮箱
+                            meta: ['nick', 'mail'], // 只保留昵称，移除邮箱（提高加载速度）
                             requiredMeta: ['nick'], // 必填字段：昵称为必填
-
-                            // =================== 头像设置 ===================
-                            avatar: 'wavatar', // 头像风格：使用 wavatar 风格
-                            avatarCDN: 'https://cravatar.cn/avatar/', // 头像 CDN 地址，使用国内 cravatar 服务
-
-                            // =================== 评论显示 ===================
-                            pageSize: 6, // 每页显示评论数量
+                            avatar: 'none', // 禁用头像（大幅提高加载速度）
+                            pageSize: 5, // 减少每页评论数量（提高加载速度）
                             commentSorting: 'latest', // 评论排序方式：latest（最新）、top（最热）
-
-                            // =================== 功能开关 ===================
                             imageUploader: false, // 禁用图片上传功能
                             noCopyright: false, // 显示版权信息
                             search: false, // 禁用表情搜索功能
                             login: 'disable', // 禁用登录功能，允许匿名评论
-                            reaction: false, // 点赞表情功能
+                            reaction: false, // 禁用点赞表情功能
                             recordIP: false, // 禁用 IP 记录功能
                             pageview: false, // 禁用页面浏览量统计
-
-                            // =================== 表情包配置 ===================
-                            emoji: [ // 表情包来源：微博和 Bilibili
-                                'https://unpkg.com/@waline/emojis@1.1.0/weibo',
-                                'https://unpkg.com/@waline/emojis@1.1.0/bilibili'
-                            ],
-
-                            // =================== 界面文本 ===================
+                            emoji: [], // 禁用表情包（提高加载速度）
                             locale: { // 界面文本本地化配置
                                 placeholder: '留言请提供资源类型...', // 输入框占位符
                                 submit: '提交', // 提交按钮文字
@@ -855,8 +885,6 @@
                                 days: '天前', // 天前时间显示
                                 now: '刚刚', // 刚刚时间显示
                             },
-
-                            // =================== 性能优化 ===================
                             highlighter: false, // 禁用代码高亮功能（提高加载速度）
                             texRenderer: false, // 禁用 LaTeX 数学公式渲染（提高加载速度）
                         });
