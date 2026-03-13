@@ -125,90 +125,13 @@
 
 夸克：https://pan.quark.cn/s/d13054962c00
 
-#### 《犯罪模拟器（Crime Simulator 》v1.42 中文 联机版
-
-夸克：https://pan.quark.cn/s/98518c51a604
-
-#### 《翼星求生（ICARUS 》v3.0.0.150086 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/d6f92efcdb54
-
-#### 《梦幻主义（Onirism）》build.21313783 中文 联机版（奇幻动作冒险）
-
-夸克：https://pan.quark.cn/s/0dc0e9840bcf
-
-#### 《天国拯救2（Kingdom Come Deliverance II）黄金版》v1.5.3 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/7c6b8f30675c
-
-#### 《静默恐惧 老灯塔十五夜（Static Dread 》v2026.3.6 全DLC 中文版（恐怖解密）
-
-夸克：https://pan.quark.cn/s/6deca0e36190
-
-迅雷：https://pan.xunlei.com/s/VOnHWAHd5FqS2M3NKcjRiaBJA1?pwd=kx4v
-
-#### 《夏日口袋 流光蓝（Summer Pockets REFLECTION BLUE 》v1.4.2.1 中文版（视觉小说）
-
-夸克：https://pan.quark.cn/s/c2b1316245c1
-
-#### 《下一站江湖2（Next Jianghu II 》v1.1.51(92) 全DLC 中文版（附第一部）
-
-夸克：https://pan.quark.cn/s/c42507f81cff
-
-迅雷：https://pan.xunlei.com/s/VNw04l4vfz6guXqO8J148A1-A1?pwd=h5v6#
-
-#### 《逸剑风云决（Wandering Sword 》v1.24.32 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/8d8811096a2d
-
-迅雷：https://pan.xunlei.com/s/VNwToxIX7LwoqSAV5JVulXakA1?pwd=dt2s#
-
-#### 《开拓者：正义之怒（Pathfinder Wrath of the Righteous）神话版》v2.7.0x 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/27a9461af361
-
-#### 《圣剑传说（Visions of Mana 》v2025.2.25 中文版
+#### 《圣剑传说（Visions of Mana 》v1.0.3.0 全DLC 中文版
 <section class="no-title-h4">
 
 #### 《圣剑传说3 重制版（TRIALS of MANA）》v1.1.1 中文版
 </section>
 
 夸克：https://pan.quark.cn/s/2e3caf2b9c9b
-
-#### 《勇者斗恶龙1+2 HD-2D 重制版（DRAGON QUEST III HD 2D Remake）》v1.0.2.0 中文版
-<section class="no-title-h4">
-
-#### 《勇者斗恶龙3 HD-2D 重制版（DRAGON QUEST III HD 2D Remake 》v1.2.1.0 中文版
-#### 《勇者斗恶龙11S：寻觅逝去的时光》v1.0 全DLC 中文 终结版
-#### 《无限神速斩 勇者斗恶龙 达伊的大冒险》1.0.3 中文版 PC版
-#### 《勇者斗恶龙 寻宝探险团 蓝色眼眸与天空罗盘》全DLC 豪华中文版 PC版
-#### 《勇者斗恶龙 创世小玩家2（Dragon Quest Builders 2 》v1.7.3d 全DLC 中文 联机版
-#### 《勇者斗恶龙 创世小玩家 阿雷夫加尔德复兴记（Dragon Quest Builders）》 v1.0.1 中文版
-</section>
-
-夸克：https://pan.quark.cn/s/8ac0b6c43877
-
-迅雷：https://pan.xunlei.com/s/VNv2sfgPQ5xpw3hvX3vP88lTA1?pwd=vzp2#
-
-#### 《伊苏8（Ys VIII Lacrimosa of DANA）数字限定版》v2023.4.2 全DLC 中文版
-<section class="no-title-h4">
-
-#### 《伊苏X -诺曼荣光-（Ys X：Proud Nordics 》v1.0.1 全DLC 中文版
-#### 《伊苏X -北境历险-（Ys X：Nordics 》v2.0.0 全DLC 中文版
-#### 《伊苏9：怪人之夜（Ys IX Monstrum Nox）豪华版》v1.1.4 全DLC 中文版
-</section>
-
-夸克：https://pan.quark.cn/s/0626602d9725
-
-#### 《刀剑神域 彼岸游境（SWORD ART ONLINE Alicization Lycoris）》最新 全DLC 中文版
-<section class="no-title-h4">
-
-#### 《刀剑神域 虚空幻界（Sword Art Online Hollow Realization）豪华版》最新 全DLC 中文版
-#### 《刀剑神域 夺命凶弹（Sword Art Online Fatal Bullet）完整版》v1.7.0 全DLC 中文版
-#### 《刀剑神域 碎梦边境（SWORD ART ONLINE Fractured Daydream 》v1.5.2.0 全DLC 中文版
-</section>
-
-夸克：https://pan.quark.cn/s/bb5134dcb570
 
 ---
 
@@ -398,6 +321,83 @@
 ---
 
 ## 已有游戏
+
+#### 《犯罪模拟器（Crime Simulator 》v1.42 中文 联机版
+
+夸克：https://pan.quark.cn/s/98518c51a604
+
+#### 《翼星求生（ICARUS 》v3.0.0.150086 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/d6f92efcdb54
+
+#### 《梦幻主义（Onirism）》build.21313783 中文 联机版（奇幻动作冒险）
+
+夸克：https://pan.quark.cn/s/0dc0e9840bcf
+
+#### 《天国拯救2（Kingdom Come Deliverance II）黄金版》v1.5.3 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/7c6b8f30675c
+
+#### 《静默恐惧 老灯塔十五夜（Static Dread 》v2026.3.6 全DLC 中文版（恐怖解密）
+
+夸克：https://pan.quark.cn/s/6deca0e36190
+
+迅雷：https://pan.xunlei.com/s/VOnHWAHd5FqS2M3NKcjRiaBJA1?pwd=kx4v
+
+#### 《夏日口袋 流光蓝（Summer Pockets REFLECTION BLUE 》v1.4.2.1 中文版（视觉小说）
+
+夸克：https://pan.quark.cn/s/c2b1316245c1
+
+#### 《下一站江湖2（Next Jianghu II 》v1.1.51(92) 全DLC 中文版（附第一部）
+
+夸克：https://pan.quark.cn/s/c42507f81cff
+
+迅雷：https://pan.xunlei.com/s/VNw04l4vfz6guXqO8J148A1-A1?pwd=h5v6#
+
+#### 《逸剑风云决（Wandering Sword 》v1.24.32 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/8d8811096a2d
+
+迅雷：https://pan.xunlei.com/s/VNwToxIX7LwoqSAV5JVulXakA1?pwd=dt2s#
+
+#### 《开拓者：正义之怒（Pathfinder Wrath of the Righteous）神话版》v2.7.0x 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/27a9461af361
+
+#### 《勇者斗恶龙1+2 HD-2D 重制版（DRAGON QUEST III HD 2D Remake）》v1.0.2.0 中文版
+<section class="no-title-h4">
+
+#### 《勇者斗恶龙3 HD-2D 重制版（DRAGON QUEST III HD 2D Remake 》v1.2.1.0 中文版
+#### 《勇者斗恶龙11S：寻觅逝去的时光》v1.0 全DLC 中文 终结版
+#### 《无限神速斩 勇者斗恶龙 达伊的大冒险》1.0.3 中文版 PC版
+#### 《勇者斗恶龙 寻宝探险团 蓝色眼眸与天空罗盘》全DLC 豪华中文版 PC版
+#### 《勇者斗恶龙 创世小玩家2（Dragon Quest Builders 2 》v1.7.3d 全DLC 中文 联机版
+#### 《勇者斗恶龙 创世小玩家 阿雷夫加尔德复兴记（Dragon Quest Builders）》 v1.0.1 中文版
+</section>
+
+夸克：https://pan.quark.cn/s/8ac0b6c43877
+
+迅雷：https://pan.xunlei.com/s/VNv2sfgPQ5xpw3hvX3vP88lTA1?pwd=vzp2#
+
+#### 《伊苏8（Ys VIII Lacrimosa of DANA）数字限定版》v2023.4.2 全DLC 中文版
+<section class="no-title-h4">
+
+#### 《伊苏X -诺曼荣光-（Ys X：Proud Nordics 》v1.0.1 全DLC 中文版
+#### 《伊苏X -北境历险-（Ys X：Nordics 》v2.0.0 全DLC 中文版
+#### 《伊苏9：怪人之夜（Ys IX Monstrum Nox）豪华版》v1.1.4 全DLC 中文版
+</section>
+
+夸克：https://pan.quark.cn/s/0626602d9725
+
+#### 《刀剑神域 彼岸游境（SWORD ART ONLINE Alicization Lycoris）》最新 全DLC 中文版
+<section class="no-title-h4">
+
+#### 《刀剑神域 虚空幻界（Sword Art Online Hollow Realization）豪华版》最新 全DLC 中文版
+#### 《刀剑神域 夺命凶弹（Sword Art Online Fatal Bullet）完整版》v1.7.0 全DLC 中文版
+#### 《刀剑神域 碎梦边境（SWORD ART ONLINE Fractured Daydream 》v1.5.2.0 全DLC 中文版
+</section>
+
+夸克：https://pan.quark.cn/s/bb5134dcb570
 
 #### 《王国保卫战5 联盟（Kingdom Rush 5 Alliance TD 》v7.00.36 全DLC 中文版（新增巨龙战争DLC）
 <section class="no-title-h4">
