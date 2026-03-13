@@ -53,6 +53,12 @@
 
 夸克：https://pan.quark.cn/s/aeefdbc4c143
 
+#### 《寻宝岛（Collectors Cove）》v1.0.2.7666 中文版
+
+夸克：https://pan.quark.cn/s/c03100cab5c9
+
+迅雷：https://pan.xunlei.com/s/VOnbCUDzGwij2Hva-hbFv4rqA1?pwd=tsqh
+
 #### 《生化危机9》虚拟机绕过D保护游玩补丁（附单独 2DLC 豪华版DLC 和 格蕾丝服饰：天启dlc）
 
 夸克：https://pan.quark.cn/s/bd8babd4aaf1
@@ -160,6 +166,14 @@
 #### 《开拓者：正义之怒（Pathfinder Wrath of the Righteous）神话版》v2.7.0x 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/27a9461af361
+
+#### 《圣剑传说（Visions of Mana 》v2025.2.25 中文版
+<section class="no-title-h4">
+
+#### 《圣剑传说3 重制版（TRIALS of MANA）》v1.1.1 中文版
+</section>
+
+夸克：https://pan.quark.cn/s/2e3caf2b9c9b
 
 #### 《勇者斗恶龙1+2 HD-2D 重制版（DRAGON QUEST III HD 2D Remake）》v1.0.2.0 中文版
 <section class="no-title-h4">
@@ -7553,10 +7567,6 @@
 #### 《数码宝贝世界：新秩序（Digimon World Next Order 》Build.10061453 中文版
 
 夸克：https://pan.quark.cn/s/3c83e2c09d06
-
-#### 《圣剑传说（Visions of Mana 》v2025.2.25 中文版
-
-夸克：https://pan.quark.cn/s/2e3caf2b9c9b
 
 #### 《恐怖之森 增殖（Death Forest 》最新 日文版
 

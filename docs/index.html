@@ -58,11 +58,433 @@
     <meta name="algolia-site-verification" content="709B5D5776F5B91C" />
 
     <!-- 自定义主题样式 -->
-    <link rel="preload" href="/assets/css/custom-style.css" as="style"
-        onload="this.onload=null;this.rel='stylesheet'" />
-    <noscript>
-        <link rel="stylesheet" href="/assets/css/custom-style.css" />
-    </noscript>
+    <style>
+        /* =================== 1. CSS变量定义 =================== */
+        :root {
+            --base-font-size: 15px; /* 基础字体大小 */
+            --sidebar-width: 20.5rem; /* 侧边栏宽度 */
+            --sidebar-nav-margin: 1rem 0.1rem 0.1rem; /* 侧边栏导航外边距 */
+            --primary-color: #4155c4; /* 主色调 */
+            --secondary-color: #5e72e4; /* 次要色调 */
+            --accent-color: #fed24a; /* 强调色 */
+            --shadow-color: rgba(50, 50, 93, 0.1); /* 阴影颜色 */
+            --docsifytabs-border-color: #ededed; /* 选项卡边框颜色 */
+            --docsifytabs-tab-highlight-color: purple; /* 选项卡高亮颜色 */
+            --heading-color: var(--primary-color); /* 标题颜色 */
+            --content-margin-inline: 20px; /* 内容内边距 */
+            --content-max-width: 110ch; /* 内容最大宽度 */
+            
+            /* Waline 评论系统样式变量 */
+            --waline-border: none; /* Waline 边框样式，设置为无边框 */
+            --waline-box-shadow: 0 12px 40px rgb(134 151 168 / 25%); /* Waline 阴影效果，使用柔和的灰色阴影 */
+        }
+
+        /* 暗色模式适配 */
+        @media (prefers-color-scheme: dark) {
+            body {
+                --waline-box-shadow: 0 12px 40px #0f0e0d; /* 暗色模式下 Waline 使用深色阴影 */
+            }
+        }
+
+        /* =================== 2. 图片懒加载 =================== */
+        .lazy-load {
+            opacity: 0; /* 初始透明度为0，隐藏图片 */
+            transition: opacity 0.3s ease-in-out; /* 透明度过渡动画 */
+        }
+
+        .lazy-load.loaded {
+            opacity: 1; /* 加载完成后显示图片 */
+        }
+
+        /* =================== 3. 页面加载动画 =================== */
+        #app {
+            display: flex; /* 使用flex布局 */
+            align-items: center; /* 垂直居中 */
+            justify-content: center; /* 水平居中 */
+            min-height: 100vh; /* 最小高度为视口高度 */
+            font-size: clamp(24px, 8vw, 38px); /* 响应式字体大小 */
+        }
+
+        /* 加载文字点的动画关键帧 */
+        @keyframes dot-animation {
+            0%, 50% {
+                opacity: 0.2; /* 半透明 */
+            }
+            25%, 75% {
+                opacity: 1; /* 完全不透明 */
+            }
+            100% {
+                opacity: 0.2; /* 回到半透明 */
+            }
+        }
+
+        .loading-text {
+            display: inline-block; /* 行内块元素 */
+            font-weight: bold; /* 加粗字体 */
+        }
+
+        .loading-text span {
+            display: inline-block;
+            animation: dot-animation 1.5s infinite ease-in-out; /* 无限循环动画 */
+            margin: 0 2px; /* 点之间的间距 */
+        }
+
+        /* 每个点的动画延迟，实现波浪效果 */
+        .loading-text span:nth-child(1) {
+            animation-delay: 0.1s;
+        }
+
+        .loading-text span:nth-child(2) {
+            animation-delay: 0.3s;
+        }
+
+        .loading-text span:nth-child(3) {
+            animation-delay: 0.5s;
+        }
+
+        .loading-text span:nth-child(4) {
+            animation-delay: 0.7s;
+        }
+
+        /* =================== 4. 侧边栏样式 =================== */
+        aside.sidebar {
+            border: none; /* 移除边框 */
+            box-shadow: 0 15px 35px var(--shadow-color), 0 5px 15px rgba(0, 0, 0, 0.07); /* 阴影效果 */
+        }
+
+        aside.sidebar li {
+            margin: 0; /* 移除外边距 */
+            position: relative; /* 相对定位 */
+            max-width: 900px; /* 最大宽度 */
+        }
+
+        aside.sidebar li p {
+            padding-left: 22px; /* 左内边距 */
+            font-size: 22px; /* 字体大小 */
+            font-weight: normal; /* 正常字重 */
+        }
+
+        aside.sidebar li a {
+            padding: 3px 0 3px 22px; /* 内边距 */
+            font-size: var(--base-font-size); /* 使用CSS变量 */
+            line-height: 33px; /* 行高 */
+        }
+
+        aside.sidebar li.active>a {
+            font-size: 22px; /* 激活状态的字体大小 */
+        }
+
+        /* 激活状态前的圆点标记 */
+        aside.sidebar ul li.active>a:before {
+            content: '' !important;
+            position: absolute !important;
+            top: 15px !important;
+            left: 0 !important;
+            width: 10px !important;
+            height: 10px !important;
+            margin: 0 !important;
+            background-color: var(--accent-color); /* 圆点颜色 */
+            border-radius: 50% !important; /* 圆形 */
+            box-shadow: 0 0 0 3px rgba(254, 210, 74, 0.4) !important; /* 光晕效果 */
+        }
+
+        .sidebar-nav>ul>li>ul>li>ul {
+            margin-left: 16px; /* 三级菜单缩进 */
+        }
+
+        /* =================== 5. 侧边栏菜单按钮 =================== */
+        .sidebar-toggle .sidebar-toggle-button {
+            width: 4.1rem; /* 按钮宽度 */
+            color: #530daf; /* 文字颜色 */
+            background: rgba(196, 8, 8, 0.27); /* 背景色 */
+            border-radius: 0 8px 8px 0; /* 圆角 */
+            box-shadow: 0 0.155rem 0.25rem rgba(12, 14, 4, 0.075); /* 阴影 */
+            transition: all 0.1s ease; /* 过渡动画 */
+        }
+
+        .sidebar-toggle-button {
+            position: fixed; /* 固定定位 */
+            top: 10px; /* 距离顶部 */
+            left: 10px; /* 距离左侧 */
+            width: auto;
+            height: auto;
+            background: none; /* 无背景 */
+            border: none; /* 无边框 */
+            padding: 10px 15px; /* 内边距 */
+            cursor: pointer; /* 鼠标指针 */
+            z-index: 99; /* 层级 */
+        }
+
+        .sidebar-toggle-button span {
+            display: none; /* 隐藏span元素 */
+        }
+
+        /* 使用伪元素显示"菜单"文字 */
+        .sidebar-toggle-button::after {
+            content: "菜 单";
+            color: #d12a32;
+            font-size: 12px;
+            font-weight: bold;
+            transition: all 0.3s ease;
+        }
+
+        .sidebar-toggle-button:hover::after {
+            color: #251ab6; /* 悬停颜色 */
+            text-decoration: underline; /* 下划线 */
+        }
+
+        body.close .sidebar-toggle-button::after {
+            content: "菜 单";
+        }
+
+        /* =================== 6. 主内容区域 =================== */
+        #main {
+            padding-top: 20px; /* 顶部内边距 */
+            box-shadow: 0 15px 300px 20px var(--shadow-color), 0 10px 15px rgba(0, 0, 0, 0.07); /* 阴影 */
+        }
+
+        article>ul {
+            padding: 10px; /* 内边距 */
+            border: none; /* 无边框 */
+            box-shadow: 0 20px 55px var(--shadow-color), 0 0 1px rgba(0, 0, 0, 0.07); /* 阴影 */
+        }
+
+        p.tip,
+        blockquote {
+            border-radius: 1px !important; /* 圆角 */
+        }
+
+        /* =================== 7. 标题样式 =================== */
+        .markdown-section h1,
+        .markdown-section h2,
+        .markdown-section h3,
+        .markdown-section h4 {
+            position: relative; /* 相对定位 */
+            padding: 0; /* 无内边距 */
+            border: none; /* 无边框 */
+        }
+
+        .markdown-section h1,
+        .markdown-section h2,
+        .markdown-section h3 {
+            font-weight: 545; /* 字重 */
+        }
+
+        .markdown-section h4 {
+            padding-top: 1.25rem; /* 顶部内边距 */
+            color: #0064ff; /* 字体颜色 */
+        }
+
+        .no-title-h4 h4 {
+            padding-top: 0.5rem; /* 特殊情况的顶部内边距 */
+        }
+
+        .markdown-section h1 a,
+        .markdown-section h2 a,
+        .markdown-section h3 a,
+        .markdown-section h4 a {
+            text-decoration: none !important; /* 无下划线 */
+        }
+
+        /* 标题下方的装饰线 */
+        .markdown-section h1:after,
+        .markdown-section h2:after,
+        .markdown-section h3:after,
+        .markdown-section h4:after {
+            content: "";
+            position: absolute;
+            bottom: 0;
+            left: -3px;
+            display: block;
+            border-radius: 15px;
+            background: var(--secondary-color); /* 装饰线颜色 */
+            opacity: 0.25; /* 透明度 */
+            pointer-events: none; /* 不响应鼠标事件 */
+        }
+
+        .markdown-section h1:after {
+            width: 45px;
+            height: 13px;
+        }
+
+        .markdown-section h2:after {
+            width: 40px;
+            height: 9px;
+        }
+
+        .markdown-section h3:after {
+            width: 30px;
+            height: 7px;
+        }
+
+        .markdown-section h4:after {
+            width: 70px;
+            height: 2px;
+            background: #f1bcbc; /* h4使用不同颜色 */
+            opacity: 1; /* h4不透明 */
+        }
+
+        /* =================== 8. 链接样式 =================== */
+        .markdown-section p a,
+        .markdown-section ul a,
+        #edit-history a {
+            position: relative;
+            color: var(--theme-color) !important; /* 链接颜色 */
+            text-decoration: none !important; /* 无下划线 */
+        }
+
+        /* 链接下方的下划线动画 */
+        .markdown-section p a:before,
+        .markdown-section ul a:before,
+        #edit-history a:before {
+            content: "";
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 1px;
+            background-color: var(--secondary-color); /* 下划线颜色 */
+            transform: scaleX(0); /* 初始宽度为0 */
+            transition: transform 0.8s ease; /* 过渡动画 */
+            backface-visibility: hidden; /* 优化性能 */
+        }
+
+        /* 悬停时显示下划线 */
+        .markdown-section p a:hover:before,
+        .markdown-section ul a:hover:before,
+        #edit-history a:hover:before {
+            transform: scaleX(1); /* 宽度变为100% */
+        }
+
+        /* =================== 9. 搜索框样式 =================== */
+        .search input {
+            width: 100%; /* 全宽 */
+            padding: 12px 20px; /* 内边距 */
+            font-size: 16px; /* 字体大小 */
+            border: 2px solid #42b983; /* 边框 */
+            border-radius: 8px; /* 圆角 */
+            outline: none; /* 无轮廓 */
+            animation: pulseBorder 2s infinite; /* 脉冲动画 */
+        }
+
+        /* 搜索框边框脉冲动画 */
+        @keyframes pulseBorder {
+            0% {
+                box-shadow: 0 0 0 0 rgba(4, 47, 236, 0.7);
+            }
+            70% {
+                box-shadow: 0 0 0 10px rgba(66, 185, 131, 0);
+            }
+            100% {
+                box-shadow: 0 0 0 0 rgba(66, 185, 131, 0);
+            }
+        }
+
+        /* 聚焦时停止动画 */
+        .search input:focus {
+            animation: none;
+            border-color: #267c58; /* 聚焦边框颜色 */
+            box-shadow: 0 0 0 3px rgba(66, 185, 131, 0.5); /* 聚焦阴影 */
+        }
+
+        .matching-post p {
+            display: none !important; /* 隐藏搜索结果中的描述 */
+        }
+
+        /* =================== 10. MD文件内导航按钮 =================== */
+        .markdown-section .game-nav {
+            display: flex; /* flex布局 */
+            gap: 15px; /* 按钮间距 */
+            margin: 25px 0; /* 外边距 */
+            flex-wrap: wrap; /* 允许换行 */
+        }
+
+        .markdown-section .game-nav-btn {
+            padding: 10px 20px; /* 内边距 */
+            box-sizing: border-box; /* 包含padding和border */
+            background: #f0f3f9; /* 背景色 */
+            color: #240e9e; /* 文字颜色 */
+            text-decoration: none; /* 无下划线 */
+            border-radius: 6px; /* 圆角 */
+            border: 1px solid #d0d7de; /* 边框 */
+            font-weight: 600; /* 字重 */
+            font-size: 14px; /* 字体大小 */
+            transition: background-color 0.2s ease, border-color 0.2s ease; /* 过渡动画 */
+            white-space: nowrap; /* 不换行 */
+        }
+
+        .markdown-section .game-nav-btn:hover {
+            background: #e1e7ed; /* 悬停背景色 */
+            border-color: #afb8c1; /* 悬停边框色 */
+        }
+
+        /* =================== 11. 移动端响应式适配 =================== */
+        @media screen and (max-width: 768px) {
+            h1 {
+                font-size: 18px !important;
+            }
+
+            h2,
+            h3 {
+                font-size: 16px !important;
+            }
+
+            h4,
+            p {
+                font-size: 13px !important;
+            }
+
+            #main {
+                margin-top: 23px;
+                padding: 1rem;
+            }
+
+            #app {
+                min-height: 50vh; /* 最小高度减半 */
+                font-size: clamp(18px, 6vw, 24px);
+            }
+
+            .loading-text span {
+                animation-duration: 1.2s; /* 动画速度加快 */
+                margin: 0 1px;
+            }
+
+            .no-title-h4 h4 {
+                padding-top: 0.3rem;
+            }
+
+            .markdown-section .game-nav {
+                gap: 10px;
+                margin: 15px 0;
+                overflow-x: auto; /* 横向滚动 */
+                padding-bottom: 8px;
+                scroll-snap-type: x proximity; /* 滚动吸附 */
+            }
+
+            .markdown-section .game-nav-btn {
+                padding: 8px 12px;
+                font-size: 13px;
+                scroll-snap-align: start; /* 吸附到开始位置 */
+                flex: 0 0 auto; /* 不伸缩 */
+            }
+
+            .markdown-section .game-nav::-webkit-scrollbar {
+                width: 0; /* 隐藏滚动条 */
+                height: 0;
+            }
+        }
+
+        /* 小屏幕适配 */
+        @media (max-width: 480px) {
+            .markdown-section .game-nav {
+                gap: 8px;
+            }
+
+            .markdown-section .game-nav-btn {
+                padding: 8px 10px;
+            }
+        }
+    </style>
 </head>
 
 <body>
@@ -169,280 +591,217 @@
     <script src="https://cdn.jsdelivr.net/npm/@alertbox/docsify-footer@1.0.0-0/dist/docsify-footer.min.js" defer
         onerror="this.src='https://unpkg.com/@alertbox/docsify-footer@1.0.0-0/dist/docsify-footer.min.js'"></script>
     <!-- 留言板Waline -->
+    <!-- 官方文档: https://waline.js.org/guide/get-started.html -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@waline/client@3/dist/waline.css"
         onerror="this.href='https://unpkg.com/@waline/client@3/dist/waline.css'" />
-    <script src="https://cdn.jsdelivr.net/npm/@waline/client@3/dist/waline.umd.js" defer
+    <script src="https://cdn.jsdelivr.net/npm/@waline/client@3/dist/waline.umd.js"
         onerror="this.src='https://unpkg.com/@waline/client@3/dist/waline.umd.js'"></script>
     <script>
-        // Waline 实例缓存
-        let walineInstance = null;
-
-        // 定义 Waline 初始化函数
-        function initWaline() {
-            // 检查是否存在 waline 容器元素
-            const walineEl = document.getElementById('waline');
-            if (!walineEl) {
-                console.log('[Waline] 未找到 waline 元素');
-                return;
-            }
-
-            // 如果已存在实例，先销毁
-            if (walineInstance) {
-                walineInstance.destroy();
-                walineInstance = null;
-            }
-
-            try {
-                walineInstance = Waline.init({
-                    serverURL: 'https://waline.haozy.top',
-                    el: '#waline',
-                    lang: 'zh-CN',
-                    path: location.pathname,
-                    lazyload: true,
-                    meta: ['nick', 'mail'],
-                    requiredMeta: ['nick', 'mail'],
-                    avatar: 'wavatar',
-                    avatarCDN: 'https://cravatar.cn/avatar/',
-                    pageSize: 5,
-                    commentSorting: 'latest',
-                    uploadImage: false,
-                    search: false,
-                    login: 'disable',
-                    reaction: false,
-                    recordIP: false,
-                    pageview: false,
-                    emoji: [
-                        'https://cdn.jsdelivr.net/npm/@waline/emojis@1.1.0/weibo',
-                        'https://cdn.jsdelivr.net/npm/@waline/emojis@1.1.0/bilibili'
+        // 等待页面完全加载后初始化 Waline
+        window.addEventListener('load', function() {
+            // 检查 Waline 对象是否已加载
+            if (typeof Waline !== 'undefined') {
+                // 初始化 Waline 评论系统
+                Waline.init({
+                    el: '#waline', // 评论容器元素选择器
+                    serverURL: 'https://waline.haozy.top', // Waline 服务端地址
+                    lang: 'zh-CN', // 界面语言设置为中文
+                    path: location.pathname, // 评论路径，使用当前页面路径作为唯一标识
+                    meta: ['nick', 'mail'], // 评论者信息字段：昵称和邮箱
+                    requiredMeta: ['nick'], // 必填字段：昵称为必填
+                    avatar: 'wavatar', // 头像风格：使用 wavatar 风格
+                    avatarCDN: 'https://cravatar.cn/avatar/', // 头像 CDN 地址，使用国内 cravatar 服务
+                    pageSize: 6, // 每页显示评论数量
+                    commentSorting: 'latest', // 评论排序方式：最新评论在前
+                    uploadImage: true, // 启用图片上传功能
+                    search: true, // 启用搜索功能
+                    login: 'disable', // 禁用登录功能，允许匿名评论
+                    reaction: true, // 启用表情反应功能
+                    recordIP: false, // 禁用 IP 记录功能
+                    pageview: false, // 禁用页面浏览量统计
+                    emoji: [ // 表情包来源：微博和 Bilibili
+                        'https://unpkg.com/@waline/emojis@1.1.0/weibo',
+                        'https://unpkg.com/@waline/emojis@1.1.0/bilibili'
                     ],
-                    locale: {
-                        placeholder: '留言请提供资源类型...',
-                        submit: '提交',
-                        reply: '回复',
-                        cancelReply: '取消回复',
-                        loading: '加载中...',
-                        more: '加载更多...',
-                        emoji: '表情',
-                        seconds: '秒前',
-                        minutes: '分钟前',
-                        hours: '小时前',
-                        days: '天前',
-                        now: '刚刚',
+                    locale: { // 界面文本本地化配置
+                        placeholder: '留言请提供资源类型...', // 输入框占位符
+                        submit: '提交', // 提交按钮文字
+                        reply: '回复', // 回复按钮文字
+                        cancelReply: '取消回复', // 取消回复按钮文字
+                        loading: '加载中...', // 加载状态文字
+                        more: '加载更多...', // 加载更多按钮文字
+                        emoji: '表情', // 表情按钮文字
+                        seconds: '秒前', // 秒前时间显示
+                        minutes: '分钟前', // 分钟前时间显示
+                        hours: '小时前', // 小时前时间显示
+                        days: '天前', // 天前时间显示
+                        now: '刚刚', // 刚刚时间显示
                     },
-                    highlighter: false,
-                    texRenderer: false,
-                    // 回复时不自动添加 @用户名前缀
-                    onReply: (comment) => {
-                        return { content: '' };
-                    },
-                    // 自定义评论内容渲染，移除回复时的 @用户名
-                    onCommentLoaded: (comments) => {
-                        comments.forEach(comment => {
-                            if (comment.content && comment.content.startsWith('@')) {
-                                // 移除 @用户名: 前缀
-                                comment.content = comment.content.replace(/^@[^:]+:\s*/, '');
-                            }
-                        });
-                        return comments;
-                    },
+                    highlighter: false, // 启用代码高亮功能
+                    texRenderer: false, // 启用 LaTeX 数学公式渲染
                 });
-                console.log('[Waline] 初始化成功');
-            } catch (e) {
-                console.error('[Waline] 初始化失败:', e);
+            } else {
+                console.error('Waline 加载失败，请检查网络连接');
             }
-        }
-
-        // 使用 IntersectionObserver 实现真正的懒加载
-        let walineObserver = null;
-        function observeWaline() {
-            const walineEl = document.getElementById('waline');
-            if (!walineEl) return;
-
-            if (walineObserver) {
-                walineObserver.disconnect();
-            }
-
-            walineObserver = new IntersectionObserver((entries) => {
-                entries.forEach(entry => {
-                    if (entry.isIntersecting) {
-                        initWaline();
-                        walineObserver.disconnect();
-                    }
-                });
-            }, { rootMargin: '100px' });
-
-            walineObserver.observe(walineEl);
-        }
-
-        // 页面加载完成后观察 Waline 容器
-        window.addEventListener('load', observeWaline);
-
-        // docsify 页面切换后重新观察
-        window.$docsify = window.$docsify || {};
-        window.$docsify.plugins = window.$docsify.plugins || [];
-        window.$docsify.plugins.push(function (hook, vm) {
-            hook.doneEach(function () {
-                observeWaline();
-            });
         });
     </script>
     <!-- 动态SEO - 根据页面更新meta description -->
     <script>
-        (function() {
-            var pageMeta = {
-                '/': {
-                    title: '对酒当歌分享 - 海量免费资源分享',
-                    description: '对酒当歌分享 - 免费分享游戏、电影、电视剧、动漫、纪录片等海量资源，每日更新，快速下载'
-                },
-                '/home': {
-                    title: '对酒当歌分享 - 海量免费资源分享',
-                    description: '对酒当歌分享 - 免费分享游戏、电影、电视剧、动漫、纪录片等海量资源，每日更新，快速下载'
-                },
-                '/zh-cn/games/pc': {
-                    title: 'PC电脑游戏下载 - 对酒当歌分享',
-                    description: '免费PC电脑游戏下载，包含热门单机游戏、联机游戏、汉化版游戏资源，支持夸克网盘、迅雷下载'
-                },
-                '/zh-cn/games/switch': {
-                    title: 'Switch游戏下载 - 对酒当歌分享',
-                    description: '免费Nintendo Switch游戏下载，包含热门Switch游戏ROM、XCI/NSP格式资源，支持模拟器运行'
-                },
-                '/zh-cn/games/android': {
-                    title: '安卓游戏下载 - 对酒当歌分享',
-                    description: '免费安卓手机游戏下载，包含热门手游APK、安卓移植游戏资源，免费下载安装'
-                },
-                '/zh-cn/games/page': {
-                    title: '游戏资源导航 - 对酒当歌分享',
-                    description: '游戏资源分类导航，包含PC游戏、Switch游戏、安卓游戏等，快速找到你想要的游戏资源'
-                },
-                '/zh-cn/movie/popular': {
-                    title: '热门电影下载 - 对酒当歌分享',
-                    description: '最新热门电影下载，高清电影资源，包含国内外大片、院线电影，支持夸克网盘下载'
-                },
-                '/zh-cn/movie/classic': {
-                    title: '经典电影下载 - 对酒当歌分享',
-                    description: '经典电影资源下载，高分电影、获奖影片、怀旧老电影，高清画质资源分享'
-                },
-                '/zh-cn/movie/series': {
-                    title: '系列电影下载 - 对酒当歌分享',
-                    description: '系列电影合集下载，漫威系列、DC系列、哈利波特系列等完整电影合集资源'
-                },
-                '/zh-cn/movie/animefilms': {
-                    title: '动画电影下载 - 对酒当歌分享',
-                    description: '动画电影资源下载，宫崎骏作品、迪士尼动画、皮克斯动画等高清动画电影'
-                },
-                '/zh-cn/movie/page': {
-                    title: '电影资源导航 - 对酒当歌分享',
-                    description: '电影资源分类导航，热门电影、经典电影、系列电影、动画电影等分类'
-                },
-                '/zh-cn/tv/china': {
-                    title: '国产电视剧下载 - 对酒当歌分享',
-                    description: '国产电视剧下载，最新国产剧、热播电视剧、经典国产剧资源，高清完整版'
-                },
-                '/zh-cn/tv/occident': {
-                    title: '欧美剧下载 - 对酒当歌分享',
-                    description: '欧美电视剧下载，美剧、英剧资源，包含HBO、Netflix热门剧集，中英字幕'
-                },
-                '/zh-cn/tv/jpandsk': {
-                    title: '日韩剧下载 - 对酒当歌分享',
-                    description: '日剧、韩剧下载资源，最新日韩电视剧、经典日剧韩剧，高清中字版本'
-                },
-                '/zh-cn/tv/page': {
-                    title: '电视剧资源导航 - 对酒当歌分享',
-                    description: '电视剧资源分类导航，国产剧、欧美剧、日韩剧等分类，快速找到想看的剧集'
-                },
-                '/zh-cn/animetv/gcdm': {
-                    title: '国产动漫下载 - 对酒当歌分享',
-                    description: '国产动漫下载，国漫资源、国产动画番剧，斗罗大陆、完美世界等热门国漫'
-                },
-                '/zh-cn/animetv/rbdm': {
-                    title: '日本动漫下载 - 对酒当歌分享',
-                    description: '日本动漫下载，新番动画、经典动漫资源，海贼王、火影忍者等热门日漫'
-                },
-                '/zh-cn/animetv/omdm': {
-                    title: '欧美动漫下载 - 对酒当歌分享',
-                    description: '欧美动漫下载，美漫资源、欧美动画剧集，高清中英字幕版本'
-                },
-                '/zh-cn/animetv/page': {
-                    title: '动漫资源导航 - 对酒当歌分享',
-                    description: '动漫资源分类导航，国产动漫、日本动漫、欧美动漫等分类'
-                },
-                '/zh-cn/documentary': {
-                    title: '纪录片下载 - 对酒当歌分享',
-                    description: '纪录片资源下载，BBC纪录片、国家地理、历史纪录片等高清资源'
-                },
-                '/zh-cn/realitytv': {
-                    title: '综艺节目下载 - 对酒当歌分享',
-                    description: '综艺节目下载，国内综艺、韩国综艺、真人秀节目资源，高清完整版'
-                },
-                '/zh-cn/books': {
-                    title: '书籍漫画下载 - 对酒当歌分享',
-                    description: '电子书下载，漫画资源、有声读物、小说、技术书籍等免费资源分享'
-                },
-                '/zh-cn/instruction': {
-                    title: '教学课件下载 - 对酒当歌分享',
-                    description: '教学资源下载，学习课件、教程视频、技能培训资源，免费学习资料'
-                },
-                '/zh-cn/music': {
-                    title: '音乐MV下载 - 对酒当歌分享',
-                    description: '音乐资源下载，热门歌曲、MV视频、无损音乐、专辑合集资源'
-                },
-                '/zh-cn/additional': {
-                    title: '其他资源 - 对酒当歌分享',
-                    description: '其他资源分享，软件工具、素材资源、实用工具等免费下载'
-                },
-                '/zh-cn/bbs': {
-                    title: '留言板 - 对酒当歌分享',
-                    description: '对酒当歌分享留言板，资源求档、问题反馈、交流互动'
-                },
-                '/zh-cn/dashang': {
-                    title: '打赏支持 - 对酒当歌分享',
-                    description: '支持站长，打赏捐赠，帮助网站持续运营'
-                }
-            };
+            (function () {
+                var pageMeta = {
+                    '/': {
+                        title: '对酒当歌分享 - 海量免费资源分享',
+                        description: '对酒当歌分享 - 免费分享游戏、电影、电视剧、动漫、纪录片等海量资源，每日更新，快速下载'
+                    },
+                    '/home': {
+                        title: '对酒当歌分享 - 海量免费资源分享',
+                        description: '对酒当歌分享 - 免费分享游戏、电影、电视剧、动漫、纪录片等海量资源，每日更新，快速下载'
+                    },
+                    '/zh-cn/games/pc': {
+                        title: 'PC电脑游戏下载 - 对酒当歌分享',
+                        description: '免费PC电脑游戏下载，包含热门单机游戏、联机游戏、汉化版游戏资源，支持夸克网盘、迅雷下载'
+                    },
+                    '/zh-cn/games/switch': {
+                        title: 'Switch游戏下载 - 对酒当歌分享',
+                        description: '免费Nintendo Switch游戏下载，包含热门Switch游戏ROM、XCI/NSP格式资源，支持模拟器运行'
+                    },
+                    '/zh-cn/games/android': {
+                        title: '安卓游戏下载 - 对酒当歌分享',
+                        description: '免费安卓手机游戏下载，包含热门手游APK、安卓移植游戏资源，免费下载安装'
+                    },
+                    '/zh-cn/games/page': {
+                        title: '游戏资源导航 - 对酒当歌分享',
+                        description: '游戏资源分类导航，包含PC游戏、Switch游戏、安卓游戏等，快速找到你想要的游戏资源'
+                    },
+                    '/zh-cn/movie/popular': {
+                        title: '热门电影下载 - 对酒当歌分享',
+                        description: '最新热门电影下载，高清电影资源，包含国内外大片、院线电影，支持夸克网盘下载'
+                    },
+                    '/zh-cn/movie/classic': {
+                        title: '经典电影下载 - 对酒当歌分享',
+                        description: '经典电影资源下载，高分电影、获奖影片、怀旧老电影，高清画质资源分享'
+                    },
+                    '/zh-cn/movie/series': {
+                        title: '系列电影下载 - 对酒当歌分享',
+                        description: '系列电影合集下载，漫威系列、DC系列、哈利波特系列等完整电影合集资源'
+                    },
+                    '/zh-cn/movie/animefilms': {
+                        title: '动画电影下载 - 对酒当歌分享',
+                        description: '动画电影资源下载，宫崎骏作品、迪士尼动画、皮克斯动画等高清动画电影'
+                    },
+                    '/zh-cn/movie/page': {
+                        title: '电影资源导航 - 对酒当歌分享',
+                        description: '电影资源分类导航，热门电影、经典电影、系列电影、动画电影等分类'
+                    },
+                    '/zh-cn/tv/china': {
+                        title: '国产电视剧下载 - 对酒当歌分享',
+                        description: '国产电视剧下载，最新国产剧、热播电视剧、经典国产剧资源，高清完整版'
+                    },
+                    '/zh-cn/tv/occident': {
+                        title: '欧美剧下载 - 对酒当歌分享',
+                        description: '欧美电视剧下载，美剧、英剧资源，包含HBO、Netflix热门剧集，中英字幕'
+                    },
+                    '/zh-cn/tv/jpandsk': {
+                        title: '日韩剧下载 - 对酒当歌分享',
+                        description: '日剧、韩剧下载资源，最新日韩电视剧、经典日剧韩剧，高清中字版本'
+                    },
+                    '/zh-cn/tv/page': {
+                        title: '电视剧资源导航 - 对酒当歌分享',
+                        description: '电视剧资源分类导航，国产剧、欧美剧、日韩剧等分类，快速找到想看的剧集'
+                    },
+                    '/zh-cn/animetv/gcdm': {
+                        title: '国产动漫下载 - 对酒当歌分享',
+                        description: '国产动漫下载，国漫资源、国产动画番剧，斗罗大陆、完美世界等热门国漫'
+                    },
+                    '/zh-cn/animetv/rbdm': {
+                        title: '日本动漫下载 - 对酒当歌分享',
+                        description: '日本动漫下载，新番动画、经典动漫资源，海贼王、火影忍者等热门日漫'
+                    },
+                    '/zh-cn/animetv/omdm': {
+                        title: '欧美动漫下载 - 对酒当歌分享',
+                        description: '欧美动漫下载，美漫资源、欧美动画剧集，高清中英字幕版本'
+                    },
+                    '/zh-cn/animetv/page': {
+                        title: '动漫资源导航 - 对酒当歌分享',
+                        description: '动漫资源分类导航，国产动漫、日本动漫、欧美动漫等分类'
+                    },
+                    '/zh-cn/documentary': {
+                        title: '纪录片下载 - 对酒当歌分享',
+                        description: '纪录片资源下载，BBC纪录片、国家地理、历史纪录片等高清资源'
+                    },
+                    '/zh-cn/realitytv': {
+                        title: '综艺节目下载 - 对酒当歌分享',
+                        description: '综艺节目下载，国内综艺、韩国综艺、真人秀节目资源，高清完整版'
+                    },
+                    '/zh-cn/books': {
+                        title: '书籍漫画下载 - 对酒当歌分享',
+                        description: '电子书下载，漫画资源、有声读物、小说、技术书籍等免费资源分享'
+                    },
+                    '/zh-cn/instruction': {
+                        title: '教学课件下载 - 对酒当歌分享',
+                        description: '教学资源下载，学习课件、教程视频、技能培训资源，免费学习资料'
+                    },
+                    '/zh-cn/music': {
+                        title: '音乐MV下载 - 对酒当歌分享',
+                        description: '音乐资源下载，热门歌曲、MV视频、无损音乐、专辑合集资源'
+                    },
+                    '/zh-cn/additional': {
+                        title: '其他资源 - 对酒当歌分享',
+                        description: '其他资源分享，软件工具、素材资源、实用工具等免费下载'
+                    },
+                    '/zh-cn/bbs': {
+                        title: '留言板 - 对酒当歌分享',
+                        description: '对酒当歌分享留言板，资源求档、问题反馈、交流互动'
+                    },
+                    '/zh-cn/dashang': {
+                        title: '打赏支持 - 对酒当歌分享',
+                        description: '支持站长，打赏捐赠，帮助网站持续运营'
+                    }
+                };
 
-            function updateMeta(path) {
-                var meta = pageMeta[path];
-                if (!meta) {
-                    var matched = false;
-                    for (var key in pageMeta) {
-                        if (path.indexOf(key) === 0 && key !== '/' && key !== '/home') {
-                            meta = pageMeta[key];
-                            matched = true;
-                            break;
+                function updateMeta(path) {
+                    var meta = pageMeta[path];
+                    if (!meta) {
+                        var matched = false;
+                        for (var key in pageMeta) {
+                            if (path.indexOf(key) === 0 && key !== '/' && key !== '/home') {
+                                meta = pageMeta[key];
+                                matched = true;
+                                break;
+                            }
+                        }
+                        if (!matched) {
+                            meta = pageMeta['/'];
                         }
                     }
-                    if (!matched) {
-                        meta = pageMeta['/'];
+
+                    document.title = meta.title;
+
+                    var descMeta = document.querySelector('meta[name="description"]');
+                    if (descMeta) {
+                        descMeta.setAttribute('content', meta.description);
+                    }
+
+                    var ogTitle = document.querySelector('meta[property="og:title"]');
+                    if (ogTitle) {
+                        ogTitle.setAttribute('content', meta.title);
+                    }
+
+                    var ogDesc = document.querySelector('meta[property="og:description"]');
+                    if (ogDesc) {
+                        ogDesc.setAttribute('content', meta.description);
                     }
                 }
 
-                document.title = meta.title;
-
-                var descMeta = document.querySelector('meta[name="description"]');
-                if (descMeta) {
-                    descMeta.setAttribute('content', meta.description);
-                }
-
-                var ogTitle = document.querySelector('meta[property="og:title"]');
-                if (ogTitle) {
-                    ogTitle.setAttribute('content', meta.title);
-                }
-
-                var ogDesc = document.querySelector('meta[property="og:description"]');
-                if (ogDesc) {
-                    ogDesc.setAttribute('content', meta.description);
-                }
-            }
-
-            window.$docsify = window.$docsify || {};
-            window.$docsify.plugins = window.$docsify.plugins || [];
-            window.$docsify.plugins.push(function(hook, vm) {
-                hook.doneEach(function() {
-                    var path = vm.route.path;
-                    updateMeta(path);
+                window.$docsify = window.$docsify || {};
+                window.$docsify.plugins = window.$docsify.plugins || [];
+                window.$docsify.plugins.push(function (hook, vm) {
+                    hook.doneEach(function () {
+                        var path = vm.route.path;
+                        updateMeta(path);
+                    });
                 });
-            });
-        })();
+            })();
     </script>
     <!-- Docsify手风琴 -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-accordion/src/style.css"
@@ -469,18 +828,18 @@
 
                 // 带超时的脚本加载函数
                 function loadScriptWithTimeout(url, backupUrl, timeout) {
-                    return new Promise(function(resolve, reject) {
+                    return new Promise(function (resolve, reject) {
                         var script = document.createElement('script');
-                        var timer = setTimeout(function() {
+                        var timer = setTimeout(function () {
                             console.log('[音乐] 加载超时，切换到备用CDN...');
                             script.src = backupUrl;
                         }, timeout);
 
-                        script.onload = function() {
+                        script.onload = function () {
                             clearTimeout(timer);
                             resolve(script);
                         };
-                        script.onerror = function() {
+                        script.onerror = function () {
                             clearTimeout(timer);
                             if (script.src !== backupUrl) {
                                 console.log('[音乐] 主CDN失败，切换到备用...');
@@ -498,7 +857,7 @@
                 var aplayerCss = document.createElement('link');
                 aplayerCss.rel = 'stylesheet';
                 aplayerCss.href = 'https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.css';
-                aplayerCss.onerror = function() {
+                aplayerCss.onerror = function () {
                     console.log('[音乐] APlayer CSS 主CDN失败，切换到备用...');
                     this.href = 'https://unpkg.com/aplayer@1/dist/APlayer.min.css';
                 };
@@ -509,7 +868,7 @@
                     'https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.js',
                     'https://unpkg.com/aplayer@1/dist/APlayer.min.js',
                     5000
-                ).then(function() {
+                ).then(function () {
                     console.log('[音乐] APlayer 加载成功');
                     // 加载Meting JS (5秒超时)
                     return loadScriptWithTimeout(
@@ -517,10 +876,10 @@
                         'https://unpkg.com/meting@2/dist/Meting.min.js',
                         5000
                     );
-                }).then(function() {
+                }).then(function () {
                     console.log('[音乐] Meting 加载成功');
                     initMusicPlayer();
-                }).catch(function(err) {
+                }).catch(function (err) {
                     console.error('[音乐] 加载失败:', err);
                 });
             }, 5000);

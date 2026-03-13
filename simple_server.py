@@ -6,10 +6,10 @@ PORT = 8089
 
 class MyHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
     def do_GET(self):
-        # 处理 404 页面
-        if self.path.endswith('.md'):
-            # 对于 .md 文件，让 docsify 处理
-            pass
+        # 处理 404 页面 - 支持 HTML5 History 模式
+        if not self.path.endswith(('.html', '.js', '.css', '.png', '.jpg', '.jpeg', '.gif', '.ico', '.md')):
+            # 对于非静态文件请求，返回 index.html
+            self.path = '/index.html'
         return super().do_GET()
 
 print("Starting server...")
