@@ -65,6 +65,9 @@
     <!-- Docsify手风琴 -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-accordion/src/style.css"
         onerror="this.href='https://unpkg.com/docsify-accordion/src/style.css'" />
+    <!-- Font Awesome 图标 -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/css/all.min.css"
+        onerror="this.href='https://unpkg.com/@fortawesome/fontawesome-free@6/css/all.min.css'" />
 
     <!-- =================== 内联CSS样式 =================== -->
     <style>
@@ -350,9 +353,9 @@
         }
 
         .markdown-section h4 {
-            margin: 1.2em 0 0.6em !important;
+            margin: 0.8em 0 0.6em !important;
             padding-top: 1.22rem !important;
-            font-size: 16px !important;
+            font-size: 14px !important;
             color: #0064ff !important;
             /* 字体颜色 */
         }
@@ -557,7 +560,7 @@
         }
 
         /* =================== 11. 移动端响应式适配 =================== */
-        @media screen and (max-width: 768px) {
+        @media screen and (max-width: 767px) {
             h1 {
                 font-size: 18px !important;
             }
@@ -629,6 +632,512 @@
                 padding: 8px 10px;
             }
         }
+
+        /* =================== 12. 手机端底部导航栏 =================== */
+        .mobile-nav {
+            display: none;
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: #ffffff;
+            border-top: 1px solid #e0e0e0;
+            z-index: 9999;
+            padding: 8px 0;
+            padding-bottom: max(8px, env(safe-area-inset-bottom));
+            box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .mobile-nav-container {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            max-width: 100%;
+            overflow-x: auto;
+            -webkit-overflow-scrolling: touch;
+        }
+
+        .mobile-nav-item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 6px 4px;
+            color: #666666;
+            text-decoration: none;
+            font-size: 10px;
+            transition: all 0.2s ease;
+            min-width: 0;
+            flex: 1;
+            white-space: nowrap;
+            background: none;
+            border: none;
+            cursor: pointer;
+            font-family: inherit;
+        }
+
+        .mobile-nav-item:hover,
+        .mobile-nav-item.active {
+            color: #4155c4;
+        }
+
+        /* 搜索按钮高亮样式 */
+        .mobile-nav-item.mobile-nav-search {
+            color: #4155c4;
+        }
+
+        .mobile-nav-item.mobile-nav-search .mobile-nav-icon {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: #ffffff;
+            width: 22px;
+            height: 22px;
+            border-radius: 6px;
+            margin-bottom: 1px;
+            box-shadow: 0 1px 4px rgba(102, 126, 234, 0.3);
+        }
+
+        .mobile-nav-item.mobile-nav-search .mobile-nav-icon i {
+            font-size: 12px;
+        }
+
+        .mobile-nav-icon {
+            font-size: 18px;
+            margin-bottom: 2px;
+            height: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .mobile-nav-icon i {
+            font-size: 18px;
+        }
+
+        .mobile-nav-more {
+            position: relative;
+        }
+
+        .mobile-nav-more-popup {
+            display: none;
+            position: fixed;
+            bottom: 70px;
+            right: 10px;
+            background: #ffffff;
+            border-radius: 12px;
+            padding: 8px 0;
+            box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.15);
+            min-width: 150px;
+            z-index: 10000;
+            border: 1px solid #e0e0e0;
+        }
+
+        /* 弹出菜单底部小三角 */
+        .mobile-nav-more-popup::after {
+            content: '';
+            position: absolute;
+            bottom: -6px;
+            right: 25px;
+            width: 0;
+            height: 0;
+            border-left: 6px solid transparent;
+            border-right: 6px solid transparent;
+            border-top: 6px solid #ffffff;
+        }
+
+        .mobile-nav-more-popup.show {
+            display: block;
+            animation: fadeInUp 0.2s ease;
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .mobile-nav-more-item {
+            display: flex;
+            align-items: center;
+            padding: 10px 15px;
+            color: #333333;
+            text-decoration: none;
+            font-size: 13px;
+            border-radius: 8px;
+            transition: all 0.2s ease;
+        }
+
+        .mobile-nav-more-item:hover {
+            background: #f0f0f0;
+            color: #4155c4;
+        }
+
+        .mobile-nav-more-item i {
+            margin-right: 8px;
+            width: 16px;
+            text-align: center;
+        }
+
+        /* 子菜单样式 */
+        .mobile-nav-submenu {
+            display: none;
+            position: fixed;
+            bottom: 70px;
+            background: #ffffff;
+            border-radius: 12px;
+            padding: 8px 0;
+            box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.15);
+            min-width: 140px;
+            z-index: 10000;
+            border: 1px solid #e0e0e0;
+        }
+
+        .mobile-nav-submenu.show {
+            display: block;
+            animation: fadeInUp 0.2s ease;
+        }
+
+        .mobile-nav-submenu-item {
+            display: flex;
+            align-items: center;
+            padding: 10px 15px;
+            color: #333333;
+            text-decoration: none;
+            font-size: 13px;
+            border-radius: 8px;
+            margin: 0 5px;
+            transition: all 0.2s ease;
+        }
+
+        .mobile-nav-submenu-item:hover {
+            background: #f0f0f0;
+            color: #4155c4;
+        }
+
+        .mobile-nav-submenu-item i {
+            margin-right: 8px;
+            width: 16px;
+            text-align: center;
+        }
+
+        /* 子菜单位置 - 默认居中，由JS动态调整 */
+        .mobile-nav-submenu {
+            left: 50%;
+            transform: translateX(-50%);
+        }
+
+        /* 搜索遮罩层 */
+        .mobile-search-overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            height: 100dvh; /* 动态视口高度，适配移动端 */
+            background: rgba(0, 0, 0, 0.95);
+            z-index: 999999;
+            padding: 20px;
+            padding-top: 80px;
+            box-sizing: border-box;
+        }
+
+        .mobile-search-overlay.show {
+            display: block;
+            animation: fadeIn 0.2s ease;
+        }
+
+        /* 搜索遮罩显示时隐藏TOC插件 - 使用更全面的选择器 */
+        body.search-active .page-toc,
+        body.search-active nav.toc-nav,
+        body.search-active .toc,
+        body.search-active aside.toc,
+        body.search-active div[class*="toc"],
+        body.search-active nav[class*="toc"] {
+            display: none !important;
+            visibility: hidden !important;
+            opacity: 0 !important;
+            pointer-events: none !important;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        .mobile-search-container {
+            max-width: 600px;
+            margin: 0 auto;
+            position: relative;
+        }
+
+        .mobile-search-box {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            background: #ffffff;
+            border-radius: 12px;
+            padding: 5px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+        }
+
+        .mobile-search-input {
+            flex: 1;
+            padding: 12px 15px;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            outline: none;
+            background: transparent;
+        }
+
+        .mobile-search-input::placeholder {
+            color: #999;
+        }
+
+        .mobile-search-btn {
+            padding: 12px 20px;
+            background: #4155c4;
+            color: #ffffff;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background 0.2s ease;
+        }
+
+        .mobile-search-btn:hover {
+            background: #18256d;
+        }
+
+        .mobile-search-close {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            color: #ffffff;
+            font-size: 28px;
+            cursor: pointer;
+            padding: 10px;
+            z-index: 10001;
+        }
+
+        /* 搜索结果区域 */
+        .mobile-search-results {
+            margin-top: 20px;
+            max-height: calc(100vh - 200px);
+            overflow-y: auto;
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 12px;
+            padding: 0;
+            display: none;
+        }
+
+        .mobile-search-results.has-content {
+            display: block;
+            padding: 10px;
+        }
+
+        .mobile-search-result-item {
+            display: flex;
+            align-items: center;
+            padding: 12px 15px;
+            color: #333333;
+            text-decoration: none;
+            border-radius: 8px;
+            margin-bottom: 5px;
+            transition: all 0.2s ease;
+            border-bottom: 1px solid #f0f0f0;
+        }
+
+        .mobile-search-result-item:last-child {
+            border-bottom: none;
+            margin-bottom: 0;
+        }
+
+        .mobile-search-result-item:hover {
+            background: #f5f5f5;
+        }
+
+        .mobile-search-result-item i {
+            margin-right: 10px;
+            color: #4155c4;
+            width: 20px;
+            text-align: center;
+        }
+
+        .mobile-search-result-title {
+            flex: 1;
+            font-size: 14px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
+        .mobile-search-no-results {
+            padding: 30px;
+            text-align: center;
+            color: #666;
+            font-size: 14px;
+        }
+
+        .mobile-search-loading {
+            padding: 30px;
+            text-align: center;
+            color: #666;
+            font-size: 14px;
+        }
+
+        .mobile-search-loading i {
+            animation: spin 1s linear infinite;
+            margin-right: 8px;
+        }
+
+        @keyframes spin {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
+
+        @media screen and (max-width: 767px) {
+            .mobile-nav {
+                display: block;
+            }
+
+            body {
+                padding-bottom: 70px;
+                font-size: 14px;
+            }
+
+            .markdown-section {
+                padding: 16px;
+                padding-bottom: 80px;
+            }
+
+            /* 隐藏原有的侧边栏切换按钮 */
+            .sidebar-toggle {
+                display: none !important;
+            }
+
+            /* 隐藏侧边栏 */
+            aside.sidebar {
+                display: none !important;
+            }
+
+            /* 主内容区域全宽 */
+            .content {
+                position: relative !important;
+                left: 0 !important;
+                right: 0 !important;
+                margin-left: 0 !important;
+                padding-bottom: 70px;
+                max-width: 100% !important;
+                width: 100% !important;
+            }
+
+            /* 确保内容区域容器也全宽 */
+            .content main,
+            .content article {
+                max-width: 100% !important;
+                width: 100% !important;
+            }
+
+            /* 缩小标题字体 */
+            .markdown-section h1 {
+                font-size: 1.5em;
+                margin: 0.8em 0 0.4em;
+            }
+
+            .markdown-section h2 {
+                font-size: 1.3em;
+                margin: 0.7em 0 0.35em;
+            }
+
+            .markdown-section h3 {
+                font-size: 1.15em;
+                margin: 0.6em 0 0.3em;
+            }
+
+            .markdown-section h4 {
+                font-size: 10px;
+                margin: 0.5em 0 0.25em;
+            }
+
+            .markdown-section h5 {
+                font-size: 0.9em;
+                margin: 0.4em 0 0.2em;
+            }
+
+            .markdown-section h6 {
+                font-size: 0.85em;
+                margin: 0.3em 0 0.15em;
+            }
+
+            /* 缩小段落和列表间距 */
+            .markdown-section p {
+                margin: 0.5em 0;
+                line-height: 1.6;
+            }
+
+            .markdown-section ul,
+            .markdown-section ol {
+                margin: 0.5em 0;
+                padding-left: 1.5em;
+            }
+
+            .markdown-section li {
+                margin: 0.25em 0;
+            }
+
+            /* 缩小代码块 */
+            .markdown-section pre {
+                font-size: 0.85em;
+                padding: 0.8em;
+                margin: 0.8em 0;
+            }
+
+            .markdown-section code {
+                font-size: 0.9em;
+            }
+
+            /* 缩小表格 */
+            .markdown-section table {
+                font-size: 0.9em;
+            }
+
+            .markdown-section th,
+            .markdown-section td {
+                padding: 0.5em;
+            }
+
+            /* 缩小引用块 */
+            .markdown-section blockquote {
+                font-size: 0.95em;
+                padding: 0.5em 0.8em;
+                margin: 0.8em 0;
+            }
+
+            /* 缩小图片 */
+            .markdown-section img {
+                max-width: 100%;
+                height: auto;
+            }
+
+            /* 缩小分割线 */
+            .markdown-section hr {
+                margin: 1em 0;
+            }
+
+            /* 隐藏自定义导航菜单 */
+            .game-nav,
+            .anime-nav,
+            .movie-nav,
+            .tv-nav {
+                display: none !important;
+            }
+
+        }
     </style>
 </head>
 
@@ -636,6 +1145,89 @@
     <div id="app">
         <span class="loading-text">正在加载中<span>.</span><span>.</span><span>.</span><span>.</span></span>
     </div>
+
+    <!-- 手机端底部导航栏 -->
+    <nav class="mobile-nav">
+        <div class="mobile-nav-container">
+            <a href="/" class="mobile-nav-item" data-path="/">
+                <span class="mobile-nav-icon"><i class="fas fa-home"></i></span>
+                <span>首页</span>
+            </a>
+            <div class="mobile-nav-item mobile-nav-has-submenu" data-submenu="games">
+                <span class="mobile-nav-icon"><i class="fas fa-gamepad"></i></span>
+                <span>游戏</span>
+            </div>
+            <div class="mobile-nav-item mobile-nav-has-submenu" data-submenu="movie">
+                <span class="mobile-nav-icon"><i class="fas fa-film"></i></span>
+                <span>电影</span>
+            </div>
+            <div class="mobile-nav-item mobile-nav-search" id="mobileNavSearch">
+                <span class="mobile-nav-icon"><i class="fas fa-search"></i></span>
+                <span>搜索</span>
+            </div>
+            <div class="mobile-nav-item mobile-nav-has-submenu" data-submenu="tv">
+                <span class="mobile-nav-icon"><i class="fas fa-tv"></i></span>
+                <span>剧集</span>
+            </div>
+            <div class="mobile-nav-item mobile-nav-has-submenu" data-submenu="animetv">
+                <span class="mobile-nav-icon"><i class="fas fa-cat"></i></span>
+                <span>动漫</span>
+            </div>
+            <div class="mobile-nav-item mobile-nav-more" id="mobileNavMore">
+                <span class="mobile-nav-icon"><i class="fas fa-bars"></i></span>
+                <span>更多</span>
+            </div>
+        </div>
+        <!-- 搜索遮罩和弹窗 -->
+        <div class="mobile-search-overlay" id="mobileSearchOverlay">
+            <div class="mobile-search-container">
+                <div class="mobile-search-box">
+                    <input type="text" class="mobile-search-input" id="mobileSearchInput" placeholder="搜索内容...">
+                    <button class="mobile-search-btn" id="mobileSearchBtn"><i class="fas fa-search"></i></button>
+                </div>
+                <!-- 搜索结果显示区域 -->
+                <div class="mobile-search-results" id="mobileSearchResults"></div>
+            </div>
+            <div class="mobile-search-close" id="mobileSearchClose"><i class="fas fa-times"></i></div>
+        </div>
+        <!-- 游戏子菜单 -->
+        <div class="mobile-nav-submenu" id="submenu-games">
+            <a href="/zh-cn/games/pc" class="mobile-nav-submenu-item"><i class="fas fa-desktop"></i> 电脑游戏</a>
+            <a href="/zh-cn/games/switch" class="mobile-nav-submenu-item"><i class="fas fa-gamepad"></i> Switch游戏</a>
+            <a href="/zh-cn/games/android" class="mobile-nav-submenu-item"><i class="fas fa-mobile-alt"></i> 安卓游戏</a>
+        </div>
+        <!-- 电影子菜单 -->
+        <div class="mobile-nav-submenu" id="submenu-movie">
+            <a href="/zh-cn/movie/popular" class="mobile-nav-submenu-item"><i class="fas fa-fire"></i> 热门电影</a>
+            <a href="/zh-cn/movie/classic" class="mobile-nav-submenu-item"><i class="fas fa-star"></i> 经典电影</a>
+            <a href="/zh-cn/movie/series" class="mobile-nav-submenu-item"><i class="fas fa-film"></i> 系列电影</a>
+            <a href="/zh-cn/movie/animefilms" class="mobile-nav-submenu-item"><i class="fas fa-magic"></i> 动画电影</a>
+        </div>
+        <!-- 电视剧子菜单 -->
+        <div class="mobile-nav-submenu" id="submenu-tv">
+            <a href="/zh-cn/tv/china" class="mobile-nav-submenu-item"><i class="fas fa-flag"></i> 国产剧</a>
+            <a href="/zh-cn/tv/occident" class="mobile-nav-submenu-item"><i class="fas fa-globe-americas"></i> 欧美剧</a>
+            <a href="/zh-cn/tv/jpandsk" class="mobile-nav-submenu-item"><i class="fas fa-yin-yang"></i> 日韩剧</a>
+        </div>
+        <!-- 动漫子菜单 -->
+        <div class="mobile-nav-submenu" id="submenu-animetv">
+            <a href="/zh-cn/animetv/gcdm" class="mobile-nav-submenu-item"><i class="fas fa-dragon"></i> 国产动漫</a>
+            <a href="/zh-cn/animetv/rbdm" class="mobile-nav-submenu-item"><i class="fas fa-fan"></i> 日本动漫</a>
+            <a href="/zh-cn/animetv/omdm" class="mobile-nav-submenu-item"><i class="fas fa-horse-head"></i> 欧美动漫</a>
+            <a href="/zh-cn/animetv/xpy" class="mobile-nav-submenu-item"><i class="fas fa-baby"></i> 小朋友动画</a>
+        </div>
+        <!-- 更多菜单 -->
+        <div class="mobile-nav-more-popup" id="mobileNavPopup">
+            <a href="/zh-cn/documentary" class="mobile-nav-more-item"><i class="fas fa-video"></i> 纪录片</a>
+            <a href="/zh-cn/realitytv" class="mobile-nav-more-item"><i class="fas fa-microphone"></i> 综艺</a>
+            <a href="/zh-cn/books" class="mobile-nav-more-item"><i class="fas fa-book"></i> 书籍漫画</a>
+            <a href="/zh-cn/instruction" class="mobile-nav-more-item"><i class="fas fa-graduation-cap"></i> 教学课件</a>
+            <a href="/zh-cn/music" class="mobile-nav-more-item"><i class="fas fa-music"></i> 音乐MV</a>
+            <a href="/zh-cn/additional" class="mobile-nav-more-item"><i class="fas fa-plus-circle"></i> 其他</a>
+            <a href="/zh-cn/bbs" class="mobile-nav-more-item"><i class="fas fa-comments"></i> 留言板</a>
+            <a href="/zh-cn/dashang" class="mobile-nav-more-item"><i class="fas fa-gift"></i> 打赏</a>
+        </div>
+    </nav>
 
     <!-- =================== docsify JS配置文件 =================== -->
     <script>
@@ -869,6 +1461,468 @@
         window.addEventListener('popstate', delayedInit);
     </script>
 
+    <!-- 手机端底部导航栏交互 -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var mobileNavMore = document.getElementById('mobileNavMore');
+            var mobileNavPopup = document.getElementById('mobileNavPopup');
+            var mobileNavSearch = document.getElementById('mobileNavSearch');
+            var mobileNavSearchPopup = document.getElementById('mobileNavSearchPopup');
+            var mobileSearchInput = document.getElementById('mobileSearchInput');
+            var mobileSearchBtn = document.getElementById('mobileSearchBtn');
+            var submenuItems = document.querySelectorAll('.mobile-nav-has-submenu');
+
+            // 点击更多按钮切换弹出菜单
+            if (mobileNavMore && mobileNavPopup) {
+                mobileNavMore.onclick = function(e) {
+                    e.stopPropagation();
+                    // 关闭所有子菜单和搜索框
+                    document.querySelectorAll('.mobile-nav-submenu, .mobile-nav-search-popup').forEach(function(menu) {
+                        menu.classList.remove('show');
+                    });
+                    mobileNavPopup.classList.toggle('show');
+                };
+
+                // 点击弹出菜单中的链接后关闭菜单
+                var popupLinks = mobileNavPopup.querySelectorAll('a');
+                popupLinks.forEach(function(link) {
+                    link.addEventListener('click', function() {
+                        mobileNavPopup.classList.remove('show');
+                    });
+                });
+            }
+
+            // 点击搜索按钮
+            var mobileSearchOverlay = document.getElementById('mobileSearchOverlay');
+            var mobileSearchClose = document.getElementById('mobileSearchClose');
+            var mobileSearchResults = document.getElementById('mobileSearchResults');
+
+            // 搜索功能 - 使用Docsify搜索插件
+            function performSearch(keyword) {
+                if (!keyword || !mobileSearchResults) return;
+
+                console.log('[MobileSearch] 开始搜索:', keyword);
+                
+                // 显示加载中
+                mobileSearchResults.innerHTML = '<div class="mobile-search-loading"><i class="fas fa-spinner"></i> 搜索中...</div>';
+                
+                // 延迟执行，确保DOM就绪
+                setTimeout(function() {
+                    doSearch(keyword);
+                }, 100);
+            }
+
+            // 执行搜索
+            function doSearch(keyword, retryCount) {
+                retryCount = retryCount || 0;
+                var results = [];
+                var lowerKeyword = keyword.toLowerCase();
+                
+                // 方法1: 尝试从Docsify搜索插件获取索引
+                try {
+                    // 搜索插件通常会把索引存储在 localStorage
+                    var indexKeys = [
+                        'docsify.search.index',
+                        'docsify.search.index/zh-cn',
+                        'docsify.search.index/' + window.location.hostname
+                    ];
+                    
+                    var searchData = null;
+                    for (var i = 0; i < indexKeys.length; i++) {
+                        var data = localStorage.getItem(indexKeys[i]);
+                        if (data) {
+                            searchData = JSON.parse(data);
+                            console.log('[MobileSearch] 找到搜索索引:', indexKeys[i]);
+                            break;
+                        }
+                    }
+                    
+                    // 如果找到索引，进行搜索
+                    if (searchData) {
+                        // 处理不同格式的索引
+                        var pages = [];
+                        
+                        if (Array.isArray(searchData)) {
+                            pages = searchData;
+                        } else if (typeof searchData === 'object') {
+                            // 如果是对象格式，转换为数组
+                            for (var path in searchData) {
+                                if (searchData.hasOwnProperty(path)) {
+                                    var page = searchData[path];
+                                    if (typeof page === 'object') {
+                                        page.path = page.path || path;
+                                        pages.push(page);
+                                    }
+                                }
+                            }
+                        }
+                        
+                        // 遍历页面进行搜索
+                        pages.forEach(function(page) {
+                            var title = (page.title || '').toLowerCase();
+                            var body = (page.body || page.content || '').toLowerCase();
+                            var path = page.path || page.url || '';
+                            
+                            if (title.indexOf(lowerKeyword) !== -1 || body.indexOf(lowerKeyword) !== -1) {
+                                results.push({
+                                    title: page.title || '未命名',
+                                    path: path,
+                                    content: (page.body || page.content || '').substring(0, 100) + '...'
+                                });
+                            }
+                        });
+                    }
+                } catch (e) {
+                    console.error('[MobileSearch] 搜索索引读取失败:', e);
+                }
+                
+                // 方法2: 使用内置搜索框，如果无结果则重试侧边栏搜索
+                if (results.length === 0) {
+                    try {
+                        var searchInput = document.querySelector('.search input[type="search"], input[type="search"]');
+                        if (searchInput) {
+                            console.log('[MobileSearch] 找到搜索框，触发搜索');
+                            
+                            // 先清空之前的搜索结果
+                            searchInput.value = '';
+                            searchInput.dispatchEvent(new Event('input', { bubbles: true }));
+                            
+                            // 延迟后输入关键词（给Docsify搜索框更多准备时间）
+                            setTimeout(function() {
+                                searchInput.value = keyword;
+                                searchInput.dispatchEvent(new Event('input', { bubbles: true }));
+                                
+                                // 等待搜索结果（增加等待时间）
+                                setTimeout(function() {
+                                    var resultItems = document.querySelectorAll('.search .search-results .matching-post, .search-results .matching-post');
+                                    console.log('[MobileSearch] 搜索框结果数量:', resultItems.length);
+                                    
+                                    resultItems.forEach(function(item) {
+                                        var link = item.querySelector('a');
+                                        if (link) {
+                                            results.push({
+                                                title: link.textContent.trim(),
+                                                path: link.getAttribute('href')
+                                            });
+                                        }
+                                    });
+                                    
+                                    // 在异步回调中显示结果
+                                    console.log('[MobileSearch] 异步搜索结果数量:', results.length);
+                                    if (results.length > 0) {
+                                        displaySearchResults(results, keyword);
+                                    } else {
+                                        // 如果第一次没结果，再试一次方法2（侧边栏搜索）
+                                        console.log('[MobileSearch] 第一次搜索无结果，1秒后重试方法2...');
+                                        setTimeout(function() {
+                                            var retryLinks = document.querySelectorAll('.sidebar-nav a, .sidebar a');
+                                            console.log('[MobileSearch] 重试侧边栏链接数量:', retryLinks.length);
+                                            var retryResults = [];
+                                            retryLinks.forEach(function(link, index) {
+                                                var text = (link.textContent || '').toLowerCase();
+                                                var href = link.getAttribute('href') || '';
+                                                
+                                                if (text.indexOf(lowerKeyword) !== -1 && href && href !== '#') {
+                                                    console.log('[MobileSearch] 重试方法2匹配:', index, text.substring(0, 30));
+                                                    retryResults.push({
+                                                        title: link.textContent.trim(),
+                                                        path: href
+                                                    });
+                                                }
+                                            });
+                                            console.log('[MobileSearch] 重试方法2结果数量:', retryResults.length);
+                                            if (retryResults.length > 0) {
+                                                displaySearchResults(retryResults, keyword);
+                                            } else {
+                                                mobileSearchResults.innerHTML = '<div class="mobile-search-no-results"><i class="fas fa-inbox"></i> 没有找到相关结果，请尝试其他关键词</div>';
+                                                mobileSearchResults.classList.add('has-content');
+                                            }
+                                        }, 1000);
+                                    }
+                                }, 1000);
+                            }, 500);
+                            return; // 异步处理，直接返回
+                        } else {
+                            console.log('[MobileSearch] 未找到搜索框');
+                        }
+                    } catch (e) {
+                        console.error('[MobileSearch] 搜索框触发失败:', e);
+                    }
+                }
+                
+                // 显示结果（只有非异步路径才会执行到这里）
+                console.log('[MobileSearch] 同步搜索结果数量:', results.length);
+                if (results.length > 0) {
+                    displaySearchResults(results, keyword);
+                } else {
+                    mobileSearchResults.innerHTML = '<div class="mobile-search-no-results"><i class="fas fa-inbox"></i> 没有找到相关结果，请尝试其他关键词</div>';
+                    mobileSearchResults.classList.add('has-content');
+                }
+            }
+
+            // 显示搜索结果
+            function displaySearchResults(results, keyword) {
+                if (!mobileSearchResults) return;
+
+                if (!results || results.length === 0) {
+                    mobileSearchResults.innerHTML = '<div class="mobile-search-no-results"><i class="fas fa-inbox"></i> 没有找到相关结果</div>';
+                    mobileSearchResults.classList.add('has-content');
+                    return;
+                }
+
+                var html = '';
+                results.forEach(function(result) {
+                    var path = result.path || result.url || '#';
+                    var title = result.title || '未命名';
+                    html += '<a href="' + path + '" class="mobile-search-result-item" data-search-result>' +
+                            '<i class="fas fa-file-alt"></i>' +
+                            '<span class="mobile-search-result-title">' + escapeHtml(title) + '</span>' +
+                            '<i class="fas fa-chevron-right" style="color: #ccc; font-size: 12px;"></i>' +
+                            '</a>';
+                });
+                mobileSearchResults.innerHTML = html;
+                mobileSearchResults.classList.add('has-content');
+
+                // 绑定搜索结果点击事件
+                document.querySelectorAll('[data-search-result]').forEach(function(link) {
+                    link.addEventListener('click', function(e) {
+                        e.preventDefault();
+                        var href = this.getAttribute('href');
+                        closeSearchOverlay();
+                        mobileSearchInput.value = '';
+                        // 延迟跳转，让遮罩先关闭
+                        setTimeout(function() {
+                            window.location.href = href;
+                        }, 200);
+                    });
+                });
+            }
+
+            // HTML转义
+            function escapeHtml(text) {
+                var div = document.createElement('div');
+                div.textContent = text;
+                return div.innerHTML;
+            }
+
+            if (mobileNavSearch && mobileSearchOverlay) {
+                mobileNavSearch.onclick = function(e) {
+                    e.stopPropagation();
+                    // 关闭其他所有菜单
+                    document.querySelectorAll('.mobile-nav-submenu, .mobile-nav-more-popup').forEach(function(menu) {
+                        menu.classList.remove('show');
+                    });
+                    mobileSearchOverlay.classList.add('show');
+                    
+                    // 在body上添加search-active类，用于CSS隐藏TOC
+                    document.body.classList.add('search-active');
+                    
+                    mobileSearchInput.focus();
+                    mobileSearchResults.innerHTML = '';
+                    mobileSearchResults.classList.remove('has-content');
+                };
+
+                // 关闭搜索遮罩
+                function closeSearchOverlay() {
+                    mobileSearchOverlay.classList.remove('show');
+                    mobileSearchResults.innerHTML = '';
+                    mobileSearchResults.classList.remove('has-content');
+                    
+                    // 移除body上的search-active类，恢复TOC显示
+                    document.body.classList.remove('search-active');
+                }
+                
+                if (mobileSearchClose) {
+                    mobileSearchClose.onclick = function(e) {
+                        e.stopPropagation();
+                        closeSearchOverlay();
+                    };
+                }
+
+                // 点击遮罩背景阻止事件冒泡，防止触发后面的元素
+                mobileSearchOverlay.onclick = function(e) {
+                    // 如果点击的是关闭按钮，不阻止事件
+                    if (e.target.closest('.mobile-search-close')) {
+                        return;
+                    }
+                    e.stopPropagation();
+                    // 不关闭遮罩，只是阻止事件传播
+                };
+                
+                // 阻止触摸事件穿透
+                mobileSearchOverlay.ontouchstart = function(e) {
+                    // 如果触摸的是关闭按钮或搜索容器内，不阻止事件
+                    if (e.target.closest('.mobile-search-close') || e.target.closest('.mobile-search-container')) {
+                        return;
+                    }
+                    e.preventDefault();
+                    e.stopPropagation();
+                };
+                mobileSearchOverlay.ontouchmove = function(e) {
+                    // 如果触摸的是关闭按钮或搜索容器内，不阻止事件
+                    if (e.target.closest('.mobile-search-close') || e.target.closest('.mobile-search-container')) {
+                        return;
+                    }
+                    e.preventDefault();
+                    e.stopPropagation();
+                };
+
+                // 搜索按钮点击事件
+                if (mobileSearchBtn) {
+                    mobileSearchBtn.onclick = function(e) {
+                        e.stopPropagation();
+                        var keyword = mobileSearchInput.value.trim();
+                        if (keyword) {
+                            performSearch(keyword);
+                        }
+                    };
+                }
+
+                // 输入时自动搜索
+                if (mobileSearchInput) {
+                    var searchTimeout = null;
+                    var initialDelay = true; // 首次输入需要更长延迟
+                    mobileSearchInput.oninput = function(e) {
+                        var keyword = mobileSearchInput.value.trim();
+                        if (keyword) {
+                            // 首次输入延迟2秒，确保页面完全加载；后续输入延迟500毫秒
+                            var delay = initialDelay ? 2000 : 500;
+                            initialDelay = false; // 后续输入使用短延迟
+                            
+                            clearTimeout(searchTimeout);
+                            searchTimeout = setTimeout(function() {
+                                performSearch(keyword);
+                            }, delay);
+                        } else {
+                            // 清空搜索框时隐藏结果
+                            mobileSearchResults.innerHTML = '';
+                            mobileSearchResults.classList.remove('has-content');
+                            initialDelay = true; // 清空后重置为首次状态
+                        }
+                    };
+
+                    // 回车搜索（保留回车键功能）
+                    mobileSearchInput.onkeydown = function(e) {
+                        if (e.key === 'Enter') {
+                            clearTimeout(searchTimeout);
+                            var keyword = mobileSearchInput.value.trim();
+                            if (keyword) {
+                                performSearch(keyword);
+                            }
+                        }
+                        // ESC键关闭
+                         if (e.key === 'Escape') {
+                             mobileSearchOverlay.classList.remove('show');
+                             mobileSearchResults.innerHTML = '';
+                             mobileSearchResults.classList.remove('has-content');
+                         }
+                    };
+                }
+            }
+
+            // 点击有子菜单的项
+            submenuItems.forEach(function(item) {
+                item.onclick = function(e) {
+                    e.stopPropagation();
+                    var submenuId = 'submenu-' + item.getAttribute('data-submenu');
+                    var submenu = document.getElementById(submenuId);
+
+                    if (submenu) {
+                        // 关闭其他所有菜单
+                        document.querySelectorAll('.mobile-nav-submenu, .mobile-nav-more-popup, .mobile-nav-search-popup').forEach(function(menu) {
+                            if (menu !== submenu) {
+                                menu.classList.remove('show');
+                            }
+                        });
+
+                        // 计算子菜单位置
+                        var itemRect = item.getBoundingClientRect();
+                        var submenuWidth = submenu.offsetWidth || 140;
+                        var windowWidth = window.innerWidth;
+
+                        // 计算居中位置
+                        var centerLeft = itemRect.left + itemRect.width / 2;
+                        var submenuLeft = centerLeft;
+
+                        // 确保不超出屏幕边界
+                        if (submenuLeft - submenuWidth / 2 < 10) {
+                            submenuLeft = submenuWidth / 2 + 10;
+                        } else if (submenuLeft + submenuWidth / 2 > windowWidth - 10) {
+                            submenuLeft = windowWidth - submenuWidth / 2 - 10;
+                        }
+
+                        // 设置位置
+                        submenu.style.left = submenuLeft + 'px';
+                        submenu.style.transform = 'translateX(-50%)';
+
+                        // 切换当前菜单
+                        submenu.classList.toggle('show');
+                    }
+                };
+            });
+
+            // 点击其他地方关闭所有菜单（搜索遮罩显示时阻止所有其他点击）
+            document.addEventListener('click', function(e) {
+                // 如果搜索遮罩显示
+                if (mobileSearchOverlay && mobileSearchOverlay.classList.contains('show')) {
+                    // 如果点击的是关闭按钮，允许关闭
+                    if (e.target.closest('.mobile-search-close')) {
+                        closeSearchOverlay();
+                        return;
+                    }
+                    // 如果点击遮罩外部，阻止事件
+                    if (!e.target.closest('.mobile-search-overlay')) {
+                        e.preventDefault();
+                        e.stopPropagation();
+                        return false;
+                    }
+                    return;
+                }
+                
+                if (!e.target.closest('.mobile-nav') && !e.target.closest('.mobile-search-overlay')) {
+                    document.querySelectorAll('.mobile-nav-submenu, .mobile-nav-more-popup').forEach(function(menu) {
+                        menu.classList.remove('show');
+                    });
+                }
+            }, true);
+
+            // 点击子菜单中的链接后关闭菜单
+            document.querySelectorAll('.mobile-nav-submenu a').forEach(function(link) {
+                link.addEventListener('click', function() {
+                    document.querySelectorAll('.mobile-nav-submenu').forEach(function(menu) {
+                        menu.classList.remove('show');
+                    });
+                });
+            });
+
+            // 更新当前激活的导航项
+            function updateActiveNav() {
+                var currentPath = window.location.pathname;
+                var navItems = document.querySelectorAll('.mobile-nav-item[data-path]');
+
+                navItems.forEach(function(item) {
+                    var itemPath = item.getAttribute('data-path');
+                    if (currentPath === itemPath || currentPath.startsWith(itemPath + '/')) {
+                        item.classList.add('active');
+                    } else {
+                        item.classList.remove('active');
+                    }
+                });
+            }
+
+            updateActiveNav();
+
+            window.addEventListener('popstate', updateActiveNav);
+            window.addEventListener('hashchange', updateActiveNav);
+
+            if (typeof docsify !== 'undefined' && docsify.hooks) {
+                docsify.hooks.doneEach(function() {
+                    updateActiveNav();
+                });
+            }
+        });
+    </script>
+
     <!-- 动态SEO - 根据页面更新meta description -->
     <script>
         (function () {
@@ -1028,9 +2082,17 @@
         })();
     </script>
 
-    <!-- 音乐插件 - 页面完全加载后延迟5秒加载 -->
+    <!-- 音乐插件 - 页面完全加载后延迟5秒加载，手机模式下不加载 -->
     <script>
         window.addEventListener('load', function () {
+            // 检测是否为手机模式（屏幕宽度小于等于767px）
+            var isMobile = window.innerWidth <= 767 || /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+            
+            if (isMobile) {
+                console.log('[音乐] 手机模式 detected，跳过音乐插件加载');
+                return; // 手机模式下不加载音乐
+            }
+            
             setTimeout(function () {
                 console.log('[音乐] 开始加载音乐插件...');
 
