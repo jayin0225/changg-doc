@@ -139,7 +139,7 @@
 
 夸克：https://pan.quark.cn/s/2e3caf2b9c9b
 
-#### 《消逝的光芒：增强版（Dying Light Enhanced Edition 》v1.54 全DLC 中文 联机版
+#### 《消逝的光芒：增强版（Dying Light）》v1.54 全DLC 中文 联机版
 <section class="no-title-h4">
 
 #### 《消逝的光芒2 装上阵版（Dying Light 2）豪华版》v1.27.1 全DLC 中文配音 联机版
