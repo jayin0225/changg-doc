@@ -109,6 +109,15 @@
 
 ## 最近更新
 
+#### 《仁王3（Nioh 3）豪华版》v1.04.01 全DLC 中文 联机版（新）
+<section class="no-title-h4">
+
+#### 《仁王2（Nioh 2）完全版》v1.28.08 中文 联机版
+#### 《仁王（Nioh）完全版》v1.24.08 中文版
+</section>
+
+夸克：https://pan.quark.cn/s/be850af09c63
+
 #### 《杀戮尖塔2（Slay the Spire 2）》v0.98.3 中文 联机版（附第一部）
 
 夸克：https://pan.quark.cn/s/4a575dc211fc
@@ -151,15 +160,6 @@
 ---
 
 ## 顶置游戏
-
-#### 《仁王3（Nioh 3）豪华版》v1.03.02 全DLC 中文 联机版（新）
-<section class="no-title-h4">
-
-#### 《仁王2（Nioh 2）完全版》v1.28.08 中文 联机版
-#### 《仁王（Nioh）完全版》v1.24.08 中文版
-</section>
-
-夸克：https://pan.quark.cn/s/be850af09c63
 
 #### 《最终幻想7 重制版Intergrade（Final Fantasy VII Remake Intergrade 》v1.007 全DLC 中文版
 
