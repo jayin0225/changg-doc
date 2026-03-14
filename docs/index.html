@@ -1266,7 +1266,7 @@
     <!-- =================== docsify JS配置文件 =================== -->
     <script>
         window.$docsify = {
-            homepage: 'home.md', //设置主页
+            homepage: '/home.md', //设置主页
             notFoundPage: '/404.md',
             notFoundTitle: '页面不存在 - 对酒当歌分享',
             loadFooter: '_footer.md',           // 页脚信息插件
@@ -1305,9 +1305,9 @@
             // 统一侧边栏：所有子目录的 _sidebar.md 都使用根目录的侧边栏
             alias: {
                 '^/zh-cn/_sidebar.md': '/_sidebar.md',  // 中文目录的侧边栏
-                '^/en/_sidebar.md': '/_sidebar.md',     // 英文目录的侧边栏
                 '/.*/_sidebar.md': '/_sidebar.md',       // 所有子目录的侧边栏
-                '/.*/_navbar.md': '/_navbar.md'          // 所有子目录的导航栏
+                '/.*/_navbar.md': '/_navbar.md',        // 所有子目录的导航栏
+                '/.*/': '/404.md'
             },
 
             // 页面右侧TOC插件设置
