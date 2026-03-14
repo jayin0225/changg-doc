@@ -1,8 +1,0 @@
-{
-  "version": 2,
-  "routes": [
-    { "src": "/assets/(.*)", "dest": "/assets/$1", "check": true },
-    { "src": "/zh-cn/(.*)", "dest": "/zh-cn/$1", "check": true },
-    { "src": "/(.*)", "dest": "/index.html" }
-  ]
-}
