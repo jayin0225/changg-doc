@@ -1,16 +1,4 @@
 {
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/index.html"
-    }
-  ],
-  "builds": [
-    {
-      "src": "docs/**",
-      "use": "@vercel/static"
-    }
-  ],
-  "outputDirectory": "docs",
-  "cleanUrls": true
+  "version": 2,
+  "rootDirectory": "docs"
 }
