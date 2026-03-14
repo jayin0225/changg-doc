@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "rewrites": [
-    { "source": "/assets/(.*)", "destination": "/assets/$1" },
-    { "source": "/zh-cn/(.*)", "destination": "/zh-cn/$1" },
-    { "source": "/(.*)", "destination": "/index.html" }
+  "routes": [
+    { "src": "/assets/(.*)", "dest": "/assets/$1", "continue": true },
+    { "src": "/zh-cn/(.*)", "dest": "/zh-cn/$1", "continue": true },
+    { "src": "/(.*)", "dest": "/index.html" }
   ]
 }
