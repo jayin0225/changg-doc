@@ -1,9 +1,8 @@
 {
   "version": 2,
   "rewrites": [
-    {
-      "source": "/((?!assets|zh-cn|_sidebar|_navbar|_coverpage|_footer|404|home|favicon|sitemap|robots|BingSiteAuth).+)",
-      "destination": "/index.html"
-    }
+    { "source": "/assets/(.*)", "destination": "/assets/$1" },
+    { "source": "/zh-cn/(.*)", "destination": "/zh-cn/$1" },
+    { "source": "/(.*)", "destination": "/index.html" }
   ]
 }
