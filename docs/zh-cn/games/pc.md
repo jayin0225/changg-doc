@@ -53,6 +53,22 @@
 
 夸克：https://pan.quark.cn/s/aeefdbc4c143
 
+#### 《毁灭战士 黑暗时代（DOOM The Dark Ages）高级版》最新 中文版（显卡需支持光线追踪）
+<section class="no-title-h4">
+
+#### 《毁灭战士2 增强合集版（DOOM plus DOOM II Enhanced 》v2025.4.173 中文版
+#### 《毁灭战士4（DOOM 2016）》v20240321f 全DLC 中文版
+#### 《毁灭战士 永恒（DOOM Eternal）豪华版》v2026.2.12 全DLC 中文版
+</section>
+
+夸克：https://pan.quark.cn/s/5d002d83f9e0
+
+#### 《生存代码（Net Attack）》v2026.3.14 中文版
+
+夸克：https://pan.quark.cn/s/8add1c4c0385
+
+迅雷：https://pan.xunlei.com/s/VOnglr4I5yoJreAETAJ2UUcbA1?pwd=wy63
+
 #### 《说谎公主与盲眼王子（The Liar Princess and the Blind Prince）》v2026.3.13 中文版 (手绘2D冒险)
 
 夸克：https://pan.quark.cn/s/50e9a55e47bd
@@ -127,6 +143,10 @@
 #### 《暗黑破坏神2 重制版（Diablo II Resurrected）地狱版》v3.0.91923 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/379c96e02b6c
+
+#### 《天外世界2（The Outer Worlds 2）高级版》v1.1.0.0 中文版
+
+夸克：https://pan.quark.cn/s/9baad4a27102
 
 #### 《熊视眈眈（Out of Sight 》v1.1.93 中文版（类似小小梦魇恐怖解密）
 
@@ -586,15 +606,6 @@
 
 迅雷：https://pan.xunlei.com/s/VOmT_XDcqP8F9cbH2PvmbqoGA1?pwd=pstx#
 
-#### 《毁灭战士2 增强合集版（DOOM plus DOOM II Enhanced 》v2025.4.173 中文版
-<section class="no-title-h4">
-
-#### 《毁灭战士4（DOOM 2016）》v20240321f 全DLC 中文版
-#### 《毁灭战士 永恒（DOOM Eternal）豪华版》v2026.2.12 全DLC 中文版
-</section>
-
-夸克：https://pan.quark.cn/s/5d002d83f9e0
-
 #### 《北境之地（Northgard）豪华版》v4.0.19.43315 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/b9d16fda4a89
@@ -894,10 +905,6 @@
 #### 《极限国度（Riders Republic 》v1.26.0 离线 中文版
 
 夸克：https://pan.quark.cn/s/8f167fa75ea3
-
-#### 《天外世界2（The Outer Worlds 2）高级版》v1.0.6.0 中文版
-
-夸克：https://pan.quark.cn/s/9baad4a27102
 
 #### 《心之眼（MindsEye）豪华版》v6073305 全DLC 中文版
 
