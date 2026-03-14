@@ -1,17 +1,6 @@
 {
   "version": 2,
   "rewrites": [
-    { "source": "/(.*)", "destination": "/index.html" }
-  ],
-  "headers": [
-    {
-      "source": "/(.*)",
-      "headers": [
-        {
-          "key": "Content-Type",
-          "value": "text/html; charset=utf-8"
-        }
-      ]
-    }
+    { "source": "/((?!assets|_sidebar|_navbar|_coverpage|zh-cn|en|README).+)", "destination": "/index.html" }
   ]
 }
