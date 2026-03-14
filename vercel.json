@@ -1,18 +1,9 @@
 {
-  "version": 2,
-  "outputDirectory": "docs",
-  "routes": [
+  "rewrites": [{ "source": "/(.*)", "destination": "/docs/index.html" }],
+  "builds": [
     {
-      "src": "/assets/(.*)",
-      "dest": "/assets/$1"
-    },
-    {
-      "src": "/favicon.ico",
-      "dest": "/favicon.ico"
-    },
-    {
-      "src": "/(.*)",
-      "dest": "/index.html"
+      "src": "docs/**",
+      "use": "@vercel/static"
     }
   ]
 }
