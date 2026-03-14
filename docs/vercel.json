@@ -1,6 +1,9 @@
 {
   "version": 2,
   "rewrites": [
-    { "source": "/(.*)", "destination": "/index.html" }
+    {
+      "source": "/((?!assets|favicon|sitemap|robots|BingSiteAuth).*)",
+      "destination": "/index.html"
+    }
   ]
 }
