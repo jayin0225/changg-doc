@@ -1289,7 +1289,7 @@
             externalLinkTarget: '_blank',   // 以打开右上角的外部链接。默认（新窗口/选项卡）'_blank' 和 _self
             themeColor: '#18256d',          // 替换主题色。利用 CSS3 支持变量的特性，对于老的浏览器有 polyfill 处理。
             routerMode: 'history',  // 使用 history 路由模式
-            relativePath: true,    // 禁用相对路径，使用绝对路径
+            relativePath: false,    // 禁用相对路径，使用绝对路径
 
             // 缓存1天，浏览器或 CDN 会根据缓存资源，1天内重复请求会直接使用本地缓存，减少服务器负载
             requestHeaders: { 'Cache-Control': 'public, max-age=86400' },
