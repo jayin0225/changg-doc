@@ -2,7 +2,7 @@
   "version": 2,
   "routes": [
     {
-      "src": "/((?!.*\\.).*)",
+      "src": "/(.*)",
       "dest": "/index.html",
       "headers": {
         "Content-Type": "text/html; charset=utf-8"
