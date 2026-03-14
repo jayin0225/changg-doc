@@ -1,39 +1,13 @@
 {
-  "rewrites": [
-    { "source": "/assets/(.*)", "destination": "/assets/$1" },
-    { "source": "/zh-cn/(.*)", "destination": "/zh-cn/$1" },
-    { "source": "/(.*).md", "destination": "/$1.md" },
-    { "source": "/(.*).css", "destination": "/$1.css" },
-    { "source": "/(.*).js", "destination": "/$1.js" },
-    { "source": "/favicon.ico", "destination": "/favicon.ico" },
-    { "source": "/robots.txt", "destination": "/robots.txt" },
-    { "source": "/sitemap.xml", "destination": "/sitemap.xml" },
-    { "source": "/BingSiteAuth.xml", "destination": "/BingSiteAuth.xml" },
-    { "source": "/(.*)", "destination": "/index.html" }
+  "routes": [
+    { "handle": "filesystem" },
+    { "src": "/(.*)", "dest": "/index.html" }
   ],
   "headers": [
     {
       "source": "/index.html",
       "headers": [
         { "key": "Content-Type", "value": "text/html; charset=utf-8" }
-      ]
-    },
-    {
-      "source": "/(.*).md",
-      "headers": [
-        { "key": "Content-Type", "value": "text/markdown; charset=utf-8" }
-      ]
-    },
-    {
-      "source": "/(.*).css",
-      "headers": [
-        { "key": "Content-Type", "value": "text/css; charset=utf-8" }
-      ]
-    },
-    {
-      "source": "/(.*).js",
-      "headers": [
-        { "key": "Content-Type", "value": "application/javascript; charset=utf-8" }
       ]
     }
   ]
