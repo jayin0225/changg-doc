@@ -63,6 +63,12 @@
 
 夸克：https://pan.quark.cn/s/5d002d83f9e0
 
+#### 《威尔莫特的拼图时光（Wilmot Works It Out）》v89060 中文版
+
+夸克：https://pan.quark.cn/s/0bb4aec91aa1
+
+迅雷：https://pan.xunlei.com/s/VOnhJRNFmbMS5eA_jHm7Y88oA1?pwd=472f
+
 #### 《生存代码（Net Attack）》v2026.3.14 中文版
 
 夸克：https://pan.quark.cn/s/8add1c4c0385
@@ -98,6 +104,25 @@
 </section>
 
 夸克：https://pan.quark.cn/s/86026658bd09
+
+#### 《见诡录 色孽（Haunting Record Sins of Lust）》v2.2 中文版（恐怖游戏）
+<section class="no-title-h4">
+
+#### 《见诡录 阴魂街（Haunting Record Phantom Street）》v1.102 中文版（恐怖游戏）
+</section>
+
+夸克：https://pan.quark.cn/s/9ee413282d50
+
+#### 《命运石之门 精英（STEINS GATE ELITE）》v3591620 中文版
+<section class="no-title-h4">
+
+#### 《命运石之门（STEINS GATE）》Build.4434295 中文版
+#### 《命运石之门 线形拘束的表征图（STEINS GATE Linear Bounded Phenogram）》Build.4152261 汉化版
+#### 《命运石之门 比翼恋理的爱人（STEINS GATE My Darlings Embrace）》Build.5491638 汉化版
+#### 《命运石之门 0（STEINS GATE 0）》Build.12814074 中文版
+</section>
+
+夸克：https://pan.quark.cn/s/43ce92b0fa1a
 
 #### 《卡牌修仙传（Card Cultivation）》v2.1.0.8 中文版
 
@@ -6835,10 +6860,6 @@
 #### 《暗黑破坏神3（Diablo III）重制版》v2.0.1.22044 英文版
 
 夸克：https://pan.quark.cn/s/fcf525ab2905
-
-#### 《见诡录 阴魂街 Haunting Record Phantom Street 》v1.102 中文版（恐怖游戏）
-
-夸克：https://pan.quark.cn/s/9ee413282d50
 
 #### 《模拟山羊 重制版（Goat Simulator Remastered 》v1.38.14026 中文版
 

@@ -1,4 +1,4 @@
-﻿<footer style="font-size: 12.5px; color: #333333; padding: 20px 0;">
+<footer style="font-size: 10px; color: #333333; padding: 20px 0;">
     <hr />
     <span id="sitetime"></span>
     <p style="animation: fade 5s infinite alternate;">
