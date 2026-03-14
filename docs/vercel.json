@@ -1,17 +1,3 @@
 {
-  "version": 2,
-  "rewrites": [
-    {
-      "source": "/assets/:path*",
-      "destination": "/assets/:path*"
-    },
-    {
-      "source": "/zh-cn/:path*",
-      "destination": "/zh-cn/:path*"
-    },
-    {
-      "source": "/:path*",
-      "destination": "/index.html"
-    }
-  ]
+  "version": 2
 }
