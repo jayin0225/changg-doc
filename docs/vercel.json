@@ -4,15 +4,6 @@
   ],
   "headers": [
     {
-      "source": "/(.*)",
-      "headers": [
-        {
-          "key": "Content-Type",
-          "value": "text/html; charset=utf-8"
-        }
-      ]
-    },
-    {
       "source": "/**/*.css",
       "headers": [
         {
@@ -67,11 +58,65 @@
       ]
     },
     {
+      "source": "/**/*.jpeg",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "source": "/**/*.gif",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "image/gif"
+        }
+      ]
+    },
+    {
       "source": "/**/*.ico",
       "headers": [
         {
           "key": "Content-Type",
           "value": "image/x-icon"
+        }
+      ]
+    },
+    {
+      "source": "/**/*.woff",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "font/woff"
+        }
+      ]
+    },
+    {
+      "source": "/**/*.woff2",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "font/woff2"
+        }
+      ]
+    },
+    {
+      "source": "/**/*.ttf",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "font/ttf"
+        }
+      ]
+    },
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/html; charset=utf-8"
         }
       ]
     }
