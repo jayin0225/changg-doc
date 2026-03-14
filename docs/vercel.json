@@ -1,8 +1,7 @@
 {
   "version": 2,
   "routes": [
-    { "src": "/assets/(.*)", "dest": "/assets/$1", "continue": true },
-    { "src": "/zh-cn/(.*)", "dest": "/zh-cn/$1", "continue": true },
+    { "handle": "filesystem" },
     { "src": "/(.*)", "dest": "/index.html" }
   ]
 }
