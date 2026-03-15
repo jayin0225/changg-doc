@@ -1,5 +1,4 @@
-﻿
-## 欧美剧
+﻿## 欧美剧
 
 <div class="game-nav">
   <a href="/zh-cn/tv/china" class="game-nav-btn">国产剧</a>
@@ -25,13 +24,13 @@
 
 ## 正在更新中的..
 
-#### 《辐射》（2024-2025）4K HDR 第二季 更新中.. （附件第一季 游戏改编）
+#### 《辐射》（2024-2025）4K HDR 1-2季全 （游戏改编）
 
 夸克：https://pan.quark.cn/s/cbaee595c3ee
 
 迅雷：https://pan.xunlei.com/s/VNvC8Ux_zbOcgUvTEI_xp41lA1?pwd=nnyu#
 
-#### 《老练律师》（2024-2025）1080P 中英字幕 第二季 更新中..（附第一季）
+#### 《老练律师》（2024-2025）1080P 中英字幕 1-2季全
 
 夸克：https://pan.quark.cn/s/b5ae8073db91
 
@@ -64,6 +63,10 @@
 ---
 
 ## 已完结的
+
+#### 《去他X的世界》（2017-2019）1-2季全 1080P 内封中字
+
+夸克：https://pan.quark.cn/s/e783e5e82938
 
 #### 《美丽毒素》（2026）1080P 11集全
 

@@ -63,6 +63,12 @@
 
 夸克：https://pan.quark.cn/s/5d002d83f9e0
 
+#### 《龙胤立志传》v1.0.0F6.3 中文版
+
+夸克：https://pan.quark.cn/s/c9dc20755576
+
+迅雷：https://pan.xunlei.com/s/VOnlgk6ummic-a4D4UsYNfMVA1?pwd=yvac
+
 #### 《威尔莫特的拼图时光（Wilmot Works It Out）》v89060 中文版
 
 夸克：https://pan.quark.cn/s/0bb4aec91aa1
@@ -145,6 +151,12 @@
 夸克：https://pan.quark.cn/s/ffa5dd538cd0
 
 迅雷：https://pan.xunlei.com/s/VOnWzlzhsJRTnLXvW6uQZ7IcA1?pwd=esur
+
+#### 《魔犬大骚乱（Super Cane Magic ZERO）》Build.11038958 中文版
+
+夸克：https://pan.quark.cn/s/93d220deb4da
+
+迅雷：https://pan.xunlei.com/s/VOnlaXvx5yoJreAETAJ6D0mmA1?pwd=dzcy
 
 ---
 
@@ -9742,10 +9754,6 @@
 #### 《美味星球（Tasty Planet Bundle 》1-4部 最新 中文版
 
 夸克：https://pan.quark.cn/s/d257deefe5b0
-
-#### 《命运石之门：精英（Steins-Gate Elite 》Build.20190513 汉化中文版
-
-夸克：https://pan.quark.cn/s/50f9aba457b3
 
 #### 《百战天虫WMD（Worms WMD 》Build.23062019 全DLC 中文 联机版
 
