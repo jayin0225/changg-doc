@@ -23,7 +23,7 @@
 
 #### 《仙逆》（2024）4K 更新中..（附剧场版）（修仙鼻祖小说改编）
 
-夸克：https://pan.quark.cn/s/12e12571de81
+夸克：https://pan.quark.cn/s/a93a1dc84cb1
 
 迅雷：https://pan.xunlei.com/s/VNlTlPDAKMncq9ndG-_FPnjQA1?pwd=zq4h#
 
