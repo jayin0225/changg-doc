@@ -21,13 +21,13 @@
 ---
 ## 周一
 
-#### 《仙逆》（2024）4K 同步更新中..（附剧场版）（修仙鼻祖小说改编）
+#### 《仙逆》（2024）4K 更新中..（附剧场版）（修仙鼻祖小说改编）
 
 夸克：https://pan.quark.cn/s/12e12571de81
 
 迅雷：https://pan.xunlei.com/s/VNlTlPDAKMncq9ndG-_FPnjQA1?pwd=zq4h#
 
-#### 《宗门里除了我都是卧底》（2024）4K + 1080P 周一周六更新中..
+#### 《宗门里除了我都是卧底》（2024）4K + 1080P 周一 周六 更新中..
 
 夸克：https://pan.quark.cn/s/05b592559999
 
@@ -35,9 +35,9 @@
 
 ## 周二
 
-#### 《吞噬星空》（2024）4K 周二 同步更新中..（附剧场版）
+#### 《吞噬星空》（2024）4K 周二 更新中..（附剧场版）
 
-夸克：https://pan.quark.cn/s/19339ea305a7
+夸克：https://pan.quark.cn/s/6b431609527c
 
 迅雷：https://pan.xunlei.com/s/VNlbtym7EZ_QMc4gjpiw4ijKA1?pwd=i5sw#
 
@@ -47,9 +47,9 @@
 
 迅雷：https://pan.xunlei.com/s/VNyGBGY-qwfi6xY7eyt6uu69A1?pwd=nbdd#
 
-#### 《炼气十万年》 1080P 周二、六 更新中..
+#### 《炼气十万年》 1080P 周二 周六 更新中..
 
-夸克：https://pan.quark.cn/s/6386d48eece8
+夸克：https://pan.quark.cn/s/7fa0ebc6325e
 
 迅雷：https://pan.xunlei.com/s/VNlqR1MebGbxaDKO1LOd6q0qA1?pwd=qivn#
 
@@ -59,39 +59,39 @@
 
 ## 周三
 
-#### 《遮天》（2024）4K 周三 同步更新中..
+#### 《遮天》（2024）4K 周三 更新中..
 
-夸克：https://pan.quark.cn/s/662f20a6b6bb
+夸克：https://pan.quark.cn/s/429f96ee0a0f
 
 迅雷：https://pan.xunlei.com/s/VNlm4bkS3Xd3IJVvyYImbVG2A1?pwd=dxnb#
+
+#### 《紫川》（2021-2025）4K 周三 更新中..
+
+夸克：https://pan.quark.cn/s/7915edbcba01
 
 #### 《凌天独尊》（2025）4K 周三 周六更新中.
 
 夸克：https://pan.quark.cn/s/57432651d755
 
-#### 《紫川》（2021-2025）4K 周三更新中..
-
-夸克：https://pan.quark.cn/s/7915edbcba01
-
 ---
 
 ## 周四
 
-#### 《剑来》（2024-2025）第二季 4K 26集 周四更新中..（附第一季+电子书+有声书）
+#### 《剑来》（2024-2025）第二季 4K 26集 周四 更新中..（附第一季+电子书+有声书）
 
-夸克：https://pan.quark.cn/s/b521663129f8
+夸克：https://pan.quark.cn/s/429f96ee0a0f
 
 迅雷：https://pan.xunlei.com/s/VO4LkndfUJ5GLndTbtPAHy7SA1?pwd=rh7r#
 
 #### 《神印王座》（2024）4K 周四 更新中..
 
-夸克：https://pan.quark.cn/s/37bc835d2d81
+夸克：https://pan.quark.cn/s/8541712543e1
 
 迅雷：https://pan.xunlei.com/s/VNlbicNs9EhvsHCYfFNUcxonA1?pwd=kpcj#
 
-#### 《师兄啊师兄》（2023-2024）4K 第三季 周四更新中..（附1-2季）
+#### 《师兄啊师兄》（2023-2024）4K 第三季 周四 更新中..（附1-2季）
 
-夸克：https://pan.quark.cn/s/b9763c6d23fa
+夸克：https://pan.quark.cn/s/19af21c98b9f
 
 迅雷：https://pan.xunlei.com/s/VNm9axELHxKie2GFFXpIfxiUA1?pwd=rg86#
 
@@ -101,13 +101,13 @@
 
 #### 《完美世界》（2024）4K 周五 更新中..
 
-夸克：https://pan.quark.cn/s/4cc4be466f22
+夸克：https://pan.quark.cn/s/47cdb5754506
 
 迅雷：https://pan.xunlei.com/s/VNl7gMz6RajsUgWO5aRp45iYA1?pwd=8yf3#
 
 #### 《神墓》（2025）4K 周五 更新中..
 
-夸克：https://pan.quark.cn/s/e05d6823587c
+夸克：https://pan.quark.cn/s/9e1348e469e6
 
 ---
 
@@ -141,11 +141,11 @@
 
 #### 《斗破苍穹》年番 4K 周日 更新中..（附1-4季+特别篇+三年之约+缘起）
 
-夸克：https://pan.quark.cn/s/806bdabbae56
+夸克：https://pan.quark.cn/s/44ed7bb646db
 
 迅雷：https://pan.xunlei.com/s/VNlSTz25VO9u4b8BblSn2NWeA1?pwd=7xrz#
 
-#### 《牧神记》（2024）4K 周日更新中..
+#### 《牧神记》（2024）4K 周日 更新中..
 
 夸克：https://pan.quark.cn/s/817fe07b45ff
 
@@ -153,15 +153,15 @@
 
 夸克：https://pan.quark.cn/s/04be3106ee7b
 
-#### 《仙王的日常生活》（2020-2025）4K 第五季更新中..（附1-4季）
-
-夸克：https://pan.quark.cn/s/2c0d0f31a1a3
-
-迅雷：<https://pan.xunlei.com/s/VNlqUdpI7vRpuPY2FKkeEsYvA1>
-
 ---
 
 ## 暂时完结
+
+#### 《仙王的日常生活》（2020-2025）4K 1-5季全
+
+夸克：https://pan.quark.cn/s/2c0d0f31a1a3
+
+迅雷：https://pan.xunlei.com/s/VOnq9XaHtYOZ1jAQ_1Qwz_tXA1?pwd=yj92
 
 #### 《诛仙》（2022-2025）4K 1-3季全
 
@@ -181,7 +181,7 @@
 
 #### 《沧元图》（2023-2024）4K 1-2季全+番外
 
-夸克：https://pan.quark.cn/s/9a3b4053e721
+夸克：https://pan.quark.cn/s/0d15bbedac3d
 
 迅雷：https://pan.xunlei.com/s/VNlYsvPLkg8YO95zddRZU7szA1?pwd=hk3r#
 
