@@ -34,6 +34,19 @@
 
 夸克：https://pan.quark.cn/s/b5ae8073db91
 
+#### 《海贼王真人版》（2023-2026）4K HDR 1-2季全 英日音轨 内封中文
+
+夸克：https://pan.quark.cn/s/7743c39af858
+
+迅雷：https://pan.xunlei.com/s/VNlUTKit6Mv7qvqPpIglsF8GA1?pwd=azgu#
+
+阿里：<https://www.aliyundrive.com/s/FzjisaV6LfE>
+
+---
+
+## 已完结的
+
+
 #### 《陆海之战》（2025）1080P 中字 5集全（神秘博士 衍生剧)
 
 夸克：https://pan.quark.cn/s/ba5ed862cfcc
@@ -59,10 +72,6 @@
 #### 《小丑回魂：欢迎来到德里镇》（2025）1080P 中英字幕 8集全
 
 夸克：https://pan.quark.cn/s/e36a0bbcd0cf
-
----
-
-## 已完结的
 
 #### 《去他X的世界》（2017-2019）1-2季全 1080P 内封中字
 
@@ -881,14 +890,6 @@
 夸克：https://pan.quark.cn/s/6b533cd64cb1
 
 迅雷：https://pan.xunlei.com/s/VNoB85TvUTvTOpT7tt7Iv8VPA1?pwd=xj24#
-
-#### 《海贼王真人版》（2023）1080P + 4K HDR 英日音轨 中文
-
-夸克：https://pan.quark.cn/s/7743c39af858
-
-迅雷：https://pan.xunlei.com/s/VNlUTKit6Mv7qvqPpIglsF8GA1?pwd=azgu#
-
-阿里：<https://www.aliyundrive.com/s/FzjisaV6LfE>
 
 #### 《纸钞屋》（2017-2021）1-5季全 1080P.西班牙原版+韩版.内置中英字幕+外挂字幕
 

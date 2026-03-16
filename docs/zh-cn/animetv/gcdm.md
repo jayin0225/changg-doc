@@ -99,6 +99,12 @@
 
 ## 周五
 
+#### 《沧元图》（2023-2026）4K 东宁府的夏天 周五 更新中..（附第1-2季+番外）
+
+夸克：https://pan.quark.cn/s/0d15bbedac3d
+
+迅雷：https://pan.xunlei.com/s/VNlYsvPLkg8YO95zddRZU7szA1?pwd=hk3r#
+
 #### 《完美世界》（2024）4K 周五 更新中..
 
 夸克：https://pan.quark.cn/s/47cdb5754506
@@ -178,12 +184,6 @@
 #### 《苍兰诀 动画版》（2022-2025）4K 1-2季全
 
 夸克：https://pan.quark.cn/s/587ba6452488
-
-#### 《沧元图》（2023-2024）4K 1-2季全+番外
-
-夸克：https://pan.quark.cn/s/0d15bbedac3d
-
-迅雷：https://pan.xunlei.com/s/VNlYsvPLkg8YO95zddRZU7szA1?pwd=hk3r#
 
 #### 《云深不知梦》（2025）4K 周六 26集全
 
