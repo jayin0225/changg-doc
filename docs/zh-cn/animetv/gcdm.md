@@ -125,7 +125,7 @@
 
 迅雷：https://pan.xunlei.com/s/VNnmIOtkVPA98SCZPniW_bjBA1?pwd=ia8u#
 
-#### 《凡人修仙传》（2024）4K高码 新年番 周六更新中..（附：重制版+原版+星海飞驰篇共76集+有声书+电子书）
+#### 《凡人修仙传》（2024）4K高码 新年番 周六更新中..（附有声书+电子书）
 
 夸克：https://pan.quark.cn/s/ad348de8e3b7
 
