@@ -56,12 +56,26 @@
 #### 《毁灭战士 黑暗时代（DOOM The Dark Ages）高级版》最新 中文版（显卡需支持光线追踪）
 <section class="no-title-h4">
 
-#### 《毁灭战士2 增强合集版（DOOM plus DOOM II Enhanced 》v2025.4.173 中文版
+#### 《毁灭战士2 增强合集版（DOOM plus DOOM II Enhanced）》v2025.4.173 中文版
 #### 《毁灭战士4（DOOM 2016）》v20240321f 全DLC 中文版
 #### 《毁灭战士 永恒（DOOM Eternal）豪华版》v2026.2.12 全DLC 中文版
 </section>
 
 夸克：https://pan.quark.cn/s/5d002d83f9e0
+
+#### 《海狸浮生记（Timberborn）》v1.0.12.5 中文版
+
+夸克：https://pan.quark.cn/s/55c358484e79
+
+迅雷：https://pan.xunlei.com/s/VOnv6c_ItIvYXbWJbISzp_EIA1?pwd=g89m
+
+#### 《Total Chaos》v1.0.23 中文版（全面混沌、完全混乱 生成恐怖FPS）
+
+夸克：https://pan.quark.cn/s/c750cdd38c77
+
+#### 《加勒比传奇 海盗时代（Caribbean Legend Age of Pirates）》v1.0.1 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/69374171a9ff
 
 #### 《龙胤立志传》v1.0.0F6.3 中文版
 
@@ -130,34 +144,6 @@
 
 夸克：https://pan.quark.cn/s/43ce92b0fa1a
 
-#### 《卡牌修仙传（Card Cultivation）》v2.1.0.8 中文版
-
-夸克：https://pan.quark.cn/s/cb91eda9d166
-
-迅雷：https://pan.xunlei.com/s/VOnHb7UJp7pepL7c2qUJfp13A1?pwd=8nr4
-
-#### 《十三州行动 三国搜打撤》v1.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/3320dc96d358
-
-迅雷：https://pan.xunlei.com/s/VOnObO02k0OlL2xck1zcMotqA1?pwd=4fda
-
-#### 《Echoes of the Living》0.1e 英文版（幸存者的回声 生者回声）
-
-夸克：https://pan.quark.cn/s/b3e9b95be2eb
-
-#### 《火星 战争日志（Mars War Logs）》v1.1736 汉化版
-
-夸克：https://pan.quark.cn/s/ffa5dd538cd0
-
-迅雷：https://pan.xunlei.com/s/VOnWzlzhsJRTnLXvW6uQZ7IcA1?pwd=esur
-
-#### 《魔犬大骚乱（Super Cane Magic ZERO）》Build.11038958 中文版
-
-夸克：https://pan.quark.cn/s/93d220deb4da
-
-迅雷：https://pan.xunlei.com/s/VOnlaXvx5yoJreAETAJ6D0mmA1?pwd=dzcy
-
 ---
 
 ## 最近更新
@@ -176,6 +162,22 @@
 夸克：https://pan.quark.cn/s/4a575dc211fc
 
 迅雷：https://pan.xunlei.com/s/VOn16_QKz4Jp1DEcW0xhiiCHA1?pwd=7vj7#
+
+#### 《空洞骑士：丝之歌（Hollow Knight Silksong 》v1.0.29909 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/4c68712bb95c
+
+迅雷：https://pan.xunlei.com/s/VOnv9Hmpq8NBKmgcIiAWqvjOA1?pwd=arxu
+
+#### 《苍翼 混沌效应（BlazBlue Entropy Effect 》v1.0.8.140136.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/dffcc45a56c8
+
+迅雷：https://pan.xunlei.com/s/VNpuBMgpFJ9XqL05KHqG9sl2A1?pwd=v8sz#
+
+#### 《珊瑚岛（Cora Island）豪华版》v1.2.1246 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/f8e8a22deace
 
 #### 《暗黑破坏神2 重制版（Diablo II Resurrected）地狱版》v3.0.91923 全DLC 中文版
 
@@ -197,22 +199,16 @@
 
 夸克：https://pan.quark.cn/s/d13054962c00
 
-#### 《圣剑传说（Visions of Mana 》v1.0.3.0 全DLC 中文版
+#### 《刀剑神域 彼岸游境（SWORD ART ONLINE Alicization Lycoris）》v3.12 全DLC 中文版
 <section class="no-title-h4">
 
-#### 《圣剑传说3 重制版（TRIALS of MANA）》v1.1.1 中文版
+#### 《刀剑神域 异绊集结（Sword Art Online Last Recollection）豪华版》v1.21 全DLC 中文版
+#### 《刀剑神域 虚空幻界（Sword Art Online Hollow Realization）豪华版》1.00 全DLC 中文版
+#### 《刀剑神域 夺命凶弹（Sword Art Online Fatal Bullet）完整版》v1.7.0 全DLC 中文版
+#### 《刀剑神域 碎梦边境（SWORD ART ONLINE Fractured Daydream 》v1.5.2.0 全DLC 中文版
 </section>
 
-夸克：https://pan.quark.cn/s/2e3caf2b9c9b
-
-#### 《消逝的光芒：增强版（Dying Light）》v1.54 全DLC 中文 联机版
-<section class="no-title-h4">
-
-#### 《消逝的光芒2 装上阵版（Dying Light 2）豪华版》v1.27.1 全DLC 中文配音 联机版
-#### 《消逝的光芒：困兽（Dying Light The Beast）豪华版》v1.5.1 全DLC 中文配音 联机版
-</section>
-
-夸克：https://pan.quark.cn/s/7cd3766e113d
+夸克：https://pan.quark.cn/s/bb5134dcb570
 
 ---
 
@@ -258,10 +254,6 @@
 
 迅雷：https://pan.xunlei.com/s/VNvhlO0bmX6RXN9eke0P_M-lA1?pwd=7avu#
 
-#### 《合金装备Δ：食蛇者（Metal Gear Solid Snake Eater）豪华版》v1.2.4 全DLC 中文版（合金装备食蛇者）
-
-夸克：https://pan.quark.cn/s/b47797155789
-
 #### 《艾尔登法环 黑夜君临（Elden Ring Nightreign）豪华版》v1.0.3.2 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/220acef4a4a1
@@ -270,14 +262,6 @@
 
 夸克：https://pan.quark.cn/s/ae92fcbace04
 
-#### 《神话时代：重述版（Age of Mythology Retold）高级版》v100.18.56738.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/51201cccd0db
-
-#### 《死亡空间 重制版（Dead Space Remake）豪华版》v2025.12.31 中文版（有中文配音）
-
-夸克：https://pan.quark.cn/s/095d1c334b71
-
 #### 《光与影：33号远征队（Clair Obscur Expedition 33）豪华版》v61711 中文版
 
 夸克：https://pan.quark.cn/s/32c452be1479
@@ -285,10 +269,6 @@
 #### 《末日的回声（Echoes of the End）增强版》v2.0.3 中文版（魂类游戏）
 
 夸克：https://pan.quark.cn/s/ac1e0683f780
-
-#### 《浪人崛起（Rise of the Ronin 》v1.09.0.5 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/810a70e3cf63
 
 #### 《明末：渊虚之羽（WUCHANG Fallen Feathers）豪华版》v179951 全DLC 中文版
 
@@ -316,10 +296,6 @@
 
 迅雷：https://pan.xunlei.com/s/VNtguTWIFDx9QvHxz05SH1VPA1?pwd=jxux#
 
-#### 《夺宝奇兵：古老之圈（Indiana Jones and the Great Circle）高级版》v1.0.9.0 全DLC 中文版（显卡需支持光追）
-
-夸克：https://pan.quark.cn/s/e037632f1250
-
 #### 《战神5：诸神黄昏（God of War Ragnarök）豪华版》v1.0.668.5700 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/7510e0c2474a
@@ -333,10 +309,6 @@
 #### 《最后生还者2：重制版（The Last of Us Part 2 Remastered 》v1.6.10721 中文版（美末2）
 
 夸克：https://pan.quark.cn/s/2df27418debd
-
-#### 《往日不再：破碎之路 重制版（Days Gone Broken Road 》v1.36.187.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/c59d707ae7a9
 
 #### 《最后生还者（The Last of Us Part I 》v1.1.5.0 全DLC 豪华 中文版（美末1）
 
@@ -385,6 +357,75 @@
 ---
 
 ## 已有游戏
+
+#### 《往日不再：破碎之路 重制版（Days Gone Broken Road 》v1.36.187.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/c59d707ae7a9
+
+#### 《合金装备Δ：食蛇者（Metal Gear Solid Snake Eater）豪华版》v1.2.4 全DLC 中文版（合金装备食蛇者）
+
+夸克：https://pan.quark.cn/s/b47797155789
+
+#### 《浪人崛起（Rise of the Ronin 》v1.09.0.5 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/810a70e3cf63
+
+#### 《夺宝奇兵：古老之圈（Indiana Jones and the Great Circle）高级版》v1.0.9.0 全DLC 中文版（显卡需支持光追）
+
+夸克：https://pan.quark.cn/s/e037632f1250
+
+#### 《神话时代：重述版（Age of Mythology Retold）高级版》v100.18.56738.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/51201cccd0db
+
+#### 《死亡空间 重制版（Dead Space Remake）豪华版》v2025.12.31 中文版（有中文配音）
+
+夸克：https://pan.quark.cn/s/095d1c334b71
+
+#### 《卡牌修仙传（Card Cultivation）》v2.1.0.8 中文版
+
+夸克：https://pan.quark.cn/s/cb91eda9d166
+
+迅雷：https://pan.xunlei.com/s/VOnHb7UJp7pepL7c2qUJfp13A1?pwd=8nr4
+
+#### 《十三州行动 三国搜打撤》v1.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/3320dc96d358
+
+迅雷：https://pan.xunlei.com/s/VOnObO02k0OlL2xck1zcMotqA1?pwd=4fda
+
+#### 《Echoes of the Living》0.1e 英文版（幸存者的回声 生者回声）
+
+夸克：https://pan.quark.cn/s/b3e9b95be2eb
+
+#### 《火星 战争日志（Mars War Logs）》v1.1736 汉化版
+
+夸克：https://pan.quark.cn/s/ffa5dd538cd0
+
+迅雷：https://pan.xunlei.com/s/VOnWzlzhsJRTnLXvW6uQZ7IcA1?pwd=esur
+
+#### 《魔犬大骚乱（Super Cane Magic ZERO）》Build.11038958 中文版
+
+夸克：https://pan.quark.cn/s/93d220deb4da
+
+迅雷：https://pan.xunlei.com/s/VOnlaXvx5yoJreAETAJ6D0mmA1?pwd=dzcy
+
+#### 《圣剑传说（Visions of Mana 》v1.0.3.0 全DLC 中文版
+<section class="no-title-h4">
+
+#### 《圣剑传说3 重制版（TRIALS of MANA）》v1.1.1 中文版
+</section>
+
+夸克：https://pan.quark.cn/s/2e3caf2b9c9b
+
+#### 《消逝的光芒：增强版（Dying Light）》v1.54 全DLC 中文 联机版
+<section class="no-title-h4">
+
+#### 《消逝的光芒2 装上阵版（Dying Light 2）豪华版》v1.27.1 全DLC 中文配音 联机版
+#### 《消逝的光芒：困兽（Dying Light The Beast）豪华版》v1.5.1 全DLC 中文配音 联机版
+</section>
+
+夸克：https://pan.quark.cn/s/7cd3766e113d
 
 #### 《犯罪模拟器（Crime Simulator 》v1.42 中文 联机版
 
@@ -452,16 +493,6 @@
 </section>
 
 夸克：https://pan.quark.cn/s/0626602d9725
-
-#### 《刀剑神域 彼岸游境（SWORD ART ONLINE Alicization Lycoris）》最新 全DLC 中文版
-<section class="no-title-h4">
-
-#### 《刀剑神域 虚空幻界（Sword Art Online Hollow Realization）豪华版》最新 全DLC 中文版
-#### 《刀剑神域 夺命凶弹（Sword Art Online Fatal Bullet）完整版》v1.7.0 全DLC 中文版
-#### 《刀剑神域 碎梦边境（SWORD ART ONLINE Fractured Daydream 》v1.5.2.0 全DLC 中文版
-</section>
-
-夸克：https://pan.quark.cn/s/bb5134dcb570
 
 #### 《王国保卫战5 联盟（Kingdom Rush 5 Alliance TD 》v7.00.36 全DLC 中文版（新增巨龙战争DLC）
 <section class="no-title-h4">
@@ -950,12 +981,6 @@
 #### 《失落之魂（Lost Soul Aside）豪华版》v1.101 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/254473ee08f7
-
-#### 《苍翼 混沌效应（BlazBlue Entropy Effect 》v1.0.8.139897.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/dffcc45a56c8
-
-迅雷：https://pan.xunlei.com/s/VNpuBMgpFJ9XqL05KHqG9sl2A1?pwd=v8sz#
 
 #### 《暗使 导演剪辑版（Dark Envoy 》v1.9.2.75237 全DLC 中文版
 
@@ -2159,10 +2184,6 @@
 
 夸克：https://pan.quark.cn/s/d50651fa380e
 
-#### 《珊瑚岛（Cora Island）豪华版》v1.2.1243 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/f8e8a22deace
-
 #### 《逆转裁判123：成步堂精选集（Phoenix Wright Ace Attorney Trilogy 》v2025.11.19 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/6cbf29567fa4
@@ -2266,10 +2287,6 @@
 #### 《428：被封锁的涩谷（428：Shibuya Scramble 》v1.5 全DLC 汉化版
 
 夸克：https://pan.quark.cn/s/0ec3b235f7db
-
-#### 《空洞骑士：丝之歌（Hollow Knight Silksong 》v1.0.29315 中文 联机版
-
-夸克：https://pan.quark.cn/s/4c68712bb95c
 
 #### 《吸血鬼：避世血族2（Vampire The Masquerade Bloodlines 2）高级版》v46891 全DLC 中文版
 
