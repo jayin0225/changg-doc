@@ -49,6 +49,14 @@
 ## 最新添加
 !> 新添加及更新的游戏链接里面如果没有文件，就是在上传中，等待上传完毕就会显示...
 
+#### 《死亡搁浅 2：冥滩之上（DEATH STRANDING 2 ON THE BEACH）豪华版》v1.0.45.0 中文配音版
+
+#### 《死亡搁浅（DEATH STRANDING DIRECTORS CUT）导演剪辑版》v1.004 中文版
+
+夸克：https://pan.quark.cn/s/f618becc1c8f
+
+迅雷：https://pan.xunlei.com/s/VNy6LAsi4eAnQARlG4R_5SlpA1?pwd=tbu9#
+
 #### 《零红蝶 重制版（FATAL FRAME II Crimson Butterfly REMAK）豪华版》v1.02.01 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/aeefdbc4c143
@@ -11195,12 +11203,6 @@
 #### 《幽灵行动：荒野（Tom Clancys Ghost Recon Wildlands 》build.594812 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/1a8d8a27fb62
-
-#### 《死亡搁浅》导演剪辑版 v1.004+XG器
-
-夸克：https://pan.quark.cn/s/f618becc1c8f
-
-迅雷：https://pan.xunlei.com/s/VNy6LAsi4eAnQARlG4R_5SlpA1?pwd=tbu9#
 
 #### 《剑士》kenshi v1.0.59b(53777) 中文版 附 修改器
 
