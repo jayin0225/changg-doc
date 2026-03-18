@@ -50,8 +50,10 @@
 !> 新添加及更新的游戏链接里面如果没有文件，就是在上传中，等待上传完毕就会显示...
 
 #### 《死亡搁浅2 冥滩之上（DEATH STRANDING 2 ON THE BEACH）豪华版》v1.0.45.0 中文配音版
+<section class="no-title-h4">
 
 #### 《死亡搁浅（DEATH STRANDING DIRECTORS CUT）导演剪辑版》v1.004 中文版
+</section>
 
 夸克：https://pan.quark.cn/s/f618becc1c8f
 
