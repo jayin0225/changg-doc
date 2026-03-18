@@ -32,7 +32,7 @@
 
 #### 《PC游戏 总目录》现在可以实时搜索，在文档或者网站搜索
 
-夸克：https://pan.quark.cn/s/f236e6b0002e
+夸克：https://pan.quark.cn/s/b4337249c740
 
 迅雷：https://pan.xunlei.com/s/VOY6VxoeeebiD_D7L6XEZ-aSA1?pwd=gtqt#
 
