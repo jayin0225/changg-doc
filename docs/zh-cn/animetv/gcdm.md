@@ -35,6 +35,12 @@
 
 ## 周二
 
+#### 《遮天》（2024）4K 周三 更新中..
+
+夸克：https://pan.quark.cn/s/f85275286601
+
+迅雷：https://pan.xunlei.com/s/VNlm4bkS3Xd3IJVvyYImbVG2A1?pwd=dxnb#
+
 #### 《吞噬星空》（2024）4K 周二 更新中..（附剧场版）
 
 夸克：https://pan.quark.cn/s/6b431609527c
@@ -58,12 +64,6 @@
 ---
 
 ## 周三
-
-#### 《遮天》（2024）4K 周三 更新中..
-
-夸克：https://pan.quark.cn/s/0e949a6872df
-
-迅雷：https://pan.xunlei.com/s/VNlm4bkS3Xd3IJVvyYImbVG2A1?pwd=dxnb#
 
 #### 《紫川》（2021-2025）4K 周三 更新中..
 
@@ -147,7 +147,7 @@
 
 #### 《斗破苍穹》年番 4K 周日 更新中..（附1-4季+特别篇+三年之约+缘起）
 
-夸克：https://pan.quark.cn/s/44ed7bb646db
+夸克：https://pan.quark.cn/s/fc01318e0f07
 
 迅雷：https://pan.xunlei.com/s/VNlSTz25VO9u4b8BblSn2NWeA1?pwd=7xrz#
 
