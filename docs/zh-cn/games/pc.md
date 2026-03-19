@@ -143,6 +143,12 @@
 
 夸克：https://pan.quark.cn/s/9ee413282d50
 
+#### 《铁锈战争（Rusted Warfare RTS）》v1.15p10 中文 联机版
+
+夸克：https://pan.quark.cn/s/30577a4df1e0
+
+迅雷：https://pan.xunlei.com/s/VOo5KMz6gNDQ26U2YdoA0IIRA1?pwd=ufag#
+
 #### 《命运石之门 精英（STEINS GATE ELITE）》v3591620 中文版
 <section class="no-title-h4">
 
@@ -167,7 +173,7 @@
 
 夸克：https://pan.quark.cn/s/be850af09c63
 
-#### 《杀戮尖塔2（Slay the Spire 2）》v0.98.3 中文 联机版（附第一部）
+#### 《杀戮尖塔2（Slay the Spire 2）》v0.99.1b 中文 联机版（附第1部+安卓版）
 
 夸克：https://pan.quark.cn/s/4a575dc211fc
 
