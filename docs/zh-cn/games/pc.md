@@ -143,6 +143,16 @@
 
 夸克：https://pan.quark.cn/s/9ee413282d50
 
+#### 《超级像素战士（Superfighters Deluxe）豪华版》v1.4.2 英文版
+
+夸克：https://pan.quark.cn/s/ba008d9c58ca
+
+#### 《战斗吧 勇者学院（Battle On Hero Academy）》v1.1.45 中文版
+
+夸克：https://pan.quark.cn/s/c8edd4e2b52d
+
+迅雷：https://pan.xunlei.com/s/VOo5YpJETeK35N9LVAp1M1OAA1?pwd=i7ni#
+
 #### 《铁锈战争（Rusted Warfare RTS）》v1.15p10 中文 联机版
 
 夸克：https://pan.quark.cn/s/30577a4df1e0
@@ -179,6 +189,29 @@
 
 迅雷：https://pan.xunlei.com/s/VOn16_QKz4Jp1DEcW0xhiiCHA1?pwd=7vj7#
 
+#### 《贪婪之秋2 垂死世界（GreedFall II The Dying World 》Build.21902359 中文版（附第1部）
+
+夸克：https://pan.quark.cn/s/3fbb5a637da1
+
+#### 《帝国时代4（Age of Empires IV）周年纪念版》v15.4.8719 全DLC 中文版
+
+<section class="no-title-h4">
+#### 《帝国时代3 决定版（Age of Empires III 》v100.15.59076.0 全DLC 中文版（可Radmin LAN联机）
+#### 《帝国时代2 决定版（Age of Empires II 》v101.103.38337.0 全DLC 中文 联机版
+</section>
+
+夸克：https://pan.quark.cn/s/0c0f7a82ce32
+
+迅雷：https://pan.xunlei.com/s/VNvkevNF72FLBsU58F3MKddHA1?pwd=yzp4#
+
+#### 《神话时代 重述版（Age of Mythology Retold）高级版》v100.19.3090.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/51201cccd0db
+
+#### 《天外世界2（The Outer Worlds 2）高级版》v1.1.0.0 中文版
+
+夸克：https://pan.quark.cn/s/9baad4a27102
+
 #### 《空洞骑士：丝之歌（Hollow Knight Silksong 》v1.0.29909 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/4c68712bb95c
@@ -198,10 +231,6 @@
 #### 《暗黑破坏神2 重制版（Diablo II Resurrected）地狱版》v3.0.91923 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/379c96e02b6c
-
-#### 《天外世界2（The Outer Worlds 2）高级版》v1.1.0.0 中文版
-
-夸克：https://pan.quark.cn/s/9baad4a27102
 
 #### 《熊视眈眈（Out of Sight 》v1.1.93 中文版（类似小小梦魇恐怖解密）
 
@@ -389,10 +418,6 @@
 #### 《夺宝奇兵：古老之圈（Indiana Jones and the Great Circle）高级版》v1.0.9.0 全DLC 中文版（显卡需支持光追）
 
 夸克：https://pan.quark.cn/s/e037632f1250
-
-#### 《神话时代：重述版（Age of Mythology Retold）高级版》v100.18.56738.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/51201cccd0db
 
 #### 《死亡空间 重制版（Dead Space Remake）豪华版》v2025.12.31 中文版（有中文配音）
 
@@ -1001,17 +1026,6 @@
 #### 《暗使 导演剪辑版（Dark Envoy 》v1.9.2.75237 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/b2330660a4a8
-
-#### 《帝国时代2 决定版（Age of Empires II 》v101.103.38337.0 全DLC 中文 联机版
-<section class="no-title-h4">
-
-#### 《帝国时代3 决定版（Age of Empires III 》v100.15.59076.0 全DLC 中文版（可Radmin LAN联机）
-#### 《帝国时代4（Age of Empires IV）周年纪念版》v15.2.7445.0 全DLC 中文版
-</section>
-
-夸克：https://pan.quark.cn/s/0c0f7a82ce32
-
-迅雷：https://pan.xunlei.com/s/VNvkevNF72FLBsU58F3MKddHA1?pwd=yzp4#
 
 #### 《生化危机3 重制版（Resident Evil 3 Remake）豪华版》v20230925 全DLC 中文版
 <section class="no-title-h4">
@@ -2079,10 +2093,6 @@
 #### 《黑夜刀锋：幸存者（Night Swarm 》v1.0.1 中文版
 
 夸克：https://pan.quark.cn/s/2040719c5302
-
-#### 《贪婪之秋2 垂死世界（GreedFall II The Dying World 》v0.3 中文版（附第一部）
-
-夸克：https://pan.quark.cn/s/3fbb5a637da1
 
 #### 《星之侵略者（StarVaders 》v2.0.0 中 全DLC 文版
 
