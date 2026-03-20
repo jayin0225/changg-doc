@@ -79,6 +79,12 @@
 
 迅雷：https://pan.xunlei.com/s/VOoA1W14tqp1u6rcVK1wfCA0A1?pwd=2j62#
 
+#### 《远行星号（starsector）》v0.98aRC8 汉化版
+
+夸克：https://pan.quark.cn/s/18cbbf037337
+
+迅雷：https://pan.xunlei.com/s/VOoApaGzV8ybkrbWNI-bZL3nA1?pwd=cw69#
+
 ---
 
 ## 最近更新
@@ -101,6 +107,10 @@
 #### 《贪婪之秋2 垂死世界（GreedFall II The Dying World 》Build.21902359 中文版（附第1部）
 
 夸克：https://pan.quark.cn/s/3fbb5a637da1
+
+#### 《严阵以待（Ready or Not）豪华版》v112610 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/296a2d4242e8
 
 #### 《帝国时代4（Age of Empires IV）周年纪念版》v15.4.8719 全DLC 中文版
 
@@ -1842,10 +1852,6 @@
 #### 《R.E.P.O.》v0.3.2 汉化 联机版（REPO）
 
 夸克：https://pan.quark.cn/s/dbc5648e077e
-
-#### 《严阵以待（Ready or Not 》v97150 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/296a2d4242e8
 
 #### 《红色的炼金术士和白色的守护者 ～蕾斯莱莉娅娜的炼金工房～ 豪华版》v1.3.0 全DLC 中文版
 
@@ -11652,7 +11658,7 @@
 
 夸克：https://pan.quark.cn/s/f7f093f78b2c
 
-#### 《开罗物语 系列合集》电脑版（没有的可以让站长上）安卓版在另外一个链接
+#### 《开罗物语 系列合集》电脑版 + 安卓版（没有的联系群主上）
 
 夸克：https://pan.quark.cn/s/2ff439e37cc9
 

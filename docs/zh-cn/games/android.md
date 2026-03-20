@@ -565,9 +565,9 @@
 
 夸克：https://pan.quark.cn/s/548944c3ccac
 
-#### 《开罗物语系列合集》安卓版
+#### 《开罗物语系列合集》电脑版 + 安卓版（没有的联系群主上）
 
-夸克：https://pan.quark.cn/s/fdc98a558b71
+夸克：https://pan.quark.cn/s/2ff439e37cc9
 
 #### 《废土世界》王国保卫战续作，采用了卡牌养成玩法 [完整版] Steam移植 安卓版
 
