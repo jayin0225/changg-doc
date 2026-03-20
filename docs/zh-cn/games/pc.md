@@ -49,16 +49,6 @@
 ## 最新添加
 !> 新添加及更新的游戏链接里面如果没有文件，就是在上传中，等待上传完毕就会显示...
 
-#### 《死亡搁浅2 冥滩之上（DEATH STRANDING 2 ON THE BEACH）豪华版》v1.0.45.0 中文配音版
-<section class="no-title-h4">
-
-#### 《死亡搁浅（DEATH STRANDING DIRECTORS CUT）导演剪辑版》v1.004 中文版
-</section>
-
-夸克：https://pan.quark.cn/s/f618becc1c8f
-
-迅雷：https://pan.xunlei.com/s/VNy6LAsi4eAnQARlG4R_5SlpA1?pwd=tbu9#
-
 #### 《零红蝶 重制版（FATAL FRAME II Crimson Butterfly REMAK）豪华版》v1.02.01 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/aeefdbc4c143
@@ -88,6 +78,16 @@
 ---
 
 ## 最近更新
+
+#### 《死亡搁浅2 冥滩之上（DEATH STRANDING 2 ON THE BEACH）豪华版》v1.0.48.0 全DLC 中文配音版
+<section class="no-title-h4">
+
+#### 《死亡搁浅（DEATH STRANDING DIRECTORS CUT）导演剪辑版》v1.004 中文版
+</section>
+
+夸克：https://pan.quark.cn/s/f618becc1c8f
+
+迅雷：https://pan.xunlei.com/s/VNy6LAsi4eAnQARlG4R_5SlpA1?pwd=tbu9#
 
 #### 《仁王3（Nioh 3）豪华版》v1.04.01 全DLC 中文 联机版（新）
 <section class="no-title-h4">
@@ -151,6 +151,10 @@
 #### 《暗黑破坏神2 重制版（Diablo II Resurrected）地狱版》v3.0.91923 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/379c96e02b6c
+
+#### 《原子之心（Atomic Heart）》v2026.2.8 中文配音 开发版
+
+夸克：https://pan.quark.cn/s/b17d3da70047
 
 ---
 
@@ -11384,10 +11388,6 @@
 #### 《CS:GO》单机版
 
 夸克：https://pan.quark.cn/s/8d0ae2461f25
-
-#### 《原子之心（Atomic Heart 》原版+开发版+中文补丁+中文语音包
-
-夸克：https://pan.quark.cn/s/b17d3da70047
 
 #### 《魔法门之黑兽战士》Build.12627227 中文版 全DLC
 
