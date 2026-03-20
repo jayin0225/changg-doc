@@ -59,6 +59,12 @@
 
 迅雷：https://pan.xunlei.com/s/VNnO4lpmvkIuubjQo5GCNTiFA1?pwd=24hx#
 
+#### 《JOJO的奇妙冒险》（1993-2026）飙马野郎 更新中.. 附1-7季全+外传 4K高码 中日字幕 （附漫画 ）
+
+夸克：https://pan.quark.cn/s/a18779e4bd58
+
+迅雷：https://pan.xunlei.com/s/VNlmPri1ldJCKkypev9QPnI_A1?pwd=qvsn#
+
 ----
 
 ## 周六
@@ -446,12 +452,6 @@
 夸克：https://pan.quark.cn/s/cfb6321272c8
 
 阿里：<https://www.alipan.com/s/jYJxujLxcS3>
-
-#### 《JOJO的奇妙冒险》（1993-2026）1-7季全+外传 4K高码 中日字幕 （附漫画 ）
-
-夸克：https://pan.quark.cn/s/a18779e4bd58
-
-迅雷：https://pan.xunlei.com/s/VNlmPri1ldJCKkypev9QPnI_A1?pwd=qvsn#
 
 #### 《冥王 PLUTO》1080P高码 日英配音 内封官方中字 + 漫画
 

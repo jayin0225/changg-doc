@@ -73,102 +73,11 @@
 
 夸克：https://pan.quark.cn/s/5d002d83f9e0
 
-#### 《海狸浮生记（Timberborn）》v1.0.12.5 中文版
+#### 《Pure Badminton》Build.21335860 中文版（纯正羽毛球）
 
-夸克：https://pan.quark.cn/s/55c358484e79
+夸克：https://pan.quark.cn/s/37b2dd7d9a62
 
-迅雷：https://pan.xunlei.com/s/VOnv6c_ItIvYXbWJbISzp_EIA1?pwd=g89m
-
-#### 《Total Chaos》v1.0.23 中文版（全面混沌、完全混乱 生成恐怖FPS）
-
-夸克：https://pan.quark.cn/s/c750cdd38c77
-
-#### 《加勒比传奇 海盗时代（Caribbean Legend Age of Pirates）》v1.0.1 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/69374171a9ff
-
-#### 《龙胤立志传》v1.0.0F6.3 中文版
-
-夸克：https://pan.quark.cn/s/c9dc20755576
-
-迅雷：https://pan.xunlei.com/s/VOnlgk6ummic-a4D4UsYNfMVA1?pwd=yvac
-
-#### 《威尔莫特的拼图时光（Wilmot Works It Out）》v89060 中文版
-
-夸克：https://pan.quark.cn/s/0bb4aec91aa1
-
-迅雷：https://pan.xunlei.com/s/VOnhJRNFmbMS5eA_jHm7Y88oA1?pwd=472f
-
-#### 《生存代码（Net Attack）》v2026.3.14 中文版
-
-夸克：https://pan.quark.cn/s/8add1c4c0385
-
-迅雷：https://pan.xunlei.com/s/VOnglr4I5yoJreAETAJ2UUcbA1?pwd=wy63
-
-#### 《说谎公主与盲眼王子（The Liar Princess and the Blind Prince）》v2026.3.13 中文版 (手绘2D冒险)
-
-夸克：https://pan.quark.cn/s/50e9a55e47bd
-
-迅雷：https://pan.xunlei.com/s/VOnbsrpxueVLyWnHzai5x6yIA1?pwd=6adk
-
-#### 《寻宝岛（Collectors Cove）》v1.0.2.7666 中文版
-
-夸克：https://pan.quark.cn/s/c03100cab5c9
-
-迅雷：https://pan.xunlei.com/s/VOnbCUDzGwij2Hva-hbFv4rqA1?pwd=tsqh
-
-#### 《生化危机9》虚拟机绕过D保护游玩补丁（附单独 2DLC 豪华版DLC 和 格蕾丝服饰：天启dlc）
-
-夸克：https://pan.quark.cn/s/bd8babd4aaf1
-
-#### 《TheoTown》v1.12.47b 中文版（建设和管理你的梦想城市）
-
-夸克：https://pan.quark.cn/s/cdf7564fd99f
-
-迅雷：https://pan.xunlei.com/s/VOnX-JZ-tYOZ1jAQ_1QhnQ4sA1?pwd=76jb
-
-#### 《镇邪2（hexbreaker 2）》v2026.3.10 中文 联机版
-<section class="no-title-h4">
-
-#### 《镇邪（Zhenxie》v2023.1.28 中文版
-</section>
-
-夸克：https://pan.quark.cn/s/86026658bd09
-
-#### 《见诡录 色孽（Haunting Record Sins of Lust）》v2.2 中文版（恐怖游戏）
-<section class="no-title-h4">
-
-#### 《见诡录 阴魂街（Haunting Record Phantom Street）》v1.102 中文版（恐怖游戏）
-</section>
-
-夸克：https://pan.quark.cn/s/9ee413282d50
-
-#### 《超级像素战士（Superfighters Deluxe）豪华版》v1.4.2 英文版
-
-夸克：https://pan.quark.cn/s/ba008d9c58ca
-
-#### 《战斗吧 勇者学院（Battle On Hero Academy）》v1.1.45 中文版
-
-夸克：https://pan.quark.cn/s/c8edd4e2b52d
-
-迅雷：https://pan.xunlei.com/s/VOo5YpJETeK35N9LVAp1M1OAA1?pwd=i7ni#
-
-#### 《铁锈战争（Rusted Warfare RTS）》v1.15p10 中文 联机版
-
-夸克：https://pan.quark.cn/s/30577a4df1e0
-
-迅雷：https://pan.xunlei.com/s/VOo5KMz6gNDQ26U2YdoA0IIRA1?pwd=ufag#
-
-#### 《命运石之门 精英（STEINS GATE ELITE）》v3591620 中文版
-<section class="no-title-h4">
-
-#### 《命运石之门（STEINS GATE）》Build.4434295 中文版
-#### 《命运石之门 线形拘束的表征图（STEINS GATE Linear Bounded Phenogram）》Build.4152261 汉化版
-#### 《命运石之门 比翼恋理的爱人（STEINS GATE My Darlings Embrace）》Build.5491638 汉化版
-#### 《命运石之门 0（STEINS GATE 0）》Build.12814074 中文版
-</section>
-
-夸克：https://pan.quark.cn/s/43ce92b0fa1a
+迅雷：https://pan.xunlei.com/s/VOoA1W14tqp1u6rcVK1wfCA0A1?pwd=2j62#
 
 ---
 
@@ -196,6 +105,7 @@
 #### 《帝国时代4（Age of Empires IV）周年纪念版》v15.4.8719 全DLC 中文版
 
 <section class="no-title-h4">
+
 #### 《帝国时代3 决定版（Age of Empires III 》v100.15.59076.0 全DLC 中文版（可Radmin LAN联机）
 #### 《帝国时代2 决定版（Age of Empires II 》v101.103.38337.0 全DLC 中文 联机版
 </section>
@@ -231,29 +141,6 @@
 #### 《暗黑破坏神2 重制版（Diablo II Resurrected）地狱版》v3.0.91923 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/379c96e02b6c
-
-#### 《熊视眈眈（Out of Sight 》v1.1.93 中文版（类似小小梦魇恐怖解密）
-
-夸克：https://pan.quark.cn/s/d4b3d3aacfaf
-
-#### 《钢铁雄心4（Hearts of Iron 4）终结版》v1.17.4.1 全DLC 中文 联机版（新增DLC）
-
-夸克：https://pan.quark.cn/s/f87f94e17c31
-
-#### 《要战便战（Diplomacy is Not an Option 》v1.0.130 中文版
-
-夸克：https://pan.quark.cn/s/d13054962c00
-
-#### 《刀剑神域 彼岸游境（SWORD ART ONLINE Alicization Lycoris）》v3.12 全DLC 中文版
-<section class="no-title-h4">
-
-#### 《刀剑神域 异绊集结（Sword Art Online Last Recollection）豪华版》v1.21 全DLC 中文版
-#### 《刀剑神域 虚空幻界（Sword Art Online Hollow Realization）豪华版》1.00 全DLC 中文版
-#### 《刀剑神域 夺命凶弹（Sword Art Online Fatal Bullet）完整版》v1.7.0 全DLC 中文版
-#### 《刀剑神域 碎梦边境（SWORD ART ONLINE Fractured Daydream 》v1.5.2.0 全DLC 中文版
-</section>
-
-夸克：https://pan.quark.cn/s/bb5134dcb570
 
 ---
 
@@ -402,6 +289,126 @@
 ---
 
 ## 已有游戏
+
+#### 《熊视眈眈（Out of Sight 》v1.1.93 中文版（类似小小梦魇恐怖解密）
+
+夸克：https://pan.quark.cn/s/d4b3d3aacfaf
+
+#### 《钢铁雄心4（Hearts of Iron 4）终结版》v1.17.4.1 全DLC 中文 联机版（新增DLC）
+
+夸克：https://pan.quark.cn/s/f87f94e17c31
+
+#### 《要战便战（Diplomacy is Not an Option 》v1.0.130 中文版
+
+夸克：https://pan.quark.cn/s/d13054962c00
+
+#### 《刀剑神域 彼岸游境（SWORD ART ONLINE Alicization Lycoris）》v3.12 全DLC 中文版
+<section class="no-title-h4">
+
+#### 《刀剑神域 异绊集结（Sword Art Online Last Recollection）豪华版》v1.21 全DLC 中文版
+#### 《刀剑神域 虚空幻界（Sword Art Online Hollow Realization）豪华版》1.00 全DLC 中文版
+#### 《刀剑神域 夺命凶弹（Sword Art Online Fatal Bullet）完整版》v1.7.0 全DLC 中文版
+#### 《刀剑神域 碎梦边境（SWORD ART ONLINE Fractured Daydream 》v1.5.2.0 全DLC 中文版
+</section>
+
+夸克：https://pan.quark.cn/s/bb5134dcb570
+
+#### 《海狸浮生记（Timberborn）》v1.0.12.5 中文版
+
+夸克：https://pan.quark.cn/s/55c358484e79
+
+迅雷：https://pan.xunlei.com/s/VOnv6c_ItIvYXbWJbISzp_EIA1?pwd=g89m
+
+#### 《Total Chaos》v1.0.23 中文版（全面混沌、完全混乱 生成恐怖FPS）
+
+夸克：https://pan.quark.cn/s/c750cdd38c77
+
+#### 《加勒比传奇 海盗时代（Caribbean Legend Age of Pirates）》v1.0.1 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/69374171a9ff
+
+#### 《龙胤立志传》v1.0.0F6.3 中文版
+
+夸克：https://pan.quark.cn/s/c9dc20755576
+
+迅雷：https://pan.xunlei.com/s/VOnlgk6ummic-a4D4UsYNfMVA1?pwd=yvac
+
+#### 《威尔莫特的拼图时光（Wilmot Works It Out）》v89060 中文版
+
+夸克：https://pan.quark.cn/s/0bb4aec91aa1
+
+迅雷：https://pan.xunlei.com/s/VOnhJRNFmbMS5eA_jHm7Y88oA1?pwd=472f
+
+#### 《生存代码（Net Attack）》v2026.3.14 中文版
+
+夸克：https://pan.quark.cn/s/8add1c4c0385
+
+迅雷：https://pan.xunlei.com/s/VOnglr4I5yoJreAETAJ2UUcbA1?pwd=wy63
+
+#### 《说谎公主与盲眼王子（The Liar Princess and the Blind Prince）》v2026.3.13 中文版 (手绘2D冒险)
+
+夸克：https://pan.quark.cn/s/50e9a55e47bd
+
+迅雷：https://pan.xunlei.com/s/VOnbsrpxueVLyWnHzai5x6yIA1?pwd=6adk
+
+#### 《寻宝岛（Collectors Cove）》v1.0.2.7666 中文版
+
+夸克：https://pan.quark.cn/s/c03100cab5c9
+
+迅雷：https://pan.xunlei.com/s/VOnbCUDzGwij2Hva-hbFv4rqA1?pwd=tsqh
+
+#### 《生化危机9》虚拟机绕过D保护游玩补丁（附单独 2DLC 豪华版DLC 和 格蕾丝服饰：天启dlc）
+
+夸克：https://pan.quark.cn/s/bd8babd4aaf1
+
+#### 《TheoTown》v1.12.47b 中文版（建设和管理你的梦想城市）
+
+夸克：https://pan.quark.cn/s/cdf7564fd99f
+
+迅雷：https://pan.xunlei.com/s/VOnX-JZ-tYOZ1jAQ_1QhnQ4sA1?pwd=76jb
+
+#### 《镇邪2（hexbreaker 2）》v2026.3.10 中文 联机版
+<section class="no-title-h4">
+
+#### 《镇邪（Zhenxie》v2023.1.28 中文版
+</section>
+
+夸克：https://pan.quark.cn/s/86026658bd09
+
+#### 《见诡录 色孽（Haunting Record Sins of Lust）》v2.2 中文版（恐怖游戏）
+<section class="no-title-h4">
+
+#### 《见诡录 阴魂街（Haunting Record Phantom Street）》v1.102 中文版（恐怖游戏）
+</section>
+
+夸克：https://pan.quark.cn/s/9ee413282d50
+
+#### 《超级像素战士（Superfighters Deluxe）豪华版》v1.4.2 英文版
+
+夸克：https://pan.quark.cn/s/ba008d9c58ca
+
+#### 《战斗吧 勇者学院（Battle On Hero Academy）》v1.1.45 中文版
+
+夸克：https://pan.quark.cn/s/c8edd4e2b52d
+
+迅雷：https://pan.xunlei.com/s/VOo5YpJETeK35N9LVAp1M1OAA1?pwd=i7ni#
+
+#### 《铁锈战争（Rusted Warfare RTS）》v1.15p10 中文 联机版
+
+夸克：https://pan.quark.cn/s/30577a4df1e0
+
+迅雷：https://pan.xunlei.com/s/VOo5KMz6gNDQ26U2YdoA0IIRA1?pwd=ufag#
+
+#### 《命运石之门 精英（STEINS GATE ELITE）》v3591620 中文版
+<section class="no-title-h4">
+
+#### 《命运石之门（STEINS GATE）》Build.4434295 中文版
+#### 《命运石之门 线形拘束的表征图（STEINS GATE Linear Bounded Phenogram）》Build.4152261 汉化版
+#### 《命运石之门 比翼恋理的爱人（STEINS GATE My Darlings Embrace）》Build.5491638 汉化版
+#### 《命运石之门 0（STEINS GATE 0）》Build.12814074 中文版
+</section>
+
+夸克：https://pan.quark.cn/s/43ce92b0fa1a
 
 #### 《往日不再：破碎之路 重制版（Days Gone Broken Road 》v1.36.187.0 全DLC 中文版
 
