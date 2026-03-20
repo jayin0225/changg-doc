@@ -25,9 +25,11 @@
     <!-- DNS预解析和预连接 -->
     <link rel="dns-prefetch" href="//cdn.jsdelivr.net">
     <link rel="dns-prefetch" href="//unpkg.com">
+    <link rel="dns-prefetch" href="//cdn.bootcdn.net">
     <link rel="dns-prefetch" href="//cravatar.cn">
     <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
     <link rel="preconnect" href="https://unpkg.com" crossorigin>
+    <link rel="preconnect" href="https://cdn.bootcdn.net" crossorigin>
     <link rel="preconnect" href="https://cravatar.cn" crossorigin>
 
     <!-- 规范链接 -->
@@ -54,9 +56,9 @@
         <link rel="stylesheet" href="/assets/css/docsify-vite-coverpage.css" />
     </noscript>
 
-    <!-- docsify核心 JS预加载 -->
-    <link rel="preload" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js" as="script">
-    <link rel="preload" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js" as="script">
+    <!-- docsify核心 JS预加载 - 主CDN: bootcdn -->
+    <link rel="preload" href="https://cdn.bootcdn.net/ajax/libs/docsify/4.13.1/docsify.min.js" as="script">
+    <link rel="preload" href="https://cdn.bootcdn.net/ajax/libs/docsify/4.13.1/plugins/search.min.js" as="script">
 
     <!-- TOC菜单 -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-plugin-toc@1/dist/light.css"
@@ -1356,13 +1358,13 @@
     </script>
 
     <!-- =================== 核心JS文件 =================== -->
-    <!-- docsify核心 - 主CDN: jsdelivr, 备用CDN: unpkg -->
-    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"
-        onerror="this.src='https://unpkg.com/docsify@4/lib/docsify.min.js'"></script>
+    <!-- docsify核心 - 主CDN: bootcdn, 备用CDN: jsdelivr, 第三备用: unpkg -->
+    <script src="https://cdn.bootcdn.net/ajax/libs/docsify/4.13.1/docsify.min.js"
+        onerror="this.onerror=null;this.src='https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js';this.onerror=function(){this.src='https://unpkg.com/docsify@4/lib/docsify.min.js'}"></script>
 
-    <!-- 搜索 - 主CDN: jsdelivr, 备用CDN: unpkg -->
-    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"
-        onerror="this.src='https://unpkg.com/docsify@4/lib/plugins/search.min.js'"></script>
+    <!-- 搜索 - 主CDN: bootcdn, 备用CDN: jsdelivr, 第三备用: unpkg -->
+    <script src="https://cdn.bootcdn.net/ajax/libs/docsify/4.13.1/plugins/search.min.js"
+        onerror="this.onerror=null;this.src='https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js';this.onerror=function(){this.src='https://unpkg.com/docsify@4/lib/plugins/search.min.js'}"></script>
 
     <!-- =================== 插件JS文件 =================== -->
     <!-- 侧边栏折叠 - 主CDN: jsdelivr, 备用CDN: unpkg -->
@@ -1372,9 +1374,9 @@
     <!-- 选项卡 - 主CDN: jsdelivr, 备用CDN: unpkg -->
     <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1/dist/docsify-tabs.min.js"
         onerror="this.src='https://unpkg.com/docsify-tabs@1/dist/docsify-tabs.min.js'"></script>
-    <!-- 外链脚本 - 主CDN: jsdelivr, 备用CDN: unpkg -->
-    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/external-script.js"
-        onerror="this.src='https://unpkg.com/docsify@4/lib/plugins/external-script.js'"></script>
+    <!-- 外链脚本 - 主CDN: bootcdn, 备用CDN: jsdelivr, 第三备用: unpkg -->
+    <script src="https://cdn.bootcdn.net/ajax/libs/docsify/4.13.1/plugins/external-script.min.js"
+        onerror="this.onerror=null;this.src='https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/external-script.js';this.onerror=function(){this.src='https://unpkg.com/docsify@4/lib/plugins/external-script.js'}"></script>
 
     <!-- TOC菜单 - 主CDN: jsdelivr, 备用CDN: unpkg -->
     <script src="https://cdn.jsdelivr.net/npm/docsify-plugin-toc@1/dist/docsify-plugin-toc.min.js"
@@ -1388,13 +1390,13 @@
     <script src="https://cdn.jsdelivr.net/npm/docsify-accordion/src/index.js"
         onerror="this.src='https://unpkg.com/docsify-accordion/src/index.js'"></script>
 
-    <!-- 图片缩放 - 主CDN: jsdelivr, 备用CDN: unpkg -->
-    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"
-        onerror="this.src='https://unpkg.com/docsify@4/lib/plugins/zoom-image.min.js'"></script>
+    <!-- 图片缩放 - 主CDN: bootcdn, 备用CDN: jsdelivr, 第三备用: unpkg -->
+    <script src="https://cdn.bootcdn.net/ajax/libs/docsify/4.13.1/plugins/zoom-image.min.js"
+        onerror="this.onerror=null;this.src='https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js';this.onerror=function(){this.src='https://unpkg.com/docsify@4/lib/plugins/zoom-image.min.js'}"></script>
 
-    <!-- 谷歌分析 - 主CDN: jsdelivr, 备用CDN: unpkg -->
-    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/ga.js"
-        onerror="this.src='https://unpkg.com/docsify@4/lib/plugins/ga.js'"></script>
+    <!-- 谷歌分析 - 主CDN: bootcdn, 备用CDN: jsdelivr, 第三备用: unpkg -->
+    <script src="https://cdn.bootcdn.net/ajax/libs/docsify/4.13.1/plugins/ga.min.js"
+        onerror="this.onerror=null;this.src='https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/ga.js';this.onerror=function(){this.src='https://unpkg.com/docsify@4/lib/plugins/ga.js'}"></script>
 
     <!-- 警报图标样式 - 主CDN: jsdelivr, 备用CDN: unpkg -->
     <script src="https://cdn.jsdelivr.net/npm/docsify-plugin-flexible-alerts"
@@ -1505,12 +1507,10 @@
                         spam: '评论内容包含广告或垃圾信息，已被删除',
                         duplicateContent: '请不要重复发送相同的留言',
                         commentTooFast: '留言太快啦，请慢点！',
-                        comment: '评论',
                         sofa: '快来抢沙发吧~',
                         submit: '提交',
                         reply: '回复',
                         cancelReply: '取消回复',
-                        comment: '评论',
                         refresh: '刷新',
                         more: '加载更多...',
                         preview: '预览',
@@ -1545,7 +1545,6 @@
             var mobileNavMore = document.getElementById('mobileNavMore');
             var mobileNavPopup = document.getElementById('mobileNavPopup');
             var mobileNavSearch = document.getElementById('mobileNavSearch');
-            var mobileNavSearchPopup = document.getElementById('mobileNavSearchPopup');
             var mobileSearchInput = document.getElementById('mobileSearchInput');
             var mobileSearchBtn = document.getElementById('mobileSearchBtn');
             var submenuItems = document.querySelectorAll('.mobile-nav-has-submenu');
