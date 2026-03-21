@@ -53,6 +53,12 @@
 
 夸克：https://pan.quark.cn/s/aeefdbc4c143
 
+#### 《风屿奇航（Everwind）》v0.4.404 中文 联机版
+
+夸克：https://pan.quark.cn/s/39187d4d76e6
+
+迅雷：https://pan.xunlei.com/s/VOoGAdUhj4usb2T6EYVTx9IyA1?pwd=66y6#
+
 #### 《毁灭战士 黑暗时代（DOOM The Dark Ages）高级版》最新 中文版（显卡需支持光线追踪）
 <section class="no-title-h4">
 
@@ -113,7 +119,6 @@
 夸克：https://pan.quark.cn/s/296a2d4242e8
 
 #### 《帝国时代4（Age of Empires IV）周年纪念版》v15.4.8719 全DLC 中文版
-
 <section class="no-title-h4">
 
 #### 《帝国时代3 决定版（Age of Empires III 》v100.15.59076.0 全DLC 中文版（可Radmin LAN联机）
@@ -155,6 +160,15 @@
 #### 《原子之心（Atomic Heart）》v2026.2.8 中文配音 开发版
 
 夸克：https://pan.quark.cn/s/b17d3da70047
+
+#### 《拳皇97 全球对决》v1.0 中文版
+<section class="no-title-h4">
+
+#### 《拳皇98 终极对决 最终版》Build.8170224 中文版
+#### 《拳皇13 全球对决》v2025.2.20 中文版
+</section>
+
+夸克：https://pan.quark.cn/s/b3cc48768abe
 
 ---
 
@@ -7744,10 +7758,6 @@
 #### 《外卖配送员模拟器（Chaos Express Delivery Simulator 》v2025.2.20 中文版
 
 夸克：https://pan.quark.cn/s/08cdaa9bc9d6
-
-#### 《拳皇13：全球对决（The King of Fighters XIII Global Match 》v2025.2.20 中文版
-
-夸克：https://pan.quark.cn/s/b3cc48768abe
 
 #### 《Farlands》v2025.2.20 中文版（像素建造策略模拟）
 
