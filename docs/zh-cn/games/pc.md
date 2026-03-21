@@ -129,6 +129,10 @@
 
 迅雷：https://pan.xunlei.com/s/VNvkevNF72FLBsU58F3MKddHA1?pwd=yzp4#
 
+#### 《僵尸世界大战 劫后余生（World War Z）豪华版》v2026.3.10 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/bb9aa80fd6eb
+
 #### 《神话时代 重述版（Age of Mythology Retold）高级版》v100.19.3090.0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/51201cccd0db
@@ -1357,10 +1361,6 @@
 夸克：https://pan.quark.cn/s/695816605aeb
 
 迅雷：https://pan.xunlei.com/s/VNvhUWt3uQ49eqJ15ZAmFKWFA1?pwd=hsqk#
-
-#### 《僵尸世界大战 劫后余生（World War Z）豪华版》v2.44 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/bb9aa80fd6eb
 
 #### 《学生时代（Student Age 》v1.78 全DLC 中文版
 
