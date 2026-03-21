@@ -157,6 +157,10 @@
 
 夸克：https://pan.quark.cn/s/379c96e02b6c
 
+#### 《Easy Red 2》v2.0.4 全DLC 中文版（浅红2、简红2、轻松挂彩2、易红2）
+
+夸克：https://pan.quark.cn/s/dfa59e4ecd68
+
 #### 《原子之心（Atomic Heart）》v2026.2.8 中文配音 开发版
 
 夸克：https://pan.quark.cn/s/b17d3da70047
@@ -5224,10 +5228,6 @@
 #### 《战锤40K：角斗士之战争圣器（Warhammer 40000 Gladius Relics of War 》v1.16.2 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/067edf0e002b
-
-#### 《Easy Red 2》v1.5.4 全DLC 中文版（浅红2、简红2、轻松挂彩2、易红2）
-
-夸克：https://pan.quark.cn/s/dfa59e4ecd68
 
 #### 《埃里克斯霍姆：被偷走的梦（Eriksholm The Stolen Dream 》v1.3 中文版
 
