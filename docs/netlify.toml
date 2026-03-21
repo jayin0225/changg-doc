@@ -1,9 +1,4 @@
 [[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
-
-[[redirects]]
   from = "http://www.haozy.top/*"
   to = "https://www.haozy.top/:splat"
   status = 301
@@ -14,6 +9,11 @@
   to = "https://www.haozy.top/:splat"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
 
 [[headers]]
   for = "/*"
