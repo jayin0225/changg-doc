@@ -8,7 +8,7 @@
 
 ---
 > **领取夸克1T容量**  
-  打开夸克APP用**手机**保存资源，这样会获得1T的容量。过期可以使用新手机号  
+  打开夸克APP用**手机**保存资源，这样会获得**1T**的容量。过期可以使用新手机号  
   手机端打开链接保存获取**1T容量**：https://pan.quark.cn/s/78b837bcdd7f
 
 > [!TIP|style:callout|label:怎么搜索|iconvisibility:hidden]
