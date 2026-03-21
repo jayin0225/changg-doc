@@ -166,9 +166,12 @@
 
 #### 《拳皇98 终极对决 最终版》Build.8170224 中文版
 #### 《拳皇13 全球对决》v2025.2.20 中文版
+#### 《拳皇15（THE KING OF FIGHTERS XV 》v2.41.0 全DLC 中文 联机版
 </section>
 
 夸克：https://pan.quark.cn/s/b3cc48768abe
+
+迅雷：https://pan.xunlei.com/s/VNyZXhK1tSi1OfyfyqsiTteiA1?pwd=umja#
 
 ---
 
@@ -8286,12 +8289,6 @@
 #### 《森林（The Forest 》v1.12 中文 联机版
 
 夸克：https://pan.quark.cn/s/daf31681fae7
-
-#### 《拳皇15（THE KING OF FIGHTERS XV 》v2.41.0 全DLC 中文版（附联机补丁）
-
-夸克：https://pan.quark.cn/s/655f1d3ffc87
-
-迅雷：https://pan.xunlei.com/s/VNyZXhK1tSi1OfyfyqsiTteiA1?pwd=umja#
 
 #### 《车祸英雄（Turbo Dismount 》v1.33.0 英文版
 
