@@ -21,6 +21,12 @@
 
 **靠前的是最新添加的**
 
+#### 《浴血黑帮 不朽传奇》（2026）4K 内封中字（附美剧1-6季全）
+
+夸克：https://pan.quark.cn/s/e1c8aaff9bc7
+
+迅雷：https://pan.xunlei.com/s/VNpx2CA-5ed8XNX-HRS42yWgA1?pwd=ks6y#
+
 #### 《疯狂动物城2》（2025）4K HDK 国英配音 内封中字
 
 夸克：<https://pan.quark.cn/s/63f36987cd23>
