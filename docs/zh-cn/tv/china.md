@@ -23,9 +23,15 @@
 
 迅雷：https://pan.xunlei.com/s/VOnPkzWFrwgR_qCbkCBd5wyOA1?pwd=hnnv
 
-#### 《江湖夜雨十年灯》（2026）4K 37集 更新中..
+#### 《你好1983》（2026）4K 36集 更新中..
 
-夸克：https://pan.quark.cn/s/f0071a1a8ab5
+夸克：https://pan.quark.cn/s/7c6851454f5a
+
+迅雷：https://pan.xunlei.com/s/VOoGKy2xj4usb2T6EYVU5uEYA1?pwd=wb62#
+
+#### 《江湖夜雨十年灯》（2026）4K 37集全
+
+夸克：https://pan.quark.cn/s/d4481bfc128a
 
 迅雷：https://pan.xunlei.com/s/VOmyGVxhTwgD42nobbkbcxMJA1?pwd=e3ci#
 
