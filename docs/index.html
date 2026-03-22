@@ -56,9 +56,9 @@
         <link rel="stylesheet" href="/assets/css/docsify-vite-coverpage.css" />
     </noscript>
 
-    <!-- docsify核心 JS预加载 - 主CDN: bootcdn -->
-    <link rel="preload" href="https://cdn.bootcdn.net/ajax/libs/docsify/4.13.1/docsify.min.js" as="script">
-    <link rel="preload" href="https://cdn.bootcdn.net/ajax/libs/docsify/4.13.1/plugins/search.min.js" as="script">
+    <!-- docsify核心 JS预加载 - 主CDN: jsdelivr -->
+    <link rel="preload" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js" as="script">
+    <link rel="preload" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js" as="script">
 
     <!-- TOC菜单 -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-plugin-toc@1/dist/light.css"
@@ -1573,7 +1573,6 @@
             notFoundTitle: '页面不存在 - 对酒当歌分享',
             loadFooter: '_footer.md',           // 页脚信息插件
             loadNavbar: false,                   // 加载自定义导航栏,需要目录下有_navbar.md文件
-            ga: 'G-291R66VCRB',     // 谷歌分析ID
             repo: '',
             el: '#app',             // 加载动画
             loadSidebar: '_sidebar.md',      // 指定侧边栏文件，按照 _sidebar.md 来设置菜单
@@ -1658,13 +1657,13 @@
     </script>
 
     <!-- =================== 核心JS文件 =================== -->
-    <!-- docsify核心 - 主CDN: bootcdn, 备用CDN: jsdelivr, 第三备用: unpkg -->
-    <script src="https://cdn.bootcdn.net/ajax/libs/docsify/4.13.1/docsify.min.js"
-        onerror="this.onerror=null;this.src='https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js';this.onerror=function(){this.src='https://unpkg.com/docsify@4/lib/docsify.min.js'}"></script>
+    <!-- docsify核心 - 主CDN: jsdelivr, 备用CDN: unpkg -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"
+        onerror="this.onerror=null;this.src='https://unpkg.com/docsify@4/lib/docsify.min.js'"></script>
 
-    <!-- 搜索 - 主CDN: bootcdn, 备用CDN: jsdelivr, 第三备用: unpkg -->
-    <script src="https://cdn.bootcdn.net/ajax/libs/docsify/4.13.1/plugins/search.min.js"
-        onerror="this.onerror=null;this.src='https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js';this.onerror=function(){this.src='https://unpkg.com/docsify@4/lib/plugins/search.min.js'}"></script>
+    <!-- 搜索 - 主CDN: jsdelivr, 备用CDN: unpkg -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"
+        onerror="this.onerror=null;this.src='https://unpkg.com/docsify@4/lib/plugins/search.min.js'"></script>
 
     <!-- =================== 插件JS文件 =================== -->
     <!-- 侧边栏折叠 - 主CDN: jsdelivr, 备用CDN: unpkg -->
@@ -1686,13 +1685,9 @@
     <script src="https://cdn.jsdelivr.net/npm/docsify-accordion/src/index.js"
         onerror="this.src='https://unpkg.com/docsify-accordion/src/index.js'"></script>
 
-    <!-- 图片缩放 - 主CDN: bootcdn, 备用CDN: jsdelivr, 第三备用: unpkg -->
-    <script src="https://cdn.bootcdn.net/ajax/libs/docsify/4.13.1/plugins/zoom-image.min.js"
-        onerror="this.onerror=null;this.src='https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js';this.onerror=function(){this.src='https://unpkg.com/docsify@4/lib/plugins/zoom-image.min.js'}"></script>
-
-    <!-- 谷歌分析 - 主CDN: bootcdn, 备用CDN: jsdelivr, 第三备用: unpkg -->
-    <script src="https://cdn.bootcdn.net/ajax/libs/docsify/4.13.1/plugins/ga.min.js"
-        onerror="this.onerror=null;this.src='https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/ga.js';this.onerror=function(){this.src='https://unpkg.com/docsify@4/lib/plugins/ga.js'}"></script>
+    <!-- 图片缩放 - 主CDN: jsdelivr, 备用CDN: unpkg -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"
+        onerror="this.onerror=null;this.src='https://unpkg.com/docsify@4/lib/plugins/zoom-image.min.js'"></script>
 
     <!-- 警报图标样式 - 主CDN: jsdelivr, 备用CDN: unpkg -->
     <script src="https://cdn.jsdelivr.net/npm/docsify-plugin-flexible-alerts"
@@ -2490,6 +2485,78 @@
         window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
     </script>
     <script defer src="/_vercel/insights/script.js"></script>
+
+    <!-- =================== JS插件加载性能监控 =================== -->
+    <script>
+        (function() {
+            // 存储每个脚本的加载时间
+            window.scriptLoadTimes = {};
+            
+            // 监听所有脚本加载
+            var originalAppendChild = Element.prototype.appendChild;
+            Element.prototype.appendChild = function(element) {
+                if (element.tagName === 'SCRIPT' && element.src) {
+                    var scriptName = element.src.split('/').pop() || element.src;
+                    var startTime = performance.now();
+                    
+                    console.log('[性能监控] 开始加载: ' + scriptName);
+                    
+                    element.addEventListener('load', function() {
+                        var loadTime = (performance.now() - startTime).toFixed(2);
+                        window.scriptLoadTimes[scriptName] = loadTime;
+                        console.log('[性能监控] 加载完成: ' + scriptName + ' - ' + loadTime + 'ms');
+                    });
+                    
+                    element.addEventListener('error', function() {
+                        console.error('[性能监控] 加载失败: ' + scriptName);
+                    });
+                }
+                return originalAppendChild.apply(this, arguments);
+            };
+            
+            // 页面加载完成后输出汇总
+            window.addEventListener('load', function() {
+                setTimeout(function() {
+                    console.log('%c[性能监控] JS插件加载时间汇总:', 'color: #2196F3; font-size: 14px; font-weight: bold;');
+                    
+                    // 按加载时间排序
+                    var sortedScripts = Object.entries(window.scriptLoadTimes)
+                        .sort(function(a, b) { return b[1] - a[1]; });
+                    
+                    if (sortedScripts.length === 0) {
+                        console.log('[性能监控] 未检测到动态加载的脚本');
+                    } else {
+                        sortedScripts.forEach(function(item) {
+                            var time = parseFloat(item[1]);
+                            var color = time > 1000 ? '#f44336' : time > 500 ? '#ff9800' : '#4caf50';
+                            console.log('%c  ' + item[0] + ': ' + item[1] + 'ms', 'color: ' + color);
+                        });
+                    }
+                    
+                    // 使用 Performance API 获取所有资源加载时间
+                    if (window.performance && window.performance.getEntriesByType) {
+                        var resources = window.performance.getEntriesByType('resource');
+                        var scripts = resources.filter(function(r) { 
+                            return r.initiatorType === 'script' || r.name.endsWith('.js'); 
+                        });
+                        
+                        if (scripts.length > 0) {
+                            console.log('%c[性能监控] 所有JS资源加载时间 (Performance API):', 'color: #2196F3; font-size: 14px; font-weight: bold;');
+                            
+                            scripts.sort(function(a, b) { return b.duration - a.duration; });
+                            
+                            scripts.forEach(function(script) {
+                                var name = script.name.split('/').pop();
+                                var time = script.duration.toFixed(2);
+                                var color = script.duration > 1000 ? '#f44336' : script.duration > 500 ? '#ff9800' : '#4caf50';
+                                console.log('%c  ' + name + ': ' + time + 'ms', 'color: ' + color);
+                            });
+                        }
+                    }
+                }, 1000);
+            });
+        })();
+    </script>
 
 </body>
 
