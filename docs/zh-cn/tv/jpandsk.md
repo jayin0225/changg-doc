@@ -1,4 +1,9 @@
-﻿## 日韩剧
+---
+title: 日韩剧下载 - 日韩电视剧资源分享
+description: 免费分享日韩电视剧资源。包括热门韩剧、日剧等。所有资源均为亲测上传，无水印无广告。
+---
+
+## 日韩剧
 
 <div class="game-nav">
   <a href="/zh-cn/tv/china" class="game-nav-btn">国产剧</a>

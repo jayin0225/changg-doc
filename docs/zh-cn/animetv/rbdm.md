@@ -1,4 +1,9 @@
-﻿## 日本动漫
+---
+title: 日本动漫下载 - 日本动画资源分享
+description: 免费分享日本动漫资源。包括热门新番、经典老番等。所有资源均为亲测上传，无水印无广告。
+---
+
+## 日本动漫
 
 <div class="game-nav">
   <a href="/zh-cn/animetv/gcdm" class="game-nav-btn">国产动漫</a>
