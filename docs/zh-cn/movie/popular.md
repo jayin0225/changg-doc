@@ -1,9 +1,4 @@
----
-title: 热门电影下载 - 最新电影资源分享
-description: 免费分享热门电影资源。包括最新上映电影、近期热门电影等。所有资源均为亲测上传，无水印无广告。
----
-
-## 热门电影（近期电影）
+# 热门电影（近期电影）
 
 <div class="game-nav">
   <a href="#/zh-cn/movie/popular" class="game-nav-btn">热门电影</a>

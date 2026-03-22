@@ -1,9 +1,4 @@
----
-title: 安卓游戏下载 - 手机游戏资源分享
-description: 免费分享安卓手机游戏资源。包括热门游戏、经典游戏等。所有资源均为亲测上传，无水印无广告。
----
-
-## 安卓游戏
+# 安卓游戏
 
 <div class="game-nav">
   <a href="/zh-cn/games/pc" class="game-nav-btn">电脑游戏</a>

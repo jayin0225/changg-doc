@@ -1,9 +1,4 @@
----
-title: 电脑游戏下载 - 高清游戏资源分享
-description: 免费分享电脑游戏资源。包括各类热门游戏、经典游戏等。所有资源均为Win11 25H2亲测上传，无水印无广告。
----
-
-## 电脑游戏
+# 电脑游戏
 
 <div class="game-nav">
   <a href="/zh-cn/games/pc" class="game-nav-btn">电脑游戏</a>

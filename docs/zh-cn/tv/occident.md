@@ -1,9 +1,4 @@
----
-title: 欧美剧下载 - 欧美电视剧资源分享
-description: 免费分享欧美电视剧资源。包括热门美剧、英剧等。所有资源均为亲测上传，无水印无广告。
----
-
-## 欧美剧
+# 欧美剧
 
 <div class="game-nav">
   <a href="/zh-cn/tv/china" class="game-nav-btn">国产剧</a>

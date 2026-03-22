@@ -1,9 +1,4 @@
----
-title: 小朋友动画下载 - 儿童动画资源分享
-description: 免费分享小朋友动画资源。包括儿童动画、亲子动画等。所有资源均为亲测上传，无水印无广告。
----
-
-## 小朋友动画
+# 小朋友动画
 
 <div class="game-nav">
   <a href="/zh-cn/animetv/gcdm" class="game-nav-btn">国产动漫</a>

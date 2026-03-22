@@ -1,9 +1,4 @@
----
-title: 动画电影下载 - 动画电影资源分享
-description: 免费分享动画电影资源。包括迪士尼、皮克斯、宫崎骏等动画电影。所有资源均为亲测上传，无水印无广告。
----
-
-## **电影目录:**
+# 动画电影（电影合集）
 
 <div class="game-nav">
   <a href="/zh-cn/movie/popular" class="game-nav-btn">热门电影</a>

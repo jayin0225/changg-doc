@@ -1,9 +1,4 @@
----
-title: 欧美动漫下载 - 欧美动画资源分享
-description: 免费分享欧美动漫资源。包括热门欧美动画、经典欧美动画等。所有资源均为亲测上传，无水印无广告。
----
-
-## 欧美动漫
+# 欧美动漫
 
 <div class="game-nav">
   <a href="/zh-cn/animetv/gcdm" class="game-nav-btn">国产动漫</a>

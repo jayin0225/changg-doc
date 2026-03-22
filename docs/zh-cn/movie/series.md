@@ -1,9 +1,4 @@
----
-title: 系列电影下载 - 电影合集资源分享
-description: 免费分享系列电影资源。包括漫威宇宙、DC宇宙等电影合集。所有资源均为亲测上传，无水印无广告。
----
-
-## 系列电影（电影合集）
+# 系列电影（电影合集）
 
 <div class="game-nav">
   <a href="#/zh-cn/movie/popular" class="game-nav-btn">热门电影</a>

@@ -1,9 +1,4 @@
----
-title: 国产剧下载 - 国产电视剧资源分享
-description: 免费分享国产电视剧资源。包括热门国产剧、经典国产剧等。所有资源均为亲测上传，无水印无广告。
----
-
-## 国产剧
+# 国产剧
 
 <div class="game-nav">
   <a href="/zh-cn/tv/china" class="game-nav-btn">国产剧</a>

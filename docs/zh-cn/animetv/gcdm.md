@@ -1,9 +1,4 @@
----
-title: 国产动漫下载 - 国产动画资源分享
-description: 免费分享国产动漫资源。包括热门国产动画、经典国产动画等。所有资源均为亲测上传，无水印无广告。
----
-
-## 国产动漫
+# 国产动漫
 
 <div class="game-nav">
   <a href="/zh-cn/animetv/gcdm" class="game-nav-btn">国产动漫</a>
