@@ -1,5 +1,5 @@
-<!-- 电脑游戏每日更新 | 全网最新最全的PC单机游戏免费下载 - 对酒当歌分享 -->
-<!-- _coverpage.md -->
+<h1 class="seo-h1">对酒当歌分享 一个免费分享资源的文档网站，有游戏、电影、电视剧、动漫等等 | 每日更新全网最新最全的PC单机游戏免费下载</h1>
+
 <div class="cover-content">
   <div class="video-container">
     <video autoplay muted loop playsinline>

@@ -60,12 +60,9 @@
 迅雷：https://pan.xunlei.com/s/VOoGAdUhj4usb2T6EYVTx9IyA1?pwd=66y6#
 
 #### 《毁灭战士 黑暗时代（DOOM The Dark Ages）高级版》最新 中文版（显卡需支持光线追踪）
-<section class="no-title-h4">
-
 #### 《毁灭战士2 增强合集版（DOOM plus DOOM II Enhanced）》v2025.4.173 中文版
 #### 《毁灭战士4（DOOM 2016）》v20240321f 全DLC 中文版
 #### 《毁灭战士 永恒（DOOM Eternal）豪华版》v2026.2.12 全DLC 中文版
-</section>
 
 夸克：https://pan.quark.cn/s/5d002d83f9e0
 
@@ -86,21 +83,15 @@
 ## 最近更新
 
 #### 《死亡搁浅2 冥滩之上（DEATH STRANDING 2 ON THE BEACH）豪华版》v1.0.48.0 全DLC 中文配音版
-<section class="no-title-h4">
-
 #### 《死亡搁浅（DEATH STRANDING DIRECTORS CUT）导演剪辑版》v1.004 中文版
-</section>
 
 夸克：https://pan.quark.cn/s/f618becc1c8f
 
 迅雷：https://pan.xunlei.com/s/VNy6LAsi4eAnQARlG4R_5SlpA1?pwd=tbu9#
 
 #### 《仁王3（Nioh 3）豪华版》v1.04.01 全DLC 中文 联机版（新）
-<section class="no-title-h4">
-
 #### 《仁王2（Nioh 2）完全版》v1.28.08 中文 联机版
 #### 《仁王（Nioh）完全版》v1.24.08 中文版
-</section>
 
 夸克：https://pan.quark.cn/s/be850af09c63
 
@@ -119,11 +110,8 @@
 夸克：https://pan.quark.cn/s/296a2d4242e8
 
 #### 《帝国时代4（Age of Empires IV）周年纪念版》v15.4.8719 全DLC 中文版
-<section class="no-title-h4">
-
 #### 《帝国时代3 决定版（Age of Empires III 》v100.15.59076.0 全DLC 中文版（可Radmin LAN联机）
 #### 《帝国时代2 决定版（Age of Empires II 》v101.103.38337.0 全DLC 中文 联机版
-</section>
 
 夸克：https://pan.quark.cn/s/0c0f7a82ce32
 
@@ -170,12 +158,9 @@
 夸克：https://pan.quark.cn/s/b17d3da70047
 
 #### 《拳皇97 全球对决》v1.0 中文版
-<section class="no-title-h4">
-
 #### 《拳皇98 终极对决 最终版》Build.8170224 中文版
 #### 《拳皇13 全球对决》v2025.2.20 中文版
 #### 《拳皇15（THE KING OF FIGHTERS XV 》v2.41.0 全DLC 中文 联机版
-</section>
 
 夸克：https://pan.quark.cn/s/b3cc48768abe
 
@@ -212,10 +197,7 @@
 夸克：https://pan.quark.cn/s/bdfdcea387f0
 
 #### 《冰汽时代（Frostpunk）年度版》v1.6.1 全DLC 中文版
-<section class="no-title-h4">
-
 #### 《冰汽时代2（Frostpunk 2）豪华版》v1.5.4 全DLC 中文配音版
-</section>
 
 夸克：https://pan.quark.cn/s/d1d00e8c72d5
 
@@ -342,13 +324,10 @@
 夸克：https://pan.quark.cn/s/d13054962c00
 
 #### 《刀剑神域 彼岸游境（SWORD ART ONLINE Alicization Lycoris）》v3.12 全DLC 中文版
-<section class="no-title-h4">
-
 #### 《刀剑神域 异绊集结（Sword Art Online Last Recollection）豪华版》v1.21 全DLC 中文版
 #### 《刀剑神域 虚空幻界（Sword Art Online Hollow Realization）豪华版》1.00 全DLC 中文版
 #### 《刀剑神域 夺命凶弹（Sword Art Online Fatal Bullet）完整版》v1.7.0 全DLC 中文版
 #### 《刀剑神域 碎梦边境（SWORD ART ONLINE Fractured Daydream 》v1.5.2.0 全DLC 中文版
-</section>
 
 夸克：https://pan.quark.cn/s/bb5134dcb570
 
@@ -407,18 +386,12 @@
 迅雷：https://pan.xunlei.com/s/VOnX-JZ-tYOZ1jAQ_1QhnQ4sA1?pwd=76jb
 
 #### 《镇邪2（hexbreaker 2）》v2026.3.10 中文 联机版
-<section class="no-title-h4">
-
 #### 《镇邪（Zhenxie》v2023.1.28 中文版
-</section>
 
 夸克：https://pan.quark.cn/s/86026658bd09
 
 #### 《见诡录 色孽（Haunting Record Sins of Lust）》v2.2 中文版（恐怖游戏）
-<section class="no-title-h4">
-
 #### 《见诡录 阴魂街（Haunting Record Phantom Street）》v1.102 中文版（恐怖游戏）
-</section>
 
 夸克：https://pan.quark.cn/s/9ee413282d50
 
@@ -439,13 +412,10 @@
 迅雷：https://pan.xunlei.com/s/VOo5KMz6gNDQ26U2YdoA0IIRA1?pwd=ufag#
 
 #### 《命运石之门 精英（STEINS GATE ELITE）》v3591620 中文版
-<section class="no-title-h4">
-
 #### 《命运石之门（STEINS GATE）》Build.4434295 中文版
 #### 《命运石之门 线形拘束的表征图（STEINS GATE Linear Bounded Phenogram）》Build.4152261 汉化版
 #### 《命运石之门 比翼恋理的爱人（STEINS GATE My Darlings Embrace）》Build.5491638 汉化版
 #### 《命运石之门 0（STEINS GATE 0）》Build.12814074 中文版
-</section>
 
 夸克：https://pan.quark.cn/s/43ce92b0fa1a
 
@@ -498,19 +468,13 @@
 迅雷：https://pan.xunlei.com/s/VOnlaXvx5yoJreAETAJ6D0mmA1?pwd=dzcy
 
 #### 《圣剑传说（Visions of Mana 》v1.0.3.0 全DLC 中文版
-<section class="no-title-h4">
-
 #### 《圣剑传说3 重制版（TRIALS of MANA）》v1.1.1 中文版
-</section>
 
 夸克：https://pan.quark.cn/s/2e3caf2b9c9b
 
 #### 《消逝的光芒：增强版（Dying Light）》v1.54 全DLC 中文 联机版
-<section class="no-title-h4">
-
 #### 《消逝的光芒2 装上阵版（Dying Light 2）豪华版》v1.27.1 全DLC 中文配音 联机版
 #### 《消逝的光芒：困兽（Dying Light The Beast）豪华版》v1.5.1 全DLC 中文配音 联机版
-</section>
 
 夸克：https://pan.quark.cn/s/7cd3766e113d
 
@@ -557,39 +521,30 @@
 夸克：https://pan.quark.cn/s/27a9461af361
 
 #### 《勇者斗恶龙1+2 HD-2D 重制版（DRAGON QUEST III HD 2D Remake）》v1.0.2.0 中文版
-<section class="no-title-h4">
-
 #### 《勇者斗恶龙3 HD-2D 重制版（DRAGON QUEST III HD 2D Remake 》v1.2.1.0 中文版
 #### 《勇者斗恶龙11S：寻觅逝去的时光》v1.0 全DLC 中文 终结版
 #### 《无限神速斩 勇者斗恶龙 达伊的大冒险》1.0.3 中文版 PC版
 #### 《勇者斗恶龙 寻宝探险团 蓝色眼眸与天空罗盘》全DLC 豪华中文版 PC版
 #### 《勇者斗恶龙 创世小玩家2（Dragon Quest Builders 2 》v1.7.3d 全DLC 中文 联机版
 #### 《勇者斗恶龙 创世小玩家 阿雷夫加尔德复兴记（Dragon Quest Builders）》 v1.0.1 中文版
-</section>
 
 夸克：https://pan.quark.cn/s/8ac0b6c43877
 
 迅雷：https://pan.xunlei.com/s/VNv2sfgPQ5xpw3hvX3vP88lTA1?pwd=vzp2#
 
 #### 《伊苏8（Ys VIII Lacrimosa of DANA）数字限定版》v2023.4.2 全DLC 中文版
-<section class="no-title-h4">
-
 #### 《伊苏X -诺曼荣光-（Ys X：Proud Nordics 》v1.0.1 全DLC 中文版
 #### 《伊苏X -北境历险-（Ys X：Nordics 》v2.0.0 全DLC 中文版
 #### 《伊苏9：怪人之夜（Ys IX Monstrum Nox）豪华版》v1.1.4 全DLC 中文版
-</section>
 
 夸克：https://pan.quark.cn/s/0626602d9725
 
 #### 《王国保卫战5 联盟（Kingdom Rush 5 Alliance TD 》v7.00.36 全DLC 中文版（新增巨龙战争DLC）
-<section class="no-title-h4">
-
 #### 《王国保卫战 传奇（Legends of Kingdom Rush 》Build 9031157 中文版（外传 回合制）
 #### 《王国保卫战 复仇（Kingdom Rush Vengeance 》v1.16.3.16 全DLC 中文版
 #### 《王国保卫战 起源（Kingdom Rush Origins 》v4.2.15 中文版
 #### 《王国保卫战 前线（Kingdom Rush Frontiers 》v5.4.07 中文版
 #### 《王国保卫战 初代（Kingdom Rush 》v5.6.12 中文版
-</section>
 
 夸克：https://pan.quark.cn/s/6ebbd43de752
 
@@ -612,20 +567,14 @@
 夸克：https://pan.quark.cn/s/d590ba9f9318
 
 #### 《龙腾世纪2（Dragon Age 2）终极版》v1.04 全DLC 汉化版
-<section class="no-title-h4">
-
 #### 《龙腾世纪 起源（Dragon Age Origins）终极版》v1.05 全DLC 汉化版
 #### 《龙腾世纪3：审判（Dragon Age Inquisition）年度版》v2025.12.31 全DLC 汉化版
 #### 《龙腾世纪：影障守护者（Dragon Age The Veilguard）豪华版》v1.0.0.0 全DLC 中文版
-</section>
 
 夸克：https://pan.quark.cn/s/8b77ccfd6a7f
 
 #### 《战地1、战地2 支持联机、战地3、战地4、战地5》
-<section class="no-title-h4">
-
 #### 《战地风云6（Battlefield 6 》v1.1.2.0 全DLC 中文版
-</section>
 
 夸克：https://pan.quark.cn/s/11019cbca2fb
 
@@ -674,10 +623,7 @@
 夸克：https://pan.quark.cn/s/aeba75d104bf
 
 #### 《拉娜之星2（Planet of Lana 2 》v1.0.13 全DLC 中文版
-<section class="no-title-h4">
-
 #### 《拉娜之星（Planet of Lana 》v1.1.0.0 中文版
-</section>
 
 夸克：https://pan.quark.cn/s/1ccf61a07d10
 
@@ -692,18 +638,12 @@
 迅雷：https://pan.xunlei.com/s/VOn1x_9ygSripejYRyVIkvOhA1?pwd=r4ga#
 
 #### 《崛起2 黑暗水域（Risen 2 Dark Waters）》v1.0.1210 全DLC 汉化版
-<section class="no-title-h4">
-
 #### 《崛起3 泰坦之王（Risen 3 Titan Lords）》v1.2ee 全DLC 汉化版
-</section>
 
 夸克：https://pan.quark.cn/s/b459c82f9841
 
 #### 《杀戮空间2（Killing Floor 2 》v1150 全DLC 中文 联机版
-<section class="no-title-h4">
-
 #### 《杀戮空间3（Killing Floor 3 》Build.19273238 全DLC 中文版（恐怖射击）
-</section>
 
 夸克：https://pan.quark.cn/s/02ab4ad5f5ea
 
@@ -752,10 +692,7 @@
 夸克：https://pan.quark.cn/s/ae94d79246eb
 
 #### 《传颂之物 斩（Utawarerumono ZAN）豪华版》v1.01 全DLC 中文版
-<section class="no-title-h4">
-
 #### 《传颂之物 斩2（Utawarerumono ZAN 2 》v1.0.0 全DLC 中文版
-</section>
 
 夸克：https://pan.quark.cn/s/9c59ad032218
 
@@ -826,10 +763,7 @@
 夸克：https://pan.quark.cn/s/bf2664f019fa
 
 #### 《地球防卫军5（Earth Defense Force 5 》v1.0 全DLC 中文配音版
-<section class="no-title-h4">
-
 #### 《地球防卫军6（Earth Defense Force 6 》v2025.1.25 中文 联机版
-</section>
 
 夸克：https://pan.quark.cn/s/9e1dffbf5c9c
 
@@ -838,10 +772,7 @@
 夸克：https://pan.quark.cn/s/a52ea41277b8
 
 #### 《铁道公司（Railroad Corporation）完全收藏版》v1.1.13425 全DLC 中文 联机版
-<section class="no-title-h4">
-
 #### 《铁道公司2（Railroad Corporation 2 》v1.0.19116 全DLC 中文 联机版
-</section>
 
 夸克：https://pan.quark.cn/s/e7d14ce6636e
 
@@ -940,22 +871,16 @@
 迅雷：https://pan.xunlei.com/s/VO-UqMA1q0RpLJvqr4VXytFnA1?pwd=eh5v#
 
 #### 《德军总部：旧血脉（Wolfenstein The Old Blood 》v1.0 汉化版
-<section class="no-title-h4">
-
 #### 《德军总部：新秩序（Wolfenstein The New Order 》v1.0.0.2 hotfix 全DLC 中文版
 #### 《德军总部：新血脉（Wolfenstein Youngblood）豪华版》Build.11991189 全DLC 中文版
 #### 《德军总部2：新巨像（Wolfenstein II The New Colossus 》v6.5.0.1331 全DLC 中文版
-</section>
 
 夸克：https://pan.quark.cn/s/7ea4d708c9a0
 
 #### 《DMC：鬼泣（DmC Devil May Cry 》v2025.7.9 全DLC 汉化中文版
-<section class="no-title-h4">
-
 #### 《鬼泣 HD合集（Devil May Cry HD Collection 》v1.0 中文版（游戏是HD优化后的1-3部合集版）
 #### 《鬼泣4（Devil May Cry 4）特别版》v21360 全DLC 汉化版
 #### 《鬼泣5（Devil May Cry 5）豪华版》v11025947 全DLC 中文版
-</section>
 
 夸克：https://pan.quark.cn/s/05e4251ad1ad
 
@@ -982,14 +907,9 @@
 夸克：https://pan.quark.cn/s/aaefdc15288f
 
 #### 《英雄传说 闪之轨迹1 改 –Thors Military Academy 1204–》Build.16251270 全DLC 中文版
-<section class="no-title-h4">
-
 #### 《英雄传说 闪之轨迹2 改 -The Erebonian Civil War-》Build.16251088 全DLC 中文版
-
 #### 《英雄传说 闪之轨迹3（The Legend of Heroes Trails of Cold Steel III）豪华版》v1.0.6 全DLC 汉化版
-
 #### 《英雄传说 闪之轨迹4（The Legend of Heroes Trails of Cold Steel IV）豪华版》v1.2.1 全DLC 汉化版
-</section>
 
 夸克：https://pan.quark.cn/s/349ae69a1c46
 
@@ -1002,10 +922,7 @@
 夸克：https://pan.quark.cn/s/75206d28a97a
 
 #### 《专业飞行模拟11（X-Plane 11 》v11.55r2 全DLC 中文版（xplane11）
-<section class="no-title-h4">
-
 #### 《专业飞行模拟12（X-Plane 12 》v12.4.0-r2 全DLC 中文版（xplane12）
-</section>
 
 夸克：https://pan.quark.cn/s/383baacb9dc3
 
@@ -1074,12 +991,9 @@
 夸克：https://pan.quark.cn/s/b2330660a4a8
 
 #### 《生化危机3 重制版（Resident Evil 3 Remake）豪华版》v20230925 全DLC 中文版
-<section class="no-title-h4">
-
 #### 《生化危机4 重制版（Resident Evil 4 Remake）豪华版》Build.21521672 全DLC 中文版（新）
 #### 《生化危机8 村庄（Resident Evil Village 》Build.21519280 全DLC 中文配音 黄金版
 #### 《生化危机 系列合集 10部》最新 黄金版 + 重制版 全DLC 中文版
-</section>
 
 夸克：https://pan.quark.cn/s/744a500cb67e
 
@@ -1206,12 +1120,9 @@
 夸克：https://pan.quark.cn/s/e1be35435129
 
 #### 《丧尸围城 豪华复刻版（Dead Rising Deluxe Remaster 》v1.3.0.0 全DLC 中文版
-<section class="no-title-h4">
-
 #### 《丧尸围城2 绝密档案 （Dead Rising 2 Off the Record 》v623585 全DLC 汉化版
 #### 《丧尸围城3 天启版 （Dead Rising 3 Apocalypse Edition 》v1.0.0.6.Up6 全DLC 中文 联机版
 #### 《丧尸围城4（Dead Rising 4 》v1.0.Up4 全DLC 中文 联机版
-</section>
 
 夸克：https://pan.quark.cn/s/8fb30667fff0
 
@@ -1228,20 +1139,14 @@
 夸克：https://pan.quark.cn/s/044dd2733019
 
 #### 《孤岛危机1 重制版（Crysis Remastered 》v(rc2 82938) 中文版
-<section class="no-title-h4">
-
 #### 《孤岛危机2 重制版（Crysis 2 Remastered 》Build.9461303 中文版
 #### 《孤岛危机3 重制版（Crysis 3 Remastered 》v7983.0.0.1 中文版
-</section>
 
 夸克：https://pan.quark.cn/s/2b6ecf65e866
 
 #### 《狙击精英v2 重制版（Sniper Elite V2 Remastered 》v(SVN 2797 PF 85690) 中文版
-<section class="no-title-h4">
-
 #### 《狙击精英3（Sniper Elite 3 》v1.15a 全DLC 中文 局域网联机版
 #### 《狙击精英4（Sniper Elite 4 》v1.5.0 全DLC 中文 联机版
-</section>
 
 夸克：https://pan.quark.cn/s/50553e18ffa3
 
@@ -1332,11 +1237,8 @@
 夸克：https://pan.quark.cn/s/c6afb4342e8a
 
 #### 《蝙蝠侠 阿卡姆骑士（Batman Arkham Knight）年度版》v1.999 全DLC 汉化版
-<section class="no-title-h4">
-
 #### 《蝙蝠侠：阿卡姆疯人院（Batman Arkham Asylum）年度版》v1.1 全DLC 汉化版
 #### 《蝙蝠侠 阿卡姆之城（Batman Arkham City GOTY）年度版》v1.1 全DLC 汉化版
-</section>
 
 夸克：https://pan.quark.cn/s/484816a4509c
 
@@ -1395,12 +1297,9 @@
 迅雷：https://pan.xunlei.com/s/VNw0-RA9cghaYl5s1nnp86b-A1?pwd=wg7k#
 
 #### 《人中之龙0 誓约的场所 导演剪辑版》v1.15.9088 中文版（如龙0 导演剪辑版）
-<section class="no-title-h4">
-
 #### 《人中之龙 极1（Yakuza Kiwami）终结版》v1.13 中文版（如龙极）
 #### 《人中之龙 极2（Yakuza Kiwami 2）终结版》v1.13 中文版（如龙极2）
 #### 《如龙 系列8部合集》最新 全DLC 中文版（人中之龙）
-</section>
 
 夸克：https://pan.quark.cn/s/e64a1d3125be
 
@@ -11887,3 +11786,4 @@
 夸克：https://pan.quark.cn/s/9aa9720dd675
 
 #### 《逃生试炼》没有可联机的学习版，全程联网，不要在问了
+

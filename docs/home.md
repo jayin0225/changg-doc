@@ -1,11 +1,7 @@
-# 对酒当歌分享 - 一个免费分享资源的文档网站，有游戏、电影、电视剧、动漫等等
+<h1 class="seo-h1">对酒当歌分享 一个免费分享资源的文档网站，有游戏、电影、电视剧、动漫等等 | 每日更新全网最新最全的PC单机游戏免费下载</h1>
 
----
-> [!info|style:callout|label:网站使用帮助：|iconVisibility:hidden]
-> <span style="font-size:16px">点击左侧的 **菜单栏** 快速定位到资源分类，可以在框中输入关键词**搜索**</span>  
-> <span style="font-size:16px">**手机用户**需点击旁边的 **菜单图标** 打开资源分类和搜索栏</span>
-
->手机保存下方夸克链接，会获得**1T**的容量。过期可以使用新手机号再次获取  
+>手机保存下方夸克链接，会获得**1T**的容量。  
+过期使用新手机号再次获取  
 >手机端打开链接保存获取**1T**：https://pan.quark.cn/s/78b837bcdd7f  
 
 > [!TIP|style:callout|label:用户须知|iconvisibility:hidden]

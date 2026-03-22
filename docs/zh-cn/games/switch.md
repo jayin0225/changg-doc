@@ -317,7 +317,6 @@
 迅雷：https://pan.xunlei.com/s/VNtqZeazTXVAZexRrfNzy2eWA1?pwd=4he6#
 
 #### 《星之卡比 系列6部》最新 NS整合 全DLC 中文版
-<section class="no-title-h4">
 
 #### 星之卡比 美食节（卡比的美食节）v1.0.0.a
 #### 星之卡比 新星同盟
@@ -325,7 +324,6 @@
 #### 星之卡比 探索发现
 #### 星之卡比 重返梦幻岛
 #### 星之卡比 猎人队
-</section>
 
 夸克：https://pan.quark.cn/s/8d31bd1bd1d4
 
@@ -569,7 +567,6 @@
 
 夸克：https://pan.quark.cn/s/cf491ba0ef25
 
-<section class="no-title-h4">
 
 #### 《口袋妖怪 游戏合集》掌机模拟器游戏 3DS、GBA、NDS格式（精灵宝可梦 合集）
 #### 《口袋妖怪 太阳月亮 终极版》  
@@ -588,7 +585,6 @@
 #### 《口袋妖怪 白黑2》  
 #### 《口袋妖怪 黑白v3 修正版》  
 
-</section>
 
 夸克：https://pan.quark.cn/s/2fd539e5c219
 
@@ -679,4 +675,5 @@
 #### 《超级马里奥 3D世界＋狂怒世界(Super Mario 3D World+Bowsers Fury)》v1.1.0 NS整合 中文版
 
 夸克：https://pan.quark.cn/s/c1eb1b903f72
+
 
