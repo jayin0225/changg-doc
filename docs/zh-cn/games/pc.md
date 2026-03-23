@@ -57,6 +57,12 @@
 
 迅雷：https://pan.xunlei.com/s/VNtkHEbNiHELy9OOhtQLLAsmA1?pwd=ihmr#
 
+#### 《陨世之泪 涅槃（Fallen Tear The Ascension）》v1.0.1 中文版
+
+夸克：https://pan.quark.cn/s/3bcefbd60e6e
+
+迅雷：https://pan.xunlei.com/s/VOoRP5POn1th0-UTLK0vtcZSA1?pwd=stn2#
+
 #### 《零红蝶 重制版（FATAL FRAME II Crimson Butterfly REMAK）豪华版》v1.02.01 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/aeefdbc4c143
@@ -100,6 +106,10 @@
 夸克：https://pan.quark.cn/s/e7c298cb605a
 
 迅雷：https://pan.xunlei.com/s/VOoOQl3lV1TNwwuCQB9rXvucA1?pwd=5jm3#
+
+#### 《无归（No Return）》v15255988 中文版（恐怖解密）
+
+夸克：https://pan.quark.cn/s/17bef83c8769
 
 #### 《毁灭战士 黑暗时代（DOOM The Dark Ages）高级版》最新 中文版（显卡需支持光线追踪）
 #### 《毁灭战士2 增强合集版（DOOM plus DOOM II Enhanced）》v2025.4.173 中文版
@@ -198,6 +208,15 @@
 #### 《原子之心（Atomic Heart）》v2026.2.8 中文配音 开发版
 
 夸克：https://pan.quark.cn/s/b17d3da70047
+
+#### 《生化危机3 重制版（Resident Evil 3 Remake）豪华版》v20230925 全DLC 中文版
+#### 《生化危机4 重制版（Resident Evil 4 Remake）豪华版》Build.22154679 全DLC 中文版
+#### 《生化危机8 村庄（Resident Evil Village）》Build.21519280 全DLC 中文配音 黄金版
+#### 《生化危机 系列合集 10部》最新 黄金版 + 重制版 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/744a500cb67e
+
+迅雷：https://pan.xunlei.com/s/VO6CGYtzDE-Xj4knMXHABHLbA1?pwd=u98k#
 
 #### 《拳皇97 全球对决》v1.0 中文版
 #### 《拳皇98 终极对决 最终版》Build.8170224 中文版
@@ -1031,15 +1050,6 @@
 #### 《暗使 导演剪辑版（Dark Envoy）》v1.9.2.75237 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/b2330660a4a8
-
-#### 《生化危机3 重制版（Resident Evil 3 Remake）豪华版》v20230925 全DLC 中文版
-#### 《生化危机4 重制版（Resident Evil 4 Remake）豪华版》Build.21521672 全DLC 中文版（新）
-#### 《生化危机8 村庄（Resident Evil Village）》Build.21519280 全DLC 中文配音 黄金版
-#### 《生化危机 系列合集 10部》最新 黄金版 + 重制版 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/744a500cb67e
-
-迅雷：https://pan.xunlei.com/s/VO6CGYtzDE-Xj4knMXHABHLbA1?pwd=u98k#
 
 #### 《喵斯快跑（Muse Dash）》v6.0.1 全DLC 中文版
 
@@ -4557,7 +4567,7 @@
 
 夸克：https://pan.quark.cn/s/4b255ab1cc7d
 
-####）《彩虹（Arco）》v2025.8.22 中文版
+#### 《彩虹（Arco）》v2025.8.22 中文版
 
 夸克：https://pan.quark.cn/s/26800e34c6ae
 
@@ -10886,9 +10896,9 @@
 
 夸克：https://pan.quark.cn/s/445ed34cf3bc
 
-#### 《彩虹六号：围攻》最新 全DLC 豪华中文版
+#### 《彩虹六号 围攻（Tom Clancy's Rainbow Six Siege）豪华版》v14457777 全DLC 中文版
 
-夸克：https://pan.quark.cn/s/fc340826f04b
+夸克：https://pan.quark.cn/s/c320edc14bc9
 
 迅雷：https://pan.xunlei.com/s/VNy6IKbk3VIRk2Lg6fea3HhiA1?pwd=uud3#
 
