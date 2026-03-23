@@ -67,7 +67,7 @@
 
 迅雷：https://pan.xunlei.com/s/VOoOq8DLV1TNwwuCQB9rqHHoA1?pwd=deib#
 
-##### 《南极计划（Nova Antarctica）》v1.2.0 中文版
+#### 《南极计划（Nova Antarctica）》v1.2.0 中文版
 
 夸克：https://pan.quark.cn/s/0438add948ea
 
