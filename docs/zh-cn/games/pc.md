@@ -49,9 +49,33 @@
 ## 最新添加
 !> 新添加及更新的游戏链接里面如果没有文件，就是在上传中，等待上传完毕就会显示...
 
+#### 《双点校园（Two Point Campus）》V2026.3.23 全DLC 中文版
+
+#### 《双点医院（Two Point Hospital）》v1.30.0-0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/ed5dfd67767a
+
+迅雷：https://pan.xunlei.com/s/VNtkHEbNiHELy9OOhtQLLAsmA1?pwd=ihmr#
+
 #### 《零红蝶 重制版（FATAL FRAME II Crimson Butterfly REMAK）豪华版》v1.02.01 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/aeefdbc4c143
+
+#### 《兽物调和 重制版（Kemono Mix Re）》v1.0.0 中文版（生物养成 + 探索模拟）
+
+夸克：https://pan.quark.cn/s/4de273a8d73f
+
+迅雷：https://pan.xunlei.com/s/VOoOq8DLV1TNwwuCQB9rqHHoA1?pwd=deib#
+
+##### 《南极计划（Nova Antarctica）》v1.2.0 中文版
+
+夸克：https://pan.quark.cn/s/0438add948ea
+
+迅雷：https://pan.xunlei.com/s/VOoOdIzn1bn3OsVbosyx-VybA1?pwd=3fdz#
+
+#### 《Fall of an Empire》v1.243 中文版（帝国陨落 帝国的陨落，策略）
+
+夸克：https://pan.quark.cn/s/e1dc6c4cb73f
 
 #### 《风屿奇航（Everwind）》v0.4.404 中文 联机版
 
@@ -113,7 +137,7 @@
 
 夸克：https://pan.quark.cn/s/be850af09c63
 
-#### 《杀戮尖塔2（Slay the Spire 2）》v0.99.1b 中文 联机版（附第1部+安卓版）
+#### 《杀戮尖塔2（Slay the Spire 2）》v0.100.0b 中文 联机版（附第1部+安卓版）
 
 夸克：https://pan.quark.cn/s/4a575dc211fc
 
@@ -2709,8 +2733,6 @@
 
 夸克：https://pan.quark.cn/s/db29fa67fa52
 
-
-
 #### 《魔王的迷宫（Labyrinth Of The Demon King）》v2025.10.27 中文版
 
 夸克：https://pan.quark.cn/s/58fd59b62f59
@@ -2726,7 +2748,6 @@
 #### 《终天教团（Shuten Order）》v1.0.2 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/fa20bd28f40c
-
 
 #### 《猫还在逃吗？（Still It Runs）》v1.0.2 中文版
 
@@ -7272,12 +7293,6 @@
 #### 《Centum》Build.17661080 中文版（像素黑暗叙事冒险）
 
 夸克：https://pan.quark.cn/s/a1e90cced4fc
-
-#### 《双点医院（Two Point Hospital）》v1.30.0-0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/ed5dfd67767a
-
-迅雷：https://pan.xunlei.com/s/VNtkHEbNiHELy9OOhtQLLAsmA1?pwd=ihmr#
 
 #### 《杀戮台球（Rack and Slay）》v1.28b PC 中文版
 
