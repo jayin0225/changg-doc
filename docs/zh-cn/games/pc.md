@@ -218,6 +218,21 @@
 
 迅雷：https://pan.xunlei.com/s/VO6CGYtzDE-Xj4knMXHABHLbA1?pwd=u98k#
 
+#### 《战锤40K 星际战士2（Warhammer 40K Space Marine 2）终极版》v11.3.0.1 全DLC 中文版
+#### 《战锤40K 星际战士（Warhammer 40K Space Marine）周年版》v1.0.156.0 全DLC 中文 联机版
+#### 《战锤40K 战区（Warhammer 40000 Battlesector）豪华版》v1.6.001 全DLC 中文版
+#### 《战锤40K 行商浪人（Warhammer 40000 Rogue Trader）虚空远航版》v1.5.0.293 全DLC 中文版
+#### 《战锤40K 战争黎明 终极版（Warhammer 40000 Dawn of War）终极版》v2025.8.15 中文版
+#### 《战锤40K 角斗士之战争圣器（Warhammer 40000 Gladius Relics of War）》v1.16.2 全DLC 中文版
+#### 《战锤40K 暗潮（Warhammer 40000 Darktide）》v1.6.3427.0 中文 联机版
+#### 《战锤40K 爆矢枪（Warhammer 40K Boltgun）》v1.22.68871.3 全DLC 豪华中文版
+#### 《战锤40K 格雷迪厄斯（Warhammer 40000 Gladius Relics of War）》v1.14.0 全DLC 豪华中文版
+#### 《战锤 末世鼠疫2（Warhammer Vermintide 2）》v5.5.7 全DLC 豪华中文 联机版
+
+夸克：https://pan.quark.cn/s/42d400d7daa0
+
+迅雷：https://pan.xunlei.com/s/VO66AjKFj2GlFllW69pKVBa8A1?pwd=uerd#
+
 #### 《拳皇97 全球对决》v1.0 中文版
 #### 《拳皇98 终极对决 最终版》Build.8170224 中文版
 #### 《拳皇13 全球对决》v2025.2.20 中文版
@@ -991,10 +1006,6 @@
 
 夸克：https://pan.quark.cn/s/45fda4b54570
 
-#### 《战锤40K 战区（Warhammer 40000 Battlesector）豪华版》v1.6.001 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/2cd1e90a428b
-
 #### 《驯牌师（Decktamer）》v1.3.5 中文版
 
 夸克：https://pan.quark.cn/s/45df40302c97
@@ -1207,12 +1218,6 @@
 #### 《阿尼玛 回忆之门 1+2 重制版（Anima Gate of Memories I & II Remaster）》v2025.11.22 中文版
 
 夸克：https://pan.quark.cn/s/beb820c220a6
-
-#### 《战锤40K：星际战士2（Warhammer 40K Space Marine 2）终极版》v11.3.0.1 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/42d400d7daa0
-
-迅雷：https://pan.xunlei.com/s/VO66AjKFj2GlFllW69pKVBa8A1?pwd=uerd#
 
 #### 《模拟山羊3（Goat Simulator 3）》v1.2.0.4.462744 全DLC 中文版
 
@@ -2790,10 +2795,6 @@
 #### 《逃离后室（Escape the backrooms）》v1.2510 中文 联机版
 
 夸克：https://pan.quark.cn/s/e7f7516346d0
-
-#### 《战锤40K：行商浪人（Warhammer 40000 Rogue Trader）虚空远航版》v1.5.0.293 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/2e6eaafeec7e
 
 #### 《首都高赛车（Tokyo Xtreme Racer）》v1.1.0 中文版
 
@@ -4807,10 +4808,6 @@
 
 夸克：https://pan.quark.cn/s/145f23757039
 
-#### 《战锤40K：战争黎明 终极版（Warhammer 40000 Dawn of War）终极版》v2025.8.15 中文版
-
-夸克：https://pan.quark.cn/s/a2ada4dee0ec
-
 #### 《面容采集者（FACEMINER）》v1.2.4 中文版
 
 夸克：https://pan.quark.cn/s/00adfa25641b
@@ -5172,10 +5169,6 @@
 #### 《指环王：夏尔传说（Tales of the Shire A The Lord of The Rings Game）》v2025.7.30 中文版（种田钓鱼做饭）
 
 夸克：https://pan.quark.cn/s/791504d6fd8b
-
-#### 《战锤40K：角斗士之战争圣器（Warhammer 40000 Gladius Relics of War）》v1.16.2 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/067edf0e002b
 
 #### 《埃里克斯霍姆：被偷走的梦（Eriksholm The Stolen Dream）》v1.3 中文版
 
@@ -7598,10 +7591,6 @@
 
 夸克：https://pan.quark.cn/s/3520ffa6be87
 
-#### 《战锤40K 暗潮（Warhammer 40000 Darktide）》v1.6.3427.0 中文 联机版
-
-夸克：https://pan.quark.cn/s/a8243f22ec80
-
 #### 《意航员2（Psychonauts 2）》v1101213 中文版
 
 夸克：https://pan.quark.cn/s/da54ade16625
@@ -8653,10 +8642,6 @@
 #### 《超逼真的攻城模拟器（Extremely Realistic Siege Warfare Simulator）》v0.79.009M 中文 联机版
 
 夸克：https://pan.quark.cn/s/ced7a5319d76
-
-#### 《战锤：末世鼠疫2（Warhammer Vermintide 2）》v5.5.7 全DLC 豪华中文 联机版
-
-夸克：https://pan.quark.cn/s/db2513e2b331
 
 #### 《赦免者（Absolver）》v1.31 全DLC 中文 联机版
 
@@ -10319,14 +10304,6 @@
 #### 《我的幻想乡》v2.1.4 全DLC+奖励内容 豪华中文版
 
 夸克：https://pan.quark.cn/s/182be46aff4e
-
-#### 《战锤40K：爆矢枪（Warhammer 40K Boltgun）》v1.22.68871.3 全DLC 豪华中文版
-
-夸克：https://pan.quark.cn/s/dfd482fa61db
-
-#### 《战锤40K：格雷迪厄斯》最新 全DLC 豪华中文版
-
-夸克：https://pan.quark.cn/s/1b34d30f0314
 
 #### 《王国新大陆（Kingdom New Lands）》V1.2.8 全DLC 中文版
 
