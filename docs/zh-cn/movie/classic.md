@@ -22,6 +22,10 @@
 
 夸克：https://pan.quark.cn/s/302ff98dfef7
 
+#### 《故事的故事》（2015）蓝光1080P 内封中英字幕
+
+夸克：https://pan.quark.cn/s/9725fbacea66
+
 #### 《德州巴黎》（1984）蓝光1080P 中字（德克萨斯的巴黎）
 
 夸克：https://pan.quark.cn/s/ff43079be54d

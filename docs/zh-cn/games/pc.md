@@ -59,6 +59,24 @@
 
 迅雷：https://pan.xunlei.com/s/VOoGAdUhj4usb2T6EYVTx9IyA1?pwd=66y6#
 
+#### 《典当行模拟器（Pawnbroker Simulator）》v1.0.2 中文版
+
+夸克：https://pan.quark.cn/s/892e07b5bc51
+
+迅雷：https://pan.xunlei.com/s/VOoOHhypp0r6zv55i6vsnoJ8A1?pwd=t334#
+
+#### 《刮个爽（Scritchy Scratchy）》v1.0.18d 中文版
+
+夸克：https://pan.quark.cn/s/ae305df6facd
+
+迅雷：https://pan.xunlei.com/s/VOoOSNoFn1th0-UTLK0tnyV7A1?pwd=mn8g#
+
+#### 《她的树 迷梦拼图（HER TREES PUZZLE DREAM）》v1.5 中文版
+
+夸克：https://pan.quark.cn/s/e7c298cb605a
+
+迅雷：https://pan.xunlei.com/s/VOoOQl3lV1TNwwuCQB9rXvucA1?pwd=5jm3#
+
 #### 《毁灭战士 黑暗时代（DOOM The Dark Ages）高级版》最新 中文版（显卡需支持光线追踪）
 #### 《毁灭战士2 增强合集版（DOOM plus DOOM II Enhanced）》v2025.4.173 中文版
 #### 《毁灭战士4（DOOM 2016）》v20240321f 全DLC 中文版
