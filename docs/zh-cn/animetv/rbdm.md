@@ -23,7 +23,13 @@
 
 ## 周一
 
-  
+#### 《地狱乐》（2023-2026）第二季 1080P 更新中..（附第一季）
+
+夸克：https://pan.quark.cn/s/ef5594e4f0c1
+
+迅雷：https://pan.xunlei.com/s/VNoVGlpuekQkzFuJjVqSlk1UA1?pwd=dsf8#
+
+阿里：<https://www.aliyundrive.com/s/bQUNYztB26V>
 
 ---
 
@@ -94,6 +100,10 @@
 ---
 
 ## 近期完结
+
+#### 《黄金神威》（2018-2021）1-5季+OAD+小剧场+全彩漫画+真人版 1080P 简中（山崎贤人）
+
+夸克：https://pan.quark.cn/s/ae0416f21a6b
 
 #### 《灵能百分百》（2016-2022）1-3季全 外挂中字
 
@@ -543,14 +553,6 @@
 
 阿里：<https://www.aliyundrive.com/s/ZK1NirWegGx>
 
-#### 《地狱乐》第一季 1080P高码版 13集全 简中（日漫推荐）
-
-夸克：https://pan.quark.cn/s/ef5594e4f0c1
-
-迅雷：https://pan.xunlei.com/s/VNoVGlpuekQkzFuJjVqSlk1UA1?pwd=dsf8#
-
-阿里：<https://www.aliyundrive.com/s/bQUNYztB26V>
-
 #### 《某科学的超电磁炮》（2019-2020）1-3季 + OVA 1080P高码 外挂中字
 
 夸克：https://pan.quark.cn/s/c9b4a278e45f
@@ -605,7 +607,7 @@
 
 迅雷：https://pan.xunlei.com/s/VO5rP48tCBLzHphEusamskwWA1?pwd=p45p#
 
-#### 《⁡小林家的龙女仆》（2017-2021） 1-2季全 1080P 内嵌中文字幕
+#### 《⁡小林家的龙女仆》（2017-2026）1-2季全+剧场版 1080P 内嵌中文字幕
 
 夸克：https://pan.quark.cn/s/e63548fa41f4
 
@@ -642,10 +644,6 @@
 #### 《铳梦》（1993）720P 内封 日英配音 外挂中字
 
 夸克：https://pan.quark.cn/s/7a7d45123f43
-
-#### 《黄金神威》（2018-2021）1-4季+OAD+小剧场+全彩漫画+真人版电影 1080P 简中（山崎贤人 ）
-
-夸克：https://pan.quark.cn/s/ae0416f21a6b
 
 #### 《哆啦A梦》系列合集 TV版+剧场版+漫画
 
