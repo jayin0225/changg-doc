@@ -57,6 +57,16 @@
 
 迅雷：https://pan.xunlei.com/s/VNtkHEbNiHELy9OOhtQLLAsmA1?pwd=ihmr#
 
+#### 《朝圣者（Peregrino）》v1.1.1 中文版
+
+夸克：https://pan.quark.cn/s/29bc657fd38c
+
+#### 《策术行囊（Pakinpaks）》v1.0.1 中文版（温馨的益智游戏）
+
+夸克：https://pan.quark.cn/s/ec780aaf2b75
+
+迅雷：https://pan.xunlei.com/s/VOoTA27ifb77TwSRBzvTZs0rA1?pwd=g6sv#
+
 #### 《陨世之泪 涅槃（Fallen Tear The Ascension）》v1.0.1 中文版
 
 夸克：https://pan.quark.cn/s/3bcefbd60e6e
@@ -6486,10 +6496,6 @@
 #### 《腐蚀（Rust）》v2588 中文 联机版
 
 夸克：https://pan.quark.cn/s/574f1d55137d
-
-#### 《海狸浮生记（timberborn）》v0.7.8.1 中文版
-
-夸克：https://pan.quark.cn/s/dfe95714e96e
 
 #### 《车祸模拟器（BeamNG.drive）》v0.35.5.0.18098a 中文 联机版
 
