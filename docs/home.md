@@ -1,7 +1,3 @@
----
-description: 对酒当歌分享是一个免费资源站，提供3A大作电脑游戏、Switch游戏、安卓手游、电影、电视剧、动漫、纪录片等海量资源，每日更新，支持夸克网盘、迅雷
----
-
 # 对酒当歌分享 - 海量免费资源分享文档
 
 > [!TIP|style:callout|label:用户须知|iconvisibility:hidden]
