@@ -1,6 +1,5 @@
-<h1 class="seo-h1">对酒当歌分享 一个免费分享资源的文档网站，有游戏、电影、电视剧、动漫等等 | 每日更新全网最新最全的PC单机游戏免费下载</h1>
-
 <div class="cover-content">
+  <h1 class="h1-style">对酒当歌分享<small>每日更新</small></h1>
   <div class="video-container">
     <video autoplay muted loop playsinline>
       <source src="./assets/img/1.mp4" type="video/mp4">
@@ -8,8 +7,6 @@
       <img src="./assets/img/12.gif" alt="图片">
     </video>
   </div>
-
-  <div class="h1-style">对酒当歌分享<small>每日更新</small></div>
 
   <div class="resource-style">一个专业的纯资源分享文档</div>
 </div>
