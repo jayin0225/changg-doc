@@ -121,25 +121,6 @@
 
 夸克：https://pan.quark.cn/s/17bef83c8769
 
-#### 《毁灭战士 黑暗时代（DOOM The Dark Ages）高级版》最新 中文版（显卡需支持光线追踪）
-#### 《毁灭战士2 增强合集版（DOOM plus DOOM II Enhanced）》v2025.4.173 中文版
-#### 《毁灭战士4（DOOM 2016）》v20240321f 全DLC 中文版
-#### 《毁灭战士 永恒（DOOM Eternal）豪华版》v2026.2.12 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/5d002d83f9e0
-
-#### 《Pure Badminton》Build.21335860 中文版（纯正羽毛球）
-
-夸克：https://pan.quark.cn/s/37b2dd7d9a62
-
-迅雷：https://pan.xunlei.com/s/VOoA1W14tqp1u6rcVK1wfCA0A1?pwd=2j62#
-
-#### 《远行星号（starsector）》v0.98aRC8 汉化版
-
-夸克：https://pan.quark.cn/s/18cbbf037337
-
-迅雷：https://pan.xunlei.com/s/VOoApaGzV8ybkrbWNI-bZL3nA1?pwd=cw69#
-
 ---
 
 ## 最近更新
@@ -163,64 +144,15 @@
 
 迅雷：https://pan.xunlei.com/s/VOn16_QKz4Jp1DEcW0xhiiCHA1?pwd=7vj7#
 
-#### 《贪婪之秋2 垂死世界（GreedFall II The Dying World）》Build.21902359 中文版（附第1部）
+#### 《龙胤立志传》v1.0.0F7.5 中文版
 
-夸克：https://pan.quark.cn/s/3fbb5a637da1
+夸克：https://pan.quark.cn/s/c9dc20755576
 
-#### 《严阵以待（Ready or Not）豪华版》v112610 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/296a2d4242e8
-
-#### 《帝国时代4（Age of Empires IV）周年纪念版》v15.4.8719 全DLC 中文版
-#### 《帝国时代3 决定版（Age of Empires III）》v100.15.59076.0 全DLC 中文版（可Radmin LAN联机）
-#### 《帝国时代2 决定版（Age of Empires II）》v101.103.38337.0 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/0c0f7a82ce32
-
-迅雷：https://pan.xunlei.com/s/VNvkevNF72FLBsU58F3MKddHA1?pwd=yzp4#
-
-#### 《僵尸世界大战 劫后余生（World War Z）豪华版》v2026.3.10 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/bb9aa80fd6eb
-
-#### 《神话时代 重述版（Age of Mythology Retold）高级版》v100.19.3090.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/51201cccd0db
-
-#### 《天外世界2（The Outer Worlds 2）高级版》v1.1.0.0 中文版
-
-夸克：https://pan.quark.cn/s/9baad4a27102
-
-#### 《空洞骑士：丝之歌（Hollow Knight Silksong）》v1.0.29909 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/4c68712bb95c
-
-迅雷：https://pan.xunlei.com/s/VOnv9Hmpq8NBKmgcIiAWqvjOA1?pwd=arxu
-
-#### 《苍翼 混沌效应（BlazBlue Entropy Effect）》v1.0.8.140136.0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/dffcc45a56c8
-
-迅雷：https://pan.xunlei.com/s/VNpuBMgpFJ9XqL05KHqG9sl2A1?pwd=v8sz#
-
-#### 《珊瑚岛（Cora Island）豪华版》v1.2.1246 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/f8e8a22deace
-
-#### 《暗黑破坏神2 重制版（Diablo II Resurrected）地狱版》v3.0.91923 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/379c96e02b6c
-
-#### 《Easy Red 2》v2.0.4 全DLC 中文版（浅红2、简红2、轻松挂彩2、易红2）
-
-夸克：https://pan.quark.cn/s/dfa59e4ecd68
-
-#### 《原子之心（Atomic Heart）》v2026.2.8 中文配音 开发版
-
-夸克：https://pan.quark.cn/s/b17d3da70047
+迅雷：https://pan.xunlei.com/s/VOnlgk6ummic-a4D4UsYNfMVA1?pwd=yvac
 
 #### 《生化危机3 重制版（Resident Evil 3 Remake）豪华版》v20230925 全DLC 中文版
 #### 《生化危机4 重制版（Resident Evil 4 Remake）豪华版》Build.22154679 全DLC 中文版
+#### 《生化危机6（Resident Evil 6）》v1.1.0 全DLC 中文 联机版
 #### 《生化危机8 村庄（Resident Evil Village）》Build.21519280 全DLC 中文配音 黄金版
 #### 《生化危机 系列合集 10部》最新 黄金版 + 重制版 全DLC 中文版
 
@@ -397,6 +329,81 @@
 
 ## 已有游戏
 
+#### 《毁灭战士 黑暗时代（DOOM The Dark Ages）高级版》最新 中文版（显卡需支持光线追踪）
+#### 《毁灭战士2 增强合集版（DOOM plus DOOM II Enhanced）》v2025.4.173 中文版
+#### 《毁灭战士4（DOOM 2016）》v20240321f 全DLC 中文版
+#### 《毁灭战士 永恒（DOOM Eternal）豪华版》v2026.2.12 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/5d002d83f9e0
+
+#### 《Pure Badminton》Build.21335860 中文版（纯正羽毛球）
+
+夸克：https://pan.quark.cn/s/37b2dd7d9a62
+
+迅雷：https://pan.xunlei.com/s/VOoA1W14tqp1u6rcVK1wfCA0A1?pwd=2j62#
+
+#### 《远行星号（starsector）》v0.98aRC8 汉化版
+
+夸克：https://pan.quark.cn/s/18cbbf037337
+
+迅雷：https://pan.xunlei.com/s/VOoApaGzV8ybkrbWNI-bZL3nA1?pwd=cw69#
+
+#### 《贪婪之秋2 垂死世界（GreedFall II The Dying World）》Build.21902359 中文版（附第1部）
+
+夸克：https://pan.quark.cn/s/3fbb5a637da1
+
+#### 《严阵以待（Ready or Not）豪华版》v112610 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/296a2d4242e8
+
+#### 《帝国时代4（Age of Empires IV）周年纪念版》v15.4.8719 全DLC 中文版
+#### 《帝国时代3 决定版（Age of Empires III）》v100.15.59076.0 全DLC 中文版（可Radmin LAN联机）
+#### 《帝国时代2 决定版（Age of Empires II）》v101.103.38337.0 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/0c0f7a82ce32
+
+迅雷：https://pan.xunlei.com/s/VNvkevNF72FLBsU58F3MKddHA1?pwd=yzp4#
+
+#### 《僵尸世界大战 劫后余生（World War Z）豪华版》v2026.3.10 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/bb9aa80fd6eb
+
+#### 《神话时代 重述版（Age of Mythology Retold）高级版》v100.19.3090.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/51201cccd0db
+
+#### 《天外世界2（The Outer Worlds 2）高级版》v1.1.0.0 中文版
+
+夸克：https://pan.quark.cn/s/9baad4a27102
+
+#### 《空洞骑士：丝之歌（Hollow Knight Silksong）》v1.0.29909 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/4c68712bb95c
+
+迅雷：https://pan.xunlei.com/s/VOnv9Hmpq8NBKmgcIiAWqvjOA1?pwd=arxu
+
+#### 《苍翼 混沌效应（BlazBlue Entropy Effect）》v1.0.8.140136.0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/dffcc45a56c8
+
+迅雷：https://pan.xunlei.com/s/VNpuBMgpFJ9XqL05KHqG9sl2A1?pwd=v8sz#
+
+#### 《珊瑚岛（Cora Island）豪华版》v1.2.1246 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/f8e8a22deace
+
+#### 《暗黑破坏神2 重制版（Diablo II Resurrected）地狱版》v3.0.91923 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/379c96e02b6c
+
+#### 《Easy Red 2》v2.0.4 全DLC 中文版（浅红2、简红2、轻松挂彩2、易红2）
+
+夸克：https://pan.quark.cn/s/dfa59e4ecd68
+
+#### 《原子之心（Atomic Heart）》v2026.2.8 中文配音 开发版
+
+夸克：https://pan.quark.cn/s/b17d3da70047
+
 #### 《熊视眈眈（Out of Sight）》v1.1.93 中文版（类似小小梦魇恐怖解密）
 
 夸克：https://pan.quark.cn/s/d4b3d3aacfaf
@@ -430,12 +437,6 @@
 #### 《加勒比传奇 海盗时代（Caribbean Legend Age of Pirates）》v1.0.1 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/69374171a9ff
-
-#### 《龙胤立志传》v1.0.0F6.3 中文版
-
-夸克：https://pan.quark.cn/s/c9dc20755576
-
-迅雷：https://pan.xunlei.com/s/VOnlgk6ummic-a4D4UsYNfMVA1?pwd=yvac
 
 #### 《威尔莫特的拼图时光（Wilmot Works It Out）》v89060 中文版
 

@@ -29,6 +29,12 @@
 
 迅雷：https://pan.xunlei.com/s/VOoGKy2xj4usb2T6EYVU5uEYA1?pwd=wb62#
 
+#### 《好好的时光》（2026）4K 40集全
+
+夸克：https://pan.quark.cn/s/00d2845f6eb1
+
+迅雷：https://pan.xunlei.com/s/VOoXli7bI8XO1LJ7bAItNJZfA1?pwd=ycc8#
+
 #### 《江湖夜雨十年灯》（2026）4K 37集全
 
 夸克：和谐
