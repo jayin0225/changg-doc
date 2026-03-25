@@ -57,6 +57,10 @@
 
 迅雷：https://pan.xunlei.com/s/VNtkHEbNiHELy9OOhtQLLAsmA1?pwd=ihmr#
 
+#### 《掠食（Prey）豪华版》v5297220 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/680df3ef7c8a
+
 #### 《朝圣者（Peregrino）》v1.1.1 中文版
 
 夸克：https://pan.quark.cn/s/29bc657fd38c
@@ -99,6 +103,12 @@
 
 迅雷：https://pan.xunlei.com/s/VOoGAdUhj4usb2T6EYVTx9IyA1?pwd=66y6#
 
+#### 《丰作纪（Cropia）》v0.4.1 中文版（开放世界农村生活模拟）
+
+夸克：https://pan.quark.cn/s/f2dc5cbdacc4
+
+迅雷：https://pan.xunlei.com/s/VOoYQ0IJs8dZ6xOsy0_BT2GyA1?pwd=7rpv#
+
 #### 《典当行模拟器（Pawnbroker Simulator）》v1.0.2 中文版
 
 夸克：https://pan.quark.cn/s/892e07b5bc51
@@ -138,17 +148,36 @@
 
 夸克：https://pan.quark.cn/s/be850af09c63
 
+#### 《龙的传人 孤旅（Dragonkin The Banished）》v1.3.66.54113 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/8d2b0b6ea1be
+
 #### 《杀戮尖塔2（Slay the Spire 2）》v0.100.0b 中文 联机版（附第1部+安卓版）
 
 夸克：https://pan.quark.cn/s/4a575dc211fc
 
 迅雷：https://pan.xunlei.com/s/VOn16_QKz4Jp1DEcW0xhiiCHA1?pwd=7vj7#
 
-#### 《龙胤立志传》v1.0.0F7.5 中文版
+#### 《龙胤立志传》v1.0.0F7.5 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/c9dc20755576
 
 迅雷：https://pan.xunlei.com/s/VOnlgk6ummic-a4D4UsYNfMVA1?pwd=yvac
+
+#### 《勇闯死人谷 暗黑之日（Into the Dead Our Darkest Days）》v0.12.18117 中文版
+
+夸克：https://pan.quark.cn/s/652d7102951b
+
+#### 《云之国（Cloudheim）》v98877 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/c6afb4342e8a
+
+#### 《天国拯救2（Kingdom Come Deliverance II）黄金版》v1.5.3 全DLC 中文版
+#### 《天国拯救（Kingdom Come Deliverance）皇家版》v1.9.7 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/7c6b8f30675c
+
+迅雷：https://pan.xunlei.com/s/VO37CRQu2t8RQECID1fHoDG9A1?pwd=ane4#
 
 #### 《生化危机3 重制版（Resident Evil 3 Remake）豪华版》v20230925 全DLC 中文版
 #### 《生化危机4 重制版（Resident Evil 4 Remake）豪华版》Build.22154679 全DLC 中文版
@@ -576,10 +605,6 @@
 #### 《梦幻主义（Onirism）》build.21313783 中文 联机版（奇幻动作冒险）
 
 夸克：https://pan.quark.cn/s/0dc0e9840bcf
-
-#### 《天国拯救2（Kingdom Come Deliverance II）黄金版》v1.5.3 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/7c6b8f30675c
 
 #### 《静默恐惧 老灯塔十五夜（Static Dread）》v2026.3.6 全DLC 中文版（恐怖解密）
 
@@ -1300,10 +1325,6 @@
 
 迅雷：https://pan.xunlei.com/s/VNy6DMCGLQnrFS8e9c2zVJFsA1?pwd=ejxs#
 
-#### 《云之国（Cloudheim）》v94092 中文 联机版
-
-夸克：https://pan.quark.cn/s/c6afb4342e8a
-
 #### 《蝙蝠侠 阿卡姆骑士（Batman Arkham Knight）年度版》v1.999 全DLC 汉化版
 #### 《蝙蝠侠：阿卡姆疯人院（Batman Arkham Asylum）年度版》v1.1 全DLC 汉化版
 #### 《蝙蝠侠 阿卡姆之城（Batman Arkham City GOTY）年度版》v1.1 全DLC 汉化版
@@ -1560,10 +1581,6 @@
 #### 《hololive 滚滚山（hololive GoroGoro Mountain）》v2.0.1 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/92e5ab962799
-
-#### 《勇闯死人谷：暗黑之日（Into the Dead Our Darkest Days）》v0.10.1.16733 中文版
-
-夸克：https://pan.quark.cn/s/652d7102951b
 
 #### 《云族裔（inZOI）》v0.5.3 中文版（韩国模拟人生）
 
@@ -3147,13 +3164,9 @@
 
 夸克：https://pan.quark.cn/s/da09d7e24047
 
-#### 《地狱之刃2：塞娜的传说（Senua’s Saga Hellblade II）增强版》v2025.10.11 中文版
+#### 《地狱之刃2：塞娜的传说（Senuas Saga Hellblade II）增强版》v2025.10.11 中文版
 
 夸克：https://pan.quark.cn/s/d069de18760a
-
-#### 《龙的传人：孤旅（Dragonkin The Banished）》v0.6.35.44610 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/8d2b0b6ea1be
 
 #### 《前学期（Last Term）》v1.01 中文版（校园诡异循环恐怖游戏）
 
@@ -6715,12 +6728,6 @@
 #### 《One Room Dungeon》v1.0.0 中文版（单间地牢？一室地牢？）
 
 夸克：https://pan.quark.cn/s/56f973c7abdf
-
-#### 《天国拯救（Kingdom Come Deliverance）终极版》v1.9.6-404-504czj3 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/69a73ce97f70
-
-迅雷：https://pan.xunlei.com/s/VO37CRQu2t8RQECID1fHoDG9A1?pwd=ane4#
 
 #### 《驱灵者 新伊甸的幽灵（banishers ghosts of new eden）》v1.5.0.0 全DLC 中文版
 

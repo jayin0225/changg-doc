@@ -14,6 +14,12 @@
 
 ---
 
+#### 《周杰伦》FLAC无损专辑.高清修复MV.蓝光演唱会.私人收藏（已刮削）有新专辑 太阳之子
+
+夸克：https://pan.quark.cn/s/5e5f24e9d066
+
+阿里：<https://www.aliyundrive.com/s/3m2ULCyYTnm>
+
 #### 《华语流行乐坛热门歌手成名代表作》首首经典永久珍藏（WAV 无损）543首精选 30GB
 
 夸克：https://pan.quark.cn/s/d8fa3e48fa4f
@@ -57,12 +63,6 @@
 #### 《红馆40场演唱會》多位歌手，音乐合集
 
 夸克：https://pan.quark.cn/s/1feb4833763b
-
-#### 《周杰伦》FLAC无损专辑.高清修复MV.蓝光演唱会.私人收藏（已刮削）
-
-夸克：https://pan.quark.cn/s/5e5f24e9d066
-
-阿里：<https://www.aliyundrive.com/s/3m2ULCyYTnm>
 
 #### 《张国荣告别乐坛演唱会专辑》FLAC无损格式（已刮削）
 
