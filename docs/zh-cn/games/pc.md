@@ -148,6 +148,10 @@
 
 夸克：https://pan.quark.cn/s/be850af09c63
 
+#### 《奇迹时代4（Age of Wonders 4）高级版》v1.012.001.112690 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/692dc066767e
+
 #### 《龙的传人 孤旅（Dragonkin The Banished）》v1.3.66.54113 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/8d2b0b6ea1be
@@ -163,6 +167,12 @@
 夸克：https://pan.quark.cn/s/c9dc20755576
 
 迅雷：https://pan.xunlei.com/s/VOnlgk6ummic-a4D4UsYNfMVA1?pwd=yvac
+
+#### 《太吾绘卷（The Scroll Of Taiwu）》v0.0.76.43 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/e69d68ac66af
+
+迅雷：https://pan.xunlei.com/s/VNvh1F-9zC-W0-qUGAPfVQAnA1?pwd=cmac#
 
 #### 《勇闯死人谷 暗黑之日（Into the Dead Our Darkest Days）》v0.12.18117 中文版
 
@@ -3414,12 +3424,6 @@
 
 夸克：https://pan.quark.cn/s/b8ba8a22c26f
 
-#### 《太吾绘卷（The Scroll Of Taiwu）》v0.0.76.36 中文版
-
-夸克：https://pan.quark.cn/s/e69d68ac66af
-
-迅雷：https://pan.xunlei.com/s/VNvh1F-9zC-W0-qUGAPfVQAnA1?pwd=cmac#
-
 #### 《圣杯誓约（Sworn）》v2025.10.2 中文 联机版
 
 夸克：https://pan.quark.cn/s/e4be77dbb052
@@ -3439,10 +3443,6 @@
 #### 《雨世界（Rain World）豪华版》v1.11.1 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/929f0d8cdd2b
-
-#### 《奇迹时代4（Age of Wonders 4）高级版》v1.012.001.112690 全DLC 中文版（新增DLC）
-
-夸克：https://pan.quark.cn/s/692dc066767e
 
 #### 《忍者神龟：破碎命运（TMNT：Splintered Fate）》v1.11.1 全DLC 豪华中文版
 
