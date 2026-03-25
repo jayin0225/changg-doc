@@ -199,14 +199,15 @@
 
 迅雷：https://pan.xunlei.com/s/VO6CGYtzDE-Xj4knMXHABHLbA1?pwd=u98k#
 
-#### 《战锤40K 星际战士2（Warhammer 40K Space Marine 2）终极版》v11.3.0.1 全DLC 中文版
-#### 《战锤40K 星际战士（Warhammer 40K Space Marine）周年版》v1.0.156.0 全DLC 中文 联机版
+#### 《战锤40K 星际战士2（Warhammer 40000 Space Marine 2）终极版》v11.3.0.1 全DLC 中文版
+#### 《战锤40K 星际战士 大师锻造版》v1.0.156.0 全DLC 中文版
+#### 《战锤40K 星际战士（Warhammer 40000 Space Marine）周年版》v1.0.156.0 全DLC 中文 联机版
 #### 《战锤40K 战区（Warhammer 40000 Battlesector）豪华版》v1.6.001 全DLC 中文版
 #### 《战锤40K 行商浪人（Warhammer 40000 Rogue Trader）虚空远航版》v1.5.0.293 全DLC 中文版
 #### 《战锤40K 战争黎明 终极版（Warhammer 40000 Dawn of War）终极版》v2025.8.15 中文版
 #### 《战锤40K 角斗士之战争圣器（Warhammer 40000 Gladius Relics of War）》v1.16.2 全DLC 中文版
 #### 《战锤40K 暗潮（Warhammer 40000 Darktide）》v1.6.3427.0 中文 联机版
-#### 《战锤40K 爆矢枪（Warhammer 40K Boltgun）》v1.22.68871.3 全DLC 豪华中文版
+#### 《战锤40K 爆矢枪（Warhammer 40000 Boltgun）》v1.22.68871.3 全DLC 豪华中文版
 #### 《战锤40K 格雷迪厄斯（Warhammer 40000 Gladius Relics of War）》v1.14.0 全DLC 豪华中文版
 #### 《战锤 末世鼠疫2（Warhammer Vermintide 2）》v5.5.7 全DLC 豪华中文 联机版
 
