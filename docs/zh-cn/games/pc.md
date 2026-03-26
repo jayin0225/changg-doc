@@ -199,8 +199,8 @@
 
 迅雷：https://pan.xunlei.com/s/VO6CGYtzDE-Xj4knMXHABHLbA1?pwd=u98k#
 
-#### 《战锤40K 星际战士2（Warhammer 40000 Space Marine 2）终极版》v11.3.0.1 全DLC 中文版
-#### 《战锤40K 星际战士 大师锻造版》v1.0.156.0 全DLC 中文版
+#### 《战锤40K 星际战士2（Warhammer 40000 Space Marine 2）超级版》v12.2.0.1 全DLC 中文版
+#### 《战锤40K 星际战士 大师锻造版》v1.0.156.0 全DLC 汉化版
 #### 《战锤40K 星际战士（Warhammer 40000 Space Marine）周年版》v1.0.156.0 全DLC 中文 联机版
 #### 《战锤40K 战区（Warhammer 40000 Battlesector）豪华版》v1.6.001 全DLC 中文版
 #### 《战锤40K 行商浪人（Warhammer 40000 Rogue Trader）虚空远航版》v1.5.0.293 全DLC 中文版
