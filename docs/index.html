@@ -1742,41 +1742,56 @@
                     };
 
                     function updateMeta(path) {
+                        console.log('更新meta信息:', path);
                         var meta = pageMeta[path];
                         if (!meta) {
+                            console.log('未找到精确匹配，尝试子路径匹配');
                             var matched = false;
-                            for (var key in pageMeta) {
-                                if (path.indexOf(key) === 0 && key !== '/' && key !== '/home') {
+                            // 按路径长度降序排序，确保更具体的路径优先匹配
+                            var sortedKeys = Object.keys(pageMeta).sort(function(a, b) {
+                                return b.length - a.length;
+                            });
+                            for (var i = 0; i < sortedKeys.length; i++) {
+                                var key = sortedKeys[i];
+                                if (key !== '/' && key !== '/home' && path.indexOf(key) === 0) {
+                                    console.log('匹配到:', key);
                                     meta = pageMeta[key];
                                     matched = true;
                                     break;
                                 }
                             }
                             if (!matched) {
+                                console.log('未匹配到子路径，使用默认值');
                                 meta = pageMeta['/'];
                             }
                         }
+                        console.log('使用的meta信息:', meta);
 
                         document.title = meta.title;
+                        console.log('更新标题为:', meta.title);
 
                         var descMeta = document.querySelector('meta[name="description"]');
                         if (descMeta) {
                             descMeta.setAttribute('content', meta.description);
+                            console.log('更新description为:', meta.description);
                         }
 
                         var ogTitle = document.querySelector('meta[property="og:title"]');
                         if (ogTitle) {
                             ogTitle.setAttribute('content', meta.title);
+                            console.log('更新og:title为:', meta.title);
                         }
 
                         var ogDesc = document.querySelector('meta[property="og:description"]');
                         if (ogDesc) {
                             ogDesc.setAttribute('content', meta.description);
+                            console.log('更新og:description为:', meta.description);
                         }
                     }
 
                     hook.doneEach(function () {
                         var path = vm.route.path;
+                        console.log('当前路径:', path);
                         updateMeta(path);
 
                         // 页面加载完成后初始化Waline
@@ -1860,40 +1875,31 @@
 
         // Waline初始化函数
         function initWaline() {
-            console.log('[Waline] 尝试初始化...');
-
             const currentPath = window.location.pathname;
-            console.log('[Waline] 当前路径:', currentPath);
-
             const isBbsPage = currentPath.includes('/zh-cn/bbs') || currentPath.includes('/bbs') || currentPath === '/bbs.html';
-            console.log('[Waline] 是否是留言板页面:', isBbsPage);
 
             if (!isBbsPage) {
-                console.log('[Waline] 不是留言板页面，跳过');
                 return;
             }
 
             if (typeof Waline === 'undefined') {
-                console.log('[Waline] Waline对象未定义，动态加载资源');
                 loadWalineResources().then(function () {
                     initWaline();
                 }).catch(function () {
-                    console.error('[Waline] 加载Waline资源失败');
+                    console.error('Waline 资源加载失败');
                 });
                 return;
             }
 
             const container = document.querySelector('#waline');
-            console.log('[Waline] #waline容器:', container);
 
             if (!container) {
-                console.log('[Waline] 未找到#waline容器，跳过');
+                console.error('未找到 #waline 容器');
                 return;
             }
 
             // 检查是否已初始化
             if (container.hasAttribute('data-waline-initialized')) {
-                console.log('[Waline] 已经初始化过，跳过');
                 return;
             }
 
@@ -1958,9 +1964,8 @@
                     texRenderer: false,
                 });
                 container.setAttribute('data-waline-initialized', 'true');
-                console.log('[Waline] 初始化成功');
             } catch (error) {
-                console.error('[Waline] 初始化失败:', error);
+                console.error('Waline 初始化失败:', error);
             }
         }
 
