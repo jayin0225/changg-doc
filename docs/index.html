@@ -287,15 +287,21 @@
             /* 行高 */
             text-decoration: none;
             /* 移除下划线 */
+            transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+            /* 平滑过渡 */
+            display: block;
+            /* 确保transform生效 */
         }
 
         aside.sidebar li a:hover {
             text-decoration: none !important;
             /* 悬停时不显示下划线 */
-            font-size: 1.1rem;
-            /* 字体变大 */
             color: var(--primary-color);
             /* 悬停时改变颜色 */
+            transform: translateX(4px);
+            /* 向右滑动代替字体变大 */
+            transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+            /* 平滑缓动 */
         }
 
         aside.sidebar li.active>a {
@@ -314,7 +320,10 @@
             text-decoration: none !important;
             /* 悬停时不显示下划线 */
             color: var(--primary-color) !important;
-            font-size: 1.1rem;
+            transform: translateX(4px);
+            /* 向右滑动代替字体变大 */
+            transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+            /* 平滑缓动 */
         }
 
 
