@@ -87,6 +87,12 @@
 
 夸克：https://pan.quark.cn/s/aeefdbc4c143
 
+#### 《轰炸机小队（Bomber Crew）豪华版》v23218-96007 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/58684f01601e
+
+迅雷：https://pan.xunlei.com/s/VOoiWkloewrihXOBSMC5KRMiA1?pwd=pyy5#
+
 #### 《兽物调和 重制版（Kemono Mix Re）》v1.0.0 中文版（生物养成 + 探索模拟）
 
 夸克：https://pan.quark.cn/s/4de273a8d73f
