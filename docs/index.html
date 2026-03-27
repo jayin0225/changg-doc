@@ -1192,9 +1192,11 @@
                 display: none;
             }
 
-            /* 隐藏侧边栏 */
-            aside.sidebar {
-                display: none;
+            /* 隐藏侧边栏 - 最高优先级 */
+            aside.sidebar,
+            body.close aside.sidebar,
+            body:not(.close) aside.sidebar {
+                display: none !important;
             }
 
             /* 主内容区域全宽 */
