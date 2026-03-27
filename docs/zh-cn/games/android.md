@@ -34,6 +34,10 @@
 
 迅雷：https://pan.xunlei.com/s/VOn16_QKz4Jp1DEcW0xhiiCHA1?pwd=7vj7#
 
+#### 《小动物自走棋》v194 安卓版
+
+夸克：https://pan.quark.cn/s/2bf9d1e19827
+
 #### 《潜水员戴夫》v1.0.2 安卓版
 
 夸克：https://pan.quark.cn/s/f44361d4f83a

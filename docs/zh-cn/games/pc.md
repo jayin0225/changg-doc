@@ -154,6 +154,11 @@
 
 夸克：https://pan.quark.cn/s/be850af09c63
 
+#### 《镇邪2（hexbreaker 2）》v1.0.17 中文 联机版
+#### 《镇邪（Zhenxie）》v2023.1.28 中文版
+
+夸克：https://pan.quark.cn/s/86026658bd09
+
 #### 《奇迹时代4（Age of Wonders 4）高级版》v1.012.001.112690 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/692dc066767e
@@ -521,11 +526,6 @@
 夸克：https://pan.quark.cn/s/cdf7564fd99f
 
 迅雷：https://pan.xunlei.com/s/VOnX-JZ-tYOZ1jAQ_1QhnQ4sA1?pwd=76jb
-
-#### 《镇邪2（hexbreaker 2）》v2026.3.10 中文 联机版
-#### 《镇邪（Zhenxie）》v2023.1.28 中文版
-
-夸克：https://pan.quark.cn/s/86026658bd09
 
 #### 《见诡录 色孽（Haunting Record Sins of Lust）》v2.2 中文版（恐怖游戏）
 #### 《见诡录 阴魂街（Haunting Record Phantom Street）》v1.102 中文版（恐怖游戏）
