@@ -177,6 +177,18 @@
             /* 加载完成后显示图片 */
         }
 
+        /* =================== 图片 WebP 格式支持 =================== */
+        /* 提供 WebP 回退支持 */
+        picture {
+            display: block;
+            max-width: 100%;
+        }
+
+        picture img {
+            max-width: 100%;
+            height: auto;
+        }
+
         /* =================== 3. 页面加载动画 =================== */
         #app {
             display: flex;
@@ -2077,6 +2089,140 @@
         // Waline初始化由docsify插件系统调用
     </script>
 
+    <!-- 图片懒加载 + WebP 格式支持 -->
+    <script>
+        /**
+         * 图片加载优化模块
+         * 1. 懒加载 - 使用 Intersection Observer
+         * 2. WebP 格式检测与自动切换
+         * 3. 响应式图片支持
+         */
+        (function() {
+            'use strict';
+
+            // WebP 支持检测
+            var webpSupport = {
+                lossy: false,
+                lossless: false,
+                alpha: false,
+                animation: false
+            };
+
+            // 检测 WebP 支持
+            function checkWebpSupport() {
+                return new Promise(function(resolve) {
+                    var webpTests = [
+                        { name: 'lossy', uri: 'data:image/webp;base64,UklGRiIAAABXRUJQVlA4IBYAAAAwAQCdASoBAAEADsD+JaQAA3AAAAAA' },
+                        { name: 'lossless', uri: 'data:image/webp;base64,UklGRhoAAABXRUJQVlA4TA0AAAAvAAAAEAcQERGIiP4HAA==' },
+                        { name: 'alpha', uri: 'data:image/webp;base64,UklGRkoAAABXRUJQVlA4WAoAAAAQAAAAAAAAAAAAQUxQSAwAAAARBxAR/Q9ERP8DAABWUDggGAAAABQBAJ0BKgEAAQAAAP4AAA3AAP7mtQAAAA==' },
+                        { name: 'animation', uri: 'data:image/webp;base64,UklGRlIAAABXRUJQVlA4WAoAAAASAAAAAAAAAAAAQU5JTQYAAAD/////AABBTk1GJgAAAAAAAAAAAAAAAAAAAGQAAABWUDhMDQAAAC8AAAAQBxAREYiI/gcA' }
+                    ];
+
+                    var pending = webpTests.length;
+                    webpTests.forEach(function(test) {
+                        var img = new Image();
+                        img.onload = function() {
+                            webpSupport[test.name] = img.width > 0 && img.height > 0;
+                            pending--;
+                            if (pending === 0) resolve(webpSupport);
+                        };
+                        img.onerror = function() {
+                            pending--;
+                            if (pending === 0) resolve(webpSupport);
+                        };
+                        img.src = test.uri;
+                    });
+                });
+            }
+
+            // 获取最佳图片 URL（WebP 优先）
+            function getOptimalImageUrl(img) {
+                var src = img.dataset.src || img.src;
+                if (!src) return src;
+
+                // 如果支持 WebP，尝试使用 WebP 版本
+                if (webpSupport.lossy || webpSupport.lossless) {
+                    // 检查是否有 data-src-webp 属性
+                    var webpSrc = img.dataset.srcWebp;
+                    if (webpSrc) return webpSrc;
+
+                    // 自动转换常见图片格式为 WebP（如果服务器支持）
+                    if (src.match(/\.(jpg|jpeg|png)(\?.*)?$/i)) {
+                        // 尝试添加 ?format=webp 或使用 .webp 扩展名
+                        // 这里假设服务器支持通过查询参数或路径提供 WebP
+                        var webpUrl = src.replace(/\.(jpg|jpeg|png)(\?.*)?$/i, '.webp$2');
+                        return webpUrl;
+                    }
+                }
+                return src;
+            }
+
+            // 懒加载实现
+            function initLazyLoad() {
+                if (!('IntersectionObserver' in window)) {
+                    // 降级处理：直接加载所有图片
+                    document.querySelectorAll('img[data-src]').forEach(function (img) {
+                        img.src = getOptimalImageUrl(img);
+                        img.classList.add('loaded');
+                    });
+                    return;
+                }
+
+                var imageObserver = new IntersectionObserver(function (entries, observer) {
+                    entries.forEach(function (entry) {
+                        if (entry.isIntersecting) {
+                            var img = entry.target;
+                            var src = getOptimalImageUrl(img);
+                            if (src) {
+                                // 使用 requestIdleCallback 优化加载时机
+                                var loadImage = function() {
+                                    img.src = src;
+                                    img.classList.add('loaded');
+                                    observer.unobserve(img);
+                                };
+
+                                if ('requestIdleCallback' in window) {
+                                    requestIdleCallback(loadImage, { timeout: 100 });
+                                } else {
+                                    loadImage();
+                                }
+                            }
+                        }
+                    });
+                }, {
+                    rootMargin: '50px 0px',
+                    threshold: 0.01
+                });
+
+                // 观察所有带有 data-src 属性的图片
+                document.querySelectorAll('img[data-src]').forEach(function (img) {
+                    imageObserver.observe(img);
+                });
+            }
+
+            // 初始化
+            if (document.readyState === 'loading') {
+                document.addEventListener('DOMContentLoaded', function() {
+                    checkWebpSupport().then(function() {
+                        console.log('[图片优化] WebP 支持:', webpSupport);
+                        initLazyLoad();
+                    });
+                });
+            } else {
+                checkWebpSupport().then(function() {
+                    console.log('[图片优化] WebP 支持:', webpSupport);
+                    initLazyLoad();
+                });
+            }
+
+            // 暴露全局 API
+            window.imageOptimizer = {
+                webpSupport: webpSupport,
+                refresh: initLazyLoad
+            };
+        })();
+    </script>
+
     <!-- 手机端底部导航栏交互 -->
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -2198,7 +2344,7 @@
                 results.forEach(function (result) {
                     var path = result.path || result.url || '#';
                     var title = result.title || '未命名';
-                    html += '<a href="' + escapeHtml(path) + '" class="mobile-search-result-item" data-search-result>' +
+                    html += '<a href="' + encodeURI(path) + '" class="mobile-search-result-item" data-search-result>' +
                         '<svg><use href="#icon-file-alt"/></svg>' +
                         '<span class="mobile-search-result-title">' + escapeHtml(title) + '</span>' +
                         '<svg style="color: #ccc; font-size: 0.75rem;"><use href="#icon-chevron-right"/></svg>' +
@@ -2409,56 +2555,191 @@
         });
     </script>
 
-    <!-- 音乐插件 - 页面完全加载后延迟5秒加载，手机模式下不加载 -->
+    <!-- 代码分割与按需加载模块 -->
     <script>
-        window.addEventListener('load', function () {
-            // 检测是否为手机模式（使用公共函数）
-            if (isMobileDevice()) {
-                return; // 手机模式下不加载音乐
-            }
+        /**
+         * 代码分割加载器 - 按需加载非关键功能
+         * 支持：延迟加载、条件加载、依赖管理
+         */
+        window.ModuleLoader = {
+            loaded: {},
+            loading: {},
 
-            setTimeout(function () {
+            // 加载外部脚本
+            loadScript: function(src, options) {
+                options = options || {};
+                var key = options.name || src;
 
-                // 加载APlayer CSS (带备用CDN)
-                var aplayerCss = document.createElement('link');
-                aplayerCss.rel = 'stylesheet';
-                aplayerCss.href = 'https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.css';
-                aplayerCss.onerror = function () {
-                    this.href = 'https://unpkg.com/aplayer@1/dist/APlayer.min.css';
-                };
-                document.head.appendChild(aplayerCss);
+                if (this.loaded[key]) {
+                    return Promise.resolve();
+                }
+                if (this.loading[key]) {
+                    return this.loading[key];
+                }
 
-                // 加载APlayer JS (带备用CDN)
-                var aplayerJs = document.createElement('script');
-                var aplayerLoadStart = performance.now();
-                aplayerJs.src = 'https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.js';
-                aplayerJs.onload = function () {
-                    if (window.perfMonitor) {
-                        window.perfMonitor.logJsLoad('aplayer', aplayerLoadStart);
-                    }
-                    // 加载Meting JS (带备用CDN)
-                    var metingLoadStart = performance.now();
-                    var metingJs = document.createElement('script');
-                    metingJs.onload = function () {
+                var startTime = performance.now();
+                var self = this;
+
+                this.loading[key] = new Promise(function(resolve, reject) {
+                    var script = document.createElement('script');
+                    script.src = src;
+                    script.async = options.async !== false;
+
+                    script.onload = function() {
+                        self.loaded[key] = true;
+                        delete self.loading[key];
                         if (window.perfMonitor) {
-                            window.perfMonitor.logJsLoad('meting', metingLoadStart);
+                            window.perfMonitor.logJsLoad(key, startTime);
+                        }
+                        resolve();
+                    };
+
+                    script.onerror = function() {
+                        delete self.loading[key];
+                        if (options.fallback) {
+                            // 尝试备用 CDN
+                            script.src = options.fallback;
+                            options.fallback = null;
+                        } else {
+                            reject(new Error('Failed to load: ' + src));
                         }
                     };
-                    metingJs.src = 'https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js';
-                    metingJs.onload = function () {
-                        initMusicPlayer();
+
+                    document.head.appendChild(script);
+                });
+
+                return this.loading[key];
+            },
+
+            // 加载样式表
+            loadStyle: function(href, fallback) {
+                var link = document.createElement('link');
+                link.rel = 'stylesheet';
+                link.href = href;
+                if (fallback) {
+                    link.onerror = function() {
+                        this.href = fallback;
                     };
-                    metingJs.onerror = function () {
-                        this.src = 'https://unpkg.com/meting@2/dist/Meting.min.js';
+                }
+                document.head.appendChild(link);
+            },
+
+            // 条件加载：仅在满足条件时加载
+            loadIf: function(condition, loader) {
+                if (condition) {
+                    return loader();
+                }
+                return Promise.resolve();
+            },
+
+            // 延迟加载：在指定延迟后加载
+            loadLazy: function(loader, delay) {
+                return new Promise(function(resolve) {
+                    setTimeout(function() {
+                        loader().then(resolve).catch(resolve);
+                    }, delay || 0);
+                });
+            },
+
+            // 空闲时加载：使用 requestIdleCallback
+            loadIdle: function(loader, timeout) {
+                return new Promise(function(resolve) {
+                    var doLoad = function() {
+                        loader().then(resolve).catch(resolve);
                     };
-                    document.body.appendChild(metingJs);
-                };
-                aplayerJs.onerror = function () {
-                    this.src = 'https://unpkg.com/aplayer@1/dist/APlayer.min.js';
-                };
-                document.body.appendChild(aplayerJs);
-            }, 5000);
-        });
+
+                    if ('requestIdleCallback' in window) {
+                        requestIdleCallback(doLoad, { timeout: timeout || 2000 });
+                    } else {
+                        setTimeout(doLoad, 100);
+                    }
+                });
+            }
+        };
+    </script>
+
+    <!-- 音乐插件 - 使用代码分割按需加载 -->
+    <script>
+        (function() {
+            // 音乐播放器模块配置
+            var MusicModule = {
+                config: {
+                    enabled: true,
+                    mobileDisabled: true,  // 手机模式下禁用
+                    lazyDelay: 5000,       // 延迟5秒加载
+                    useIdleLoading: true,  // 使用空闲时间加载
+                    maxRetries: 3,
+                    timeout: 10000
+                },
+
+                // 检查是否应该加载
+                shouldLoad: function() {
+                    if (!this.config.enabled) return false;
+                    if (this.config.mobileDisabled && isMobileDevice()) return false;
+                    return true;
+                },
+
+                // 加载依赖
+                loadDependencies: function() {
+                    var loader = window.ModuleLoader;
+
+                    // 加载 CSS
+                    loader.loadStyle(
+                        'https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.css',
+                        'https://unpkg.com/aplayer@1/dist/APlayer.min.css'
+                    );
+
+                    // 按顺序加载 JS
+                    return loader.loadScript('https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.js', {
+                        name: 'aplayer',
+                        fallback: 'https://unpkg.com/aplayer@1/dist/APlayer.min.js'
+                    }).then(function() {
+                        return loader.loadScript('https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js', {
+                            name: 'meting',
+                            fallback: 'https://unpkg.com/meting@2/dist/Meting.min.js'
+                        });
+                    });
+                },
+
+                // 初始化播放器
+                init: function() {
+                    if (!this.shouldLoad()) {
+                        console.log('[音乐模块] 跳过加载（手机模式或已禁用）');
+                        return Promise.resolve();
+                    }
+
+                    var self = this;
+                    var loadFn = function() {
+                        return self.loadDependencies().then(function() {
+                            if (window.initMusicPlayer) {
+                                window.initMusicPlayer();
+                            }
+                        }).catch(function(err) {
+                            console.warn('[音乐模块] 加载失败:', err);
+                        });
+                    };
+
+                    // 使用空闲时间加载
+                    if (this.config.useIdleLoading) {
+                        return window.ModuleLoader.loadIdle(loadFn, this.config.timeout);
+                    } else {
+                        return window.ModuleLoader.loadLazy(loadFn, this.config.lazyDelay);
+                    }
+                }
+            };
+
+            // 页面加载完成后初始化
+            if (document.readyState === 'complete') {
+                MusicModule.init();
+            } else {
+                window.addEventListener('load', function() {
+                    MusicModule.init();
+                });
+            }
+
+            // 暴露到全局
+            window.MusicModule = MusicModule;
+        })();
     </script>
 
     <!-- 音乐插件 配置 -->

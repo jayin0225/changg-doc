@@ -1,10 +1,8 @@
 <div class="cover-content">
   <h1 class="h1-style">对酒当歌分享<small>每日更新</small></h1>
   <div class="video-container">
-    <video autoplay muted loop playsinline>
+    <video autoplay muted loop playsinline preload="metadata">
       <source src="./assets/img/1.mp4" type="video/mp4">
-      <!-- 如果浏览器不支持视频，可以显示一张备用图片 -->
-      <img src="./assets/img/12.gif" alt="图片">
     </video>
   </div>
 
