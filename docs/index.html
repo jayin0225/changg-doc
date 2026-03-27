@@ -1778,7 +1778,7 @@
                     hook.doneEach(function () {
                         var path = vm.route.path;
                         updateMeta(path);
-                        
+
                         // 页面加载完成后初始化Waline
                         if (typeof initWaline === 'function') {
                             initWaline();
@@ -1921,22 +1921,26 @@
                     ],
                     locale: {
                         nick: '昵称',
-                        nickError: '昵称不能少于3个字符',
+                        nickError: '昵称不能小于2字符',
                         mail: '邮箱',
-                        mailError: '请填写正确的邮件地址',
+                        mailError: '邮件地址不正确',
                         word: '字',
                         wordHint: '评论字数应在 $0 到 $1 字之间！\n当前字数：$2',
                         anonymous: '匿名',
                         placeholder: '留言请提供资源类型...',
                         spam: '评论内容包含广告或垃圾信息，已被删除',
-                        duplicateContent: '请不要重复发送相同的留言',
-                        commentTooFast: '留言太快啦，请慢点！',
-                        sofa: '快来抢沙发吧~',
+                        comment: '留言太快啦，请慢点！',
                         submit: '提交',
                         reply: '回复',
                         cancelReply: '取消回复',
+                        level0: '潜水',
+                        level1: '冒泡',
+                        level2: '吐槽',
+                        level3: '活跃',
+                        level4: '话痨',
+                        level5: '传说',
                         refresh: '刷新',
-                        more: '加载更多...',
+                        more: '更多...',
                         preview: '预览',
                         emoji: '表情',
                         seconds: '秒前',
@@ -1949,6 +1953,8 @@
                         sticky: '置顶',
                         required: '必填项',
                         empty: '评论不能为空',
+                        duplicateContent: '请不要重复发送相同的留言',
+                        commentTooFast: '留言太快啦，请慢点！',
                     },
                     highlighter: false,
                     texRenderer: false,
@@ -2458,64 +2464,64 @@
 
     <!-- =================== JS插件加载性能监控 =================== -->
     <script>
-        (function() {
+        (function () {
             // 存储每个脚本的加载时间
             window.scriptLoadTimes = {};
-            
+
             // 监听所有脚本加载
             var originalAppendChild = Element.prototype.appendChild;
-            Element.prototype.appendChild = function(element) {
+            Element.prototype.appendChild = function (element) {
                 if (element.tagName === 'SCRIPT' && element.src) {
                     var scriptName = element.src.split('/').pop() || element.src;
                     var startTime = performance.now();
-                    
+
                     console.log('[性能监控] 开始加载: ' + scriptName);
-                    
-                    element.addEventListener('load', function() {
+
+                    element.addEventListener('load', function () {
                         var loadTime = (performance.now() - startTime).toFixed(2);
                         window.scriptLoadTimes[scriptName] = loadTime;
                         console.log('[性能监控] 加载完成: ' + scriptName + ' - ' + loadTime + 'ms');
                     });
-                    
-                    element.addEventListener('error', function() {
+
+                    element.addEventListener('error', function () {
                         console.error('[性能监控] 加载失败: ' + scriptName);
                     });
                 }
                 return originalAppendChild.apply(this, arguments);
             };
-            
+
             // 页面加载完成后输出汇总
-            window.addEventListener('load', function() {
-                setTimeout(function() {
+            window.addEventListener('load', function () {
+                setTimeout(function () {
                     console.log('%c[性能监控] JS插件加载时间汇总:', 'color: #2196F3; font-size: 14px; font-weight: bold;');
-                    
+
                     // 按加载时间排序
                     var sortedScripts = Object.entries(window.scriptLoadTimes)
-                        .sort(function(a, b) { return b[1] - a[1]; });
-                    
+                        .sort(function (a, b) { return b[1] - a[1]; });
+
                     if (sortedScripts.length === 0) {
                         console.log('[性能监控] 未检测到动态加载的脚本');
                     } else {
-                        sortedScripts.forEach(function(item) {
+                        sortedScripts.forEach(function (item) {
                             var time = parseFloat(item[1]);
                             var color = time > 1000 ? '#f44336' : time > 500 ? '#ff9800' : '#4caf50';
                             console.log('%c  ' + item[0] + ': ' + item[1] + 'ms', 'color: ' + color);
                         });
                     }
-                    
+
                     // 使用 Performance API 获取所有资源加载时间
                     if (window.performance && window.performance.getEntriesByType) {
                         var resources = window.performance.getEntriesByType('resource');
-                        var scripts = resources.filter(function(r) { 
-                            return r.initiatorType === 'script' || r.name.endsWith('.js'); 
+                        var scripts = resources.filter(function (r) {
+                            return r.initiatorType === 'script' || r.name.endsWith('.js');
                         });
-                        
+
                         if (scripts.length > 0) {
                             console.log('%c[性能监控] 所有JS资源加载时间 (Performance API):', 'color: #2196F3; font-size: 14px; font-weight: bold;');
-                            
-                            scripts.sort(function(a, b) { return b.duration - a.duration; });
-                            
-                            scripts.forEach(function(script) {
+
+                            scripts.sort(function (a, b) { return b.duration - a.duration; });
+
+                            scripts.forEach(function (script) {
                                 var name = script.name.split('/').pop();
                                 var time = script.duration.toFixed(2);
                                 var color = script.duration > 1000 ? '#f44336' : script.duration > 500 ? '#ff9800' : '#4caf50';
