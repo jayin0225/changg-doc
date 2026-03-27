@@ -2052,17 +2052,11 @@
                         word: '字',
                         wordHint: '评论字数应在 $0 到 $1 字之间！\n当前字数：$2',
                         anonymous: '匿名',
-                        placeholder: '留言请提供资源类型...',
+                        placeholder: '留言请组织好语言，描述清楚问题，要更新和上新资源请说明资源类型...',
                         spam: '评论内容包含广告或垃圾信息，已被删除',
                         submit: '提交',
                         reply: '回复',
                         cancelReply: '取消回复',
-                        level0: '潜水',
-                        level1: '冒泡',
-                        level2: '吐槽',
-                        level3: '活跃',
-                        level4: '话痨',
-                        level5: '传说',
                         refresh: '刷新',
                         more: '更多...',
                         preview: '预览',
@@ -2432,6 +2426,14 @@
                 // 输入时自动搜索
                 if (mobileSearchInput) {
                     var searchTimeout = null;
+
+                    // 页面卸载时清理定时器
+                    window.addEventListener('beforeunload', function() {
+                        if (searchTimeout) {
+                            clearTimeout(searchTimeout);
+                        }
+                    });
+
                     mobileSearchInput.oninput = function (e) {
                         var keyword = mobileSearchInput.value.trim();
                         if (keyword) {

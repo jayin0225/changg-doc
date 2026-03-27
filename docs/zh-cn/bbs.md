@@ -6,8 +6,8 @@
     5、只分享绿色健康的资源,想要违规资源,免开尊口
 
 ---
-
+## 留言板：
 <p align="center"><b><font color="red">如果留言板没打开,多等一会儿或按一下F5刷新</font></b></p>
 
-## 留言板：
+
 <div id="waline"></div>
