@@ -126,6 +126,11 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-accordion/src/style.css"
         onerror="this.href='https://unpkg.com/docsify-accordion/src/style.css'" />
 
+    <!-- Emoji 字体支持 - 确保所有系统都能显示 -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&display=swap" rel="stylesheet">
+
     <!-- =================== 内联CSS样式 =================== -->
     <style>
         /* =================== 1. CSS变量定义 =================== */
@@ -152,6 +157,9 @@
             /* 标题颜色 */
             --content-margin-inline: 1.25rem;
             /* 内容内边距 */
+
+            /* Emoji 字体栈 - 确保跨平台一致性 */
+            --emoji-font: "Noto Color Emoji", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
             --content-max-width: 110ch;
             /* 内容最大宽度 */
         }
@@ -244,74 +252,116 @@
             animation-delay: 0.7s;
         }
 
-        /* =================== 4. 侧边栏样式 =================== */
+        /* =================== 4. 侧边栏样式 - 优化版 =================== */
         aside.sidebar {
             border: none;
-            /* 移除边框 */
-            box-shadow: 0 15px 35px var(--shadow-color), 0 5px 15px rgba(0, 0, 0, 0.07);
-            /* 阴影效果 */
+            background: linear-gradient(180deg, #ffffff 0%, #f8f9ff 100%);
+            /* 渐变背景 */
+            box-shadow: 4px 0 20px rgba(65, 85, 196, 0.08), 0 0 0 1px rgba(65, 85, 196, 0.05);
+            /* 柔和的蓝色阴影 */
         }
 
-        aside.sidebar li {
-            margin: 0PX;
-            /* 移除外边距 */
-            position: relative;
-            /* 相对定位 */
-            max-width: 56.25rem;
-            /* 最大宽度 */
+        /* 侧边栏标题样式 */
+        aside.sidebar .app-name {
+            padding: 1.5rem 1rem;
+            border-bottom: 1px solid rgba(65, 85, 196, 0.1);
+            margin-bottom: 0.5rem;
         }
 
-        aside.sidebar li p {
-            padding-left: 1.375rem;
-            /* 左内边距 */
-            font-size: 1.375rem;
-            /* 字体大小 */
-            font-weight: normal;
-            /* 正常字重 */
-        }
-
-        aside.sidebar li a {
-            padding: 0.1875rem 0 0.1875rem 1.375rem;
-            /* 内边距 */
-            font-size: var(--base-font-size);
-            /* 使用CSS变量 */
-            line-height: 2.0625rem;
-            /* 行高 */
+        aside.sidebar .app-name-link {
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: var(--primary-color);
             text-decoration: none;
-            /* 移除下划线 */
         }
 
+        /* 菜单项基础样式 */
+        aside.sidebar li {
+            margin: 0.25rem 0.5rem;
+            position: relative;
+            border-radius: 8px;
+            transition: all 0.2s ease;
+        }
+
+        /* 父级菜单标题 */
+        aside.sidebar li p {
+            padding: 0.625rem 1rem 0.625rem 1.5rem;
+            font-size: 0.9375rem;
+            font-weight: 600;
+            color: #2d3748;
+            margin: 0;
+            border-radius: 8px;
+            transition: all 0.2s ease;
+        }
+
+        /* 子菜单链接 */
+        aside.sidebar li a {
+            display: block;
+            padding: 0.5rem 1rem 0.5rem 1.5rem;
+            font-size: 0.875rem;
+            line-height: 1.5;
+            color: #4a5568;
+            text-decoration: none;
+            border-radius: 6px;
+            margin: 0.125rem 0.5rem;
+            transition: all 0.2s ease;
+            border-left: 3px solid transparent;
+        }
+
+        /* 悬停效果 */
         aside.sidebar li a:hover {
-            text-decoration: underline solid rgb(171, 145, 233);
-            /* 悬停时也不显示下划线 */
-            font-size: 1.1rem;
-            /* 字体变大 */
+            text-decoration: none !important;
+            background: rgba(65, 85, 196, 0.06);
+            color: var(--primary-color) !important;
+            border-left-color: var(--primary-color);
+            transform: translateX(2px);
         }
 
+        /* 父级菜单悬停 */
+        aside.sidebar li p:hover {
+            background: rgba(65, 85, 196, 0.08);
+            color: var(--primary-color);
+        }
+
+        /* 激活状态 */
         aside.sidebar li.active>a {
-            font-size: 1.375rem;
+            background: rgba(65, 85, 196, 0.1);
+            color: var(--primary-color) !important;
+            font-weight: 600;
+            border-left-color: var(--primary-color);
         }
 
-        /* 激活状态前的圆点标记 */
+        /* 激活状态前的圆点标记 - 使用主题色 */
         aside.sidebar ul li.active>a:before {
             content: '' !important;
             position: absolute !important;
             top: 0.9375rem !important;
             left: 0 !important;
-            width: 0.625rem !important;
-            height: 0.625rem !important;
+            width: 0.5rem !important;
+            height: 0.5rem !important;
             margin: 0 !important;
-            background-color: var(--accent-color);
-            /* 圆点颜色 */
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            /* 渐变色圆点 */
             border-radius: 50% !important;
             /* 圆形 */
-            box-shadow: 0 0 0 3px rgba(254, 210, 74, 0.4) !important;
-            /* 光晕效果 */
+            box-shadow: 0 0 0 2px rgba(94, 114, 228, 0.3) !important;
+            /* 柔和的蓝色光晕 */
         }
 
         .sidebar-nav>ul>li>ul>li>ul {
             margin-left: 1rem;
             /* 三级菜单缩进 */
+        }
+
+        /* 侧边栏导航链接悬停样式 - 与上面保持一致 */
+        .sidebar-nav li a:hover,
+        .sidebar-nav li a:focus,
+        .sidebar-nav li a:active {
+            text-decoration: none !important;
+            background: rgba(65, 85, 196, 0.06);
+            color: var(--primary-color) !important;
+            border-left-color: var(--primary-color);
+            transform: translateX(2px);
         }
 
 
@@ -1882,26 +1932,50 @@
         onerror="this.src='https://unpkg.com/docsify-sidebar-collapse@1/dist/docsify-sidebar-collapse.js'"></script>
 
     <!-- 选项卡 - 主CDN: jsdelivr, 备用CDN: unpkg -->
+    <script>
+        var tabsLoadStart = performance.now();
+    </script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1/dist/docsify-tabs.min.js"
+        onload="window.perfMonitor && window.perfMonitor.logJsLoad('tabs-plugin', tabsLoadStart);"
         onerror="this.src='https://unpkg.com/docsify-tabs@1/dist/docsify-tabs.min.js'"></script>
     <!-- TOC菜单 - 主CDN: jsdelivr, 备用CDN: unpkg -->
+    <script>
+        var tocLoadStart = performance.now();
+    </script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-plugin-toc@1/dist/docsify-plugin-toc.min.js"
+        onload="window.perfMonitor && window.perfMonitor.logJsLoad('toc-plugin', tocLoadStart);"
         onerror="this.src='https://unpkg.com/docsify-plugin-toc@1/dist/docsify-plugin-toc.min.js'"></script>
 
     <!-- 页脚 - 主CDN: jsdelivr, 备用CDN: unpkg -->
+    <script>
+        var footerLoadStart = performance.now();
+    </script>
     <script src="https://cdn.jsdelivr.net/npm/@alertbox/docsify-footer@1.0.0-0/dist/docsify-footer.min.js"
+        onload="window.perfMonitor && window.perfMonitor.logJsLoad('footer-plugin', footerLoadStart);"
         onerror="this.src='https://unpkg.com/@alertbox/docsify-footer@1.0.0-0/dist/docsify-footer.min.js'"></script>
 
     <!-- Docsify手风琴 - 主CDN: jsdelivr, 备用CDN: unpkg -->
+    <script>
+        var accordionLoadStart = performance.now();
+    </script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-accordion/src/index.js"
+        onload="window.perfMonitor && window.perfMonitor.logJsLoad('accordion-plugin', accordionLoadStart);"
         onerror="this.src='https://unpkg.com/docsify-accordion/src/index.js'"></script>
 
     <!-- 图片缩放 - 主CDN: jsdelivr, 备用CDN: unpkg -->
+    <script>
+        var zoomImageLoadStart = performance.now();
+    </script>
     <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"
+        onload="window.perfMonitor && window.perfMonitor.logJsLoad('zoom-image-plugin', zoomImageLoadStart);"
         onerror="this.onerror=null;this.src='https://unpkg.com/docsify@4/lib/plugins/zoom-image.min.js'"></script>
 
     <!-- 警报图标样式 - 主CDN: jsdelivr, 备用CDN: unpkg -->
+    <script>
+        var alertsLoadStart = performance.now();
+    </script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-plugin-flexible-alerts"
+        onload="window.perfMonitor && window.perfMonitor.logJsLoad('alerts-plugin', alertsLoadStart);"
         onerror="this.src='https://unpkg.com/docsify-plugin-flexible-alerts'"></script>
 
     <!-- =================== 功能JS脚本 =================== -->
@@ -1919,8 +1993,12 @@
                 document.head.appendChild(cssLink);
 
                 var script = document.createElement('script');
+                var walineLoadStart = performance.now();
                 script.src = 'https://cdn.jsdelivr.net/npm/@waline/client@3/dist/waline.umd.js';
                 script.onload = function () {
+                    if (window.perfMonitor) {
+                        window.perfMonitor.logJsLoad('waline-client', walineLoadStart);
+                    }
                     resolve();
                 };
                 script.onerror = function () {
@@ -2388,10 +2466,20 @@
 
                 // 加载APlayer JS (带备用CDN)
                 var aplayerJs = document.createElement('script');
+                var aplayerLoadStart = performance.now();
                 aplayerJs.src = 'https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.js';
                 aplayerJs.onload = function () {
+                    if (window.perfMonitor) {
+                        window.perfMonitor.logJsLoad('aplayer', aplayerLoadStart);
+                    }
                     // 加载Meting JS (带备用CDN)
+                    var metingLoadStart = performance.now();
                     var metingJs = document.createElement('script');
+                    metingJs.onload = function () {
+                        if (window.perfMonitor) {
+                            window.perfMonitor.logJsLoad('meting', metingLoadStart);
+                        }
+                    };
                     metingJs.src = 'https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js';
                     metingJs.onload = function () {
                         initMusicPlayer();
@@ -2429,28 +2517,63 @@
 
     <script>
         // 音乐播放器初始化 - 在插件加载完成后调用
-        function initMusicPlayer() {
-            if (window.APlayer && window.customElements && window.customElements.get('meting-js')) {
-                var container = document.getElementById('music-player');
-                var metingEl = document.createElement('meting-js');
-                metingEl.setAttribute('id', '8925762343');
-                metingEl.setAttribute('server', 'netease');
-                metingEl.setAttribute('type', 'playlist');
-                metingEl.setAttribute('fixed', 'true');
-                metingEl.setAttribute('autoplay', 'false');
-                metingEl.setAttribute('theme', '#b7daff');
-                metingEl.setAttribute('loop', 'none');
-                metingEl.setAttribute('order', 'random');
-                metingEl.setAttribute('volume', '0.6');
-                metingEl.setAttribute('mutex', 'true');
-                metingEl.setAttribute('lrc-type', '1');
-                metingEl.setAttribute('preload', 'none');
-                metingEl.setAttribute('list-folded', 'true');
-                container.appendChild(metingEl);
-            } else {
-                setTimeout(initMusicPlayer, 200);
+        (function() {
+            var musicRetryCount = 0;
+            var maxMusicRetries = 3; // 最多重试3次
+            var musicRetryTimer = null;
+            var musicStartTime = performance.now();
+            var maxWaitTime = 10000; // 最长等待10秒
+
+            function initMusicPlayer() {
+                // 检查是否超时
+                if (performance.now() - musicStartTime > maxWaitTime) {
+                    console.warn('[性能警告] 音乐播放器初始化超时（10秒）');
+                    return;
+                }
+
+                if (window.APlayer && window.customElements && window.customElements.get('meting-js')) {
+                    var container = document.getElementById('music-player');
+                    if (!container) return;
+
+                    var metingEl = document.createElement('meting-js');
+                    metingEl.setAttribute('id', '8925762343');
+                    metingEl.setAttribute('server', 'netease');
+                    metingEl.setAttribute('type', 'playlist');
+                    metingEl.setAttribute('fixed', 'true');
+                    metingEl.setAttribute('autoplay', 'false');
+                    metingEl.setAttribute('theme', '#b7daff');
+                    metingEl.setAttribute('loop', 'none');
+                    metingEl.setAttribute('order', 'random');
+                    metingEl.setAttribute('volume', '0.6');
+                    metingEl.setAttribute('mutex', 'true');
+                    metingEl.setAttribute('lrc-type', '1');
+                    metingEl.setAttribute('preload', 'none');
+                    metingEl.setAttribute('list-folded', 'true');
+                    container.appendChild(metingEl);
+
+                    if (window.perfMonitor) {
+                        console.log('[性能监控] 音乐播放器初始化成功');
+                    }
+                } else {
+                    musicRetryCount++;
+                    if (musicRetryCount < maxMusicRetries) {
+                        musicRetryTimer = setTimeout(initMusicPlayer, 200);
+                    } else {
+                        console.warn('[性能警告] 音乐播放器初始化失败，已达到最大重试次数（3次）');
+                    }
+                }
             }
-        }
+
+            // 页面卸载时清理定时器
+            window.addEventListener('beforeunload', function() {
+                if (musicRetryTimer) {
+                    clearTimeout(musicRetryTimer);
+                }
+            });
+
+            // 暴露到全局供其他代码调用
+            window.initMusicPlayer = initMusicPlayer;
+        })();
     </script>
 
     <script type="text/javascript">
