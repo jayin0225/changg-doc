@@ -10,40 +10,78 @@
 <p align="center"><b><font color="red">如果留言板没打开,多等一会儿或按一下F5刷新</font></b></p>
 
 ## 留言板：
-
-<head>
-<!-- Waline 评论系统 -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@waline/client@3/dist/waline.css" onerror="this.href='https://unpkg.com/@waline/client@v3/dist/waline.css'">
-</head>
-<body>
 <div id="waline"></div>
-<script src="https://cdn.jsdelivr.net/npm/@waline/client@3/dist/waline.umd.js" onerror="this.src='https://unpkg.com/@waline/client@v3/dist/waline.umd.js'">
-</script>
+
+<!-- Waline 评论系统 -->
 <script>
-    // 页面加载完成后初始化 Waline
-    document.addEventListener('DOMContentLoaded', function() {
-        console.log('[Waline] 尝试初始化...');
+    // 动态加载 Waline 资源
+    function loadWalineResources() {
+        return new Promise(function(resolve, reject) {
+            // 加载 CSS
+            var cssLink = document.createElement('link');
+            cssLink.rel = 'stylesheet';
+            cssLink.href = 'https://cdn.jsdelivr.net/npm/@waline/client@3/dist/waline.css';
+            cssLink.onerror = function() {
+                this.href = 'https://unpkg.com/@waline/client@v3/dist/waline.css';
+            };
+            document.head.appendChild(cssLink);
+
+            // 加载 JS
+            var script = document.createElement('script');
+            script.src = 'https://cdn.jsdelivr.net/npm/@waline/client@3/dist/waline.umd.js';
+            script.onload = function() {
+                resolve();
+            };
+            script.onerror = function() {
+                this.src = 'https://unpkg.com/@waline/client@v3/dist/waline.umd.js';
+                this.onload = function() {
+                    resolve();
+                };
+                this.onerror = function() {
+                    reject('Waline 资源加载失败');
+                };
+            };
+            document.body.appendChild(script);
+        });
+    }
+
+    // 初始化 Waline
+    function initWaline() {
+        console.log('[Waline] 开始初始化...');
         
+        // 等待文档准备就绪
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', function() {
+                initWaline();
+            });
+            return;
+        }
+        
+        // 查找容器
         const container = document.querySelector('#waline');
         console.log('[Waline] #waline 容器:', container);
         
         if (!container) {
-            console.log('[Waline] 未找到 #waline 容器，跳过');
+            console.log('[Waline] 未找到 #waline 容器，1秒后重试...');
+            setTimeout(initWaline, 1000);
             return;
         }
         
-        // 检查是否已初始化
-        if (container.hasAttribute('data-waline-initialized')) {
-            console.log('[Waline] 已经初始化过，跳过');
-            return;
-        }
-        
+        // 检查 Waline 对象
         if (typeof Waline === 'undefined') {
-            console.error('[Waline] Waline 对象未定义，初始化失败');
+            console.log('[Waline] Waline 对象未定义，加载资源...');
+            loadWalineResources().then(function() {
+                setTimeout(initWaline, 500);
+            }).catch(function(error) {
+                console.error('[Waline] 加载资源失败:', error);
+            });
             return;
         }
         
-    init({
+        // 初始化 Waline
+        try {
+            console.log('[Waline] 执行初始化...');
+            Waline.init({
                 el: '#waline',
                 serverURL: 'https://waline.haozy.top',
                 lang: 'zh-CN',
@@ -101,11 +139,26 @@
                 highlighter: false,
                 texRenderer: false,
             });
-            container.setAttribute('data-waline-initialized', 'true');
             console.log('[Waline] 初始化成功');
         } catch (error) {
             console.error('[Waline] 初始化失败:', error);
         }
-    });
+    }
+
+    // 使用 docsify 钩子初始化
+    if (typeof window.$docsify !== 'undefined') {
+        console.log('[Waline] 使用 docsify 钩子初始化');
+        window.$docsify.plugins = (window.$docsify.plugins || []).concat([
+            function(hook, vm) {
+                hook.doneEach(function() {
+                    console.log('[Waline] docsify 页面加载完成，初始化 Waline');
+                    initWaline();
+                });
+            }
+        ]);
+    } else {
+        // 直接初始化
+        console.log('[Waline] 直接初始化');
+        initWaline();
+    }
 </script>
-</body>
