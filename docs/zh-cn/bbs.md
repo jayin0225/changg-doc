@@ -10,10 +10,13 @@
 <p align="center"><b><font color="red">如果留言板没打开,多等一会儿或按一下F5刷新</font></b></p>
 
 ## 留言板：
-<div id="waline"></div>
 
+<head>
 <!-- Waline 评论系统 -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@waline/client@3/dist/waline.css" onerror="this.href='https://unpkg.com/@waline/client@v3/dist/waline.css'">
+</head>
+<body>
+<div id="waline"></div>
 <script src="https://cdn.jsdelivr.net/npm/@waline/client@3/dist/waline.umd.js" onerror="this.src='https://unpkg.com/@waline/client@v3/dist/waline.umd.js'">
 </script>
 <script>
@@ -40,8 +43,7 @@
             return;
         }
         
-        try {
-            Waline.init({
+    init({
                 el: '#waline',
                 serverURL: 'https://waline.haozy.top',
                 lang: 'zh-CN',
@@ -62,7 +64,6 @@
                     'https://cdn.jsdelivr.net/npm/@waline/emojis@1.4.0/qq',
                     'https://cdn.jsdelivr.net/npm/@waline/emojis@1.4.0/bilibili',
                 ],
-                
                 locale: {
                     nickRequired: "请输入昵称",
                     nick: '昵称',
@@ -107,3 +108,4 @@
         }
     });
 </script>
+</body>
