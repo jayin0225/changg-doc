@@ -32,7 +32,7 @@
 
 #### 《PC游戏 总目录》现在可以实时搜索，在文档或者网站搜索
 
-夸克：https://pan.quark.cn/s/838d79fde6bb
+夸克：秒和谐不让分享
 
 迅雷：https://pan.xunlei.com/s/VOY6VxoeeebiD_D7L6XEZ-aSA1?pwd=gtqt#
 
@@ -1704,7 +1704,7 @@
 
 #### 《血薪记：罪恶园区（Blood Money Lethal Eden）》v2026.1.11 中文版（真人互动影游）
 
-夸克：https://pan.quark.cn/s/6e5db3829e75
+夸克：https://pan.quark.cn/s/497c541094df
 
 #### 《崛起前线（Rising Front）》v2026.1.11 中文版
 
