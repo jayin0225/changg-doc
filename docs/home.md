@@ -42,7 +42,4 @@
 <!-- tabs:end -->
 
 ### 觉得我这不错，您可以打赏支持一下，您支持是我最大的动力~~~  
-<picture>
-  <source srcset="/assets/img/zan.webp" type="image/webp">
-  <img src="/assets/img/zan.png" alt="点赞图标" loading="lazy" width="200" height="auto">
-</picture>
+<img src="/assets/img/zan.webp" alt="打赏" class="medium-zoom-image" loading="lazy" height="auto">
