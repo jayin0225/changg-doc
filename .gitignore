@@ -1,0 +1,13 @@
+# WorkBuddy 配置目录
+.workbuddy/
+
+# VS Code 配置目录
+.vscode/
+
+# 其他常见忽略项
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.local
