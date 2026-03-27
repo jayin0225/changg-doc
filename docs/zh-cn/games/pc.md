@@ -56,7 +56,6 @@
 迅雷：https://pan.xunlei.com/s/VOogiqhU9ddC5HwU-cH_GzPKA1?pwd=j7f3#
 
 #### 《双点校园（Two Point Campus）》V2026.3.23 全DLC 中文版
-
 #### 《双点医院（Two Point Hospital）》v1.30.0-0 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/ed5dfd67767a
@@ -86,6 +85,10 @@
 #### 《零红蝶 重制版（FATAL FRAME II Crimson Butterfly REMAK）豪华版》v1.02.01 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/aeefdbc4c143
+
+#### 《扬帆起航（Ascendum）》Build.12983918 中文版
+
+夸克：https://pan.quark.cn/s/2a1c8bd138f0
 
 #### 《轰炸机小队（Bomber Crew）豪华版》v23218-96007 全DLC 中文版
 
