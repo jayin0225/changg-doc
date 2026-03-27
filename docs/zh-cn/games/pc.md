@@ -49,6 +49,12 @@
 ## 最新添加
 !> 新添加及更新的游戏链接里面如果没有文件，就是在上传中，等待上传完毕就会显示...
 
+#### 《Tangy TD》v1.0.312 英文版（肉鸽英雄塔防游戏）
+
+夸克：https://pan.quark.cn/s/b35806690bba
+
+迅雷：https://pan.xunlei.com/s/VOogiqhU9ddC5HwU-cH_GzPKA1?pwd=j7f3#
+
 #### 《双点校园（Two Point Campus）》V2026.3.23 全DLC 中文版
 
 #### 《双点医院（Two Point Hospital）》v1.30.0-0 全DLC 中文版
