@@ -16,8 +16,36 @@
 
     <!-- Open Graph - 社交媒体分享 -->
     <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.haozy.top/">
     <meta property="og:title" content="对酒当歌分享 - 海量免费资源分享">
     <meta property="og:description" content="对酒当歌分享 - 一个免费分享资源的文档网站，有游戏、电影、电视剧、动漫等等">
+    <meta property="og:image" content="https://www.haozy.top/favicon.ico">
+    <meta property="og:site_name" content="对酒当歌分享">
+    <meta property="og:locale" content="zh_CN">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="对酒当歌分享 - 海量免费资源分享">
+    <meta name="twitter:description" content="对酒当歌分享 - 一个免费分享资源的文档网站，有游戏、电影、电视剧、动漫等等">
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://www.haozy.top/">
+
+    <!-- JSON-LD 结构化数据 -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "对酒当歌分享",
+        "url": "https://www.haozy.top/",
+        "description": "对酒当歌分享 - 一个免费分享资源的文档网站，有游戏、电影、电视剧、动漫等等",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.haozy.top/?s={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
 
     <!-- DNS预解析 -->
     <link rel="dns-prefetch" href="//cdn.jsdelivr.net">
@@ -1435,11 +1463,15 @@
         </div>
     </nav>
     <script>
+        // 公共函数：检测是否为移动设备
+        function isMobileDevice() {
+            return window.innerWidth <= 767 || /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+        }
+
         (function () {
             var mobileNav = document.querySelector('.mobile-nav');
             if (mobileNav) {
-                var isMobile = window.innerWidth <= 767 || /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
-                if (isMobile) {
+                if (isMobileDevice()) {
                     mobileNav.classList.add('force-show');
                 }
             }
@@ -1597,20 +1629,6 @@
                 ignoreHeaders: []
             },
             // Service Worker 已禁用，避免缓存导致的重定向问题
-            // serviceWorker: {
-            //     update: true,
-            //     cacheName: 'docsify-cache-v1',
-            //     cacheFiles: [
-            //         '/',
-            //         '/index.html',
-            //         '/home.md',
-            //         '/_sidebar.md',
-            //         '/_navbar.md',
-            //         '/_coverpage.md',
-            //         '/assets/css/theme-simple.css',
-            //         '/assets/css/docsify-vite-coverpage.css'
-            //     ]
-            // },
             search: {
                 paths: '/zh-cn',                                // 指定搜索路径   默认值'auto',全文搜索
                 maxAge: 600000,                                  // 将缓存时间延长至7天,过期时间86400000，单位毫秒，默认一天
@@ -1742,10 +1760,8 @@
                     };
 
                     function updateMeta(path) {
-                        console.log('更新meta信息:', path);
                         var meta = pageMeta[path];
                         if (!meta) {
-                            console.log('未找到精确匹配，尝试子路径匹配');
                             var matched = false;
                             // 按路径长度降序排序，确保更具体的路径优先匹配
                             var sortedKeys = Object.keys(pageMeta).sort(function(a, b) {
@@ -1754,44 +1770,36 @@
                             for (var i = 0; i < sortedKeys.length; i++) {
                                 var key = sortedKeys[i];
                                 if (key !== '/' && key !== '/home' && path.indexOf(key) === 0) {
-                                    console.log('匹配到:', key);
                                     meta = pageMeta[key];
                                     matched = true;
                                     break;
                                 }
                             }
                             if (!matched) {
-                                console.log('未匹配到子路径，使用默认值');
                                 meta = pageMeta['/'];
                             }
                         }
-                        console.log('使用的meta信息:', meta);
 
                         document.title = meta.title;
-                        console.log('更新标题为:', meta.title);
 
                         var descMeta = document.querySelector('meta[name="description"]');
                         if (descMeta) {
                             descMeta.setAttribute('content', meta.description);
-                            console.log('更新description为:', meta.description);
                         }
 
                         var ogTitle = document.querySelector('meta[property="og:title"]');
                         if (ogTitle) {
                             ogTitle.setAttribute('content', meta.title);
-                            console.log('更新og:title为:', meta.title);
                         }
 
                         var ogDesc = document.querySelector('meta[property="og:description"]');
                         if (ogDesc) {
                             ogDesc.setAttribute('content', meta.description);
-                            console.log('更新og:description为:', meta.description);
                         }
                     }
 
                     hook.doneEach(function () {
                         var path = vm.route.path;
-                        console.log('当前路径:', path);
                         updateMeta(path);
 
                         // 页面加载完成后初始化Waline
@@ -1875,8 +1883,8 @@
 
         // Waline初始化函数
         function initWaline() {
-            const currentPath = window.location.pathname;
-            const isBbsPage = currentPath.includes('/zh-cn/bbs') || currentPath.includes('/bbs') || currentPath === '/bbs.html';
+            var currentPath = window.location.pathname;
+            var isBbsPage = currentPath.includes('/zh-cn/bbs') || currentPath.includes('/bbs') || currentPath === '/bbs.html';
 
             if (!isBbsPage) {
                 return;
@@ -1891,7 +1899,7 @@
                 return;
             }
 
-            const container = document.querySelector('#waline');
+            var container = document.querySelector('#waline');
 
             if (!container) {
                 console.error('未找到 #waline 容器');
@@ -1997,11 +2005,11 @@
                     mobileNavPopup.classList.toggle('show');
                 };
 
-                // 点击弹出菜单中的链接后关闭菜单
-                mobileNavPopup.querySelectorAll('a').forEach(function (link) {
-                    link.addEventListener('click', function () {
+                // 使用事件委托处理弹出菜单中的链接点击
+                mobileNavPopup.addEventListener('click', function (e) {
+                    if (e.target.tagName === 'A' || e.target.closest('a')) {
                         mobileNavPopup.classList.remove('show');
-                    });
+                    }
                 });
             }
 
@@ -2013,8 +2021,6 @@
             // 搜索功能 - 使用Docsify搜索插件
             function performSearch(keyword) {
                 if (!keyword || !mobileSearchResults) return;
-
-                console.log('[MobileSearch] 开始搜索:', keyword);
 
                 // 显示加载中
                 mobileSearchResults.innerHTML = '<div class="mobile-search-loading"><svg class="icon-spin"><use href="#icon-spinner"/></svg> 搜索中...</div>';
@@ -2032,9 +2038,6 @@
             // 3. 因此必须先触发 Docsify 搜索框，让侧边栏展开，然后才能搜索到结果
             // 4. 如果直接用侧边栏搜索而不触发搜索框，侧边栏不会展开，就找不到结果
             function doSearch(keyword) {
-                var lowerKeyword = keyword.toLowerCase();
-                var results = [];
-
                 // 步骤1: 触发 Docsify 搜索框（展开侧边栏显示匹配标题）
                 try {
                     var searchInput = document.querySelector('.search input[type="search"]');
@@ -2043,7 +2046,7 @@
                         searchInput.dispatchEvent(new Event('input', { bubbles: true }));
                     }
                 } catch (e) {
-                    console.log('[MobileSearch] 触发搜索框失败:', e.message);
+                    // 搜索框触发失败，静默处理
                 }
 
                 // 步骤2: 延迟后搜索侧边栏（给时间让搜索框展开侧边栏）
@@ -2098,7 +2101,7 @@
                 results.forEach(function (result) {
                     var path = result.path || result.url || '#';
                     var title = result.title || '未命名';
-                    html += '<a href="' + path + '" class="mobile-search-result-item" data-search-result>' +
+                    html += '<a href="' + escapeHtml(path) + '" class="mobile-search-result-item" data-search-result>' +
                         '<svg><use href="#icon-file-alt"/></svg>' +
                         '<span class="mobile-search-result-title">' + escapeHtml(title) + '</span>' +
                         '<svg style="color: #ccc; font-size: 0.75rem;"><use href="#icon-chevron-right"/></svg>' +
@@ -2186,23 +2189,17 @@
                 // 输入时自动搜索
                 if (mobileSearchInput) {
                     var searchTimeout = null;
-                    var initialDelay = true; // 首次输入需要更长延迟
                     mobileSearchInput.oninput = function (e) {
                         var keyword = mobileSearchInput.value.trim();
                         if (keyword) {
-                            // 首次输入延迟2秒，确保页面完全加载；后续输入延迟500毫秒
-                            var delay = initialDelay ? 2000 : 500;
-                            initialDelay = false; // 后续输入使用短延迟
-
                             clearTimeout(searchTimeout);
                             searchTimeout = setTimeout(function () {
                                 performSearch(keyword);
-                            }, delay);
+                            }, 300);
                         } else {
                             // 清空搜索框时隐藏结果
                             mobileSearchResults.innerHTML = '';
                             mobileSearchResults.classList.remove('has-content');
-                            initialDelay = true; // 清空后重置为首次状态
                         }
                     };
 
@@ -2262,11 +2259,11 @@
                 }
             }, true);
 
-            // 点击子菜单中的链接后关闭菜单
-            document.querySelectorAll('.mobile-nav-submenu a').forEach(function (link) {
-                link.addEventListener('click', function () {
+            // 使用事件委托处理子菜单中的链接点击
+            document.addEventListener('click', function (e) {
+                if (e.target.closest('.mobile-nav-submenu a')) {
                     closeAllMenus();
-                });
+                }
             });
 
             // 更新当前激活的导航项
@@ -2296,17 +2293,21 @@
             }
 
             var mobileNavElement = document.querySelector('.mobile-nav');
+            var resizeTimeout;
             function checkMobileNavVisibility() {
                 if (mobileNavElement) {
-                    var isMobile = window.innerWidth <= 767 || /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
-                    if (isMobile) {
+                    if (isMobileDevice()) {
                         mobileNavElement.classList.add('force-show');
                     } else {
                         mobileNavElement.classList.remove('force-show');
                     }
                 }
             }
-            window.addEventListener('resize', checkMobileNavVisibility);
+            // 使用节流函数优化 resize 事件
+            window.addEventListener('resize', function() {
+                clearTimeout(resizeTimeout);
+                resizeTimeout = setTimeout(checkMobileNavVisibility, 100);
+            });
             checkMobileNavVisibility();
         });
     </script>
@@ -2314,23 +2315,18 @@
     <!-- 音乐插件 - 页面完全加载后延迟5秒加载，手机模式下不加载 -->
     <script>
         window.addEventListener('load', function () {
-            // 检测是否为手机模式（屏幕宽度小于等于767px）
-            var isMobile = window.innerWidth <= 767 || /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
-
-            if (isMobile) {
-                console.log('[音乐] 手机模式 detected，跳过音乐插件加载');
+            // 检测是否为手机模式（使用公共函数）
+            if (isMobileDevice()) {
                 return; // 手机模式下不加载音乐
             }
 
             setTimeout(function () {
-                console.log('[音乐] 开始加载音乐插件...');
 
                 // 加载APlayer CSS (带备用CDN)
                 var aplayerCss = document.createElement('link');
                 aplayerCss.rel = 'stylesheet';
                 aplayerCss.href = 'https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.css';
                 aplayerCss.onerror = function () {
-                    console.log('[音乐] APlayer CSS 主CDN失败，切换到备用...');
                     this.href = 'https://unpkg.com/aplayer@1/dist/APlayer.min.css';
                 };
                 document.head.appendChild(aplayerCss);
@@ -2339,22 +2335,18 @@
                 var aplayerJs = document.createElement('script');
                 aplayerJs.src = 'https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.js';
                 aplayerJs.onload = function () {
-                    console.log('[音乐] APlayer 加载成功');
                     // 加载Meting JS (带备用CDN)
                     var metingJs = document.createElement('script');
                     metingJs.src = 'https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js';
                     metingJs.onload = function () {
-                        console.log('[音乐] Meting 加载成功');
                         initMusicPlayer();
                     };
                     metingJs.onerror = function () {
-                        console.log('[音乐] Meting JS 主CDN失败，切换到备用...');
                         this.src = 'https://unpkg.com/meting@2/dist/Meting.min.js';
                     };
                     document.body.appendChild(metingJs);
                 };
                 aplayerJs.onerror = function () {
-                    console.log('[音乐] APlayer JS 主CDN失败，切换到备用...');
                     this.src = 'https://unpkg.com/aplayer@1/dist/APlayer.min.js';
                 };
                 document.body.appendChild(aplayerJs);
@@ -2383,12 +2375,7 @@
     <script>
         // 音乐播放器初始化 - 在插件加载完成后调用
         function initMusicPlayer() {
-            console.log('[音乐] initMusicPlayer 被调用');
-            console.log('[音乐] APlayer:', typeof window.APlayer);
-            console.log('[音乐] customElements:', typeof window.customElements);
-
             if (window.APlayer && window.customElements && window.customElements.get('meting-js')) {
-                console.log('[音乐] 创建播放器...');
                 var container = document.getElementById('music-player');
                 var metingEl = document.createElement('meting-js');
                 metingEl.setAttribute('id', '8925762343');
@@ -2405,9 +2392,7 @@
                 metingEl.setAttribute('preload', 'none');
                 metingEl.setAttribute('list-folded', 'true');
                 container.appendChild(metingEl);
-                console.log('[音乐] 播放器创建成功');
             } else {
-                console.log('[音乐] 插件未就绪，等待中...');
                 setTimeout(initMusicPlayer, 200);
             }
         }
@@ -2418,45 +2403,52 @@
         function calculateRunTime() {
             // 设置网站上线时间（注意：月份0-11，4表示5月）
             // 修改这里的日期即可调整起始时间 ▼▼▼
-            const startDate = new Date(2024, 3, 3, 21, 0, 0); // 2024年4月3日21:00:00
-            const now = new Date();
-            const diff = now - startDate; // 获取时间差（毫秒）
+            var startDate = new Date(2024, 3, 3, 21, 0, 0); // 2024年4月3日21:00:00
+            var now = new Date();
+            var diff = now - startDate; // 获取时间差（毫秒）
 
             // 计算各时间单位（修正后的计算方式）
-            const seconds = Math.floor(diff / 1000) % 60;       // 秒数
-            const minutes = Math.floor(diff / (1000 * 60)) % 60; // 分钟
-            const hours = Math.floor(diff / (1000 * 60 * 60)) % 24; // 小时
-            const days = Math.floor(diff / (1000 * 60 * 60 * 24)); // 总天数
-            const years = Math.floor(days / 365);             // 年数
-            const remainingDays = days % 365;                 // 剩余天数
+            var seconds = Math.floor(diff / 1000) % 60;       // 秒数
+            var minutes = Math.floor(diff / (1000 * 60)) % 60; // 分钟
+            var hours = Math.floor(diff / (1000 * 60 * 60)) % 24; // 小时
+            var days = Math.floor(diff / (1000 * 60 * 60 * 24)); // 总天数
+            var years = Math.floor(days / 365);             // 年数
+            var remainingDays = days % 365;                 // 剩余天数
             return {
-                years,
+                years: years,
                 days: remainingDays, // 使用取模后的剩余天数
-                hours,
-                minutes,
-                seconds
+                hours: hours,
+                minutes: minutes,
+                seconds: seconds
             };
         }
 
         /// 更新页面显示的函数
         function updateSiteTime() {
-            const timeInfo = calculateRunTime();
-            const timeElement = document.getElementById("sitetime");
+            var timeInfo = calculateRunTime();
+            var timeElement = document.getElementById("sitetime");
 
             if (timeElement) {
-                timeElement.innerHTML = `本网站已运行 ${timeInfo.years}年 ${timeInfo.days}天 ${timeInfo.hours}时 ${timeInfo.minutes}分 ${timeInfo.seconds}秒`;
+                timeElement.innerHTML = '本网站已运行 ' + timeInfo.years + '年 ' + timeInfo.days + '天 ' + timeInfo.hours + '时 ' + timeInfo.minutes + '分 ' + timeInfo.seconds + '秒';
             }
-
-            // 使用requestAnimationFrame优化性能
-            requestAnimationFrame(updateSiteTime);
         }
+
+        // 使用 setInterval 每秒更新一次（避免 requestAnimationFrame 60fps 高频调用）
+        var siteTimeInterval = setInterval(updateSiteTime, 1000);
 
         // 页面加载完成后启动
         if (document.readyState === "complete") {
             updateSiteTime();
         } else {
-            window.addEventListener("load", updateSiteTime);
+            window.addEventListener("load", function() {
+                updateSiteTime();
+            });
         }
+
+        // 页面卸载时清理定时器
+        window.addEventListener('beforeunload', function() {
+            clearInterval(siteTimeInterval);
+        });
     </script>
 
     <!-- Vercel Web Analytics -->
@@ -2465,76 +2457,79 @@
     </script>
     <script defer src="/_vercel/insights/script.js"></script>
 
-    <!-- =================== JS插件加载性能监控 =================== -->
+    <!-- =================== JS插件加载性能监控（仅调试模式启用） =================== -->
     <script>
-        (function () {
-            // 存储每个脚本的加载时间
-            window.scriptLoadTimes = {};
+        // 仅在 URL 包含 debug 参数时启用性能监控
+        if (location.search.includes('debug')) {
+            (function () {
+                // 存储每个脚本的加载时间
+                window.scriptLoadTimes = {};
 
-            // 监听所有脚本加载
-            var originalAppendChild = Element.prototype.appendChild;
-            Element.prototype.appendChild = function (element) {
-                if (element.tagName === 'SCRIPT' && element.src) {
-                    var scriptName = element.src.split('/').pop() || element.src;
-                    var startTime = performance.now();
+                // 监听所有脚本加载
+                var originalAppendChild = Element.prototype.appendChild;
+                Element.prototype.appendChild = function (element) {
+                    if (element.tagName === 'SCRIPT' && element.src) {
+                        var scriptName = element.src.split('/').pop() || element.src;
+                        var startTime = performance.now();
 
-                    console.log('[性能监控] 开始加载: ' + scriptName);
+                        console.log('[性能监控] 开始加载: ' + scriptName);
 
-                    element.addEventListener('load', function () {
-                        var loadTime = (performance.now() - startTime).toFixed(2);
-                        window.scriptLoadTimes[scriptName] = loadTime;
-                        console.log('[性能监控] 加载完成: ' + scriptName + ' - ' + loadTime + 'ms');
-                    });
+                        element.addEventListener('load', function () {
+                            var loadTime = (performance.now() - startTime).toFixed(2);
+                            window.scriptLoadTimes[scriptName] = loadTime;
+                            console.log('[性能监控] 加载完成: ' + scriptName + ' - ' + loadTime + 'ms');
+                        });
 
-                    element.addEventListener('error', function () {
-                        console.error('[性能监控] 加载失败: ' + scriptName);
-                    });
-                }
-                return originalAppendChild.apply(this, arguments);
-            };
-
-            // 页面加载完成后输出汇总
-            window.addEventListener('load', function () {
-                setTimeout(function () {
-                    console.log('%c[性能监控] JS插件加载时间汇总:', 'color: #2196F3; font-size: 14px; font-weight: bold;');
-
-                    // 按加载时间排序
-                    var sortedScripts = Object.entries(window.scriptLoadTimes)
-                        .sort(function (a, b) { return b[1] - a[1]; });
-
-                    if (sortedScripts.length === 0) {
-                        console.log('[性能监控] 未检测到动态加载的脚本');
-                    } else {
-                        sortedScripts.forEach(function (item) {
-                            var time = parseFloat(item[1]);
-                            var color = time > 1000 ? '#f44336' : time > 500 ? '#ff9800' : '#4caf50';
-                            console.log('%c  ' + item[0] + ': ' + item[1] + 'ms', 'color: ' + color);
+                        element.addEventListener('error', function () {
+                            console.error('[性能监控] 加载失败: ' + scriptName);
                         });
                     }
+                    return originalAppendChild.apply(this, arguments);
+                };
 
-                    // 使用 Performance API 获取所有资源加载时间
-                    if (window.performance && window.performance.getEntriesByType) {
-                        var resources = window.performance.getEntriesByType('resource');
-                        var scripts = resources.filter(function (r) {
-                            return r.initiatorType === 'script' || r.name.endsWith('.js');
-                        });
+                // 页面加载完成后输出汇总
+                window.addEventListener('load', function () {
+                    setTimeout(function () {
+                        console.log('%c[性能监控] JS插件加载时间汇总:', 'color: #2196F3; font-size: 14px; font-weight: bold;');
 
-                        if (scripts.length > 0) {
-                            console.log('%c[性能监控] 所有JS资源加载时间 (Performance API):', 'color: #2196F3; font-size: 14px; font-weight: bold;');
+                        // 按加载时间排序
+                        var sortedScripts = Object.entries(window.scriptLoadTimes)
+                            .sort(function (a, b) { return b[1] - a[1]; });
 
-                            scripts.sort(function (a, b) { return b.duration - a.duration; });
-
-                            scripts.forEach(function (script) {
-                                var name = script.name.split('/').pop();
-                                var time = script.duration.toFixed(2);
-                                var color = script.duration > 1000 ? '#f44336' : script.duration > 500 ? '#ff9800' : '#4caf50';
-                                console.log('%c  ' + name + ': ' + time + 'ms', 'color: ' + color);
+                        if (sortedScripts.length === 0) {
+                            console.log('[性能监控] 未检测到动态加载的脚本');
+                        } else {
+                            sortedScripts.forEach(function (item) {
+                                var time = parseFloat(item[1]);
+                                var color = time > 1000 ? '#f44336' : time > 500 ? '#ff9800' : '#4caf50';
+                                console.log('%c  ' + item[0] + ': ' + item[1] + 'ms', 'color: ' + color);
                             });
                         }
-                    }
-                }, 1000);
-            });
-        })();
+
+                        // 使用 Performance API 获取所有资源加载时间
+                        if (window.performance && window.performance.getEntriesByType) {
+                            var resources = window.performance.getEntriesByType('resource');
+                            var scripts = resources.filter(function (r) {
+                                return r.initiatorType === 'script' || r.name.endsWith('.js');
+                            });
+
+                            if (scripts.length > 0) {
+                                console.log('%c[性能监控] 所有JS资源加载时间 (Performance API):', 'color: #2196F3; font-size: 14px; font-weight: bold;');
+
+                                scripts.sort(function (a, b) { return b.duration - a.duration; });
+
+                                scripts.forEach(function (script) {
+                                    var name = script.name.split('/').pop();
+                                    var time = script.duration.toFixed(2);
+                                    var color = script.duration > 1000 ? '#f44336' : script.duration > 500 ? '#ff9800' : '#4caf50';
+                                    console.log('%c  ' + name + ': ' + time + 'ms', 'color: ' + color);
+                                });
+                            }
+                        }
+                    }, 1000);
+                });
+            })();
+        }
     </script>
 
 </body>
