@@ -152,6 +152,10 @@
 
 夸克：https://pan.quark.cn/s/692dc066767e
 
+#### 《杀手 暗杀世界（HITMAN World of Assassination）豪华版》v3.260.1 全DLC 中文版（杀手1 杀手2 杀手3)
+
+夸克：https://pan.quark.cn/s/88d4e323e453
+
 #### 《龙的传人 孤旅（Dragonkin The Banished）》v1.3.66.54113 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/8d2b0b6ea1be
@@ -662,7 +666,7 @@
 
 夸克：https://pan.quark.cn/s/0626602d9725
 
-#### 《王国保卫战5 联盟（Kingdom Rush 5 Alliance TD）》v7.00.36 全DLC 中文版（新增巨龙战争DLC）
+#### 《王国保卫战5 联盟（Kingdom Rush 5 Alliance TD）》v7.00.62 全DLC 中文版（新增巨龙战争DLC）
 #### 《王国保卫战 传奇（Legends of Kingdom Rush）》Build 9031157 中文版（外传 回合制）
 #### 《王国保卫战 复仇（Kingdom Rush Vengeance）》v1.16.3.16 全DLC 中文版
 #### 《王国保卫战 起源（Kingdom Rush Origins）》v4.2.15 中文版
@@ -2470,10 +2474,6 @@
 夸克：https://pan.quark.cn/s/b7e47fb90e3d
 
 迅雷：https://pan.xunlei.com/s/VNxl80F27PU28rZPFh-JlgLvA1?pwd=xdi3#
-
-#### 《杀手 暗杀世界（HITMAN World of Assassination)豪华版）》v3.240.3 全DLC 中文版（杀手1 杀手2 杀手3)
-
-夸克：https://pan.quark.cn/s/88d4e323e453
 
 #### 《魂之起源（God Souls）》v1.3.0.9.5.1HF8 中文版（附礼包码）
 
