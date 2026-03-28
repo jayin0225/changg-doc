@@ -1871,6 +1871,29 @@
                         var path = vm.route.path;
                         updateMeta(path);
 
+                        // 检查页面内容是否为空（404情况）
+                        var content = document.querySelector('.content');
+                        if (content && content.innerHTML.trim() === '') {
+                            // 加载 404 页面内容
+                            fetch('404.md')
+                                .then(function(response) {
+                                    if (response.ok) return response.text();
+                                    throw new Error('404.md not found');
+                                })
+                                .then(function(markdown) {
+                                    content.innerHTML = '<div id="404-content"></div>';
+                                    var el = document.getElementById('404-content');
+                                    if (el && window.$docsify && window.$docsify.markdown) {
+                                        el.innerHTML = window.$docsify.markdown.render(markdown);
+                                    } else {
+                                        content.innerHTML = markdown;
+                                    }
+                                })
+                                .catch(function() {
+                                    content.innerHTML = '<div style="text-align:center;padding:50px;"><h1>404 - 页面不存在</h1><p>非常抱歉，您访问的页面不存在</p><a href="/">返回首页</a></div>';
+                                });
+                        }
+
                         // 页面加载完成后初始化Waline
                         if (typeof initWaline === 'function') {
                             initWaline();
