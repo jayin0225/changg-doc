@@ -1,13 +1,14 @@
 [build]
   publish = "docs"
 
-# SPA 回退配置：普通用户访问返回 index.html 让 Docsify 处理
+# SPA 回退配置：所有路由返回 index.html 让 Docsify 处理
+# Docsify 会根据路由显示对应内容或 404 页面
 [[redirects]]
   from = "/*"
   to = "/index.html"
   status = 200
-  force = false
 
+# 安全相关的 HTTP Headers
 [[headers]]
   for = "/*"
   [headers.values]
@@ -16,6 +17,7 @@
     X-XSS-Protection = "1; mode=block"
     X-Content-Type-Options = "nosniff"
 
+# 静态资源缓存
 [[headers]]
   for = "/assets/*"
   [headers.values]
