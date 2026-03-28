@@ -113,6 +113,10 @@
 
 夸克：https://pan.quark.cn/s/7cd3766e113d
 
+#### 《犯罪现场清洁工（Crime Scene Cleaner）》v4.0.0c 中文版
+
+夸克：https://pan.quark.cn/s/54fab26752d3
+
 #### 《仁王3（Nioh 3）豪华版》v1.04.01 全DLC 中文 联机版（新）
 #### 《仁王2（Nioh 2）完全版》v1.28.08 中文 联机版
 #### 《仁王（Nioh）完全版》v1.24.08 中文版
@@ -1941,10 +1945,6 @@
 #### 《漫漫长夜（The Long Dark）》v2.51 全DLC 豪华中文版
 
 夸克：https://pan.quark.cn/s/d6f9e8227114
-
-#### 《犯罪现场清洁工（Crime Scene Cleaner）》v3.0.3.3 中文版
-
-夸克：https://pan.quark.cn/s/54fab26752d3
 
 #### 《石头模拟器（Stone Simulator）》v1.2.0.2 中文版
 
