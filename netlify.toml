@@ -1,8 +1,7 @@
 [build]
   publish = "docs"
 
-# SPA 回退配置：优先处理已知路径，未知路径返回 200 让 Docsify 处理
-# 这样既能保证 SEO，又能让 Docsify 正确显示 404 页面
+# SPA 回退配置：普通用户访问返回 index.html 让 Docsify 处理
 [[redirects]]
   from = "/*"
   to = "/index.html"

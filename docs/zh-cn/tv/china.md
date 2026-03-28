@@ -19,7 +19,7 @@
 
 #### 《逐玉》（2026）4K 40集 更新中..
 
-夸克：https://pan.quark.cn/s/61500838ed5d
+夸克：https://pan.quark.cn/s/41d6451c6e59
 
 迅雷：https://pan.xunlei.com/s/VOnPkzWFrwgR_qCbkCBd5wyOA1?pwd=hnnv
 
@@ -1922,7 +1922,7 @@
 
 #### 《楚汉传奇》（2012）4K高码 80集全（陈道明版）
 
-夸克：https://pan.quark.cn/s/4c786f34c092
+夸克：https://pan.quark.cn/s/8c597de4441e
 
 #### 《大秦赋》（2020）1080P高码 78集全（无水印）
 
