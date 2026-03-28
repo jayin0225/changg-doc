@@ -1872,27 +1872,45 @@
                         updateMeta(path);
 
                         // 检查页面内容是否为空（404情况）
-                        var content = document.querySelector('.content');
-                        if (content && content.innerHTML.trim() === '') {
-                            // 加载 404 页面内容
-                            fetch('404.md')
-                                .then(function(response) {
-                                    if (response.ok) return response.text();
-                                    throw new Error('404.md not found');
-                                })
-                                .then(function(markdown) {
-                                    content.innerHTML = '<div id="404-content"></div>';
-                                    var el = document.getElementById('404-content');
-                                    if (el && window.$docsify && window.$docsify.markdown) {
-                                        el.innerHTML = window.$docsify.markdown.render(markdown);
-                                    } else {
-                                        content.innerHTML = markdown;
-                                    }
-                                })
-                                .catch(function() {
-                                    content.innerHTML = '<div style="text-align:center;padding:50px;"><h1>404 - 页面不存在</h1><p>非常抱歉，您访问的页面不存在</p><a href="/">返回首页</a></div>';
-                                });
-                        }
+                        setTimeout(function() {
+                            var article = document.querySelector('article.markdown-section');
+                            var content = document.querySelector('.content');
+                            var mainContent = article || content;
+                            
+                            if (mainContent) {
+                                var text = mainContent.innerText || mainContent.textContent || '';
+                                var html = mainContent.innerHTML || '';
+                                
+                                // 检查内容是否为空或只有空白
+                                if (text.trim().length < 10 && html.trim().length < 100) {
+                                    console.log('[404检测] 页面内容为空，加载404页面');
+                                    
+                                    // 加载 404 页面内容
+                                    fetch('404.md')
+                                        .then(function(response) {
+                                            if (response.ok) return response.text();
+                                            throw new Error('404.md not found');
+                                        })
+                                        .then(function(markdown) {
+                                            // 使用 Docsify 渲染 markdown
+                                            if (window.Docsify && window.Docsify.compiler) {
+                                                mainContent.innerHTML = window.Docsify.compiler.compile(markdown);
+                                            } else {
+                                                // 简单渲染
+                                                mainContent.innerHTML = '<div class="markdown-section">' + 
+                                                    markdown.replace(/# (.*)/, '<h1>$1</h1>')
+                                                            .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+                                                            .replace(/\n/g, '<br>') + 
+                                                    '</div>';
+                                            }
+                                        })
+                                        .catch(function(err) {
+                                            console.error('[404检测] 加载404.md失败:', err);
+                                            mainContent.innerHTML = '<div class="markdown-section" style="text-align:center;padding:50px;"><h1>404 - 页面不存在</h1><p>非常抱歉，您访问的页面不存在</p><a href="/" style="display:inline-block;padding:12px 32px;background:linear-gradient(135deg,#4155c4,#5e72e4);color:#fff;text-decoration:none;border-radius:8px;">返回首页</a></div>';
+                                        });
+                                }
+                            }
+                        }, 500);
 
                         // 页面加载完成后初始化Waline
                         if (typeof initWaline === 'function') {
