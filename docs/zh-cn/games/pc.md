@@ -49,6 +49,11 @@
 ## 最新添加
 !> 新添加及更新的游戏链接里面如果没有文件，就是在上传中，等待上传完毕就会显示...
 
+#### 《狩猎之道2（Way of the Hunter2）》v1.29 中文版
+#### 《狩猎之道（Way of the Hunter）终结版》v1.29 全DLC 中文版（猎人之路 荒野猎人）
+
+夸克：https://pan.quark.cn/s/399ba986c9cc
+
 #### 《Tangy TD》v1.0.312 英文版（肉鸽英雄塔防游戏）
 
 夸克：https://pan.quark.cn/s/b35806690bba
@@ -2811,10 +2816,6 @@
 #### 《魔王的迷宫（Labyrinth Of The Demon King）》v2025.10.27 中文版
 
 夸克：https://pan.quark.cn/s/58fd59b62f59
-
-#### 《狩猎之道（Way of the Hunter）终结版》v1.29 全DLC 中文版（猎人之路）
-
-夸克：https://pan.quark.cn/s/399ba986c9cc
 
 #### 《窒爱（SUFFOCATE）》v1.0.1 中文版（生存恐怖游戏）
 
