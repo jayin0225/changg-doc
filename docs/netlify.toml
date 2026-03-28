@@ -1,12 +1,14 @@
 [build]
   publish = "."
 
-# 所有请求转发到 index.html（SPA 回退），但返回 404 状态码
-# 这样 docsify 才能检测到页面不存在，然后显示 404.md 页面
+# SPA 回退配置：优先处理已知路径，未知路径返回 200 让 Docsify 处理
+# 这样既能保证 SEO，又能让 Docsify 正确显示 404 页面
 [[redirects]]
   from = "/*"
   to = "/index.html"
-  status = 404
+  status = 200
+  force = false
+  conditions = {User-Agent = "*"}
 
 [[redirects]]
   from = "http://www.haozy.top/*"
