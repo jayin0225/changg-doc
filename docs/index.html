@@ -2347,18 +2347,21 @@
                 mobileSearchResults.innerHTML = html;
                 mobileSearchResults.classList.add('has-content');
 
-                // 绑定搜索结果点击事件
+                // 绑定搜索结果点击事件和触摸事件
+                function handleSearchResultClick(e) {
+                    e.preventDefault();
+                    var href = this.getAttribute('href');
+                    closeSearchOverlay();
+                    mobileSearchInput.value = '';
+                    // 延迟跳转，让遮罩先关闭
+                    setTimeout(function () {
+                        window.location.href = href;
+                    }, 200);
+                }
+                
                 document.querySelectorAll('[data-search-result]').forEach(function (link) {
-                    link.addEventListener('click', function (e) {
-                        e.preventDefault();
-                        var href = this.getAttribute('href');
-                        closeSearchOverlay();
-                        mobileSearchInput.value = '';
-                        // 延迟跳转，让遮罩先关闭
-                        setTimeout(function () {
-                            window.location.href = href;
-                        }, 200);
-                    });
+                    link.addEventListener('click', handleSearchResultClick);
+                    link.addEventListener('touchstart', handleSearchResultClick);
                 });
             }
 
