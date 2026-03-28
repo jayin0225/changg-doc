@@ -10,18 +10,6 @@
   force = false
   conditions = {User-Agent = "*"}
 
-[[redirects]]
-  from = "http://www.haozy.top/*"
-  to = "https://www.haozy.top/:splat"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "http://haozy.top/*"
-  to = "https://www.haozy.top/:splat"
-  status = 301
-  force = true
-
 [[headers]]
   for = "/*"
   [headers.values]
