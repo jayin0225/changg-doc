@@ -2278,11 +2278,9 @@
                         if (window.perfMonitor) {
                             window.perfMonitor.logJsLoad('meting', metingLoadStart);
                         }
-                    };
-                    metingJs.src = 'https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js';
-                    metingJs.onload = function () {
                         initMusicPlayer();
                     };
+                    metingJs.src = 'https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js';
                     metingJs.onerror = function () {
                         this.src = 'https://unpkg.com/meting@2/dist/Meting.min.js';
                     };
