@@ -1101,7 +1101,7 @@
         /* 搜索结果区域 */
         .mobile-search-results {
             margin-top: 1.25rem;
-            max-height: 80vh;
+            max-height: 60vh;
             overflow-y: auto;
             background: rgba(255, 255, 255, 0.95);
             border-radius: 0.75rem;
@@ -1177,6 +1177,16 @@
             to {
                 transform: rotate(360deg);
             }
+        }
+
+        /* 音乐播放器 - 固定在右侧 */
+        #music-player {
+            position: fixed;
+            right: 0;
+            top: 50%;
+            transform: translateY(-50%);
+            z-index: 9999;
+            max-width: 400px;
         }
 
         @media screen and (max-width: 767px) {
@@ -2125,27 +2135,10 @@
                     };
                 }
 
-                // 输入时自动搜索
+                // 输入框事件（仅支持回车搜索）
                 if (mobileSearchInput) {
-                    var searchTimeout = null;
-                    mobileSearchInput.oninput = function (e) {
-                        var keyword = mobileSearchInput.value.trim();
-                        if (keyword) {
-                            clearTimeout(searchTimeout);
-                            searchTimeout = setTimeout(function () {
-                                performSearch(keyword);
-                            }, 300);
-                        } else {
-                            // 清空搜索框时隐藏结果
-                            mobileSearchResults.innerHTML = '';
-                            mobileSearchResults.classList.remove('has-content');
-                        }
-                    };
-
-                    // 回车搜索（保留回车键功能）
                     mobileSearchInput.onkeydown = function (e) {
                         if (e.key === 'Enter') {
-                            clearTimeout(searchTimeout);
                             var keyword = mobileSearchInput.value.trim();
                             if (keyword) {
                                 performSearch(keyword);
@@ -2354,7 +2347,7 @@
                     metingEl.setAttribute('mutex', 'true');
                     metingEl.setAttribute('lrc-type', '1');
                     metingEl.setAttribute('preload', 'none');
-                    metingEl.setAttribute('list-folded', 'true');
+                    metingEl.setAttribute('list-folded', 'false');
                     container.appendChild(metingEl);
 
                     if (window.perfMonitor) {
