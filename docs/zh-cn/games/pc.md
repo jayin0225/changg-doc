@@ -136,6 +136,10 @@
 
 迅雷：https://pan.xunlei.com/s/VOmxhVUr1fSgQpCdJjFlzXWTA1?pwd=h2gc#
 
+#### 《TCG卡牌商店模拟器（TCG Card Shop Simulator）》v0.70.1中文版
+
+夸克：https://pan.quark.cn/s/15d5e510ec67
+
 #### 《仁王3（Nioh 3）豪华版》v1.04.01 全DLC 中文 联机版（新）
 #### 《仁王2（Nioh 2）完全版》v1.28.08 中文 联机版
 #### 《仁王（Nioh）完全版》v1.24.08 中文版
@@ -4690,10 +4694,6 @@
 #### 《渡神纪 芬尼斯崛起（Immortals Fenyx Rising）黄金版》v1.3.4 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/9d817203d18f
-
-#### 《TCG卡牌商店模拟器（TCG Card Shop Simulator）》v0.60.1 中文版
-
-夸克：https://pan.quark.cn/s/15d5e510ec67
 
 #### 《异形战机最终版2（R-Type Final 2）》v2.0.4 全DLC 中文版
 
