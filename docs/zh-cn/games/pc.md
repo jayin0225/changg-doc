@@ -153,6 +153,10 @@
 
 迅雷：https://pan.xunlei.com/s/VNpu4vGgV5tOoEsI5Z5YPsxLA1?pwd=eja9#
 
+#### 《风暴崛起（Tempest Rising）》v1.7.1.55792 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/c164538c9a59
+
 #### 《奇迹时代4（Age of Wonders 4）高级版》v1.012.001.112690 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/692dc066767e
@@ -1415,10 +1419,6 @@
 夸克：https://pan.quark.cn/s/cf680d575749
 
 迅雷：https://pan.xunlei.com/s/VNtKlm0t9Cfpnuk-BzvaR45OA1?pwd=g3qz#
-
-#### 《风暴崛起（Tempest Rising）》v1.6.0.53840 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/c164538c9a59
 
 #### 《雾锁王国（Enshrouded）》v893400 中文 联机版
 
