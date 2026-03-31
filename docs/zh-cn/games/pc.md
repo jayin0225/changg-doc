@@ -129,6 +129,12 @@
 
 ## 最近更新
 
+#### 《博德之门3（Baldur's Gate 3）豪华版》v4.1.1.7209685 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/9df1078ca763
+
+迅雷：https://pan.xunlei.com/s/VNobhPdbNDU7zYgxPhLuSRtRA1?pwd=398t#
+
 #### 《死亡搁浅2 冥滩之上（DEATH STRANDING 2 ON THE BEACH）豪华版》v1.1.53.0 全DLC 中文配音版
 #### 《死亡搁浅（DEATH STRANDING DIRECTORS CUT）导演剪辑版》v1.004 中文版
 
@@ -265,12 +271,6 @@
 #### 《明末：渊虚之羽（WUCHANG Fallen Feathers）豪华版》v179951 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/29e03743d12f
-
-#### 《博德之门3（Baldur's Gate 3）豪华版》v4.1.1.6995620 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/9df1078ca763
-
-迅雷：https://pan.xunlei.com/s/VNobhPdbNDU7zYgxPhLuSRtRA1?pwd=398t#
 
 #### 《小小梦魇3（Little Nightmares 3）》v2025.11.19 全DLC 中文 联机版（附前2部 恐怖解密）
 
