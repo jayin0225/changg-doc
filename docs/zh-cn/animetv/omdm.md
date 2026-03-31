@@ -31,11 +31,9 @@
 
 #### 《瑞克和莫蒂》（2013-2025）1-8季全 1080P 中英字幕
 
-夸克1-7季：https://pan.quark.cn/s/9b2f861a00dc
+夸克：https://pan.quark.cn/s/022f16dd50e3
 
-迅雷：https://pan.xunlei.com/s/VNlvfvF00mDeD1C3WAT45BCXA1?pwd=drgq#
-
-阿里第七季：<https://www.aliyundrive.com/s/m9P2JKN2yNj>
+迅雷：https://pan.xunlei.com/s/VOp0oWsvBxsM2Xga-PoUgEW8A1?pwd=b8sm#
 
 阿里1-5季：<https://www.aliyundrive.com/s/pRctPZveBuy>
 
@@ -61,7 +59,7 @@
 
 夸克：https://pan.quark.cn/s/e2357db6412f
 
-#### 《英雄联盟：双城之战》（2021-2024）第二季 4K 更新中..中英配音（附第一季 4K 中英配音）
+#### 《英雄联盟：双城之战》（2021-2024）4K 1-2季全 中英配音
 
 夸克：https://pan.quark.cn/s/7ed7ae70ad64
 

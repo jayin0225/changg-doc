@@ -36,7 +36,7 @@
 
 #### 《遮天》（2024）4K 周三 更新中..
 
-夸克：https://pan.quark.cn/s/f85275286601
+夸克：https://pan.quark.cn/s/a3d10e4f78b0
 
 迅雷：https://pan.xunlei.com/s/VNlm4bkS3Xd3IJVvyYImbVG2A1?pwd=dxnb#
 
