@@ -61,6 +61,12 @@
 
 夸克：https://pan.quark.cn/s/7e593264ef99
 
+#### 《天选花园（Chosen Garden）》Build.22429595 中文版
+
+夸克：https://pan.quark.cn/s/2c7cabd400a9
+
+迅雷：https://pan.xunlei.com/s/VOp17qAxNn8LiIsadZjZPCMqA1?pwd=86yz#
+
 #### 《狩猎之道2（Way of the Hunter2）》v1.29 中文版
 #### 《狩猎之道（Way of the Hunter）终结版》v1.29 全DLC 中文版（猎人之路 荒野猎人）
 
@@ -113,6 +119,12 @@
 
 迅雷：https://pan.xunlei.com/s/VOoiWkloewrihXOBSMC5KRMiA1?pwd=pyy5#
 
+#### 《爱丽丝的摇篮（alice in cradle）》v0.28b 中文版
+
+夸克：https://pan.quark.cn/s/49292bedb5ba
+
+迅雷：https://pan.xunlei.com/s/VOp159o-sDpfwXwKIh9_wnMOA1?pwd=afuw#
+
 ---
 
 ## 最近更新
@@ -129,6 +141,10 @@
 #### 《消逝的光芒2 装上阵版（Dying Light 2）豪华版》v1.27.1 全DLC 中文配音 联机版
 
 夸克：https://pan.quark.cn/s/7cd3766e113d
+
+#### 《哥布林传说（Goblins of Elderstone）》v2.0.21 中文版
+
+夸克：https://pan.quark.cn/s/a225b953660a
 
 #### 《犯罪现场清洁工（Crime Scene Cleaner）》v4.0.0c 中文版
 
@@ -8449,10 +8465,6 @@
 #### 《城市游戏工作室（City Game Studio）》v1.20.0 中文版
 
 夸克：https://pan.quark.cn/s/c8f69ab19ce4
-
-#### 《哥布林传说（Goblins of Elderstone）》v1.6.4 中文版
-
-夸克：https://pan.quark.cn/s/a225b953660a
 
 #### 《零 濡鸦之巫女（Fatal Frame Maiden of Black Water）》v1.0.0.5 中文版（恐怖游戏）
 
