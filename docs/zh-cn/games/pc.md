@@ -49,6 +49,10 @@
 ## 最新添加
 !> 新添加及更新的游戏链接里面如果没有文件，就是在上传中，等待上传完毕就会显示...
 
+#### 《浣熊推币机（RACCOIN Coin Pusher Roguelike）》v1.0.8 中文版
+
+夸克：https://pan.quark.cn/s/f93f87475478
+
 #### 《焕家物语 （Hozy）》v2026.3.30 中文版
 
 夸克：https://pan.quark.cn/s/3758da8f2bbc
