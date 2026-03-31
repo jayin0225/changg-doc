@@ -77,6 +77,10 @@
 
 夸克：https://pan.quark.cn/s/e783e5e82938
 
+#### 《爱与死亡》（2023）1080P 中英双字
+
+夸克：https://pan.quark.cn/s/f497af13106c
+
 #### 《美丽毒素》（2026）1080P 11集全
 
 夸克：https://pan.quark.cn/s/0fe5f0e150c8
