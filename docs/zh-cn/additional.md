@@ -74,22 +74,6 @@
 
 阿里：<https://www.aliyundrive.com/s/KB7ErbbVQ3u>
 
-#### 《聊天AI - AI聊天机器人助手》
-
-夸克：<https://pan.quark.cn/s/d4f8f4058a25>
-
-#### 《leo剪映调色预设模板合集》
-
-夸克：<https://pan.quark.cn/s/9e99d8e83e7f>
-
 #### 《剪映PC模板250+》
 
 夸克：https://pan.quark.cn/s/0041d9a729d3
-
-#### 《4000套Excel表格模板资料包》
-
-夸克：<https://pan.quark.cn/s/80ae56a6e612>
-
-#### 《价值1580元的电商运营表格》
-
-夸克：<https://pan.quark.cn/s/a0b8f06ce3fd>
