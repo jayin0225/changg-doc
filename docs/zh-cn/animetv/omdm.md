@@ -21,6 +21,10 @@
 
 ---
 
+#### 《蜘蛛侠1994 国语 + 终极蜘蛛侠2012 + 神奇蜘蛛侠2008 》动画版 合集
+
+夸克：https://pan.quark.cn/s/0c7cc73a01fc
+
 #### 《漫威丧尸 Marvel Zombies》 (2025) 1080P 高码 4集全
 
 夸克：https://pan.quark.cn/s/7e5ae5986801
