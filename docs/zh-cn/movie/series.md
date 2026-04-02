@@ -119,6 +119,10 @@
 
 夸克：<https://pan.quark.cn/s/3ccaf3876d8a>
 
+#### 《暴力街区》（2004-2014）1-3部合集 蓝光1080P 内封中字
+
+夸克：https://pan.quark.cn/s/0763e2fecbfe
+
 #### 《完美音调》（2012-2017）1-3部 蓝光4K 中字
 
 夸克：<https://pan.quark.cn/s/65e4ee341ca9>
