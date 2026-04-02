@@ -49,6 +49,12 @@
 ## 最新添加
 !> 新添加及更新的游戏链接里面如果没有文件，就是在上传中，等待上传完毕就会显示...
 
+#### 《放血医师（BLOODLETTER）》v0.1.016 中文版
+
+夸克：https://pan.quark.cn/s/2c6d507b4571
+
+迅雷：https://pan.xunlei.com/s/VOpBC7WDCVolMOsrbE0vHo9AA1?pwd=uauj#
+
 #### 《浣熊推币机（RACCOIN Coin Pusher Roguelike）》v1.0.8 中文版
 
 夸克：https://pan.quark.cn/s/f93f87475478
@@ -65,73 +71,19 @@
 
 夸克：https://pan.quark.cn/s/7e593264ef99
 
-#### 《天选花园（Chosen Garden）》Build.22429595 中文版
-
-夸克：https://pan.quark.cn/s/2c7cabd400a9
-
-迅雷：https://pan.xunlei.com/s/VOp17qAxNn8LiIsadZjZPCMqA1?pwd=86yz#
-
-#### 《狩猎之道2（Way of the Hunter2）》v1.29 中文版
-#### 《狩猎之道（Way of the Hunter）终结版》v1.29 全DLC 中文版（猎人之路 荒野猎人）
-
-夸克：https://pan.quark.cn/s/399ba986c9cc
-
-#### 《Tangy TD》v1.0.312 英文版（肉鸽英雄塔防游戏）
-
-夸克：https://pan.quark.cn/s/b35806690bba
-
-迅雷：https://pan.xunlei.com/s/VOogiqhU9ddC5HwU-cH_GzPKA1?pwd=j7f3#
-
-#### 《双点校园（Two Point Campus）》V2026.3.23 全DLC 中文版
-#### 《双点医院（Two Point Hospital）》v1.30.0-0 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/ed5dfd67767a
-
-迅雷：https://pan.xunlei.com/s/VNtkHEbNiHELy9OOhtQLLAsmA1?pwd=ihmr#
-
-#### 《掠食（Prey）豪华版》v5297220 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/680df3ef7c8a
-
-#### 《朝圣者（Peregrino）》v1.1.1 中文版
-
-夸克：https://pan.quark.cn/s/29bc657fd38c
-
-#### 《策术行囊（Pakinpaks）》v1.0.1 中文版（温馨的益智游戏）
-
-夸克：https://pan.quark.cn/s/ec780aaf2b75
-
-迅雷：https://pan.xunlei.com/s/VOoTA27ifb77TwSRBzvTZs0rA1?pwd=g6sv#
-
-#### 《陨世之泪 涅槃（Fallen Tear The Ascension）》v1.0.1 中文版
-
-夸克：https://pan.quark.cn/s/3bcefbd60e6e
-
-迅雷：https://pan.xunlei.com/s/VOoRP5POn1th0-UTLK0vtcZSA1?pwd=stn2#
-
-#### 《零红蝶 重制版（FATAL FRAME II Crimson Butterfly REMAK）豪华版》v1.02.01 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/aeefdbc4c143
-
-#### 《扬帆起航（Ascendum）》Build.12983918 中文版
-
-夸克：https://pan.quark.cn/s/2a1c8bd138f0
-
-#### 《轰炸机小队（Bomber Crew）豪华版》v23218-96007 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/58684f01601e
-
-迅雷：https://pan.xunlei.com/s/VOoiWkloewrihXOBSMC5KRMiA1?pwd=pyy5#
-
-#### 《爱丽丝的摇篮（alice in cradle）》v0.28b 中文版
-
-夸克：https://pan.quark.cn/s/49292bedb5ba
-
-迅雷：https://pan.xunlei.com/s/VOp159o-sDpfwXwKIh9_wnMOA1?pwd=afuw#
-
 ---
 
 ## 最近更新
+
+#### 《雨世界（Rain World）豪华版》v1.11.7 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/929f0d8cdd2b
+
+#### 《墨境（Realm of Ink）》Build.22383193 中文版
+
+夸克：https://pan.quark.cn/s/9c8494132b6e
+
+迅雷：https://pan.xunlei.com/s/VO8HDZsLAc5ng5SPqCvILFBeA1?pwd=h5y2#
 
 #### 《博德之门3（Baldur's Gate 3）豪华版》v4.1.1.7209685 全DLC 中文 联机版
 
@@ -152,72 +104,15 @@
 
 夸克：https://pan.quark.cn/s/7cd3766e113d
 
-#### 《哥布林传说（Goblins of Elderstone）》v2.0.21 中文版
+---
 
-夸克：https://pan.quark.cn/s/a225b953660a
-
-#### 《犯罪现场清洁工（Crime Scene Cleaner）》v4.0.0c 中文版
-
-夸克：https://pan.quark.cn/s/54fab26752d3
-
-#### 《喵喵的结合（Mewgenics）》v1.0.20932 汉化版
-
-夸克：https://pan.quark.cn/s/9754a267780a
-
-迅雷：https://pan.xunlei.com/s/VOmxhVUr1fSgQpCdJjFlzXWTA1?pwd=h2gc#
-
-#### 《TCG卡牌商店模拟器（TCG Card Shop Simulator）》v0.70.1中文版
-
-夸克：https://pan.quark.cn/s/15d5e510ec67
+## 顶置游戏
 
 #### 《仁王3（Nioh 3）豪华版》v1.04.01 全DLC 中文 联机版（新）
 #### 《仁王2（Nioh 2）完全版》v1.28.08 中文 联机版
 #### 《仁王（Nioh）完全版》v1.24.08 中文版
 
 夸克：https://pan.quark.cn/s/be850af09c63
-
-#### 《镇邪2（hexbreaker 2）》v1.0.17 中文 联机版
-#### 《镇邪（Zhenxie）》v2023.1.28 中文版
-
-夸克：https://pan.quark.cn/s/86026658bd09
-
-#### 《木筏求生（Raft）》v1.01 中文 联机版
-
-夸克：https://pan.quark.cn/s/ff4c31dc365a
-
-迅雷：https://pan.xunlei.com/s/VNpu4vGgV5tOoEsI5Z5YPsxLA1?pwd=eja9#
-
-#### 《风暴崛起（Tempest Rising）》v1.7.1.55792 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/c164538c9a59
-
-#### 《奇迹时代4（Age of Wonders 4）高级版》v1.012.001.112690 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/692dc066767e
-
-#### 《杀手 暗杀世界（HITMAN World of Assassination）豪华版》v3.260.1 全DLC 中文版（杀手1 杀手2 杀手3)
-
-夸克：https://pan.quark.cn/s/88d4e323e453
-
-#### 《龙的传人 孤旅（Dragonkin The Banished）》v1.3.66.54113 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/8d2b0b6ea1be
-
-#### 《杀戮尖塔2（Slay the Spire 2）》v0.100.0b 中文 联机版（附第1部+安卓版）
-
-夸克：https://pan.quark.cn/s/4a575dc211fc
-
-迅雷：https://pan.xunlei.com/s/VOn16_QKz4Jp1DEcW0xhiiCHA1?pwd=7vj7#
-
-#### 《龙胤立志传》v1.0.0F7.5 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/c9dc20755576
-
-迅雷：https://pan.xunlei.com/s/VOnlgk6ummic-a4D4UsYNfMVA1?pwd=yvac
-
----
-
-## 顶置游戏
 
 #### 《最终幻想7 重制版Intergrade（Final Fantasy VII Remake Intergrade）》v1.007 全DLC 中文版
 
@@ -353,6 +248,127 @@
 ---
 
 ## 已有游戏
+
+#### 《天选花园（Chosen Garden）》Build.22429595 中文版
+
+夸克：https://pan.quark.cn/s/2c7cabd400a9
+
+迅雷：https://pan.xunlei.com/s/VOp17qAxNn8LiIsadZjZPCMqA1?pwd=86yz#
+
+#### 《狩猎之道2（Way of the Hunter2）》v1.29 中文版
+#### 《狩猎之道（Way of the Hunter）终结版》v1.29 全DLC 中文版（猎人之路 荒野猎人）
+
+夸克：https://pan.quark.cn/s/399ba986c9cc
+
+#### 《Tangy TD》v1.0.312 英文版（肉鸽英雄塔防游戏）
+
+夸克：https://pan.quark.cn/s/b35806690bba
+
+迅雷：https://pan.xunlei.com/s/VOogiqhU9ddC5HwU-cH_GzPKA1?pwd=j7f3#
+
+#### 《双点校园（Two Point Campus）》V2026.3.23 全DLC 中文版
+#### 《双点医院（Two Point Hospital）》v1.30.0-0 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/ed5dfd67767a
+
+迅雷：https://pan.xunlei.com/s/VNtkHEbNiHELy9OOhtQLLAsmA1?pwd=ihmr#
+
+#### 《掠食（Prey）豪华版》v5297220 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/680df3ef7c8a
+
+#### 《朝圣者（Peregrino）》v1.1.1 中文版
+
+夸克：https://pan.quark.cn/s/29bc657fd38c
+
+#### 《策术行囊（Pakinpaks）》v1.0.1 中文版（温馨的益智游戏）
+
+夸克：https://pan.quark.cn/s/ec780aaf2b75
+
+迅雷：https://pan.xunlei.com/s/VOoTA27ifb77TwSRBzvTZs0rA1?pwd=g6sv#
+
+#### 《陨世之泪 涅槃（Fallen Tear The Ascension）》v1.0.1 中文版
+
+夸克：https://pan.quark.cn/s/3bcefbd60e6e
+
+迅雷：https://pan.xunlei.com/s/VOoRP5POn1th0-UTLK0vtcZSA1?pwd=stn2#
+
+#### 《零红蝶 重制版（FATAL FRAME II Crimson Butterfly REMAK）豪华版》v1.02.01 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/aeefdbc4c143
+
+#### 《扬帆起航（Ascendum）》Build.12983918 中文版
+
+夸克：https://pan.quark.cn/s/2a1c8bd138f0
+
+#### 《轰炸机小队（Bomber Crew）豪华版》v23218-96007 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/58684f01601e
+
+迅雷：https://pan.xunlei.com/s/VOoiWkloewrihXOBSMC5KRMiA1?pwd=pyy5#
+
+#### 《爱丽丝的摇篮（alice in cradle）》v0.28b 中文版
+
+夸克：https://pan.quark.cn/s/49292bedb5ba
+
+迅雷：https://pan.xunlei.com/s/VOp159o-sDpfwXwKIh9_wnMOA1?pwd=afuw#
+
+#### 《哥布林传说（Goblins of Elderstone）》v2.0.21 中文版
+
+夸克：https://pan.quark.cn/s/a225b953660a
+
+#### 《犯罪现场清洁工（Crime Scene Cleaner）》v4.0.0c 中文版
+
+夸克：https://pan.quark.cn/s/54fab26752d3
+
+#### 《喵喵的结合（Mewgenics）》v1.0.20932 汉化版
+
+夸克：https://pan.quark.cn/s/9754a267780a
+
+迅雷：https://pan.xunlei.com/s/VOmxhVUr1fSgQpCdJjFlzXWTA1?pwd=h2gc#
+
+#### 《TCG卡牌商店模拟器（TCG Card Shop Simulator）》v0.70.1中文版
+
+夸克：https://pan.quark.cn/s/15d5e510ec67
+
+#### 《镇邪2（hexbreaker 2）》v1.0.17 中文 联机版
+#### 《镇邪（Zhenxie）》v2023.1.28 中文版
+
+夸克：https://pan.quark.cn/s/86026658bd09
+
+#### 《木筏求生（Raft）》v1.01 中文 联机版
+
+夸克：https://pan.quark.cn/s/ff4c31dc365a
+
+迅雷：https://pan.xunlei.com/s/VNpu4vGgV5tOoEsI5Z5YPsxLA1?pwd=eja9#
+
+#### 《风暴崛起（Tempest Rising）》v1.7.1.55792 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/c164538c9a59
+
+#### 《奇迹时代4（Age of Wonders 4）高级版》v1.012.001.112690 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/692dc066767e
+
+#### 《杀手 暗杀世界（HITMAN World of Assassination）豪华版》v3.260.1 全DLC 中文版（杀手1 杀手2 杀手3)
+
+夸克：https://pan.quark.cn/s/88d4e323e453
+
+#### 《龙的传人 孤旅（Dragonkin The Banished）》v1.3.66.54113 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/8d2b0b6ea1be
+
+#### 《杀戮尖塔2（Slay the Spire 2）》v0.100.0b 中文 联机版（附第1部+安卓版）
+
+夸克：https://pan.quark.cn/s/4a575dc211fc
+
+迅雷：https://pan.xunlei.com/s/VOn16_QKz4Jp1DEcW0xhiiCHA1?pwd=7vj7#
+
+#### 《龙胤立志传》v1.0.0F7.5 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/c9dc20755576
+
+迅雷：https://pan.xunlei.com/s/VOnlgk6ummic-a4D4UsYNfMVA1?pwd=yvac
 
 #### 《太吾绘卷（The Scroll Of Taiwu）》v0.0.76.43 全DLC 中文版
 
@@ -1864,12 +1880,6 @@
 #### 《汽车经销商模拟器（car dealer simulator）》v4791 中文版
 
 夸克：https://pan.quark.cn/s/07d7b79e1ce3
-
-#### 《墨境（Realm of Ink）》Build.21343145 中文版
-
-夸克：https://pan.quark.cn/s/9c8494132b6e
-
-迅雷：https://pan.xunlei.com/s/VO8HDZsLAc5ng5SPqCvILFBeA1?pwd=h5y2#
 
 #### 《故障星系（Galactic Glitch）》v1.84 中文版
 
@@ -3498,10 +3508,6 @@
 #### 《虐杀原形 2部（Prototype）》v2025.9.29 汉化版（已修复诸多问题）
 
 夸克：https://pan.quark.cn/s/c7b9e59e1150
-
-#### 《雨世界（Rain World）豪华版》v1.11.1 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/929f0d8cdd2b
 
 #### 《忍者神龟：破碎命运（TMNT：Splintered Fate）》v1.11.1 全DLC 豪华中文版
 
