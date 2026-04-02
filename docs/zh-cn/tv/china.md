@@ -17,7 +17,13 @@
 
 ## 正在更新中的...
 
-#### 《逐玉》（2026）4K 40集 更新中..
+#### 《月鳞绮纪》（2026）4K 29集更新中..
+
+夸克：https://pan.quark.cn/s/0675691ab11f
+
+迅雷：https://pan.xunlei.com/s/VOpCiLRf9H9R7zKE8D97rxoNA1?pwd=xeuh#
+
+#### 《逐玉》（2026）4K 40集全
 
 夸克：https://pan.quark.cn/s/96f0814991e0
 
