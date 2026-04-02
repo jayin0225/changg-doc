@@ -75,6 +75,22 @@
 
 ## 最近更新
 
+#### 《苏丹的游戏（Sultans Game）》v1.0.19189 中文版
+
+夸克：https://pan.quark.cn/s/41c184b7bd72
+
+迅雷：https://pan.xunlei.com/s/VOpBI7QtZ6grVZoY6gPF8HWcA1?pwd=8s6y#
+
+#### 《生化危机3 重制版（Resident Evil 3 Remake）豪华版》v20230925 全DLC 中文版
+#### 《生化危机4 重制版（Resident Evil 4 Remake）豪华版》Build.22154679 全DLC 中文版
+#### 《生化危机6（Resident Evil 6）》v1.1.0 全DLC 中文 联机版
+#### 《生化危机8 村庄（Resident Evil Village）黄金版》v1.2.3.9 全DLC 中文配音版**（更新）**
+#### 《生化危机 系列合集 10部》最新 黄金版 + 重制版 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/744a500cb67e
+
+迅雷：https://pan.xunlei.com/s/VO6CGYtzDE-Xj4knMXHABHLbA1?pwd=u98k#
+
 #### 《雨世界（Rain World）豪华版》v1.11.7 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/929f0d8cdd2b
@@ -390,16 +406,6 @@
 夸克：https://pan.quark.cn/s/7c6b8f30675c
 
 迅雷：https://pan.xunlei.com/s/VO37CRQu2t8RQECID1fHoDG9A1?pwd=ane4#
-
-#### 《生化危机3 重制版（Resident Evil 3 Remake）豪华版》v20230925 全DLC 中文版
-#### 《生化危机4 重制版（Resident Evil 4 Remake）豪华版》Build.22154679 全DLC 中文版
-#### 《生化危机6（Resident Evil 6）》v1.1.0 全DLC 中文 联机版
-#### 《生化危机8 村庄（Resident Evil Village）》Build.21519280 全DLC 中文配音 黄金版
-#### 《生化危机 系列合集 10部》最新 黄金版 + 重制版 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/744a500cb67e
-
-迅雷：https://pan.xunlei.com/s/VO6CGYtzDE-Xj4knMXHABHLbA1?pwd=u98k#
 
 #### 《战锤40K 星际战士2（Warhammer 40000 Space Marine 2）超级版》v12.2.0.1 全DLC 中文版
 #### 《战锤40K 星际战士 大师锻造版》v1.0.156.0 全DLC 汉化版
@@ -1564,10 +1570,6 @@
 #### 《空之轨迹 the 1st（Sora no Kiseki the 1st）重制版》v1.06.2 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/aa4673559fef
-
-#### 《苏丹的游戏（Sultans Game）》v1.0.17991 中文版
-
-夸克：https://pan.quark.cn/s/41c184b7bd72
 
 #### 《堕落之主（Lords of the Fallen）豪华版》v2.5.247 全DLC 中文 联机版
 
