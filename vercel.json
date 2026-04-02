@@ -1,12 +1,11 @@
 {
-  "outputDirectory": "docs",
   "routes": [
+    {
+      "handle": "filesystem"
+    },
     {
       "src": "/(.*\\.md)",
       "status": 404
-    },
-    {
-      "handle": "filesystem"
     },
     {
       "src": "/(.*)",
