@@ -75,6 +75,10 @@
 
 ## 最近更新
 
+#### 《云族裔（inZOI）》v0.7.2 中文版（韩国模拟人生）
+
+夸克：https://pan.quark.cn/s/8458e4ca4a38
+
 #### 《苏丹的游戏（Sultans Game）》v1.0.19189 中文版
 
 夸克：https://pan.quark.cn/s/41c184b7bd72
@@ -1680,10 +1684,6 @@
 #### 《hololive 滚滚山（hololive GoroGoro Mountain）》v2.0.1 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/92e5ab962799
-
-#### 《云族裔（inZOI）》v0.5.3 中文版（韩国模拟人生）
-
-夸克：https://pan.quark.cn/s/8458e4ca4a38
 
 #### 《灵魂射手 死亡使者（Soulslinger Envoy of Death）》v1.031 中文版（射击肉鸽）
 
