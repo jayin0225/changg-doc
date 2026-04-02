@@ -19,13 +19,13 @@
 
 #### 《逐玉》（2026）4K 40集 更新中..
 
-夸克：https://pan.quark.cn/s/41d6451c6e59
+夸克：https://pan.quark.cn/s/96f0814991e0
 
 迅雷：https://pan.xunlei.com/s/VOnPkzWFrwgR_qCbkCBd5wyOA1?pwd=hnnv
 
 #### 《你好1983》（2026）4K 36集 更新中..
 
-夸克：https://pan.quark.cn/s/7c6851454f5a
+夸克：https://pan.quark.cn/s/f966bdc4059c
 
 迅雷：https://pan.xunlei.com/s/VOoGKy2xj4usb2T6EYVU5uEYA1?pwd=wb62#
 
