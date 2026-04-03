@@ -124,6 +124,10 @@
 
 夸克：https://pan.quark.cn/s/7cd3766e113d
 
+#### 《钢铁雄心4（Hearts of Iron 4）终结版》v1.17.5.2 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/f87f94e17c31
+
 #### 《永夜之围（As We Descend）》v0.10.2.0 中文版
 
 夸克：https://pan.quark.cn/s/58c92da50fb0
@@ -568,10 +572,6 @@
 #### 《熊视眈眈（Out of Sight）》v1.1.93 中文版（类似小小梦魇恐怖解密）
 
 夸克：https://pan.quark.cn/s/d4b3d3aacfaf
-
-#### 《钢铁雄心4（Hearts of Iron 4）终结版》v1.17.4.1 全DLC 中文 联机版（新增DLC）
-
-夸克：https://pan.quark.cn/s/f87f94e17c31
 
 #### 《要战便战（Diplomacy is Not an Option）》v1.0.130 中文版
 
