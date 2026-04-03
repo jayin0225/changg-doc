@@ -124,6 +124,10 @@
 
 夸克：https://pan.quark.cn/s/7cd3766e113d
 
+#### 《永夜之围（As We Descend）》v0.10.2.0 中文版
+
+夸克：https://pan.quark.cn/s/58c92da50fb0
+
 ---
 
 ## 顶置游戏
@@ -2518,10 +2522,6 @@
 #### 《死亡娃娃屋（Dollhouse of Dead）》v2025.11.9 中文版（恐怖游戏）
 
 夸克：https://pan.quark.cn/s/02c078c36747
-
-#### 《永夜之围（As We Descend）》v0.9.1.4b 中文版
-
-夸克：https://pan.quark.cn/s/58c92da50fb0
 
 #### 《梦之形（Shape of Dreams）》v1.0.9.9 中文 联机版
 
