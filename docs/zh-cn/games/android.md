@@ -386,10 +386,6 @@
 
 夸克：https://pan.quark.cn/s/254612a282b0
 
-#### 《咸鱼之王无限资源版》安卓版
-
-夸克：https://pan.quark.cn/s/a4a755f3dad5
-
 #### 《王国保卫战》1-5部 安卓版 合集（10月3日最新版）
 
 夸克：https://pan.quark.cn/s/a790722c6760

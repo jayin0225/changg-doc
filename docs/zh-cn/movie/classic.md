@@ -50,6 +50,10 @@
 
 夸克：https://pan.quark.cn/s/943831f3a9ff
 
+#### 《蓝色骨头》（2013）720P
+
+夸克：https://pan.quark.cn/s/75d051a9e0cc
+
 #### 《一触即发 Jack Ryan Shadow Recruit》（2014）蓝光1080P 中英配音 中字
 
 夸克：https://pan.quark.cn/s/8fef070dd031

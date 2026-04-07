@@ -49,6 +49,12 @@
 ## 最新添加
 !> 新添加及更新的游戏链接里面如果没有文件，就是在上传中，等待上传完毕就会显示...
 
+#### 《哀鸿 城破十日记（The Weeping Swan Ten Days of the City's Fall）》v1.3 中文版
+
+夸克：https://pan.quark.cn/s/b0064155806f
+
+迅雷：https://pan.xunlei.com/s/VOpaHgPXzAX-ZKyhrqkFKKsgA1?pwd=x5jj#
+
 #### 《放血医师（BLOODLETTER）》v0.1.016 中文版
 
 夸克：https://pan.quark.cn/s/2c6d507b4571
@@ -74,6 +80,22 @@
 ---
 
 ## 最近更新
+
+#### 《群星（Stellaris）终极版》v4.3.3.2 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/e812eb1562dd
+
+迅雷：https://pan.xunlei.com/s/VNyaMJxMNH47wljXItgCPhlEA1?pwd=a3dy#
+
+#### 《魔兽争霸3：重制版（Warcraft III Reforged）》v2.0.4.23556 中文版（附淬火MOD+地图包+秘籍）
+#### 《魔兽争霸2：重制版（Warcraft II Remastered）》v2025.2.26 中文版
+#### 《魔兽争霸1：重制版（Warcraft I Remastered）》v2025.2.26 中文版
+
+夸克：https://pan.quark.cn/s/cb54f62be869
+
+#### 《魔咒之地（Forspoken）豪华版》v1.23 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/e52b2c3ce2d1
 
 #### 《云族裔（inZOI）》v0.7.2 中文版（韩国模拟人生）
 
@@ -126,7 +148,7 @@
 
 #### 《钢铁雄心4（Hearts of Iron 4）终结版》v1.17.5.2 全DLC 中文 联机版
 
-夸克：https://pan.quark.cn/s/f87f94e17c31
+夸克：https://pan.quark.cn/s/e2644eb87c21
 
 #### 《永夜之围（As We Descend）》v0.10.2.0 中文版
 
@@ -2025,10 +2047,6 @@
 
 夸克：https://pan.quark.cn/s/f2a711fede86
 
-#### 《魔兽争霸3：重制版（Warcraft III Reforged）》v2.0.3.23175 中文版（附淬火MOD+地图包+秘籍）
-
-夸克：https://pan.quark.cn/s/cb54f62be869
-
 #### 《漫威宇宙入侵（MARVEL Cosmic Invasion）》v1.0.0.12409 中文版
 
 夸克：https://pan.quark.cn/s/2ffb58818955
@@ -2126,12 +2144,6 @@
 #### 《帕格尼物语（Pioneers of Pagonia）》v1.0.0 中文版
 
 夸克：https://pan.quark.cn/s/5f6e98ee44a0
-
-#### 《群星（Stellaris）终极版》v4.2.1 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/e812eb1562dd
-
-迅雷：https://pan.xunlei.com/s/VNyaMJxMNH47wljXItgCPhlEA1?pwd=a3dy#
 
 #### 《征服之歌（Songs of Conquest）完全版》v1.8.1 全DLC 中文版（回合制策略）
 
@@ -7656,14 +7668,6 @@
 
 夸克：https://pan.quark.cn/s/b55ec6d35e04
 
-#### 《魔兽争霸2：重制版（Warcraft II Remastered）》v2025.2.26 中文版
-
-夸克：https://pan.quark.cn/s/bebf73c95fed
-
-#### 《魔兽争霸1：重制版（Warcraft I Remastered）》v2025.2.26 中文版
-
-夸克：https://pan.quark.cn/s/13a391bb679f
-
 #### 《兔子与钢铁（Rabbit and Steel）》v2025.2.24 中文版
 
 夸克：https://pan.quark.cn/s/3520ffa6be87
@@ -11045,10 +11049,6 @@
 夸克：https://pan.quark.cn/s/3e0c0a921fab
 
 迅雷：https://pan.xunlei.com/s/VNwyZ0lMA284CokD_pZoWrygA1?pwd=gjim#
-
-#### 《魔咒之地 Forspoken》最新 全DLC 豪华中文版
-
-夸克：https://pan.quark.cn/s/e52b2c3ce2d1
 
 #### 《神秘海域 盗贼遗产合集（UNCHARTED_Legacy of Thieves Collection）》v1.4.21058 全DLC 中文版
 

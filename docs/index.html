@@ -160,8 +160,8 @@
 
             /* Emoji 字体栈 - 确保跨平台一致性 */
             --emoji-font: "Noto Color Emoji", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
-            /* 内容最大宽度 */
-            --content-max-width: 98ch;
+            /* 内容最大宽度 - 使用clamp()函数实现响应式宽度 */
+            --content-max-width: clamp(80ch, 80vw, 120ch);
         }
 
         /* =================== 2. 图片懒加载 =================== */
@@ -1331,6 +1331,8 @@
         }
     </style>
 
+
+
     <svg style="display: none;">
         <symbol id="icon-home" viewBox="0 0 576 512">
             <path fill="currentColor"
@@ -1744,7 +1746,7 @@
     <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1/dist/docsify-tabs.min.js"
         onload="window.perfMonitor && window.perfMonitor.logJsLoad('tabs-plugin', tabsLoadStart);"
         onerror="this.src='https://unpkg.com/docsify-tabs@1/dist/docsify-tabs.min.js'"></script>
-    <!-- TOC菜单 - 主CDN: jsdelivr, 备用CDN: unpkg -->
+    <!-- TOC插件 - 主CDN: jsdelivr, 备用CDN: unpkg -->
     <script>
         var tocLoadStart = performance.now();
     </script>
