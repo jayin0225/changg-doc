@@ -91,27 +91,27 @@
     <link rel="preconnect" href="https://unpkg.com" crossorigin>
 
     <!-- 网站图标 -->
-    <link rel="icon" href="./favicon.ico" type="image/x-icon">
-    <link rel="icon" href="./favicon.ico" type="image/vnd.microsoft.icon">
-    <link rel="apple-touch-icon" href="./favicon.ico">
-    <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
+    <link rel="apple-touch-icon" href="/favicon.ico">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 
     <!-- Sitemap -->
-    <link rel="sitemap" type="application/xml" href="./sitemap.xml">
+    <link rel="sitemap" type="application/xml" href="/sitemap.xml">
 
     <!-- =================== 外部CSS样式 =================== -->
     <!-- 主题样式--->
-    <link rel="preload" href="./assets/css/theme-simple.css" as="style"
+    <link rel="preload" href="/assets/css/theme-simple.css" as="style"
         onload="this.onload=null;this.rel='stylesheet'" />
     <noscript>
-        <link rel="stylesheet" href="./assets/css/theme-simple.css" />
+        <link rel="stylesheet" href="/assets/css/theme-simple.css" />
     </noscript>
 
     <!-- 封面样式 --->
-    <link rel="preload" href="./assets/css/docsify-vite-coverpage.css" as="style"
+    <link rel="preload" href="/assets/css/docsify-vite-coverpage.css" as="style"
         onload="this.onload=null;this.rel='stylesheet'" />
     <noscript>
-        <link rel="stylesheet" href="./assets/css/docsify-vite-coverpage.css" />
+        <link rel="stylesheet" href="/assets/css/docsify-vite-coverpage.css" />
     </noscript>
 
     <!-- docsify核心 JS预加载 - 主CDN: jsdelivr -->
@@ -161,7 +161,26 @@
             /* Emoji 字体栈 - 确保跨平台一致性 */
             --emoji-font: "Noto Color Emoji", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
             /* 内容最大宽度 - 使用clamp()函数实现响应式宽度 */
-            --content-max-width: clamp(80ch, 80vw, 120ch);
+            --content-max-width: clamp(60ch, 80vw, 110ch);
+        }
+
+        /* =================== 滚动偏移量设置 =================== */
+        /* 为所有标题设置滚动偏移量，确保滚动后不会被导航栏遮挡 */
+        .markdown-section h1,
+        .markdown-section h2,
+        .markdown-section h3,
+        .markdown-section h4 {
+            scroll-margin-top: 100px; /* 为导航栏留出空间 */
+        }
+
+        /* 手机端特殊处理 */
+        @media screen and (max-width: 767px) {
+            .markdown-section h1,
+            .markdown-section h2,
+            .markdown-section h3,
+            .markdown-section h4 {
+                scroll-margin-top: 150px; /* 为手机导航栏留出更多空间 */
+            }
         }
 
         /* =================== 2. 图片懒加载 =================== */
@@ -1470,10 +1489,42 @@
         <span class="loading-text">正在加载中<span>.</span><span>.</span><span>.</span><span>.</span></span>
     </div>
 
+    <!-- =================== 手机菜单修复函数 =================== -->
+    <script>
+        // 增强的手机菜单显示函数
+        function toggleMobileNav() {
+            requestAnimationFrame(function() {
+                var mobileNav = document.querySelector('.mobile-nav');
+                if (mobileNav) {
+                    var isMobile = window.innerWidth <= 767 || /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+                    if (isMobile) {
+                        mobileNav.classList.add('force-show');
+                        document.body.style.paddingBottom = mobileNav.offsetHeight + 'px';
+                    } else {
+                        mobileNav.classList.remove('force-show');
+                        document.body.style.paddingBottom = '';
+                    }
+                }
+            });
+        }
+
+        // 公共函数：检测是否为移动设备
+        function isMobileDevice() {
+            return window.innerWidth <= 767 || /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+        }
+
+        // 页面加载完成后显示手机菜单
+        window.addEventListener('load', toggleMobileNav);
+        window.addEventListener('resize', function() {
+            setTimeout(toggleMobileNav, 100);
+        });
+        window.addEventListener('pageshow', toggleMobileNav);
+    </script>
+
     <!-- 手机端底部导航栏 -->
     <nav class="mobile-nav">
         <div class="mobile-nav-container">
-            <a href="./" class="mobile-nav-item" data-path="./">
+            <a href="/" class="mobile-nav-item" data-path="/">
                 <span class="mobile-nav-icon"><svg>
                         <use href="#icon-home" />
                     </svg></span>
@@ -1517,21 +1568,6 @@
             </div>
         </div>
     </nav>
-    <script>
-        // 公共函数：检测是否为移动设备
-        function isMobileDevice() {
-            return window.innerWidth <= 767 || /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
-        }
-
-        (function () {
-            var mobileNav = document.querySelector('.mobile-nav');
-            if (mobileNav) {
-                if (isMobileDevice()) {
-                    mobileNav.classList.add('force-show');
-                }
-            }
-        })();
-    </script>
 
     <!-- 搜索遮罩和弹窗 -->
     <div class="mobile-search-overlay" id="mobileSearchOverlay">
@@ -1635,34 +1671,32 @@
     <!-- =================== docsify JS配置文件 =================== -->
     <script>
         window.$docsify = {
-            homepage: 'home.md', //设置主页
+            homepage: 'home.md',
             notFoundPage: '404.md',
             notFoundTitle: '页面不存在 - 对酒当歌分享',
-            loadFooter: '_footer.md',           // 页脚信息插件
-            loadNavbar: false,                   // 加载自定义导航栏,需要目录下有_navbar.md文件
+            loadFooter: '_footer.md',
+            loadNavbar: false,
             repo: '',
-            el: '#app',             // 加载动画
-            loadSidebar: '_sidebar.md',      // 指定侧边栏文件，按照 _sidebar.md 来设置菜单
-            autoHeader: false,      // 自动为每个页面增加标题。
-            subMaxLevel: 0,         // 不自动生成子目录，完全按照 _sidebar.md 显示
-            maxLevel: 3,            // 最大支持渲染的标题层级
-            auto2top: true,         // 切换页面后自动到顶部
-            coverpage: false,        // 启用封面页 默认值: false 开启后是加载 _coverpage.md 文件
-            onlyCover: false,       // 只在访问主页时加载封面，并让封面能下拉显示
-            logo: '',               // 侧边栏左侧的logo
-            name: '对酒当歌分享',     // 侧边栏顶部的标题
-            nameLink: './',          // 点击标题后的跳转地址
-            noEmoji: true,          // 禁用emoji
-            mergeNavbar: true,      // 导航栏将与较小屏幕上的侧边栏合并
-            topMargin: 0,          // 顶部边距，让搜索结果跳转后标题显示在页面第一位
-            externalLinkTarget: '_blank',   // 以打开右上角的外部链接。默认（新窗口/选项卡）'_blank' 和 _self
-            themeColor: '#18256d',          // 替换主题色。利用 CSS3 支持变量的特性，对于老的浏览器有 polyfill 处理。
-            routerMode: 'hash',  // 使用 hash 路由模式
-            relativePath: true,    // 启用相对路径
+            el: '#app',
+            loadSidebar: '_sidebar.md',
+            autoHeader: false,
+            subMaxLevel: 0,
+            maxLevel: 3,
+            auto2top: true,  // 切换页面后自动到顶部
+            coverpage: false,
+            onlyCover: false,
+            logo: '',
+            name: '对酒当歌分享',
+            nameLink: '/',
+            noEmoji: true,
+            mergeNavbar: true,
+            topMargin: 0,  // 顶部边距，让搜索结果跳转后标题显示在页面第一位
+            externalLinkTarget: '_blank',
+            themeColor: '#18256d',
+            routerMode: 'hash',
+            relativePath: false,
 
-            // 缓存1天，浏览器或 CDN 会根据缓存资源，1天内重复请求会直接使用本地缓存，减少服务器负载
             requestHeaders: { 'Cache-Control': 'public, max-age=86400' },
-            // 减少 Docsify 对大量静态链接的无意义解析，所有匹配的链接会保持原样，Docsify 不会尝试解析或拦截它们的跳转行为
             noCompileLinks: [
                 '^https://pan\\.quark\\.cn/s/',
                 '^https://pan\\.xunlei\\.com/s/',
@@ -1670,43 +1704,56 @@
                 '^https://www\\.aliyundrive\\.com/s/'
             ],
 
-            // 统一侧边栏：所有子目录的 _sidebar.md 都使用根目录的侧边栏
             alias: {
-                '^/zh-cn/_sidebar.md': '/_sidebar.md',  // 中文目录的侧边栏
-                '/.*/_sidebar.md': '/_sidebar.md',       // 所有子目录的侧边栏
-                '/.*/_navbar.md': '/_navbar.md'         // 所有子目录的导航栏
+                '^/zh-cn/_sidebar.md': '/_sidebar.md',
+                '/.*/_sidebar.md': '/_sidebar.md',
+                '/.*/_navbar.md': '/_navbar.md'
             },
 
-            // 页面右侧TOC插件设置
             toc: {
                 tocMaxLevel: 2,
                 target: 'h2',
                 ignoreHeaders: []
             },
 
-            // 侧边栏折叠插件配置
-            sidebarDisplayLevel: 0,  // 默认折叠所有子菜单，0表示全部折叠，1表示展开一级
+            sidebarDisplayLevel: 0,
 
-            // Service Worker 已禁用，避免缓存导致的重定向问题
             search: {
-                paths: '/zh-cn',                                // 指定搜索路径   默认值'auto',全文搜索
-                maxAge: 600000,                                  // 将缓存时间延长至7天,过期时间86400000，单位毫秒，默认一天
+                paths: '/zh-cn',
+                maxAge: 600000,
                 placeholder: '请输入关键词"搜索"',
                 noData: '没有搜到就换个关键词在试试。没有就联系站长让他上资源。',
-                depth: 4,                                   // 限制搜索深度到 h4, 1 - 6
-                headings: 4,                               // 仅索引 h4 标题
-                hideOtherSidebarContent: true,                  // 是否隐藏其他侧边栏内容.，false，true
+                depth: 4,
+                headings: 4,
+                hideOtherSidebarContent: true,
                 namespace: 'web',
                 pathNamespaces: ['/zh-cn'],
                 path: '/zh-cn',
             },
             plugins: [
                 function (hook, vm) {
+                    // 【新增】每次页面切换后执行
                     hook.doneEach(function () {
-                        // 页面加载完成后初始化Waline
+                        // 修复手机菜单显示问题
+                        setTimeout(function() {
+                            if (typeof toggleMobileNav === 'function') {
+                                toggleMobileNav();
+                            }
+                        }, 100);
+                        
+                        // 初始化Waline
                         if (typeof initWaline === 'function') {
                             initWaline();
                         }
+                    });
+                    
+                    // 【新增】页面渲染完成后执行
+                    hook.ready(function() {
+                        setTimeout(function() {
+                            if (typeof toggleMobileNav === 'function') {
+                                toggleMobileNav();
+                            }
+                        }, 100);
                     });
                 }
             ]
@@ -1917,8 +1964,115 @@
                 console.error('Waline 初始化失败:', error);
             }
         }
+    </script>
 
-        // Waline初始化由docsify插件系统调用
+    <!-- 处理哈希路由滚动 -->
+    <script>
+        // 处理哈希路由滚动
+        function handleHashScroll() {
+            var hash = window.location.hash;
+            if (hash && hash.startsWith('#')) {
+                // 提取查询参数中的id
+                var targetId = '';
+                
+                // 查找查询参数部分
+                var queryIndex = hash.indexOf('?');
+                if (queryIndex > -1) {
+                    // 从查询参数中提取id
+                    var queryString = hash.substring(queryIndex + 1);
+                    if (queryString) {
+                        // 手动解析查询参数，处理URL编码
+                        var params = {};
+                        queryString.split('&').forEach(function(param) {
+                            var parts = param.split('=');
+                            if (parts.length === 2) {
+                                params[parts[0]] = decodeURIComponent(parts[1]);
+                            }
+                        });
+                        targetId = params.id;
+                    }
+                } else {
+                    // 直接使用哈希值作为id
+                    targetId = hash.substring(1);
+                }
+                
+                if (targetId) {
+                    // 多次尝试查找元素，确保DOM完全加载
+                    var findElementAttempts = 0;
+                    var maxAttempts = 5;
+                    
+                    function findAndScroll() {
+                        findElementAttempts++;
+                        
+                        // 尝试查找目标元素
+                        var targetElement = null;
+                        
+                        // 1. 直接使用id查找
+                        if (!targetElement) {
+                            targetElement = document.getElementById(targetId);
+                        }
+                        
+                        // 2. 使用name属性查找
+                        if (!targetElement) {
+                            targetElement = document.querySelector('a[name="' + targetId + '"]');
+                        }
+                        
+                        // 3. 查找标题元素（h1-h6）
+                        if (!targetElement) {
+                            var headings = document.querySelectorAll('h1, h2, h3, h4, h5, h6');
+                            for (var i = 0; i < headings.length; i++) {
+                                var heading = headings[i];
+                                if (heading.id === targetId || heading.getAttribute('name') === targetId) {
+                                    targetElement = heading;
+                                    break;
+                                }
+                            }
+                        }
+                        
+                        // 4. 查找所有带id的元素
+                        if (!targetElement) {
+                            var allElements = document.querySelectorAll('[id]');
+                            for (var j = 0; j < allElements.length; j++) {
+                                var element = allElements[j];
+                                if (element.id === targetId) {
+                                    targetElement = element;
+                                    break;
+                                }
+                            }
+                        }
+                        
+                        if (targetElement) {
+                            // 等待一小段时间确保元素完全渲染
+                            setTimeout(function() {
+                                // 强制滚动到元素顶部
+                                var rect = targetElement.getBoundingClientRect();
+                                var scrollPosition = window.pageYOffset + rect.top;
+                                
+                                // 立即滚动到目标位置
+                                window.scrollTo(0, scrollPosition);
+                                
+                                // 再次修正滚动位置
+                                setTimeout(function() {
+                                    var newRect = targetElement.getBoundingClientRect();
+                                    if (newRect.top !== 0) {
+                                        window.scrollBy(0, -newRect.top);
+                                    }
+                                }, 200);
+                            }, 100);
+                        } else if (findElementAttempts < maxAttempts) {
+                            // 继续尝试查找元素
+                            setTimeout(findAndScroll, 1000);
+                        }
+                    }
+                    
+                    // 开始查找元素
+                    findAndScroll();
+                }
+            }
+        }
+
+        // 只在搜索结果点击时处理哈希滚动
+        // 移除了全局哈希变化和页面加载时的调用，避免干扰微前端路由
     </script>
 
     <!-- 手机端底部导航栏交互 -->
@@ -1959,41 +2113,60 @@
             var mobileSearchClose = document.getElementById('mobileSearchClose');
             var mobileSearchResults = document.getElementById('mobileSearchResults');
 
-            // 搜索功能 - 使用Docsify搜索插件
-            function performSearch(keyword) {
-                if (!keyword || !mobileSearchResults) return;
-
-                // 显示加载中
-                mobileSearchResults.innerHTML = '<div class="mobile-search-loading"><svg class="icon-spin"><use href="#icon-spinner"/></svg> 搜索中...</div>';
-
-                // 延迟执行，确保DOM就绪
-                setTimeout(function () {
-                    doSearch(keyword);
-                }, 100);
+            // HTML转义
+            function escapeHtml(text) {
+                var div = document.createElement('div');
+                div.textContent = text;
+                return div.innerHTML;
             }
 
-            // 执行搜索 - 手机端搜索实现
-            // 实现原理：
-            // 1. Docsify 的搜索插件默认会将匹配的标题展开到侧边栏
-            // 2. 侧边栏搜索遍历这些展开的链接来找到匹配项
-            // 3. 因此必须先触发 Docsify 搜索框，让侧边栏展开，然后才能搜索到结果
-            // 4. 如果直接用侧边栏搜索而不触发搜索框，侧边栏不会展开，就找不到结果
-            function doSearch(keyword) {
-                // 步骤1: 触发 Docsify 搜索框（展开侧边栏显示匹配标题）
-                try {
-                    var searchInput = document.querySelector('.search input[type="search"]');
-                    if (searchInput) {
-                        searchInput.value = keyword;
-                        searchInput.dispatchEvent(new Event('input', { bubbles: true }));
-                    }
-                } catch (e) {
-                    // 搜索框触发失败，静默处理
+            // 显示搜索结果
+            function displaySearchResults(results, keyword) {
+                if (!mobileSearchResults) return;
+
+                if (!results || results.length === 0) {
+                    mobileSearchResults.innerHTML = '<div class="mobile-search-no-results"><svg><use href="#icon-inbox"/></svg> 没有找到相关结果</div>';
+                    mobileSearchResults.classList.add('has-content');
+                    return;
                 }
 
-                // 步骤2: 延迟后搜索侧边栏（给时间让搜索框展开侧边栏）
-                setTimeout(function () {
-                    doSidebarSearch(keyword);
-                }, 500);
+                var html = '';
+                results.forEach(function (result) {
+                    var path = result.path || result.url || '#';
+                    var title = result.title || '未命名';
+                    
+                    var hashPath = path;
+                    if (!hashPath.startsWith('#')) {
+                        if (!hashPath.startsWith('/')) {
+                            hashPath = '/' + hashPath;
+                        }
+                        hashPath = '#' + hashPath;
+                    }
+                    
+                    html += '<a href="' + escapeHtml(hashPath) + '" class="mobile-search-result-item" data-search-result>' +
+                        '<svg><use href="#icon-file-alt"/></svg>' +
+                        '<span class="mobile-search-result-title">' + escapeHtml(title) + '</span>' +
+                        '<svg style="color: #ccc; font-size: 0.75rem;"><use href="#icon-chevron-right"/></svg>' +
+                        '</a>';
+                });
+                mobileSearchResults.innerHTML = html;
+                mobileSearchResults.classList.add('has-content');
+
+                // 搜索结果点击事件处理
+                document.querySelectorAll('[data-search-result]').forEach(function (link) {
+                    link.addEventListener('click', function (e) {
+                        // 关闭搜索遮罩和清空输入框
+                        closeSearchOverlay();
+                        mobileSearchInput.value = '';
+                        
+                        // 延迟执行哈希滚动处理，确保页面已经切换
+                        setTimeout(function() {
+                            handleHashScroll();
+                        }, 300);
+                    });
+                });
+
+
             }
 
             // 侧边栏搜索 - 遍历侧边栏链接查找匹配项
@@ -2028,49 +2201,49 @@
                 }
             }
 
-            // 显示搜索结果
-            function displaySearchResults(results, keyword) {
-                if (!mobileSearchResults) return;
-
-                if (!results || results.length === 0) {
-                    mobileSearchResults.innerHTML = '<div class="mobile-search-no-results"><svg><use href="#icon-inbox"/></svg> 没有找到相关结果</div>';
-                    mobileSearchResults.classList.add('has-content');
-                    return;
+            // 执行搜索 - 手机端搜索实现
+            function doSearch(keyword) {
+                // 步骤1: 触发 Docsify 搜索框（展开侧边栏显示匹配标题）
+                try {
+                    var searchInput = document.querySelector('.search input[type="search"]');
+                    if (searchInput) {
+                        searchInput.value = keyword;
+                        searchInput.dispatchEvent(new Event('input', { bubbles: true }));
+                    }
+                } catch (e) {
+                    // 搜索框触发失败，静默处理
                 }
 
-                var html = '';
-                results.forEach(function (result) {
-                    var path = result.path || result.url || '#';
-                    var title = result.title || '未命名';
-                    html += '<a href="' + escapeHtml(path) + '" class="mobile-search-result-item" data-search-result>' +
-                        '<svg><use href="#icon-file-alt"/></svg>' +
-                        '<span class="mobile-search-result-title">' + escapeHtml(title) + '</span>' +
-                        '<svg style="color: #ccc; font-size: 0.75rem;"><use href="#icon-chevron-right"/></svg>' +
-                        '</a>';
-                });
-                mobileSearchResults.innerHTML = html;
-                mobileSearchResults.classList.add('has-content');
-
-                // 绑定搜索结果点击事件
-                document.querySelectorAll('[data-search-result]').forEach(function (link) {
-                    link.addEventListener('click', function (e) {
-                        e.preventDefault();
-                        var href = this.getAttribute('href');
-                        closeSearchOverlay();
-                        mobileSearchInput.value = '';
-                        // 延迟跳转，让遮罩先关闭
-                        setTimeout(function () {
-                            window.location.href = href;
-                        }, 200);
-                    });
-                });
+                // 步骤2: 延迟后搜索侧边栏（给时间让搜索框展开侧边栏）
+                setTimeout(function () {
+                    doSidebarSearch(keyword);
+                }, 500);
             }
 
-            // HTML转义
-            function escapeHtml(text) {
-                var div = document.createElement('div');
-                div.textContent = text;
-                return div.innerHTML;
+            // 搜索功能
+            function performSearch(keyword) {
+                if (!keyword || !mobileSearchResults) return;
+
+                // 显示加载中
+                mobileSearchResults.innerHTML = '<div class="mobile-search-loading"><svg class="icon-spin"><use href="#icon-spinner"/></svg> 搜索中...</div>';
+
+                // 延迟执行，确保DOM就绪
+                setTimeout(function () {
+                    doSearch(keyword);
+                }, 100);
+            }
+
+            // 关闭搜索遮罩
+            function closeSearchOverlay() {
+                if (mobileSearchOverlay) {
+                    mobileSearchOverlay.classList.remove('show');
+                }
+                if (mobileSearchResults) {
+                    mobileSearchResults.innerHTML = '';
+                    mobileSearchResults.classList.remove('has-content');
+                }
+                // 移除body上的search-active类，恢复TOC显示
+                document.body.classList.remove('search-active');
             }
 
             if (mobileNavSearch && mobileSearchOverlay) {
@@ -2079,20 +2252,14 @@
                     closeAllMenus();
                     mobileSearchOverlay.classList.add('show');
                     document.body.classList.add('search-active');
-                    mobileSearchInput.focus();
-                    mobileSearchResults.innerHTML = '';
-                    mobileSearchResults.classList.remove('has-content');
+                    if (mobileSearchInput) {
+                        mobileSearchInput.focus();
+                    }
+                    if (mobileSearchResults) {
+                        mobileSearchResults.innerHTML = '';
+                        mobileSearchResults.classList.remove('has-content');
+                    }
                 };
-
-                // 关闭搜索遮罩
-                function closeSearchOverlay() {
-                    mobileSearchOverlay.classList.remove('show');
-                    mobileSearchResults.innerHTML = '';
-                    mobileSearchResults.classList.remove('has-content');
-
-                    // 移除body上的search-active类，恢复TOC显示
-                    document.body.classList.remove('search-active');
-                }
 
                 if (mobileSearchClose) {
                     mobileSearchClose.onclick = function (e) {
@@ -2101,33 +2268,29 @@
                     };
                 }
 
-                // 点击遮罩背景阻止事件冒泡，防止触发后面的元素
-                mobileSearchOverlay.onclick = function (e) {
-                    if (e.target.closest('.mobile-search-close')) return;
-                    e.stopPropagation();
-                };
-
-                // 阻止触摸事件穿透的通用函数
-                function handleTouch(e) {
-                    if (e.target.closest('.mobile-search-close') || e.target.closest('.mobile-search-container')) return;
-                    e.preventDefault();
-                    e.stopPropagation();
+                // 点击遮罩背景阻止事件冒泡
+                if (mobileSearchOverlay) {
+                    mobileSearchOverlay.onclick = function (e) {
+                        if (e.target.closest('.mobile-search-close')) return;
+                        if (e.target === mobileSearchOverlay) {
+                            closeSearchOverlay();
+                        }
+                        e.stopPropagation();
+                    };
                 }
-                mobileSearchOverlay.ontouchstart = handleTouch;
-                mobileSearchOverlay.ontouchmove = handleTouch;
 
                 // 搜索按钮点击事件
                 if (mobileSearchBtn) {
                     mobileSearchBtn.onclick = function (e) {
                         e.stopPropagation();
-                        var keyword = mobileSearchInput.value.trim();
+                        var keyword = mobileSearchInput ? mobileSearchInput.value.trim() : '';
                         if (keyword) {
                             performSearch(keyword);
                         }
                     };
                 }
 
-                // 输入框事件（仅支持回车搜索）
+                // 输入框事件（支持回车搜索）
                 if (mobileSearchInput) {
                     mobileSearchInput.onkeydown = function (e) {
                         if (e.key === 'Enter') {
@@ -2138,9 +2301,7 @@
                         }
                         // ESC键关闭
                         if (e.key === 'Escape') {
-                            mobileSearchOverlay.classList.remove('show');
-                            mobileSearchResults.innerHTML = '';
-                            mobileSearchResults.classList.remove('has-content');
+                            closeSearchOverlay();
                         }
                     };
                 }
@@ -2160,7 +2321,7 @@
                 };
             });
 
-            // 点击其他地方关闭所有菜单（搜索遮罩显示时阻止所有其他点击）
+            // 点击其他地方关闭所有菜单
             document.addEventListener('click', function (e) {
                 // 如果搜索遮罩显示
                 if (mobileSearchOverlay && mobileSearchOverlay.classList.contains('show')) {
@@ -2215,37 +2376,18 @@
                     updateActiveNav();
                 });
             }
-
-            var mobileNavElement = document.querySelector('.mobile-nav');
-            var resizeTimeout;
-            function checkMobileNavVisibility() {
-                if (mobileNavElement) {
-                    if (isMobileDevice()) {
-                        mobileNavElement.classList.add('force-show');
-                    } else {
-                        mobileNavElement.classList.remove('force-show');
-                    }
-                }
-            }
-            // 使用节流函数优化 resize 事件
-            window.addEventListener('resize', function() {
-                clearTimeout(resizeTimeout);
-                resizeTimeout = setTimeout(checkMobileNavVisibility, 100);
-            });
-            checkMobileNavVisibility();
         });
     </script>
 
     <!-- 音乐插件 - 页面完全加载后延迟5秒加载，手机模式下不加载 -->
     <script>
         window.addEventListener('load', function () {
-            // 检测是否为手机模式（使用公共函数）
+            // 检测是否为手机模式
             if (isMobileDevice()) {
                 return; // 手机模式下不加载音乐
             }
 
             setTimeout(function () {
-
                 // 加载APlayer CSS (带备用CDN)
                 var aplayerCss = document.createElement('link');
                 aplayerCss.rel = 'stylesheet';
@@ -2287,34 +2429,18 @@
     </script>
 
     <!-- 音乐插件 配置 -->
-    <!-- 播放器配置说明：
-    - 网易云音乐歌单ID（此处示例为8925762343）
-    - server: 音乐平台：netease（网易云）、tencent（QQ音乐）、kugou（酷狗）等
-    - type: 播放类型：playlist（歌单）、song（单曲）、album（专辑）等
-    - fixed: 是否开启吸底模式：true（固定在页面底部）、false（不固定）
-    - autoplay: 是否自动播放：true（自动播放）、false（不自动播放，避免浏览器拦截）
-    - theme: 播放器主题色（十六进制颜色码，如#b7daff）
-    - loop: 循环模式：none（不循环）、all（列表循环）、one（单曲循环）
-    - order: 播放顺序：random（随机）、list（列表顺序）
-    - volume: 默认音量：0~1之间（0.6表示60%音量）
-    - mutex: 是否互斥：true（阻止多个播放器同时播放）、false（允许多个播放器播放）
-    - lrc-type: 歌词显示模式：0（不显示）、1（LRC格式）、2（JS解析）、3（外部文件）
-    - preload: 预加载：none（不预加载）、metadata（仅元数据）、auto（自动加载）
-    - list-folded: 是否默认折叠播放列表：true（折叠）、false（展开）
-    -->
     <div id="music-player"></div>
 
     <script>
-        // 音乐播放器初始化 - 在插件加载完成后调用
+        // 音乐播放器初始化
         (function() {
             var musicRetryCount = 0;
-            var maxMusicRetries = 3; // 最多重试3次
+            var maxMusicRetries = 3;
             var musicRetryTimer = null;
             var musicStartTime = performance.now();
-            var maxWaitTime = 10000; // 最长等待10秒
+            var maxWaitTime = 10000;
 
             function initMusicPlayer() {
-                // 检查是否超时
                 if (performance.now() - musicStartTime > maxWaitTime) {
                     console.warn('[性能警告] 音乐播放器初始化超时（10秒）');
                     return;
@@ -2353,14 +2479,12 @@
                 }
             }
 
-            // 页面卸载时清理定时器
             window.addEventListener('beforeunload', function() {
                 if (musicRetryTimer) {
                     clearTimeout(musicRetryTimer);
                 }
             });
 
-            // 暴露到全局供其他代码调用
             window.initMusicPlayer = initMusicPlayer;
         })();
     </script>
@@ -2368,29 +2492,25 @@
     <script type="text/javascript">
         // 更精确的时间计算函数
         function calculateRunTime() {
-            // 设置网站上线时间（注意：月份0-11，4表示5月）
-            // 修改这里的日期即可调整起始时间 ▼▼▼
-            var startDate = new Date(2024, 3, 3, 21, 0, 0); // 2024年4月3日21:00:00
+            var startDate = new Date(2024, 3, 3, 21, 0, 0);
             var now = new Date();
-            var diff = now - startDate; // 获取时间差（毫秒）
+            var diff = now - startDate;
 
-            // 计算各时间单位（修正后的计算方式）
-            var seconds = Math.floor(diff / 1000) % 60;       // 秒数
-            var minutes = Math.floor(diff / (1000 * 60)) % 60; // 分钟
-            var hours = Math.floor(diff / (1000 * 60 * 60)) % 24; // 小时
-            var days = Math.floor(diff / (1000 * 60 * 60 * 24)); // 总天数
-            var years = Math.floor(days / 365);             // 年数
-            var remainingDays = days % 365;                 // 剩余天数
+            var seconds = Math.floor(diff / 1000) % 60;
+            var minutes = Math.floor(diff / (1000 * 60)) % 60;
+            var hours = Math.floor(diff / (1000 * 60 * 60)) % 24;
+            var days = Math.floor(diff / (1000 * 60 * 60 * 24));
+            var years = Math.floor(days / 365);
+            var remainingDays = days % 365;
             return {
                 years: years,
-                days: remainingDays, // 使用取模后的剩余天数
+                days: remainingDays,
                 hours: hours,
                 minutes: minutes,
                 seconds: seconds
             };
         }
 
-        /// 更新页面显示的函数
         function updateSiteTime() {
             var timeInfo = calculateRunTime();
             var timeElement = document.getElementById("sitetime");
@@ -2400,10 +2520,8 @@
             }
         }
 
-        // 使用 setInterval 每秒更新一次（避免 requestAnimationFrame 60fps 高频调用）
         var siteTimeInterval = setInterval(updateSiteTime, 1000);
 
-        // 页面加载完成后启动
         if (document.readyState === "complete") {
             updateSiteTime();
         } else {
@@ -2412,15 +2530,13 @@
             });
         }
 
-        // 页面卸载时清理定时器
         window.addEventListener('beforeunload', function() {
             clearInterval(siteTimeInterval);
         });
     </script>
 
-    <!-- Vercel Web Analytics - 仅在 Vercel 部署时启用 -->
+    <!-- Vercel Web Analytics -->
     <script>
-        // 只在 vercel.app 域名或明确配置的域名上加载
         if (location.hostname.includes('vercel.app') || location.hostname === 'www.haozy.top') {
             window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
             var s = document.createElement('script');
@@ -2430,15 +2546,12 @@
         }
     </script>
 
-    <!-- =================== JS插件加载性能监控（仅调试模式启用） =================== -->
+    <!-- JS插件加载性能监控（仅调试模式启用） -->
     <script>
-        // 仅在 URL 包含 debug 参数时启用性能监控
         if (location.search.includes('debug')) {
             (function () {
-                // 存储每个脚本的加载时间
                 window.scriptLoadTimes = {};
 
-                // 监听所有脚本加载
                 var originalAppendChild = Element.prototype.appendChild;
                 Element.prototype.appendChild = function (element) {
                     if (element.tagName === 'SCRIPT' && element.src) {
@@ -2460,12 +2573,10 @@
                     return originalAppendChild.apply(this, arguments);
                 };
 
-                // 页面加载完成后输出汇总
                 window.addEventListener('load', function () {
                     setTimeout(function () {
                         console.log('%c[性能监控] JS插件加载时间汇总:', 'color: #2196F3; font-size: 14px; font-weight: bold;');
 
-                        // 按加载时间排序
                         var sortedScripts = Object.entries(window.scriptLoadTimes)
                             .sort(function (a, b) { return b[1] - a[1]; });
 
@@ -2479,7 +2590,6 @@
                             });
                         }
 
-                        // 使用 Performance API 获取所有资源加载时间
                         if (window.performance && window.performance.getEntriesByType) {
                             var resources = window.performance.getEntriesByType('resource');
                             var scripts = resources.filter(function (r) {
