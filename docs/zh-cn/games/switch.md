@@ -1,9 +1,9 @@
 # switch游戏 PC/安卓
 
 <div class="game-nav">
-  <a href="/zh-cn/games/pc" class="game-nav-btn">电脑游戏</a>
-  <a href="/zh-cn/games/switch" class="game-nav-btn">switch游戏</a>
-  <a href="/zh-cn/games/android" class="game-nav-btn">安卓游戏</a>
+  <a href="#/zh-cn/games/pc" class="game-nav-btn">电脑游戏</a>
+  <a href="#/zh-cn/games/switch" class="game-nav-btn">switch游戏</a>
+  <a href="#/zh-cn/games/android" class="game-nav-btn">安卓游戏</a>
 </div>
 
 ---

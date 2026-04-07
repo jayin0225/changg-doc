@@ -1,15 +1,16 @@
 {
+  "version": 2,
+  "builds": [
+    {
+      "src": "docs/**/*",
+      "use": "@vercel/static"
+    }
+  ],
   "routes": [
     {
-      "handle": "filesystem"
-    },
-    {
-      "src": "/(.*\\.md)",
-      "status": 404
-    },
-    {
       "src": "/(.*)",
-      "dest": "/index.html"
+      "dest": "/docs/index.html",
+      "status": 200
     }
   ],
   "headers": [

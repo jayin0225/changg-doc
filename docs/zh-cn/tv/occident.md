@@ -1,9 +1,9 @@
 # 欧美剧
 
 <div class="game-nav">
-  <a href="/zh-cn/tv/china" class="game-nav-btn">国产剧</a>
-  <a href="/zh-cn/tv/occident" class="game-nav-btn">欧美剧</a>
-  <a href="/zh-cn/tv/jpandsk" class="game-nav-btn">日韩剧</a>
+  <a href="#/zh-cn/tv/china" class="game-nav-btn">国产剧</a>
+  <a href="#/zh-cn/tv/occident" class="game-nav-btn">欧美剧</a>
+  <a href="#/zh-cn/tv/jpandsk" class="game-nav-btn">日韩剧</a>
 </div>
 
 ---

@@ -1,10 +1,10 @@
 # 国产动漫
 
 <div class="game-nav">
-  <a href="/zh-cn/animetv/gcdm" class="game-nav-btn">国产动漫</a>
-  <a href="/zh-cn/animetv/rbdm" class="game-nav-btn">日本动漫</a>
-  <a href="/zh-cn/animetv/omdm" class="game-nav-btn">欧美动漫</a>
-  <a href="/zh-cn/animetv/xpy" class="game-nav-btn">小朋友动画</a>
+  <a href="#/zh-cn/animetv/gcdm" class="game-nav-btn">国产动漫</a>
+  <a href="#/zh-cn/animetv/rbdm" class="game-nav-btn">日本动漫</a>
+  <a href="#/zh-cn/animetv/omdm" class="game-nav-btn">欧美动漫</a>
+  <a href="#/zh-cn/animetv/xpy" class="game-nav-btn">小朋友动画</a>
 </div>
 
 ---
