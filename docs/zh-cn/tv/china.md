@@ -31,7 +31,7 @@
 
 #### 《逐玉》（2026）4K 40集全
 
-夸克：https://pan.quark.cn/s/96f0814991e0
+夸克：https://pan.quark.cn/s/6c3e1cb42ab2
 
 迅雷：https://pan.xunlei.com/s/VOnPkzWFrwgR_qCbkCBd5wyOA1?pwd=hnnv
 
