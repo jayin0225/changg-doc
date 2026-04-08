@@ -20,6 +20,10 @@
 
 阿里：<https://www.aliyundrive.com/s/3m2ULCyYTnm>
 
+#### 《按歌手每张专辑分类的无损音乐》众多歌手（歌手+专辑）
+
+夸克：https://pan.quark.cn/s/2f0df9f1052b
+
 #### 《华语流行乐坛热门歌手成名代表作》首首经典永久珍藏（WAV 无损）543首精选 30GB
 
 夸克：https://pan.quark.cn/s/d8fa3e48fa4f
@@ -77,10 +81,6 @@
 #### 《2023 QQ音乐年度热歌榜TOP300》（FLAC MP3 格式）（8.8G）
 
 夸克：https://pan.quark.cn/s/f01ca8811e10
-
-#### 《按歌手每张专辑分类的无损音乐》众多歌手（歌手+专辑）
-
-夸克：https://pan.quark.cn/s/2f0df9f1052b
 
 #### 《张学友 专辑合集》APE 格式
 

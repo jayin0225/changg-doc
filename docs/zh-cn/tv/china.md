@@ -23,7 +23,7 @@
 
 迅雷：https://pan.xunlei.com/s/VOpCiLRf9H9R7zKE8D97rxoNA1?pwd=xeuh#
 
-#### 《你好1983》（2026）4K 36集 更新中..
+#### 《你好1983》（2026）4K 36集全
 
 夸克：https://pan.quark.cn/s/f966bdc4059c
 
