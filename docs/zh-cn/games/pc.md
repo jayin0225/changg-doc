@@ -68,6 +68,10 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。
 
+#### 《原子之心（Atomic Heart）》 v2026.4.16 豪华中文版 全DLC 打包XG器 新增血染水晶DLC
+
+夸克：https://pan.quark.cn/s/18f14f5feaac
+
 #### 《女神异闻录4：无敌究极后桥背摔（Persona 4 Arena Ultimax）》 中文版 （虚拟机）
 
 夸克：https://pan.quark.cn/s/2d41f4d4f5da
