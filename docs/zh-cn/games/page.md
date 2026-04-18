@@ -16,14 +16,14 @@
   游戏下载好后，后缀可能是“part1.rar~part5.rar”或“.exe”这种需要全部下载，前者需要安装一个系统必备的解压缩软件，安装好后右击选中第1个压缩包，鼠标指向解压缩软件，解压→解压到...，在解压过程中它会把其他的分卷压缩包一起解压到一个文件夹中，这个文件夹就是游戏的整体，他是一堆文件组成的。如果是“.exe”的压缩包，不需要解压工具，双击第一个“.exe”文件即可自解压，然后打开刚解压获得的文件夹，找到里面的"游戏启动说明.txt"双击打开查看游戏的启动程序和一些注意事项”如果有“。(别用系统自带的压缩软件，兼容不好，解压可能会失败)  
 
   **几款解压软件，没有的下载安装**  
-  夸克：https://pan.quark.cn/s/cad094b958ef  
-  迅雷：https://pan.xunlei.com/s/VNpUQ4hwI5ZAuglOSAaMw6n3A1?pwd=necc#
+  夸克：https://pan.quark.cn/s/5a389b3ccd61 
+  迅雷：<https://pan.xunlei.com/s/VNvgRzBA3qQL0sLjzuITBv0-A1?pwd=7cwz#>
 
 + 2、打开游戏出现闪退、卡加载、报错，提示C++，缺少##.dll等文件 +
 
     2.1 安装微软运行库即可解决，新手和不懂的建议全部安装即可 (安装好后要重启电脑)  
-    夸克：https://pan.quark.cn/s/05181b7ac791  
-    迅雷：https://pan.xunlei.com/s/VNobUDzBi27vywiLpZN_NLGXA1?pwd=2skw#  
+    夸克：https://pan.quark.cn/s/ad994a3ea1b9  
+    迅雷：https://pan.xunlei.com/s/VNvgX8ZQLQgFQbMicwr19qOLA1?pwd=7ngm#  
     2.2 游戏存放路径文件夹有中文字符，比如 D:\游戏\ABC，带有中文。必须全是英文，如：D:\youxi\ABC  
     2.3 更新显卡驱动，即使是最新（用官方软件更新，别用第三方）  
 

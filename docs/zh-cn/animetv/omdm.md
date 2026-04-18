@@ -13,142 +13,90 @@
 
 #### 《欧美动画 总目录》如果下面的动漫被和谐，请访问总目录
 
-夸克：https://pan.quark.cn/s/252f3a59372a
-
-迅雷：https://pan.xunlei.com/s/VNnm_f0yWVOtXt2d5Kt9S9z4A1?pwd=usch#
-
-阿里：<https://www.aliyundrive.com/s/K8cLi2tT1yy>
+夸克：https://pan.quark.cn/s/b412948742cf
 
 ---
 
-#### 《蜘蛛侠1994 国语 + 终极蜘蛛侠2012 + 神奇蜘蛛侠2008 》动画版 合集
-
-夸克：https://pan.quark.cn/s/0c7cc73a01fc
-
 #### 《漫威丧尸 Marvel Zombies》 (2025) 1080P 高码 4集全
 
-夸克：https://pan.quark.cn/s/7e5ae5986801
-
-#### 《降世神通》（2005-2007）1-3季全 1080P 中字（附 降世神通：最后的气宗和降世神通：科拉传奇）
-
-夸克：https://pan.quark.cn/s/5acfc869b777
+夸克：https://pan.quark.cn/s/16b1ed756f39
 
 #### 《瑞克和莫蒂》（2013-2025）1-8季全 1080P 中英字幕
 
-夸克：https://pan.quark.cn/s/022f16dd50e3
-
-迅雷：https://pan.xunlei.com/s/VOp0oWsvBxsM2Xga-PoUgEW8A1?pwd=b8sm#
-
-阿里1-5季：<https://www.aliyundrive.com/s/pRctPZveBuy>
-
-#### 《环太平洋：黑色禁区》（2021-2022）1-2季全 1080P 中字 （美漫）
-
-夸克：https://pan.quark.cn/s/94691b590dde
+夸克1-7季：https://pan.quark.cn/s/7767ef130ad2
 
 #### 《美国老爹》（2005-2025）1-21季全 1080P 中字（动漫）
 
-夸克：https://pan.quark.cn/s/790404cc4de9
+夸克：https://pan.quark.cn/s/ffca8eb9e748
 
 #### 《鬼泣 动画》（2025）1080P 8集全 英语中字
 
-夸克：https://pan.quark.cn/s/3ef7fdd66497
+夸克：https://pan.quark.cn/s/0c001af30acc
 
 #### 《无敌少侠》（2021-2025）1-3季全 中字（附漫画）
 
-夸克：https://pan.quark.cn/s/42b11e8cbf56
-
-迅雷：https://pan.xunlei.com/s/VNyKaQPZbKFLi3ElCkej10k6A1?pwd=cxvg#
+夸克：https://pan.quark.cn/s/e5fd28f93614
 
 #### 《恶搞之家》（1999-2023）1-22季全 1080P 内嵌中文字幕
 
-夸克：https://pan.quark.cn/s/e2357db6412f
+夸克：https://pan.quark.cn/s/9bd07ce9b6e6
 
-#### 《英雄联盟：双城之战》（2021-2024）4K 1-2季全 中英配音
+#### 《英雄联盟：双城之战》（2021-2024）第二季 4K 更新中..中英配音（附第一季 4K 中英配音）
 
-夸克：https://pan.quark.cn/s/7ed7ae70ad64
+夸克：https://pan.quark.cn/s/6429d256d777
 
 #### 《机械之声的传奇》（2022-2024）1-3季全 1080P 中字
 
-夸克：https://pan.quark.cn/s/f3e52b6958a4
+夸克：https://pan.quark.cn/s/7962cf3d15a6
 
 #### 《诸神末日》（2024）1080P 中字 8集全
 
-夸克：https://pan.quark.cn/s/3faae21e00c1
-
-迅雷：https://pan.xunlei.com/s/VO9AjJw0YLCNPnXBF-9cLEUbA1?pwd=j2f8#
+夸克：https://pan.quark.cn/s/b5cf71faee7e
 
 #### 《忍者神威》（2024）4K HDR + 1080P 日英双语版 中字 13集全
 
-夸克：https://pan.quark.cn/s/82fe1d998884
-
-迅雷：https://pan.xunlei.com/s/VO0xAUqTYpyT3NkxnPClSmtmA1?pwd=dd6h#
+夸克：https://pan.quark.cn/s/5137ed0365b5
 
 #### 《猫和老鼠》1-14季 + 17部大电影 + 四川话和东北话版本 + 50周年珍藏 4K版
 
-夸克：https://pan.quark.cn/s/e8e1a14abdeb
+夸克：https://pan.quark.cn/s/c52b5b308038
 
 #### 《X战警97》（2024）4K HDR 10集全
 
-夸克：https://pan.quark.cn/s/a8883b0fffa4
+夸克：https://pan.quark.cn/s/81c0557b1311
 
-迅雷：https://pan.xunlei.com/s/VNyKbaIRApAF35X44D8gZI2qA1?pwd=9wgx#
+#### 《地狱客栈》（2024）第一季 8集全 内置字幕
 
-#### 《地狱客栈》（2024-2025）1-2季全 1080P 硬中字
-
-夸克：https://pan.quark.cn/s/5cd546f71a56
-
-迅雷：https://pan.xunlei.com/s/VNoVuvCPGDOn07aiNO5H0RThA1?pwd=iqkz#
-
-阿里：<https://www.aliyundrive.com/s/K8cLi2tT1yy>
+夸克：https://pan.quark.cn/s/022f9033655e
 
 #### 《蓝眼武士》（2023）1080P 全8集 英日配音.中文字幕
 
-夸克：https://pan.quark.cn/s/9afdb1ba483d
-
-迅雷：https://pan.xunlei.com/s/VNnmiMN3ZeWlPUCprlLjK5GvA1?pwd=54ab#
-
-阿里：<https://www.alipan.com/s/Mb1hwJNkr6C>
+夸克：https://pan.quark.cn/s/37aa926caf0d
 
 #### 《万神殿》 1-2季.1080P.高码.H265.内置中英+外挂字幕
 
-夸克：https://pan.quark.cn/s/322fb908b934
-
-迅雷：https://pan.xunlei.com/s/VNnmk1x3oJyL_PRv1h2UBDP-A1?pwd=vqmr#
-
-阿里：<https://www.aliyundrive.com/s/eZCR7zvj612>
+夸克：https://pan.quark.cn/s/67f08d1319e0
 
 #### 《拾荒者统治》（2023）第一季 12集全 1080P 对酒当歌压制
 
-夸克：https://pan.quark.cn/s/27f125814bba
-
-迅雷：https://pan.xunlei.com/s/VNnml6DjwIVhsbRxPmC_7RtqA1?pwd=yp3v#
-
-阿里：<https://www.aliyundrive.com/s/42iamoQk2Wa>
+夸克：https://pan.quark.cn/s/ff519ee95e2f
 
 #### 《赛博朋克：边缘行者》第一季 日英配音 中字
 
-夸克：https://pan.quark.cn/s/de52db00905d
-
-阿里：<https://www.aliyundrive.com/s/3JMbhyS7MPM>
+夸克：https://pan.quark.cn/s/7ecccfc4fc66
 
 #### 《外星也难民》（2020-2023）1-4季全 中字
 
-夸克：https://pan.quark.cn/s/13ab2144b891
-
-阿里：<https://www.aliyundrive.com/s/siazHFRjVRM>
+夸克：https://pan.quark.cn/s/99bcab6e304f
 
 #### 《生化危机：无尽黑暗》（2021）1080P 4集全
 
-夸克：https://pan.quark.cn/s/6f051051dbfa
-
-阿里：<https://www.aliyundrive.com/s/3UJZBQP8Ab9>
+夸克：https://pan.quark.cn/s/4f2c7a6e441c
 
 #### 《变形金刚:领袖之证》（2010-2013）国语 1-3季全
 
-夸克：https://pan.quark.cn/s/1eecfc9a3fdc
-
-阿里：<https://www.aliyundrive.com/s/XkRF5dKL9os>
+夸克：https://pan.quark.cn/s/19b31b324063
 
 #### 《怪诞小镇》1-2季+番外+特辑 中字
 
-夸克：https://pan.quark.cn/s/76f3ebea987b
+夸克：https://pan.quark.cn/s/a1508b22a35d

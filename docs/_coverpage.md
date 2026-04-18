@@ -1,5 +1,5 @@
 <div class="cover-content">
-  <h1 class="h1-style">对酒当歌分享<small>每日更新</small></h1>
+  <h1 class="h1-style">唱歌分享<small>每日更新</small></h1>
   <div class="video-container">
     <video autoplay muted loop playsinline preload="metadata">
       <source src="./assets/img/1.mp4" type="video/mp4">
@@ -110,5 +110,6 @@ small {
 [进  入](home)
 [留言板](/zh-cn/bbs)
 [电脑游戏](/zh-cn/games/pc)
-[QQ群①](https://qm.qq.com/q/7XUsPNUXPq)
+[QQ群（游戏）](https://qm.qq.com/q/rsMnaU4DGo)
+[QQ群（学习）](https://qm.qq.com/q/kiJK8Uc6Gs)
 [打  赏](/zh-cn/dashang)
