@@ -68,6 +68,10 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。
 
+#### 《城市交通模拟（City Transport Simulator）》 v1.4.0 豪华中文版 全DLC
+
+夸克：https://pan.quark.cn/s/2adcd45aa754
+
 #### 《原子之心（Atomic Heart）》 v2026.4.16 豪华中文版 全DLC 打包XG器 新增血染水晶DLC
 
 夸克：https://pan.quark.cn/s/18f14f5feaac
