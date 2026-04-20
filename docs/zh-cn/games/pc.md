@@ -68,6 +68,10 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。
 
+#### 《坎巴拉太空计划 1-2部（Kerbal Space Program）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/9bede9e9621b
+
 #### 《城市交通模拟（City Transport Simulator）》 v1.4.0 豪华中文版 全DLC
 
 夸克：https://pan.quark.cn/s/2adcd45aa754
@@ -3869,10 +3873,6 @@
 #### 《众神：解放》v4035656 中文版 全DLC
 
 夸克:<https://pan.quark.cn/s/c335785919b8>
-
-#### 《坎巴拉太空计划2》v0.2.2.0.32913 中文版
-
-夸克:<https://pan.quark.cn/s/aa90c260dea2>
 
 #### 《恶神 LEMPO》
 
