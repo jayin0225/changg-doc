@@ -130,6 +130,12 @@
 
 百度: https://pan.baidu.com/s/15ecCAFyXZEHphA77z5KEBw?pwd=cglt
 
+#### 《怪物大师全套书籍》21本全 PDF格式
+
+百度: https://pan.baidu.com/s/10hc9L8goSxk4KOxUNZhS_g?pwd=cglt
+
+夸克：https://pan.quark.cn/s/af1365dca667
+
 ## ⏫ 其他书籍
 
 #### 《吕祖全书.总六十四卷》
