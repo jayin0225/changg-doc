@@ -68,6 +68,10 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。
 
+#### 《轮椅模拟器（Wheelchair Simulator）》v2020.3.31
+
+夸克：https://pan.quark.cn/s/1295cd3f2d1d
+
 #### 《坎巴拉太空计划 1-2部（Kerbal Space Program）》最新 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/9bede9e9621b
