@@ -68,6 +68,18 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。
 
+#### 《死亡搁浅 系列2部》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/d0b8916f04f1
+
+#### 《异域镇魂曲 增强版（Planescape Torment - Enhanced Edition）》最新 汉化版
+
+夸克：https://pan.quark.cn/s/bb2f1aaeee41
+
+#### 《Screamer 豪华版》最新 全DLC 中文版（高能动作和动漫美学 赛车游戏）
+
+夸克：https://pan.quark.cn/s/c87a95237f8f
+
 #### 《轮椅模拟器（Wheelchair Simulator）》v2020.3.31
 
 夸克：https://pan.quark.cn/s/1295cd3f2d1d
@@ -115,6 +127,10 @@
 ---
 
 ## 最近更新
+
+#### 《鬼谷八荒》v1.2.113.259 豪华中文版 全DLC 打包XG器
+
+夸克：https://pan.quark.cn/s/d4195ae46669
 
 #### 《幻兽帕鲁（Palworld）》最新 全DLC 中文 联机版 (附：MOD合集+修改器+升级补丁)
 
@@ -1338,7 +1354,7 @@
 
 夸克：<https://pan.quark.cn/s/2e7d496ea360>
 
-#### 《死亡搁浅》最新 导演剪辑版 附修改器
+#### 《死亡搁浅 系列2部》最新 全DLC 中文版
 
 夸克：<https://pan.quark.cn/s/d0b8916f04f1>
 
