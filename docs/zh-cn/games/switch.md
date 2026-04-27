@@ -38,6 +38,10 @@
 
 ##  已有游戏
 
+#### 《全明星大乱斗 特别版（Super Smash Bros）》最新 全99DLC  PC+安卓 模拟器整合版
+
+夸克：https://pan.quark.cn/s/31898846734e
+
 #### 《宝可梦ZA》 最新 全DLC NS整合 中文版
 
 夸克：https://pan.quark.cn/s/7fb39c0f9ce0

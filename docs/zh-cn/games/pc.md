@@ -68,6 +68,42 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。
 
+#### 《全明星大乱斗 特别版（Super Smash Bros）》最新 全99DLC  PC+安卓 模拟器整合版
+
+夸克：https://pan.quark.cn/s/31898846734e
+
+#### 《放血医师（BLOODLETTER）》最新 中文版
+
+夸克：https://pan.quark.cn/s/5aa479d1e512
+
+#### 《浣熊推币机（RACCOIN Coin Pusher Roguelike）》最新 中文版
+
+夸克：https://pan.quark.cn/s/1072b767d49d
+
+---
+
+## 最近更新
+
+#### 《鬼谷八荒》v1.2.113.259 豪华中文版 全DLC 打包XG器
+
+夸克：https://pan.quark.cn/s/d4195ae46669
+
+#### 《幻兽帕鲁（Palworld）》最新 全DLC 中文 联机版 (附：MOD合集+修改器+升级补丁)
+
+夸克：https://pan.quark.cn/s/0ca1b61bb4c6
+
+#### 《潜行者2：切尔诺贝利之心（S.T.A.L.K.E.R 2 Heart of Chornobyl）终结版》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/de848953f6a8
+
+#### 《最后一次突击（Phantom Squad）》 v1.2.0.461f50 中文版 联机版
+
+夸克：https://pan.quark.cn/s/411828f66245
+
+---
+
+## 已有游戏
+
 #### 《死亡搁浅 系列2部》最新 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/d0b8916f04f1
@@ -123,30 +159,6 @@
 #### 《丧尸末世：地底全是财，挖宝造炮台（The Spotter Dig or Die）》最新 中文版
 
 夸克：https://pan.quark.cn/s/ead2c4dcfb9e
-
----
-
-## 最近更新
-
-#### 《鬼谷八荒》v1.2.113.259 豪华中文版 全DLC 打包XG器
-
-夸克：https://pan.quark.cn/s/d4195ae46669
-
-#### 《幻兽帕鲁（Palworld）》最新 全DLC 中文 联机版 (附：MOD合集+修改器+升级补丁)
-
-夸克：https://pan.quark.cn/s/0ca1b61bb4c6
-
-#### 《潜行者2：切尔诺贝利之心（S.T.A.L.K.E.R 2 Heart of Chornobyl）终结版》最新 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/de848953f6a8
-
-#### 《最后一次突击（Phantom Squad）》 v1.2.0.461f50 中文版 联机版
-
-夸克：https://pan.quark.cn/s/411828f66245
-
----
-
-## 已有游戏
 
 #### 《烹饪模拟器 2：合作无间（Cooking Simulator 2 Better Together）》 最新 中文版
 
