@@ -68,6 +68,10 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。
 
+#### 《黑神话：悟空（Black Myth Wukong）豪华版》最新 中文版
+
+夸克：https://pan.quark.cn/s/348484c67b3f
+
 #### 《全明星大乱斗 特别版（Super Smash Bros）》最新 全99DLC  PC+安卓 模拟器整合版
 
 夸克：https://pan.quark.cn/s/31898846734e
