@@ -72,6 +72,8 @@
 
 夸克：https://pan.quark.cn/s/348484c67b3f
 
+百度：https://pan.baidu.com/s/1Y8AoDu5RVdfY1PehhYVMkA?pwd=cglt
+
 #### 《打造世界（Craft The World）》最新 全DLC 中文 联机版（创造世界）
 
 夸克：https://pan.quark.cn/s/380e7b8dba06
