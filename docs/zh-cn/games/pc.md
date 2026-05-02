@@ -74,6 +74,14 @@
 
 百度：https://pan.baidu.com/s/1Y8AoDu5RVdfY1PehhYVMkA?pwd=cglt
 
+#### 《红色沙漠（Crimson Desert）》 最新 豪华中文版 全DLC 打包XG器
+
+夸克：https://pan.quark.cn/s/77eb9d116096
+
+#### 《足球经理2022（Football Manager 2022）》 最新 豪华中文版 全DLC
+
+夸克：https://pan.quark.cn/s/ce74c78cbe0d
+
 #### 《打造世界（Craft The World）》最新 全DLC 中文 联机版（创造世界）
 
 夸克：https://pan.quark.cn/s/380e7b8dba06
@@ -93,6 +101,18 @@
 ---
 
 ## 最近更新
+
+#### 《龙之信条2（Dragons Dogma 2）》 v3.002.000 豪华中文版 全DLC 打包XG器
+
+夸克:<https://pan.quark.cn/s/137f9835b0e6>
+
+#### 《七龙珠：电光炸裂！ZERO》v2019.018.003.011.012 终极中文版 全DLC
+
+夸克：https://pan.quark.cn/s/3629ae024b31
+
+#### 《维多利亚3（victoria 3）》v1.13.0 全DLC 豪华中文版
+
+夸克：https://pan.quark.cn/s/efbed999f966
 
 #### 《鬼谷八荒》v1.2.113.259 豪华中文版 全DLC 打包XG器
 
@@ -196,7 +216,7 @@
 
 #### 《红色沙漠（Crimson Desert）》 最新 豪华中文版 全DLC 打包XG器
 
-夸克：https://pan.quark.cn/s/e3c1d2b5085
+夸克：https://pan.quark.cn/s/77eb9d116096
 
 #### 《无归（No Return）》最新 中文版（恐怖解密）
 
@@ -5984,9 +6004,9 @@
 
 夸克:<https://pan.quark.cn/s/9b61e15e4f9f>
 
-#### 《龙之信条2》最新 中文版
+#### 《龙之信条2（Dragons Dogma 2）》 最新 豪华中文版 全DLC 打包XG器
 
-夸克:<https://pan.quark.cn/s/9a2b5c68cc64>
+夸克:<https://pan.quark.cn/s/137f9835b0e6>
 
 #### 《小小无常》v2024.11.14 中文版
 
