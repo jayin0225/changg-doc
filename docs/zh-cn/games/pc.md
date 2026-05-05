@@ -3340,7 +3340,7 @@
 
 夸克:<https://pan.quark.cn/s/4f6bbc467817>
 
-#### 《天国：拯救》 全DLC+MOD合集
+#### 《天国拯救 系列合集（Kingdom Come Deliverance）》最新 全DLC 中文版
 
 夸克:<https://pan.quark.cn/s/a15186679cea>
 
@@ -6983,10 +6983,6 @@
 #### 《大头盔英雄》v1.0.0 中文版
 
 夸克:<https://pan.quark.cn/s/7efebc511079>
-
-#### 《天国拯救2（Kingdom Come Deliverance 2）黄金版》最新 全DLC 中文版
-
-夸克：<https://pan.quark.cn/s/e8a70ec41cc6>
 
 #### 《漫威蜘蛛侠2》最新 豪华中文版 全DLC 打包XG器
 
