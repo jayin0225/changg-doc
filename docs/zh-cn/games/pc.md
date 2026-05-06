@@ -102,6 +102,24 @@
 
 ## 最近更新
 
+#### 《风启之旅(Windrose)》 v0.10.0.3.104.256f9653 中文联机版
+
+夸克：https://pan.quark.cn/s/acea7ba4d903
+
+#### 《雾锁王国（Enshrouded）》 v999467 中文 联机版
+
+夸克：https://pan.quark.cn/s/06b34131248e
+
+#### 《天国拯救 系列合集（Kingdom Come Deliverance）》最新 全DLC 中文版
+
+夸克:<https://pan.quark.cn/s/a15186679cea>
+
+#### 《仁王3（Nioh 3）豪华版》v1.02.02 全DLC 中文版（新）
+#### 《仁王2（Nioh 2）完全版》v1.28.08 中文 联机版
+#### 《仁王（Nioh）完全版》v1.24.08 中文版
+
+夸克：https://pan.quark.cn/s/9dad8dce13d5
+
 #### 《龙之信条2（Dragons Dogma 2）》 v3.002.000 豪华中文版 全DLC 打包XG器
 
 夸克:<https://pan.quark.cn/s/137f9835b0e6>
@@ -113,22 +131,6 @@
 #### 《维多利亚3（victoria 3）》v1.13.0 全DLC 豪华中文版
 
 夸克：https://pan.quark.cn/s/efbed999f966
-
-#### 《鬼谷八荒》v1.2.113.259 豪华中文版 全DLC 打包XG器
-
-夸克：https://pan.quark.cn/s/d4195ae46669
-
-#### 《幻兽帕鲁（Palworld）》最新 全DLC 中文 联机版 (附：MOD合集+修改器+升级补丁)
-
-夸克：https://pan.quark.cn/s/0ca1b61bb4c6
-
-#### 《潜行者2：切尔诺贝利之心（S.T.A.L.K.E.R 2 Heart of Chornobyl）终结版》最新 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/de848953f6a8
-
-#### 《最后一次突击（Phantom Squad）》 v1.2.0.461f50 中文版 联机版
-
-夸克：https://pan.quark.cn/s/411828f66245
 
 ---
 
@@ -178,7 +180,7 @@
 
 夸克：https://pan.quark.cn/s/48773a64c96d
 
-#### 《风启之旅(Windrose)》 v0.10.0.1.6 中文联机版
+#### 《风启之旅(Windrose)》 最新 中文联机版
 
 夸克：https://pan.quark.cn/s/acea7ba4d903
 
@@ -3252,10 +3254,6 @@
 
 夸克:<https://pan.quark.cn/s/b7402006ea1a>
 
-#### 《仁王2》
-
-夸克:<https://pan.quark.cn/s/4590a97fc596>
-
 #### 《13号星期五》
 
 夸克:<https://pan.quark.cn/s/a2290e13141c>
@@ -6023,14 +6021,6 @@
 #### 《暴力摩托》
 
 夸克:<https://pan.quark.cn/s/cac34ef8f989>
-
-#### 《仁王（Nioh）完全版》最新 全DLC 中文版
-
-夸克:<https://pan.quark.cn/s/2cdfc1e61167>
-
-#### 《仁王2（Nioh 2）完全版》最新 全DLC 中文 联机版
-
-夸克:<https://pan.quark.cn/s/ae406af46fdb>
 
 #### 《侠盗猎车手 圣安地列斯：》最终版（GTA San Andreas）重制版》最新 中文版
 
