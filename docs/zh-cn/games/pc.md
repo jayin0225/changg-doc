@@ -78,6 +78,37 @@
 
 夸克：https://pan.quark.cn/s/77eb9d116096
 
+#### 《剑星（Stellar Blade）完全版》最新 全DLC 中文配音版
+夸克：https://pan.quark.cn/s/d2ab1ccc9801
+
+#### 《猎人之首（Xenopurge）》最新 中文版
+
+夸克：https://pan.quark.cn/s/9a5f725c8ba5
+
+#### 《混音青春（Mixtape）》最新 中文版
+
+夸克：https://pan.quark.cn/s/e7f488a7c798
+
+#### 《深红誓言（Crimson Oath）》最新 中文版
+
+夸克：https://pan.quark.cn/s/cbae01413b80
+
+#### 《汪!巫!录!（DOG WITCH）》最新 中文版（汪巫录）
+
+夸克：https://pan.quark.cn/s/4703c60f4abb
+
+---
+
+## 最近更新
+
+#### 《猎人：荒野的召唤（theHunter Call of the Wild）》 Build.24022026 全DLC 豪华 中文 联机版
+
+夸克：https://pan.quark.cn/s/ba022991b6b8
+
+---
+
+## 已有游戏
+
 #### 《足球经理2022（Football Manager 2022）》 最新 豪华中文版 全DLC
 
 夸克：https://pan.quark.cn/s/ce74c78cbe0d
@@ -97,44 +128,6 @@
 #### 《浣熊推币机（RACCOIN Coin Pusher Roguelike）》最新 中文版
 
 夸克：https://pan.quark.cn/s/1072b767d49d
-
----
-
-## 最近更新
-
-#### 《风启之旅(Windrose)》 v0.10.0.3.104.256f9653 中文联机版
-
-夸克：https://pan.quark.cn/s/acea7ba4d903
-
-#### 《雾锁王国（Enshrouded）》 v999467 中文 联机版
-
-夸克：https://pan.quark.cn/s/06b34131248e
-
-#### 《天国拯救 系列合集（Kingdom Come Deliverance）》最新 全DLC 中文版
-
-夸克:<https://pan.quark.cn/s/a15186679cea>
-
-#### 《仁王3（Nioh 3）豪华版》v1.02.02 全DLC 中文版（新）
-#### 《仁王2（Nioh 2）完全版》v1.28.08 中文 联机版
-#### 《仁王（Nioh）完全版》v1.24.08 中文版
-
-夸克：https://pan.quark.cn/s/9dad8dce13d5
-
-#### 《龙之信条2（Dragons Dogma 2）》 v3.002.000 豪华中文版 全DLC 打包XG器
-
-夸克:<https://pan.quark.cn/s/137f9835b0e6>
-
-#### 《七龙珠：电光炸裂！ZERO》v2019.018.003.011.012 终极中文版 全DLC
-
-夸克：https://pan.quark.cn/s/3629ae024b31
-
-#### 《维多利亚3（victoria 3）》v1.13.0 全DLC 豪华中文版
-
-夸克：https://pan.quark.cn/s/efbed999f966
-
----
-
-## 已有游戏
 
 #### 《死亡搁浅 系列2部》最新 全DLC 中文版
 
