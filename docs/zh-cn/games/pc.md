@@ -78,6 +78,18 @@
 
 夸克：https://pan.quark.cn/s/77eb9d116096
 
+#### 《8020号指令（Directive 8020）》最新 中文版
+
+夸克：https://pan.quark.cn/s/171073fe6d41
+
+#### 《剑湾奇旅（SWORDHAVEN）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/d82951efa670
+
+#### 《拾光旅人（Outbound）》最新 全DLC 中文版（温馨的移动之家）
+
+夸克：https://pan.quark.cn/s/7468c0a2034d
+
 #### 《剑星（Stellar Blade）完全版》最新 全DLC 中文配音版
 夸克：https://pan.quark.cn/s/d2ab1ccc9801
 
