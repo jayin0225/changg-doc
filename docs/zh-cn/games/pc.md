@@ -82,6 +82,18 @@
 
 夸克：https://pan.quark.cn/s/171073fe6d41
 
+#### 《深海迷航 系列3部》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/a3742804a03a
+
+#### 《可怕的游戏2：疯狂的牧羊人（Scary Game 2 The Mad Shepherd）》最新 中文版
+
+夸克：https://pan.quark.cn/s/6580d933a0f0
+
+#### 《神来之笔：心之奇旅（The Perfect Pencil）》最新 中文版
+
+夸克：https://pan.quark.cn/s/d3faae077804
+
 #### 《剑湾奇旅（SWORDHAVEN）》最新 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/d82951efa670
