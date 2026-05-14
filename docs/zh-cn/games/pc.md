@@ -1743,10 +1743,6 @@
 
 夸克：<https://pan.quark.cn/s/16485ccbadc6>
 
-#### 《深海迷航（Subnautica）》最新  中文版
-
-夸克：<https://pan.quark.cn/s/189ddf4a0216>
-
 #### 《发霉的孩子（The Mildew Children）》最新 中文版
 
 夸克：<https://pan.quark.cn/s/473acad196c8>
@@ -1978,10 +1974,6 @@
 #### 《多重人生（The Alters）》 最新 中文版
 
 夸克：<https://pan.quark.cn/s/60a458e880bc>
-
-#### 《深海迷航（Subnautica）》 v16.05.2024  中文版
-
-夸克：<https://pan.quark.cn/s/18bbbfa4eb35>
 
 #### 《匹诺曹的谎言：序曲（Lies of P Overture）豪华版》最新 全DLC 中文版
 
