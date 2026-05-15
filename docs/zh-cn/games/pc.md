@@ -82,6 +82,10 @@
 
 夸克：https://pan.quark.cn/s/171073fe6d41
 
+#### 《原子陨落（Atomfall）》 最新 豪华中文版 全DLC
+
+夸克：https://pan.quark.cn/s/b44abcf3b1bb
+
 #### 《深海迷航 系列3部》最新 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/a3742804a03a
@@ -6577,7 +6581,7 @@
 
 #### 《太空引擎 SpaceEngine Pro》最新 全DLC 中文版
 
-夸克:<https://pan.quark.cn/s/5f6fbd036ec8>
+夸克:<https://pan.quark.cn/s/36e402de6f83>
 
 #### 《幸运勇者》v1.0 中文版
 
