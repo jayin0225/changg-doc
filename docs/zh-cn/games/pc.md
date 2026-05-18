@@ -68,11 +68,16 @@
 
 > 新添加的游戏,链接里面如果没有文件，就是在上传中，等待上传完毕就会显示。
 
-#### 《黑神话：悟空（Black Myth Wukong）豪华版》最新 中文版
+#### 《黑神话：悟空（Black Myth Wukong）豪华版》最新 中文版（夸克链接为非虚拟化版）
 
 夸克：https://pan.quark.cn/s/348484c67b3f
 
 百度：https://pan.baidu.com/s/1Y8AoDu5RVdfY1PehhYVMkA?pwd=cglt
+
+#### 《极限竞速：地平线6（Forza Horizon 6）》v354.221 全DLC 中文 联机版
+#### 《极限竞速：地平线5（Forza Horizon 5）顶级版》v1.688.044 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/f166b0cc47b6
 
 #### 《红色沙漠（Crimson Desert）》 最新 豪华中文版 全DLC 打包XG器
 
@@ -81,6 +86,18 @@
 #### 《8020号指令（Directive 8020）》最新 中文版
 
 夸克：https://pan.quark.cn/s/171073fe6d41
+
+#### 《云族裔（inZOI）》最新 中文版（韩版模拟人生）
+
+夸克：https://pan.quark.cn/s/fd972c5e2fcb
+
+#### 《鸭鸭侦探 1+2部（Duck Detective）》最新 中文版（鸭子侦探 温馨解密）
+
+夸克：https://pan.quark.cn/s/f7f1ac44edfc
+
+#### 《铣削机模拟器（Milling machine 3D）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/6a302b24df97
 
 #### 《原子陨落（Atomfall）》 最新 豪华中文版 全DLC
 
@@ -1563,7 +1580,7 @@
 
 夸克：<https://pan.quark.cn/s/0933fdaf5e7e>
 
-#### 《极限竞速：地平线5（Forza Horizon 5）高级版》最新 全DLC 中文 联机版
+#### 《极限竞速：地平线 系列合集》最新 全DLC 中文 联机版
 
 夸克：<https://pan.quark.cn/s/f166b0cc47b6>
 
