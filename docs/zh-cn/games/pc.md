@@ -87,6 +87,14 @@
 
 夸克：https://pan.quark.cn/s/171073fe6d41
 
+#### 《男神模拟器（Mr Right Simulator）》最新 中文版（真人互动影游）
+
+夸克：https://pan.quark.cn/s/3b66cea1610e
+
+#### 《识质存在（PRAGMATA）豪华版》最新 全DLC 中文版（非虚拟化版本）
+
+夸克：https://pan.quark.cn/s/85114db31441
+
 #### 《云族裔（inZOI）》最新 中文版（韩版模拟人生）
 
 夸克：https://pan.quark.cn/s/fd972c5e2fcb
@@ -106,6 +114,26 @@
 #### 《深海迷航 系列3部》最新 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/a3742804a03a
+
+---
+
+## 最近更新
+
+#### 《欧陆风云5（Europa Universalis V）高级版》v1.2.4 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/4f53d42546af
+
+#### 《美国卡车模拟（American Truck Simulator）高级版》v1.59.2.0s 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/7383cec056c4
+
+#### 《猎人：荒野的召唤（theHunter Call of the Wild）》 Build.24022026 全DLC 豪华 中文 联机版
+
+夸克：https://pan.quark.cn/s/ba022991b6b8
+
+---
+
+## 已有游戏
 
 #### 《可怕的游戏2：疯狂的牧羊人（Scary Game 2 The Mad Shepherd）》最新 中文版
 
@@ -141,18 +169,6 @@
 #### 《汪!巫!录!（DOG WITCH）》最新 中文版（汪巫录）
 
 夸克：https://pan.quark.cn/s/4703c60f4abb
-
----
-
-## 最近更新
-
-#### 《猎人：荒野的召唤（theHunter Call of the Wild）》 Build.24022026 全DLC 豪华 中文 联机版
-
-夸克：https://pan.quark.cn/s/ba022991b6b8
-
----
-
-## 已有游戏
 
 #### 《足球经理2022（Football Manager 2022）》 最新 豪华中文版 全DLC
 
@@ -213,10 +229,6 @@
 #### 《建筑模拟器2015（Construction Simulator 2015）》最新 全DLC 豪华 汉化版
 
 夸克：https://pan.quark.cn/s/695f6396a767
-
-#### 《识质存在（PRAGMATA）》 豪华中文版
-
-夸克：https://pan.quark.cn/s/48773a64c96d
 
 #### 《风启之旅(Windrose)》 最新 中文联机版
 
@@ -924,7 +936,7 @@
 
 夸克：https://pan.quark.cn/s/fa03c1b226be
 
-#### 《欧陆风云5（Europa Universalis V）高级版》v1.0.3 全DLC 中文 联机版
+#### 《欧陆风云5（Europa Universalis V）高级版》最新 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/4f53d42546af
 
