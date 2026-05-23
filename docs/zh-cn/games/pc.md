@@ -87,6 +87,14 @@
 
 夸克：https://pan.quark.cn/s/171073fe6d41
 
+#### 《四海兄弟：故乡（Mafia The Old Country）豪华版》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/464599d8c237
+
+#### 《小小书店（Tiny Bookshop）》最新 中文版（模拟经营）
+
+夸克：https://pan.quark.cn/s/ab086ebea9ab
+
 #### 《男神模拟器（Mr Right Simulator）》最新 中文版（真人互动影游）
 
 夸克：https://pan.quark.cn/s/3b66cea1610e
