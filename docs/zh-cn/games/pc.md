@@ -87,6 +87,18 @@
 
 夸克：https://pan.quark.cn/s/171073fe6d41
 
+#### 《007初露锋芒（007 First Light）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/0fc7e67142f4
+
+#### 《战锤40K：机械神教2（Warhammer 40000 Mechanicus 2）》最新 中文版
+
+夸克：https://pan.quark.cn/s/cd9145977493
+
+#### 《战锤40K：星际战士2（Warhammer 40000 Space Marine 2）终极版》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/ef3b2a16a7a0
+
 #### 《四海兄弟：故乡（Mafia The Old Country）豪华版》最新 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/464599d8c237
