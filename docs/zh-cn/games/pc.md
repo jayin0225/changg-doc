@@ -87,6 +87,18 @@
 
 夸克：https://pan.quark.cn/s/171073fe6d41
 
+#### 《1348：圣誓（1348 Ex Voto）》最新 中文版
+
+夸克：https://pan.quark.cn/s/4d6eca6a84d1
+
+#### 《地下城4（Dungeons 4）豪华版》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/4f1b15812187
+
+#### 《欢迎光临（Beastro）》最新 中文版
+
+夸克：https://pan.quark.cn/s/3d529600877a
+
 #### 《007初露锋芒（007 First Light）》最新 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/0fc7e67142f4
@@ -138,6 +150,10 @@
 ---
 
 ## 最近更新
+
+#### 《缺氧（Oxygen）》最新 全DLC 豪华中文 联机版
+
+夸克：https://pan.quark.cn/s/1373b58f11c7
 
 #### 《欧陆风云5（Europa Universalis V）高级版》v1.2.4 全DLC 中文 联机版
 
