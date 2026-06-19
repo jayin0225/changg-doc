@@ -74,7 +74,7 @@
 
 百度：https://pan.baidu.com/s/1Y8AoDu5RVdfY1PehhYVMkA?pwd=cglt
 
-#### 《极限竞速：地平线6（Forza Horizon 6）》v354.221 全DLC 中文 联机版
+#### 《极限竞速：地平线6（Forza Horizon 6）》v375.327 全DLC 中文 联机版
 #### 《极限竞速：地平线5（Forza Horizon 5）顶级版》v1.688.044 全DLC 中文 联机版
 
 夸克：https://pan.quark.cn/s/f166b0cc47b6
@@ -86,6 +86,22 @@
 #### 《8020号指令（Directive 8020）》最新 中文版
 
 夸克：https://pan.quark.cn/s/171073fe6d41
+
+#### 《全职猎人（HUNTER×HUNTER NEN×IMPACT）豪华版》最新 全DLC 中文 联机版（格斗游戏）
+
+夸克：https://pan.quark.cn/s/83165e957f83
+
+#### 《超级变色龙（MECCHA CHAMELEON）》最新 中文 联机版
+
+夸克：https://pan.quark.cn/s/ae6221b1907e
+
+#### 《先祖：人类奥德赛（Ancestors The Humankind Odyssey）》最新 中文版
+
+夸克：https://pan.quark.cn/s/f0e67384d8f5
+
+#### 《DrainSim》最新 中文版（排水模拟器）
+
+夸克：https://pan.quark.cn/s/9941da9646e4
 
 #### 《1348：圣誓（1348 Ex Voto）》最新 中文版
 
@@ -150,6 +166,10 @@
 ---
 
 ## 最近更新
+
+#### 《潜水员戴夫》最新 豪华中文版 全DLC 打包XG器
+
+夸克：https://pan.quark.cn/s/ab3b9d10bd63
 
 #### 《缺氧（Oxygen）》最新 全DLC 豪华中文 联机版
 
