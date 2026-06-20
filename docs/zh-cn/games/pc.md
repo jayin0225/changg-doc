@@ -87,6 +87,10 @@
 
 夸克：https://pan.quark.cn/s/171073fe6d41
 
+#### 《NBA 2K20 + NBA 2K21 + NBA 2K22+NBA 2K23》最新 中文版
+
+夸克：https://pan.quark.cn/s/7da5040987af
+
 #### 《全职猎人（HUNTER×HUNTER NEN×IMPACT）豪华版》最新 全DLC 中文 联机版（格斗游戏）
 
 夸克：https://pan.quark.cn/s/83165e957f83
