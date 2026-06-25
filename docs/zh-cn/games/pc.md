@@ -79,6 +79,23 @@
 
 夸克：https://pan.quark.cn/s/f166b0cc47b6
 
+#### 《女王的游戏：盛世天下 媚娘篇（Road to Empress）》最新 全DLC 中文版（真人互动影游）
+
+夸克：https://pan.quark.cn/s/b284d2a276b2
+
+---
+
+## 最近更新
+
+#### 《冰汽时代（Frostpunk）年度版》v1.6.1 全DLC 中文版
+#### 《冰汽时代2（Frostpunk 2）豪华版》v1.6.0 全DLC 豪华中文版
+
+夸克：https://pan.quark.cn/s/a1ddd0967825
+
+---
+
+## 已有游戏
+
 #### 《红色沙漠（Crimson Desert）》 最新 豪华中文版 全DLC 打包XG器
 
 夸克：https://pan.quark.cn/s/77eb9d116096
@@ -166,34 +183,6 @@
 #### 《深海迷航 系列3部》最新 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/a3742804a03a
-
----
-
-## 最近更新
-
-#### 《潜水员戴夫》最新 豪华中文版 全DLC 打包XG器
-
-夸克：https://pan.quark.cn/s/ab3b9d10bd63
-
-#### 《缺氧（Oxygen）》最新 全DLC 豪华中文 联机版
-
-夸克：https://pan.quark.cn/s/1373b58f11c7
-
-#### 《欧陆风云5（Europa Universalis V）高级版》v1.2.4 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/4f53d42546af
-
-#### 《美国卡车模拟（American Truck Simulator）高级版》v1.59.2.0s 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/7383cec056c4
-
-#### 《猎人：荒野的召唤（theHunter Call of the Wild）》 Build.24022026 全DLC 豪华 中文 联机版
-
-夸克：https://pan.quark.cn/s/ba022991b6b8
-
----
-
-## 已有游戏
 
 #### 《可怕的游戏2：疯狂的牧羊人（Scary Game 2 The Mad Shepherd）》最新 中文版
 
