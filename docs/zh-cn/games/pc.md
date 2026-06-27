@@ -83,9 +83,17 @@
 
 夸克：https://pan.quark.cn/s/b284d2a276b2
 
+#### 《图书管理员：整理魔法图书馆吧！（Librarian Tidy Up the Arcane Library!）》最新 中文版
+
+夸克：https://pan.quark.cn/s/195d52c4fa3e
+
 ---
 
 ## 最近更新
+
+#### 《霍格沃茨之遗（Hogwarts Legacy）豪华版》v1613387 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/2619f139c72c
 
 #### 《冰汽时代（Frostpunk）年度版》v1.6.1 全DLC 中文版
 #### 《冰汽时代2（Frostpunk 2）豪华版》v1.6.0 全DLC 豪华中文版
@@ -1121,7 +1129,7 @@
 
 夸克：https://pan.quark.cn/s/3e74c6b3e0ff
 
-#### 《哈利波特霍格沃兹遗产（Hogwarts Legacy）》最新 中文版 全DLC 附XG器
+#### 《霍格沃茨之遗（Hogwarts Legacy）豪华版》最新 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/2619f139c72c
 
