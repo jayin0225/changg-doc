@@ -83,6 +83,22 @@
 
 夸克：https://pan.quark.cn/s/b284d2a276b2
 
+#### 《黑相集：8020号指令（Directive 8020）豪华版》v2026.6.3 中文版（电影叙事恐怖游戏系列）
+#### 《黑相集：心中魔（The Dark Pictures Anthology The Devil in Me）》Build.11855829 全DLC 中文版
+#### 《黑相集：灰冥界（The Dark Pictures Anthology House of Ashes）》Build.8603627 全DLC 中文版
+#### 《黑相集：稀望镇（The Dark Pictures Anthology Little Hope）》Build.11200128 全DLC 中文版
+#### 《黑相集：棉兰号（The Dark Pictures Anthology Man of Medan）》Build.10739751 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/f2632421693a
+
+#### 《兰岛物语：少女的约定（Dockside.Dreams.Fish.and.Cook.Simulator）》（海鲜店模拟器）中文版
+
+夸克：https://pan.quark.cn/s/1fc9362f8904
+
+#### 《混乱超市整理模拟器（Supermarket Chaos）》最新 中文版（治愈系整理模拟游戏）」
+
+夸克：https://pan.quark.cn/s/243708e2c078
+
 #### 《房车还在那里（RV There Yet）》最新 英文 联机版
 
 夸克：https://pan.quark.cn/s/b1c71f783af7
@@ -94,6 +110,14 @@
 ---
 
 ## 最近更新
+
+#### 《光与影 33号远征队（Clair Obscur Expedition 33）》v68322 豪华 中文版
+
+夸克：https://pan.quark.cn/s/2d88dc6722a3
+
+#### 《钢铁雄心4（Hearts of Iron IV）终结版》v1.19.2.0 全DLC 中文联机版
+
+夸克：https://pan.quark.cn/s/39b64d75d4fc
 
 #### 《霍格沃茨之遗（Hogwarts Legacy）豪华版》v1613387 全DLC 中文版
 
