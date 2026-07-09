@@ -91,6 +91,30 @@
 
 夸克：https://pan.quark.cn/s/f2632421693a
 
+#### 《翌日-鬼字之屋(Tsugunohi -The Chamber of Phantom Name)》Build 18150324
+
+夸克：https://pan.quark.cn/s/2f2146c4b4f9
+
+#### 《刺客信条：黑旗 记忆重置（Assassins Creed Black Flag Resynced）豪华版》最新 中文版（虚拟化版）
+
+夸克：https://pan.quark.cn/s/a7a08db6fcb1
+
+#### 《原子之心（Atomic Heart）》最新 全DLC 中文配音版
+
+夸克：https://pan.quark.cn/s/c398cdd88590
+
+#### 《终结者2D：NO FATE（Terminator 2D No Fate）》最新 中文版
+
+夸克：https://pan.quark.cn/s/68bdbf7122e0
+
+#### 《小小模拟世界（Little Sim World）》最新 中文版
+
+夸克：https://pan.quark.cn/s/5bb1028a0b6e
+
+#### 《裁缝模拟器（Tailor Simulator）》最新 中文版
+
+夸克：https://pan.quark.cn/s/453afb193d13
+
 #### 《兰岛物语：少女的约定（Dockside.Dreams.Fish.and.Cook.Simulator）》（海鲜店模拟器）中文版
 
 夸克：https://pan.quark.cn/s/1fc9362f8904
@@ -110,6 +134,10 @@
 ---
 
 ## 最近更新
+
+#### 《逃离鸭科夫（Escape From Duckov）》最新 中文版
+
+夸克：https://pan.quark.cn/s/e9c40d701e82
 
 #### 《光与影 33号远征队（Clair Obscur Expedition 33）》v68322 豪华 中文版
 
