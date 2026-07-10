@@ -83,6 +83,10 @@
 
 夸克：https://pan.quark.cn/s/b284d2a276b2
 
+#### 《数码宝贝物语 时空异客（Digimon Story Time Stranger）终极版》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/d40e9bc370d9
+
 #### 《黑相集：8020号指令（Directive 8020）豪华版》v2026.6.3 中文版（电影叙事恐怖游戏系列）
 #### 《黑相集：心中魔（The Dark Pictures Anthology The Devil in Me）》Build.11855829 全DLC 中文版
 #### 《黑相集：灰冥界（The Dark Pictures Anthology House of Ashes）》Build.8603627 全DLC 中文版
@@ -115,25 +119,13 @@
 
 夸克：https://pan.quark.cn/s/453afb193d13
 
-#### 《兰岛物语：少女的约定（Dockside.Dreams.Fish.and.Cook.Simulator）》（海鲜店模拟器）中文版
-
-夸克：https://pan.quark.cn/s/1fc9362f8904
-
-#### 《混乱超市整理模拟器（Supermarket Chaos）》最新 中文版（治愈系整理模拟游戏）」
-
-夸克：https://pan.quark.cn/s/243708e2c078
-
-#### 《房车还在那里（RV There Yet）》最新 英文 联机版
-
-夸克：https://pan.quark.cn/s/b1c71f783af7
-
-#### 《图书管理员：整理魔法图书馆吧！（Librarian Tidy Up the Arcane Library!）》最新 中文版
-
-夸克：https://pan.quark.cn/s/195d52c4fa3e
-
 ---
 
 ## 最近更新
+
+#### 《幻兽帕鲁（Palworld）》v1.0.0.100427 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/0ca1b61bb4c6
 
 #### 《逃离鸭科夫（Escape From Duckov）》最新 中文版
 
@@ -159,6 +151,22 @@
 ---
 
 ## 已有游戏
+
+#### 《兰岛物语：少女的约定（Dockside.Dreams.Fish.and.Cook.Simulator）》（海鲜店模拟器）中文版
+
+夸克：https://pan.quark.cn/s/1fc9362f8904
+
+#### 《混乱超市整理模拟器（Supermarket Chaos）》最新 中文版（治愈系整理模拟游戏）」
+
+夸克：https://pan.quark.cn/s/243708e2c078
+
+#### 《房车还在那里（RV There Yet）》最新 英文 联机版
+
+夸克：https://pan.quark.cn/s/b1c71f783af7
+
+#### 《图书管理员：整理魔法图书馆吧！（Librarian Tidy Up the Arcane Library!）》最新 中文版
+
+夸克：https://pan.quark.cn/s/195d52c4fa3e
 
 #### 《红色沙漠（Crimson Desert）》 最新 豪华中文版 全DLC 打包XG器
 
