@@ -83,6 +83,14 @@
 
 夸克：https://pan.quark.cn/s/b284d2a276b2
 
+#### 《码头之梦：捕鱼与烹饪模拟器(Dockside Dreams Fish and Cook Simulator)》 Build.20902521
+
+夸克：https://pan.quark.cn/s/7d84d25cee4f
+
+#### 《我的车库（My Garage）》 Build 23523569
+
+夸克：https://pan.quark.cn/s/cb82dc760637
+
 #### 《数码宝贝物语 时空异客（Digimon Story Time Stranger）终极版》最新 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/d40e9bc370d9
