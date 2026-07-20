@@ -83,6 +83,59 @@
 
 夸克：https://pan.quark.cn/s/b284d2a276b2
 
+#### 《刺客信条 影（Assassins Creed Shadows）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/ba2b1908a5eb
+
+#### 《后室一起逃脱（Backrooms Escape Together）》最新 中文 联机版
+
+夸克：https://pan.quark.cn/s/250cd8f2c61b
+
+#### 《逃离后室（Escape the backrooms）》最新 中文 联机版
+
+夸克：https://pan.quark.cn/s/0e7a52d6eb33
+
+#### 《背包地牢（Backpack Dungeon）》最新 中文版
+
+夸克：https://pan.quark.cn/s/c28b2353f5a3
+
+#### 《电竞经理2026（Esports Manager 2026）》最新 中文版
+
+夸克：https://pan.quark.cn/s/0c4473ea79dd
+
+---
+
+## 最近更新
+
+#### 《幻兽帕鲁（Palworld）》v1.0.1.100619 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/0ca1b61bb4c6
+
+#### 《逃离鸭科夫（Escape From Duckov）》最新 中文版
+
+夸克：https://pan.quark.cn/s/e9c40d701e82
+
+#### 《光与影 33号远征队（Clair Obscur Expedition 33）》v68322 豪华 中文版
+
+夸克：https://pan.quark.cn/s/2d88dc6722a3
+
+#### 《钢铁雄心4（Hearts of Iron IV）终结版》v1.19.2.0 全DLC 中文联机版
+
+夸克：https://pan.quark.cn/s/39b64d75d4fc
+
+#### 《霍格沃茨之遗（Hogwarts Legacy）豪华版》v1613387 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/2619f139c72c
+
+#### 《冰汽时代（Frostpunk）年度版》v1.6.1 全DLC 中文版
+#### 《冰汽时代2（Frostpunk 2）豪华版》v1.6.0 全DLC 豪华中文版
+
+夸克：https://pan.quark.cn/s/a1ddd0967825
+
+---
+
+## 已有游戏
+
 #### 《码头之梦：捕鱼与烹饪模拟器(Dockside Dreams Fish and Cook Simulator)》 Build.20902521
 
 夸克：https://pan.quark.cn/s/7d84d25cee4f
@@ -126,39 +179,6 @@
 #### 《裁缝模拟器（Tailor Simulator）》最新 中文版
 
 夸克：https://pan.quark.cn/s/453afb193d13
-
----
-
-## 最近更新
-
-#### 《幻兽帕鲁（Palworld）》v1.0.0.100427 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/0ca1b61bb4c6
-
-#### 《逃离鸭科夫（Escape From Duckov）》最新 中文版
-
-夸克：https://pan.quark.cn/s/e9c40d701e82
-
-#### 《光与影 33号远征队（Clair Obscur Expedition 33）》v68322 豪华 中文版
-
-夸克：https://pan.quark.cn/s/2d88dc6722a3
-
-#### 《钢铁雄心4（Hearts of Iron IV）终结版》v1.19.2.0 全DLC 中文联机版
-
-夸克：https://pan.quark.cn/s/39b64d75d4fc
-
-#### 《霍格沃茨之遗（Hogwarts Legacy）豪华版》v1613387 全DLC 中文版
-
-夸克：https://pan.quark.cn/s/2619f139c72c
-
-#### 《冰汽时代（Frostpunk）年度版》v1.6.1 全DLC 中文版
-#### 《冰汽时代2（Frostpunk 2）豪华版》v1.6.0 全DLC 豪华中文版
-
-夸克：https://pan.quark.cn/s/a1ddd0967825
-
----
-
-## 已有游戏
 
 #### 《兰岛物语：少女的约定（Dockside.Dreams.Fish.and.Cook.Simulator）》（海鲜店模拟器）中文版
 
