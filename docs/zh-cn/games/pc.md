@@ -87,6 +87,15 @@
 
 夸克：https://pan.quark.cn/s/d0857d7c186c
 
+#### 《生化危机 系列合集 12部》最新 黄金版 + 重制版 全DLC 中文版
+#### 《生化危机9 安魂曲（Resident Evil Requiem）豪华版》最新 全DLC 中文配音版
+
+夸克：https://pan.quark.cn/s/98ea2f61e209
+
+#### 《欧洲卡车模拟器（Euro Truck Simulator）》 v1.3
+
+夸克：https://pan.quark.cn/s/875f21c337c2
+
 #### 《后室一起逃脱（Backrooms Escape Together）》最新 中文 联机版
 
 夸克：https://pan.quark.cn/s/250cd8f2c61b
@@ -106,6 +115,14 @@
 ---
 
 ## 最近更新
+
+#### 《缺氧（Oxygen）》U59-740622 全DLC 豪华中文 联机版
+
+夸克：https://pan.quark.cn/s/1373b58f11c7
+
+#### 《艾尔登法环》v1.16.2  全DLC+奖励内容 豪华中文版 附联机补丁
+
+夸克：https://pan.quark.cn/s/046219fba047
 
 #### 《幻兽帕鲁（Palworld）》v1.0.1.100619 全DLC 中文 联机版
 
