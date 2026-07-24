@@ -83,6 +83,14 @@
 
 夸克：https://pan.quark.cn/s/b284d2a276b2
 
+#### 《怪物猎人：荒野（MonsterHunterWilds）》 v1.041.02.00 豪华中文版 全DLC 打包XG器
+
+夸克：https://pan.quark.cn/s/128a3cdc24d5
+
+#### 《主角(Protagonist)》v2.6.6 中文版
+
+夸克：https://pan.quark.cn/s/29f51f6025fb
+
 #### 《刺客信条 影（Assassins Creed Shadows）》最新 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/d0857d7c186c
