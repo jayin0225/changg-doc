@@ -87,6 +87,14 @@
 
 夸克：https://pan.quark.cn/s/128a3cdc24d5
 
+#### 《东北往事(East North Story)》 v1.01 中文版
+
+夸克：https://pan.quark.cn/s/a23756dd082b
+
+#### 《监寓（Cellveillance）》 v0.0.3 中文版
+
+夸克：https://pan.quark.cn/s/0ab6b10a1ef0
+
 #### 《主角(Protagonist)》v2.6.6 中文版
 
 夸克：https://pan.quark.cn/s/29f51f6025fb
