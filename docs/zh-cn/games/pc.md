@@ -87,6 +87,10 @@
 
 夸克：https://pan.quark.cn/s/128a3cdc24d5
 
+#### 《第一狂战士：卡赞（The First Berserker Khazan）豪华版》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/893a75484110
+
 #### 《东北往事(East North Story)》 v1.01 中文版
 
 夸克：https://pan.quark.cn/s/a23756dd082b
