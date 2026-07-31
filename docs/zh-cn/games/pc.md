@@ -83,6 +83,10 @@
 
 夸克：https://pan.quark.cn/s/b284d2a276b2
 
+#### 《光环 战役进化（Halo Campaign Evolved）高级版》最新 中文版
+
+夸克：https://pan.quark.cn/s/30ae697dc0c7
+
 #### 《怪物猎人：荒野（MonsterHunterWilds）》 v1.041.02.00 豪华中文版 全DLC 打包XG器
 
 夸克：https://pan.quark.cn/s/128a3cdc24d5
