@@ -144,6 +144,10 @@
 
 ## 最近更新
 
+#### 《幻兽帕鲁（Palworld）》v1.0.2.100993 全DLC 中文 联机版
+
+夸克：https://pan.quark.cn/s/0ca1b61bb4c6
+
 #### 《缺氧（Oxygen）》U59-740622 全DLC 豪华中文 联机版
 
 夸克：https://pan.quark.cn/s/1373b58f11c7
@@ -151,10 +155,6 @@
 #### 《艾尔登法环》v1.16.2  全DLC+奖励内容 豪华中文版 附联机补丁
 
 夸克：https://pan.quark.cn/s/046219fba047
-
-#### 《幻兽帕鲁（Palworld）》v1.0.1.100619 全DLC 中文 联机版
-
-夸克：https://pan.quark.cn/s/0ca1b61bb4c6
 
 #### 《逃离鸭科夫（Escape From Duckov）》最新 中文版
 
