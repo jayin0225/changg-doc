@@ -83,6 +83,10 @@
 
 夸克：https://pan.quark.cn/s/b284d2a276b2
 
+#### 《勇者斗恶龙7：重制版（DRAGON QUEST VII Reimagined）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/018156e07aeb
+
 #### 《光环 战役进化（Halo Campaign Evolved）高级版》最新 中文版
 
 夸克：https://pan.quark.cn/s/30ae697dc0c7
