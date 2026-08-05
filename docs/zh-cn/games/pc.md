@@ -83,6 +83,10 @@
 
 夸克：https://pan.quark.cn/s/b284d2a276b2
 
+#### 《静谧田园（Village in the Shade）》v1.03 中文版
+
+夸克：https://pan.quark.cn/s/2c9266934b24
+
 #### 《勇者斗恶龙7：重制版（DRAGON QUEST VII Reimagined）》最新 全DLC 中文版
 
 夸克：https://pan.quark.cn/s/018156e07aeb
