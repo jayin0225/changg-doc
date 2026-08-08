@@ -83,6 +83,18 @@
 
 夸克：https://pan.quark.cn/s/b284d2a276b2
 
+#### 《活力小镇（Go Go Town）》v1.0.25831 中文版
+
+夸克：https://pan.quark.cn/s/302d6fd76bec
+
+#### 《酒馆带老板（Tavern Keeper）》最新 中文版
+
+夸克：https://pan.quark.cn/s/3632b601e0d6
+
+#### 《轮回之兽（Beast of Reincarnation）豪华版》最新 中文版
+
+夸克：https://pan.quark.cn/s/455770175341
+
 #### 《静谧田园（Village in the Shade）》v1.03 中文版
 
 夸克：https://pan.quark.cn/s/2c9266934b24
