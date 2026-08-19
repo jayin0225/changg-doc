@@ -83,6 +83,18 @@
 
 夸克：https://pan.quark.cn/s/b284d2a276b2
 
+#### 《刺客信条：黑旗 记忆重置（Assassins Creed Black Flag Resynced）豪华版》最新 中文版
+
+夸克：https://pan.quark.cn/s/a7a08db6fcb1
+
+#### 《刺客信条 起源（Assassins Creed Origins）》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/8d65cfb8d29c
+
+#### 《阿凡达：潘多拉边境（Avatar Frontiers of Pandora）完整版》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/be597e4a5afa
+
 #### 《活力小镇（Go Go Town）》v1.0.25831 中文版
 
 夸克：https://pan.quark.cn/s/302d6fd76bec
@@ -159,6 +171,10 @@
 ---
 
 ## 最近更新
+
+#### 《太空引擎 SpaceEngine Pro》最新 全DLC 中文版
+
+夸克：https://pan.quark.cn/s/36e402de6f83
 
 #### 《幻兽帕鲁（Palworld）》v1.0.2.100993 全DLC 中文 联机版
 
