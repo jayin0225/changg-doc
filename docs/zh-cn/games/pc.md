@@ -83,6 +83,10 @@
 
 夸克：https://pan.quark.cn/s/b284d2a276b2
 
+#### 《王之凝视（The King is Watching）》最新 全DLC 中文版（塔防游戏）
+
+夸克：https://pan.quark.cn/s/6e6ab0dfdffb
+
 #### 《刺客信条：黑旗 记忆重置（Assassins Creed Black Flag Resynced）豪华版》最新 中文版
 
 夸克：https://pan.quark.cn/s/a7a08db6fcb1
