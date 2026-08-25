@@ -87,6 +87,10 @@
 
 夸克：https://pan.quark.cn/s/6e6ab0dfdffb
 
+#### 《小猫钓鱼（Cat Goes Fishing）》最新 英文版
+
+夸克：https://pan.quark.cn/s/f153932dcfaf
+
 #### 《刺客信条：黑旗 记忆重置（Assassins Creed Black Flag Resynced）豪华版》最新 中文版
 
 夸克：https://pan.quark.cn/s/a7a08db6fcb1
