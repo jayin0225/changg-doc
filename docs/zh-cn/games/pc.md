@@ -83,6 +83,18 @@
 
 夸克：https://pan.quark.cn/s/b284d2a276b2
 
+#### 《塞尔达传说：时之笛 重制版（The Legend of Zelda Ocarina of Time Remake）》最新 中文版（PC原生移植）
+
+夸克：https://pan.quark.cn/s/bd66de3c0298
+
+#### 《角斗领主（Dominus Gladiatus）》最新  中文版
+
+夸克：https://pan.quark.cn/s/6206cc4e9a03
+
+#### 《深空当铺：可能是偷的（Probably Stolen - Cyberpunk Pawnshop Simulator）》最新 中文版
+
+夸克：https://pan.quark.cn/s/ba10eb854fdb
+
 #### 《王之凝视（The King is Watching）》最新 全DLC 中文版（塔防游戏）
 
 夸克：https://pan.quark.cn/s/6e6ab0dfdffb
