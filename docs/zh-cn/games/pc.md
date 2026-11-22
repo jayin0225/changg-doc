@@ -83,6 +83,10 @@
 
 夸克：https://pan.quark.cn/s/b284d2a276b2
 
+#### 《奥伯拉丁的回归（Return of the Obra Dinn）》最新 中文版
+
+夸克：https://pan.quark.cn/s/e0ba3220fd21
+
 #### 《孤胆枪手（Alien Shooter）》 v1.2
 
 夸克：https://pan.quark.cn/s/ae7eab19e650
