@@ -83,6 +83,14 @@
 
 夸克：https://pan.quark.cn/s/b284d2a276b2
 
+#### 《银松镇（Silver Pines）》最新 中文版
+
+夸克：https://pan.quark.cn/s/70ca7ad839f7
+
+#### 《沉星之序（Order of the Sinking Star）》最新 中文版
+
+夸克：https://pan.quark.cn/s/954b39fed790
+
 #### 《奥伯拉丁的回归（Return of the Obra Dinn）》最新 中文版
 
 夸克：https://pan.quark.cn/s/e0ba3220fd21
