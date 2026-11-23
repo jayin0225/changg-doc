@@ -83,6 +83,10 @@
 
 夸克：https://pan.quark.cn/s/b284d2a276b2
 
+#### 《超级鸡马（Ultimate Chicken Horse）》最新 中文 联机版
+
+夸克：https://pan.quark.cn/s/aa581c0aa40c
+
 #### 《银松镇（Silver Pines）》最新 中文版
 
 夸克：https://pan.quark.cn/s/70ca7ad839f7
