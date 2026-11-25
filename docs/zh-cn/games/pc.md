@@ -83,6 +83,10 @@
 
 夸克：https://pan.quark.cn/s/b284d2a276b2
 
+#### 《拳皇13：全球对决（THE KING OF FIGHTERS XIII GLOBAL MATCH）》最新 中文版
+
+夸克：https://pan.quark.cn/s/256b77c14cac
+
 #### 《超级鸡马（Ultimate Chicken Horse）》最新 中文 联机版
 
 夸克：https://pan.quark.cn/s/aa581c0aa40c
